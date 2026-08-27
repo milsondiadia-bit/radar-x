@@ -1,6 +1,23 @@
 {
-  "posts": {},
+  "posts": {
+    "2093013172051406887": {
+      "autor": "NewsLiberdade",
+      "texto": "🚨AGORA - Manoel Gomes explica, em suas redes sócias, o que faz um deputado federal https://t.co/WDqY6WMJdE",
+      "url": "https://x.com/NewsLiberdade/status/2093013172051406887",
+      "criado": "2026-08-27T16:30:01+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093013019538387413": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸 Roughly 12 hours after the Parton family announced her death, CNN ran an image of Kelly Vohnn, a 58-year-old Las Vegas tribute performer who has portrayed Parton for years. The shot was taken last December on a red carpet in Vegas. Vohnn found out when friends started texting her. She says she has never once presented herself as Parton, and that the network simply didn't check. CNN told the New...",
+      "url": "https://x.com/MarioNawfal/status/2093013019538387413",
+      "criado": "2026-08-27T16:29:24+00:00",
+      "medicoes": {},
+      "alertado": false
+    }
+  },
   "baseline": {},
-  "ultima_busca": "2026-08-27T16:28:29+00:00",
+  "ultima_busca": "2026-08-27T16:30:15+00:00",
   "alertas_enviados": 0
 }
