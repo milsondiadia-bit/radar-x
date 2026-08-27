@@ -1,0 +1,25 @@
+{
+  "perfis": [
+    "MarioNawfal",
+    "Osint613",
+    "clashreport",
+    "nexta_tv",
+    "NewsLiberdade",
+    "MachadoDarlon"
+  ],
+
+  "multiplicador_padrao": 3.0,
+
+  "multiplicador_por_perfil": {
+    "MarioNawfal": 4.0
+  },
+
+  "checkpoints_minutos": [60, 120, 180, 240, 360],
+
+  "amostras_minimas": 8,
+
+  "ignorar_respostas": true,
+  "ignorar_retweets": true,
+
+  "tamanho_texto_alerta": 220
+}
