@@ -139,8 +139,8 @@ def buscar_novos(perfis, desde_iso, max_paginas=4):
 def atualizar_views(ids):
     """Batch lookup: ate 100 ids por chamada."""
     resultado = {}
-    for i in range(0, len(ids), 100):
-        bloco = ids[i:i + 100]
+    for i in range(0, len(ids), 50):
+        bloco = ids[i:i + 50]
         dados = api_get("/twitter/tweets", {"tweet_ids": ",".join(bloco)})
         if not dados:
             continue
