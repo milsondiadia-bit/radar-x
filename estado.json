@@ -13,7 +13,9 @@
       "texto": "🥰🥹🧓 Seu Mauro tem 89 anos e faz questão de preparar e vender seus doces artesanais todos os dias na calçada. Vendo a dedicação dele, a empreendedora @andre_emprende organizou uma surpresa inesquecível: chamou dezenas de jovens que fizeram uma fila gigante para comprar absolutamente tudo! A emoção no olhar do Seu Mauro ao receber tanto carinho diz tudo. Que possamos sempre valorizar e acolher os no...",
       "url": "https://x.com/MachadoDarlon/status/2093340334717591993",
       "criado": "2026-08-28T14:10:02+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 928
+      },
       "alertado": false
     },
     "2093340324667986368": {
@@ -21,7 +23,9 @@
       "texto": "🇨🇳🇺🇸 China really does sit on the choke point for the metals inside U.S. missiles and jets. Beijing controls about 60% of rare earth mining and more than 90% of the refining that turns those minerals into magnets. That is the stuff inside F-35s, destroyers, radars, and interceptors like the Patriot. Washington think tank CSIS now says the U.S. has already used up about 65% of its prewar Patriot st...",
       "url": "https://x.com/MarioNawfal/status/2093340324667986368",
       "criado": "2026-08-28T14:10:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 22914
+      },
       "alertado": false
     },
     "2093339167556055460": {
@@ -370,7 +374,8 @@
       "url": "https://x.com/MarioNawfal/status/2093325224515399680",
       "criado": "2026-08-28T13:10:00+00:00",
       "medicoes": {
-        "60": 23517
+        "60": 23517,
+        "120": 26798
       },
       "alertado": false
     },
@@ -755,7 +760,8 @@
       "criado": "2026-08-28T12:10:00+00:00",
       "medicoes": {
         "60": 31573,
-        "120": 31573
+        "120": 31573,
+        "180": 36732
       },
       "alertado": false
     },
@@ -766,7 +772,8 @@
       "criado": "2026-08-28T12:08:07+00:00",
       "medicoes": {
         "60": 1519,
-        "120": 1519
+        "120": 1519,
+        "180": 2032
       },
       "alertado": false
     },
@@ -933,6 +940,14 @@
       "criado": "2026-08-28T15:04:45+00:00",
       "medicoes": {},
       "alertado": false
+    },
+    "2093355078472393080": {
+      "autor": "MarioNawfal",
+      "texto": "🇳🇵🇨🇳 WARNING: DISTURBING FOOTAGE A young man’s head sticks out of the mud as rescuers in Nepal try to dig him out. His body is completely trapped… But you can still see that he is shaking from shock as his predicament unfolds. It’s been two days since the catastrophic landslide and glacial collapse along the Nepal-Tibet border killed hundreds, with nearly 1,000 people still missing. Rescue efforts...",
+      "url": "https://x.com/MarioNawfal/status/2093355078472393080",
+      "criado": "2026-08-28T15:08:38+00:00",
+      "medicoes": {},
+      "alertado": false
     }
   },
   "baseline": {
@@ -971,6 +986,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-08-28T15:07:27+00:00",
+  "ultima_busca": "2026-08-28T15:10:20+00:00",
   "alertas_enviados": 0
 }
