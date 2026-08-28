@@ -36,76 +36,6 @@
       "medicoes": {},
       "alertado": false
     },
-    "2093360352780259819": {
-      "autor": "MarioNawfal",
-      "texto": "🇬🇧 A massive fire has erupted at a waste facility near Wembley Stadium, sending a towering column of black smoke across northwest London. Around 125 firefighters and 20 fire engines are battling the blaze at the 161,000-square-foot facility in Neasden. The entire Metropolitan line has been suspended, part of the Jubilee line shut down, and rail services from Marylebone disrupted. All employees are...",
-      "url": "https://x.com/MarioNawfal/status/2093360352780259819",
-      "criado": "2026-08-28T15:29:35+00:00",
-      "medicoes": {
-        "60": 38053,
-        "120": 52966,
-        "180": 61750,
-        "240": 67365,
-        "360": 72455
-      },
-      "alertado": false
-    },
-    "2093360112010150202": {
-      "autor": "clashreport",
-      "texto": "Polish far-right leader Grzegorz Braun has been charged with Holocaust denial after calling Auschwitz gas chambers “fake.” The offense carries up to three years in prison. Braun, whose party is polling around 9%, is also facing separate cases over antisemitic and other extremist incidents.",
-      "url": "https://x.com/clashreport/status/2093360112010150202",
-      "criado": "2026-08-28T15:28:38+00:00",
-      "medicoes": {
-        "60": 10461,
-        "120": 14209,
-        "180": 16916,
-        "240": 18304,
-        "360": 20423
-      },
-      "alertado": false
-    },
-    "2093359944972001294": {
-      "autor": "nexta_tv",
-      "texto": "🚨 Major fire breaks out near Wembley Stadium in London According to the BBC, a mixed-waste recycling facility caught fire in the area, sending a large plume of smoke over north London. The blaze has also disrupted parts of the London Underground network.",
-      "url": "https://x.com/nexta_tv/status/2093359944972001294",
-      "criado": "2026-08-28T15:27:58+00:00",
-      "medicoes": {
-        "60": 13725,
-        "120": 16751,
-        "180": 18678,
-        "240": 20345,
-        "360": 22609
-      },
-      "alertado": false
-    },
-    "2093359280669778354": {
-      "autor": "clashreport",
-      "texto": "Ukraine’s Kyrylo Budanov says ending the war now is “simply unrealistic” because Russia refuses to stop along the current front line. He expects fighting to continue through winter, while near-term talks will be mostly technical and preparatory. https://t.co/9yYyu1sbWP",
-      "url": "https://x.com/clashreport/status/2093359280669778354",
-      "criado": "2026-08-28T15:25:19+00:00",
-      "medicoes": {
-        "60": 9534,
-        "120": 11018,
-        "180": 11855,
-        "240": 12541,
-        "360": 13547
-      },
-      "alertado": false
-    },
-    "2093358874464002500": {
-      "autor": "clashreport",
-      "texto": "Poland is negotiating with the U.S. to establish several permanent American military bases, seeking to lock in a long-term U.S. presence as Washington reviews troop levels in Europe. Poland already hosts about 10,000 U.S. troops, mostly rotationally, and also wants additional reconnaissance and command capabilities. Warsaw ruled out hosting U.S. nuclear warheads. Source: TVP World",
-      "url": "https://x.com/clashreport/status/2093358874464002500",
-      "criado": "2026-08-28T15:23:43+00:00",
-      "medicoes": {
-        "60": 10609,
-        "120": 12833,
-        "180": 13993,
-        "240": 14855,
-        "360": 16139
-      },
-      "alertado": false
-    },
     "2093370374348284338": {
       "autor": "MarioNawfal",
       "texto": "I don’t know what sins he committed, but I hope they were forgiven 😭 Writer: Sol https://t.co/JfLnQZ4c4u",
@@ -193,7 +123,8 @@
         "60": 33429,
         "120": 46692,
         "180": 56335,
-        "240": 62893
+        "240": 62893,
+        "360": 68054
       },
       "alertado": false
     },
@@ -206,7 +137,8 @@
         "60": 28842,
         "120": 35595,
         "180": 39145,
-        "240": 41621
+        "240": 41621,
+        "360": 44459
       },
       "alertado": false
     },
@@ -219,7 +151,8 @@
         "60": 20895,
         "120": 28077,
         "180": 33880,
-        "240": 37773
+        "240": 37773,
+        "360": 44874
       },
       "alertado": false
     },
@@ -232,7 +165,8 @@
         "60": 39142,
         "120": 51554,
         "180": 60893,
-        "240": 68160
+        "240": 68160,
+        "360": 74844
       },
       "alertado": false
     },
@@ -245,7 +179,8 @@
         "60": 22242,
         "120": 25822,
         "180": 27573,
-        "240": 28926
+        "240": 28926,
+        "360": 30886
       },
       "alertado": false
     },
@@ -1204,7 +1139,8 @@
       "medicoes": {
         "60": 24779,
         "120": 29981,
-        "180": 33299
+        "180": 33299,
+        "240": 36041
       },
       "alertado": false
     },
@@ -1216,7 +1152,8 @@
       "medicoes": {
         "60": 16099,
         "120": 21346,
-        "180": 24564
+        "180": 24564,
+        "240": 26138
       },
       "alertado": false
     },
@@ -1228,7 +1165,8 @@
       "medicoes": {
         "60": 36906,
         "120": 52041,
-        "180": 63471
+        "180": 63471,
+        "240": 70929
       },
       "alertado": false
     },
@@ -1240,7 +1178,8 @@
       "medicoes": {
         "60": 853,
         "120": 1342,
-        "180": 1700
+        "180": 1700,
+        "240": 2042
       },
       "alertado": false
     },
@@ -1468,7 +1407,8 @@
       "criado": "2026-08-28T19:01:19+00:00",
       "medicoes": {
         "60": 58073,
-        "120": 93219
+        "120": 93219,
+        "180": 121424
       },
       "alertado": false
     },
@@ -1479,7 +1419,8 @@
       "criado": "2026-08-28T18:56:20+00:00",
       "medicoes": {
         "60": 21175,
-        "120": 27255
+        "120": 27255,
+        "180": 30735
       },
       "alertado": false
     },
@@ -1490,7 +1431,8 @@
       "criado": "2026-08-28T18:55:49+00:00",
       "medicoes": {
         "60": 9968,
-        "120": 12128
+        "120": 12128,
+        "180": 13173
       },
       "alertado": false
     },
@@ -1501,7 +1443,8 @@
       "criado": "2026-08-28T18:55:00+00:00",
       "medicoes": {
         "60": 45428,
-        "120": 53096
+        "120": 53096,
+        "180": 56212
       },
       "alertado": false
     },
@@ -1719,7 +1662,8 @@
       "url": "https://x.com/MarioNawfal/status/2093428407808000155",
       "criado": "2026-08-28T20:00:01+00:00",
       "medicoes": {
-        "60": 23627
+        "60": 23627,
+        "120": 27715
       },
       "alertado": false
     },
@@ -1729,7 +1673,8 @@
       "url": "https://x.com/nexta_tv/status/2093427343666675874",
       "criado": "2026-08-28T19:55:47+00:00",
       "medicoes": {
-        "60": 30654
+        "60": 30654,
+        "120": 44178
       },
       "alertado": false
     },
@@ -1739,7 +1684,8 @@
       "url": "https://x.com/MarioNawfal/status/2093427146027049344",
       "criado": "2026-08-28T19:55:00+00:00",
       "medicoes": {
-        "60": 46341
+        "60": 46341,
+        "120": 55089
       },
       "alertado": false
     },
@@ -1972,7 +1918,9 @@
       "texto": "🇺🇸🇮🇶 The U.S. could soon cut military aid to one of its closest partners in Iraq. The Pentagon reportedly doesn’t plan to renew its deal funding the Peshmerga, the Kurdish force that fought alongside U.S. troops against ISIS. They got $61 million this year for weapons, training and troop pay, but that deal expires September 30. And the timing is rough. Iran and its allies have launched more than 1...",
       "url": "https://x.com/MarioNawfal/status/2093443509835727155",
       "criado": "2026-08-28T21:00:01+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 21520
+      },
       "alertado": false
     },
     "2093443505175847203": {
@@ -1980,7 +1928,9 @@
       "texto": "Russian State Duma calls for open terror against Ukrainian civilians State Duma Deputy Speaker Pyotr Tolstoy called for bombing Ukrainian cities in order to “demoralize” the population. According to him, the goal of such bombardments is to bring Ukrainians to the point where they “come out to meet our troops with their paws up.” Tolstoy’s remarks sharply contradict years of Kremlin, Defense Minist...",
       "url": "https://x.com/nexta_tv/status/2093443505175847203",
       "criado": "2026-08-28T21:00:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 13157
+      },
       "alertado": false
     },
     "2093442245508923796": {
@@ -1988,7 +1938,9 @@
       "texto": "🇮🇷 Pezeshkian wants Iranians to turn half the lights off and call it an oil field. He says cutting energy use 10% could save 900,000 barrels a day, nearly what Iran exports, and keeps pointing at chandeliers like they are the crisis. The math works on paper. Iran burns most of the 8 to 9M barrels of oil and gas it produces. But the waste lives elsewhere: cheap fuel, leaky plants, flaring, damaged...",
       "url": "https://x.com/MarioNawfal/status/2093442245508923796",
       "criado": "2026-08-28T20:55:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 27799
+      },
       "alertado": false
     },
     "2093440987234271288": {
@@ -2134,6 +2086,62 @@
       "criado": "2026-08-28T21:40:50+00:00",
       "medicoes": {},
       "alertado": false
+    },
+    "2093458731950370821": {
+      "autor": "NewsLiberdade",
+      "texto": "🚨AGORA - Produtora de Dark Horse adia entrega de documentos à PF Karina Ferreira da Gama alegou que o levantamento de dados sobre o filme ainda está em curso https://t.co/fbrrvWis2v",
+      "url": "https://x.com/NewsLiberdade/status/2093458731950370821",
+      "criado": "2026-08-28T22:00:30+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093458708000817464": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸🇨🇦 Trump wanted the lake to say America, while Hochul kept the old name and he read that as picking Ottawa. He signed an order yesterday so federal maps say Lake America. She said New York will still say Ontario, the Wendat word older than both countries, and Canada said the same because half the water is already theirs. He calls her weak and points to Nassau’s Bruce Blakeman as the fighter who...",
+      "url": "https://x.com/MarioNawfal/status/2093458708000817464",
+      "criado": "2026-08-28T22:00:25+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093458610278035832": {
+      "autor": "MarioNawfal",
+      "texto": "Dude, I started sweating just watching the video 😨 Note: At 0.26 sec its a Portuguese Comando, not Brasil. Writer: Sol https://t.co/D21ihMKyx9",
+      "url": "https://x.com/MarioNawfal/status/2093458610278035832",
+      "criado": "2026-08-28T22:00:01+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093458603349070134": {
+      "autor": "nexta_tv",
+      "texto": "Australia has created “paraborgs” — giant cockroaches with cameras and remote-controlled syringes Scientists believe that in the future, such “paraborgs” could be used to deliver emergency medication to people trapped under rubble or in other hard-to-reach locations. For now, this is only an experimental prototype. Scientists have equipped giant burrowing cockroaches (Macropanesthia rhinoceros) wi...",
+      "url": "https://x.com/nexta_tv/status/2093458603349070134",
+      "criado": "2026-08-28T22:00:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093457825796420060": {
+      "autor": "MarioNawfal",
+      "texto": "🇵🇸🇮🇱 Gaza just told children a kite can get their street emptied. Plastic scraps drifted into Israeli border towns this week. The army said they carried nothing. It didn’t matter. Katz put kites alongside drones and said launching them could clear neighborhoods. Parents burned the toys, afraid a child flying trash could become the next pretext. Israel remembers 2018 fire kites and October 7. So ch...",
+      "url": "https://x.com/MarioNawfal/status/2093457825796420060",
+      "criado": "2026-08-28T21:56:54+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093457796297609458": {
+      "autor": "MarioNawfal",
+      "texto": "🇪🇸 Spain used to sell this as paradise... Now people are flipping chairs and swinging on the sand while families try to pack up and leave. Writer: Val https://t.co/aLUX1aYOfS",
+      "url": "https://x.com/MarioNawfal/status/2093457796297609458",
+      "criado": "2026-08-28T21:56:47+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093457132855157041": {
+      "autor": "Osint613",
+      "texto": "Pentagon chief Pete Hegseth is talking to close friends and associates about a possible run for U.S. president in 2028, sources tell NBC News. The Trump administration has not yet commented on the report. Contributed by @AZ_Intel_. https://t.co/oqwBfiE5lu",
+      "url": "https://x.com/Osint613/status/2093457132855157041",
+      "criado": "2026-08-28T21:54:09+00:00",
+      "medicoes": {},
+      "alertado": false
     }
   },
   "baseline": {
@@ -2209,7 +2217,8 @@
         22339,
         71245,
         27614,
-        45394
+        45394,
+        38053
       ],
       "120": [
         115903,
@@ -2240,7 +2249,8 @@
         26641,
         181735,
         34280,
-        64504
+        64504,
+        52966
       ],
       "180": [
         115903,
@@ -2271,7 +2281,8 @@
         29809,
         455546,
         39444,
-        75693
+        75693,
+        61750
       ],
       "240": [
         115903,
@@ -2301,7 +2312,8 @@
         43262,
         35634,
         43377,
-        84203
+        84203,
+        67365
       ],
       "360": [
         115903,
@@ -2331,7 +2343,8 @@
         51085,
         40946,
         52366,
-        94028
+        94028,
+        72455
       ]
     },
     "MachadoDarlon": {
@@ -2505,7 +2518,10 @@
         11667,
         12457,
         11916,
-        20443
+        20443,
+        10461,
+        9534,
+        10609
       ],
       "120": [
         12248,
@@ -2525,7 +2541,10 @@
         14245,
         16157,
         16443,
-        32516
+        32516,
+        14209,
+        11018,
+        12833
       ],
       "180": [
         13823,
@@ -2545,7 +2564,10 @@
         15440,
         18127,
         19300,
-        39421
+        39421,
+        16916,
+        11855,
+        13993
       ],
       "240": [
         15179,
@@ -2565,7 +2587,10 @@
         16333,
         19675,
         21247,
-        45369
+        45369,
+        18304,
+        12541,
+        14855
       ],
       "360": [
         16603,
@@ -2585,7 +2610,10 @@
         17354,
         21922,
         24997,
-        55369
+        55369,
+        20423,
+        13547,
+        16139
       ]
     },
     "Osint613": {
@@ -2692,7 +2720,8 @@
         26428,
         21826,
         18754,
-        32892
+        32892,
+        13725
       ],
       "120": [
         19760,
@@ -2700,7 +2729,8 @@
         31687,
         24863,
         22273,
-        46797
+        46797,
+        16751
       ],
       "180": [
         22399,
@@ -2708,7 +2738,8 @@
         35919,
         29003,
         24280,
-        65642
+        65642,
+        18678
       ],
       "240": [
         24895,
@@ -2716,7 +2747,8 @@
         38304,
         32637,
         25742,
-        90890
+        90890,
+        20345
       ],
       "360": [
         28012,
@@ -2724,10 +2756,11 @@
         41843,
         36564,
         27895,
-        119291
+        119291,
+        22609
       ]
     }
   },
-  "ultima_busca": "2026-08-28T21:51:17+00:00",
+  "ultima_busca": "2026-08-28T22:01:36+00:00",
   "alertas_enviados": 0
 }
