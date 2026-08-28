@@ -1,41 +1,5 @@
 {
   "posts": {
-    "2093362973876035893": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸🇮🇶 From Iraq’s “Iron Woman” to the U.S. terror watchlist in a 4-year span... Taif Sami Mohammed was praised by Antony Blinken in 2022 and given a State Department award for fighting corruption in Iraq. 4 years later, her U.S. visa is gone and she’s reportedly on the terrorist watchlist. GOP lawmakers had accused her of helping terrorist money move through Iraq, and she’s also wanted back home in...",
-      "url": "https://x.com/MarioNawfal/status/2093362973876035893",
-      "criado": "2026-08-28T15:40:00+00:00",
-      "medicoes": {
-        "60": 22707,
-        "120": 27718,
-        "180": 31467,
-        "240": 37147,
-        "360": 42530
-      },
-      "alertado": false
-    },
-    "2093362320583889202": {
-      "autor": "Osint613",
-      "texto": "Today, Russia conducted a test launch of an intercontinental ballistic missile (IRBM) from the Plesetsk Cosmodrome, with the missile reportedly reaching more than 6,700 km. The purpose of the launch was to test the tactical, technical, and flight parameters of the missile system. -Russian Defense Ministry",
-      "url": "https://x.com/Osint613/status/2093362320583889202",
-      "criado": "2026-08-28T15:37:24+00:00",
-      "medicoes": {
-        "60": 37707,
-        "120": 55103,
-        "180": 66892,
-        "240": 74709,
-        "360": 86649
-      },
-      "alertado": false
-    },
-    "2093362008527974722": {
-      "autor": "MarioNawfal",
-      "texto": "🇳🇵🇨🇳 WHAT ARE THESE TOURISTS DOING?? Harrowing footage shows tourists filming the enormous flash flood along the Nepal-Tibet border before the torrent reaches them and sweeps them away! At least 543 people are now confirmed dead, with more than 1,500 still missing across Nepal and Tibet. Trying to film the disaster, within seconds, they were right inside it. What a horrific tragedy Source: @visegr...",
-      "url": "https://x.com/MarioNawfal/status/2093362008527974722",
-      "criado": "2026-08-28T15:36:10+00:00",
-      "medicoes": {},
-      "alertado": false
-    },
     "2093370374348284338": {
       "autor": "MarioNawfal",
       "texto": "I don’t know what sins he committed, but I hope they were forgiven 😭 Writer: Sol https://t.co/JfLnQZ4c4u",
@@ -45,7 +9,8 @@
         "60": 50909,
         "120": 87209,
         "180": 109718,
-        "240": 127238
+        "240": 127238,
+        "360": 186457
       },
       "alertado": false
     },
@@ -58,7 +23,8 @@
         "60": 1036,
         "120": 2187,
         "180": 2945,
-        "240": 3482
+        "240": 3482,
+        "360": 4827
       },
       "alertado": false
     },
@@ -71,7 +37,8 @@
         "60": 19565,
         "120": 27973,
         "180": 34050,
-        "240": 38547
+        "240": 38547,
+        "360": 44066
       },
       "alertado": false
     },
@@ -84,7 +51,8 @@
         "60": 29257,
         "120": 35799,
         "180": 39636,
-        "240": 42429
+        "240": 42429,
+        "360": 46724
       },
       "alertado": false
     },
@@ -97,7 +65,8 @@
         "60": 492,
         "120": 745,
         "180": 1040,
-        "240": 1237
+        "240": 1237,
+        "360": 1861
       },
       "alertado": false
     },
@@ -110,7 +79,8 @@
         "60": 47156,
         "120": 59003,
         "180": 66050,
-        "240": 71139
+        "240": 71139,
+        "360": 77913
       },
       "alertado": false
     },
@@ -1091,7 +1061,8 @@
       "medicoes": {
         "60": 23868,
         "120": 32213,
-        "180": 38498
+        "180": 38498,
+        "240": 43327
       },
       "alertado": false
     },
@@ -1103,7 +1074,8 @@
       "medicoes": {
         "60": 34173,
         "120": 50782,
-        "180": 60718
+        "180": 60718,
+        "240": 66896
       },
       "alertado": false
     },
@@ -1115,7 +1087,8 @@
       "medicoes": {
         "60": 43605,
         "120": 50582,
-        "180": 54143
+        "180": 54143,
+        "240": 56645
       },
       "alertado": false
     },
@@ -1127,7 +1100,8 @@
       "medicoes": {
         "60": 854,
         "120": 1217,
-        "180": 1559
+        "180": 1559,
+        "240": 2039
       },
       "alertado": false
     },
@@ -1374,7 +1348,8 @@
       "criado": "2026-08-28T19:10:11+00:00",
       "medicoes": {
         "60": 35002,
-        "120": 57447
+        "120": 57447,
+        "180": 73379
       },
       "alertado": false
     },
@@ -1385,7 +1360,8 @@
       "criado": "2026-08-28T19:10:00+00:00",
       "medicoes": {
         "60": 22580,
-        "120": 27784
+        "120": 27784,
+        "180": 30950
       },
       "alertado": false
     },
@@ -1396,7 +1372,8 @@
       "criado": "2026-08-28T19:05:00+00:00",
       "medicoes": {
         "60": 23835,
-        "120": 30657
+        "120": 30657,
+        "180": 35443
       },
       "alertado": false
     },
@@ -1632,7 +1609,8 @@
       "url": "https://x.com/MarioNawfal/status/2093430920804282826",
       "criado": "2026-08-28T20:10:00+00:00",
       "medicoes": {
-        "60": 23391
+        "60": 23391,
+        "120": 27210
       },
       "alertado": false
     },
@@ -1642,7 +1620,8 @@
       "url": "https://x.com/MarioNawfal/status/2093430732408402149",
       "criado": "2026-08-28T20:09:15+00:00",
       "medicoes": {
-        "60": 22948
+        "60": 22948,
+        "120": 32142
       },
       "alertado": false
     },
@@ -1652,7 +1631,8 @@
       "url": "https://x.com/clashreport/status/2093428891125727630",
       "criado": "2026-08-28T20:01:56+00:00",
       "medicoes": {
-        "60": 18124
+        "60": 18124,
+        "120": 26855
       },
       "alertado": false
     },
@@ -1886,7 +1866,9 @@
       "texto": "🇺🇸🇮🇹 Trump found a different way to hit far-left networks. The U.S. has designated Italy-based Autistici/Inventati Collective as a global terrorist group, saying it provides anonymous websites, email and other tech used by violent far-left groups. The U.S. says those tools have been used to share targets, attack guides and take credit for attacks. Now the sanctions can hit the money behind it too,...",
       "url": "https://x.com/MarioNawfal/status/2093446020399067316",
       "criado": "2026-08-28T21:10:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 21743
+      },
       "alertado": false
     },
     "2093445808578277530": {
@@ -1894,7 +1876,9 @@
       "texto": "🚨URGENTE - Deputado Mário Frias pede que investigação sobre Dark Horse fique apenas nas mãos de André Mendonça https://t.co/OkZVAtkfRP",
       "url": "https://x.com/NewsLiberdade/status/2093445808578277530",
       "criado": "2026-08-28T21:09:09+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 8210
+      },
       "alertado": false
     },
     "2093445546690199737": {
@@ -1902,7 +1886,9 @@
       "texto": "Federal authorities are preparing possible charges against a U.S. servicemember and a KPMG employee over alleged insider trading on Polymarket. The servicemember reportedly made more than $1 million betting on military operations involving Iran and Venezuela, while the KPMG employee allegedly bet on a company’s earnings using confidential information. Source: WSJ",
       "url": "https://x.com/clashreport/status/2093445546690199737",
       "criado": "2026-08-28T21:08:07+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 8645
+      },
       "alertado": false
     },
     "2093444762649104574": {
@@ -1910,7 +1896,9 @@
       "texto": "🇺🇸 Trump is unloading on New York Times reporter Maggie Haberman after she reportedly claimed he would skip the September 11 ceremony at Ground Zero because he wouldn't be allowed to give a speech. Trump flatly denies it, saying he never considered speaking at the ceremony and that the day should be about remembering the victims and their families. He then escalated considerably, calling Haberman...",
       "url": "https://x.com/MarioNawfal/status/2093444762649104574",
       "criado": "2026-08-28T21:05:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 30176
+      },
       "alertado": false
     },
     "2093443509835727155": {
@@ -2142,6 +2130,14 @@
       "criado": "2026-08-28T21:54:09+00:00",
       "medicoes": {},
       "alertado": false
+    },
+    "2093459496160932062": {
+      "autor": "MarioNawfal",
+      "texto": "🇷🇺 The West treats Putin as the monster, while in Moscow, he is still holding the leash. CIA Director Ratcliffe flew in this week to warn Russian intelligence not to poke NATO, with the Baltics first, after years of drones drifting west and mystery blasts. No Russian tanks are rolling into Estonia. A small test that makes Article 5 look optional would be enough. The bigger threat sits behind Putin...",
+      "url": "https://x.com/MarioNawfal/status/2093459496160932062",
+      "criado": "2026-08-28T22:03:33+00:00",
+      "medicoes": {},
+      "alertado": false
     }
   },
   "baseline": {
@@ -2218,7 +2214,8 @@
         71245,
         27614,
         45394,
-        38053
+        38053,
+        22707
       ],
       "120": [
         115903,
@@ -2250,7 +2247,8 @@
         181735,
         34280,
         64504,
-        52966
+        52966,
+        27718
       ],
       "180": [
         115903,
@@ -2282,7 +2280,8 @@
         455546,
         39444,
         75693,
-        61750
+        61750,
+        31467
       ],
       "240": [
         115903,
@@ -2313,7 +2312,8 @@
         35634,
         43377,
         84203,
-        67365
+        67365,
+        37147
       ],
       "360": [
         115903,
@@ -2344,7 +2344,8 @@
         40946,
         52366,
         94028,
-        72455
+        72455,
+        42530
       ]
     },
     "MachadoDarlon": {
@@ -2634,7 +2635,8 @@
         29809,
         29107,
         71465,
-        50366
+        50366,
+        37707
       ],
       "120": [
         32520,
@@ -2653,7 +2655,8 @@
         35392,
         34629,
         117197,
-        82711
+        82711,
+        55103
       ],
       "180": [
         36158,
@@ -2672,7 +2675,8 @@
         38385,
         37433,
         149041,
-        96799
+        96799,
+        66892
       ],
       "240": [
         39574,
@@ -2691,7 +2695,8 @@
         40198,
         39297,
         170707,
-        104791
+        104791,
+        74709
       ],
       "360": [
         43119,
@@ -2710,7 +2715,8 @@
         42430,
         42334,
         194232,
-        115037
+        115037,
+        86649
       ]
     },
     "nexta_tv": {
@@ -2761,6 +2767,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-08-28T22:01:36+00:00",
+  "ultima_busca": "2026-08-28T22:10:23+00:00",
   "alertas_enviados": 0
 }
