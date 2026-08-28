@@ -1,47 +1,5 @@
 {
   "posts": {
-    "2093378072796106832": {
-      "autor": "MarioNawfal",
-      "texto": "🇰🇷🇺🇸🇯🇵 Trump pulled back on the drills and Kim still wasn’t interested. Trump shortened the U.S.-South Korea Ulchi Freedom Shield drill, hoping it might help get Kim Jong Un talking again. Kim’s side basically said that changed nothing, then fired around 10 short-range missiles. So South Korea, the U.S. and Japan are still going ahead with Freedom Edge near Jeju Island, just off the southern coast...",
-      "url": "https://x.com/MarioNawfal/status/2093378072796106832",
-      "criado": "2026-08-28T16:40:00+00:00",
-      "medicoes": {
-        "60": 25587,
-        "120": 30438,
-        "180": 33085,
-        "240": 38264,
-        "360": 41159
-      },
-      "alertado": false
-    },
-    "2093377954352963851": {
-      "autor": "clashreport",
-      "texto": "Trump: Under Obama, we lost our ability to send astronauts into orbit at all. We had no ability in space whatsoever. https://t.co/6Wxjv5AeV1",
-      "url": "https://x.com/clashreport/status/2093377954352963851",
-      "criado": "2026-08-28T16:39:32+00:00",
-      "medicoes": {
-        "60": 8370,
-        "120": 10038,
-        "180": 11171,
-        "240": 11983,
-        "360": 12977
-      },
-      "alertado": false
-    },
-    "2093377016670081091": {
-      "autor": "NewsLiberdade",
-      "texto": "🚨URGENTE - Campanha de Lula veicula nova peça na TV contra Flávio, diz que ele foi denunciado pelo MP por rachadinha, mostra que ele homenageou Adriano da Nóbrega e afirma que ele é “o pior dos Bolsonaros” https://t.co/MJx2PMRQOD",
-      "url": "https://x.com/NewsLiberdade/status/2093377016670081091",
-      "criado": "2026-08-28T16:35:48+00:00",
-      "medicoes": {
-        "60": 17770,
-        "120": 25523,
-        "180": 32113,
-        "240": 39821,
-        "360": 53419
-      },
-      "alertado": false
-    },
     "2093385622626951182": {
       "autor": "MarioNawfal",
       "texto": "🇺🇲🇮🇷 American sanctions mean Iranians have been banned from taking the Duolingo English Test. Although no ID is necessary for regular use of the app, users need a valid government-issued photo ID to take the Duolingo English Test. The ID verification is to confirm users’ identity and prevent cheating or impersonation Being physically located in another country or using a foreign IP address does no...",
@@ -51,7 +9,8 @@
         "60": 22755,
         "120": 27097,
         "180": 29871,
-        "240": 37401
+        "240": 37401,
+        "360": 39405
       },
       "alertado": false
     },
@@ -64,7 +23,8 @@
         "60": 7183,
         "120": 8592,
         "180": 9418,
-        "240": 10043
+        "240": 10043,
+        "360": 12293
       },
       "alertado": false
     },
@@ -77,7 +37,8 @@
         "60": 336,
         "120": 566,
         "180": 680,
-        "240": 769
+        "240": 769,
+        "360": 916
       },
       "alertado": false
     },
@@ -90,7 +51,8 @@
         "60": 23987,
         "120": 28965,
         "180": 32020,
-        "240": 34124
+        "240": 34124,
+        "360": 37282
       },
       "alertado": false
     },
@@ -103,7 +65,8 @@
         "60": 21569,
         "120": 26437,
         "180": 29930,
-        "240": 32296
+        "240": 32296,
+        "360": 35535
       },
       "alertado": false
     },
@@ -116,7 +79,8 @@
         "60": 42131,
         "120": 52892,
         "180": 58445,
-        "240": 62217
+        "240": 62217,
+        "360": 67078
       },
       "alertado": false
     },
@@ -129,7 +93,8 @@
         "60": 16362,
         "120": 24288,
         "180": 29822,
-        "240": 32983
+        "240": 32983,
+        "360": 37086
       },
       "alertado": false
     },
@@ -142,7 +107,8 @@
         "60": 7382,
         "120": 9121,
         "180": 10405,
-        "240": 11497
+        "240": 11497,
+        "360": 12712
       },
       "alertado": false
     },
@@ -155,7 +121,8 @@
         "60": 23221,
         "120": 29904,
         "180": 34614,
-        "240": 37772
+        "240": 37772,
+        "360": 42018
       },
       "alertado": false
     },
@@ -1000,7 +967,8 @@
       "medicoes": {
         "60": 35002,
         "120": 57447,
-        "180": 73379
+        "180": 73379,
+        "240": 83668
       },
       "alertado": false
     },
@@ -1012,7 +980,8 @@
       "medicoes": {
         "60": 22580,
         "120": 27784,
-        "180": 30950
+        "180": 30950,
+        "240": 37101
       },
       "alertado": false
     },
@@ -1024,7 +993,8 @@
       "medicoes": {
         "60": 23835,
         "120": 30657,
-        "180": 35443
+        "180": 35443,
+        "240": 38208
       },
       "alertado": false
     },
@@ -1281,7 +1251,8 @@
       "criado": "2026-08-28T20:10:00+00:00",
       "medicoes": {
         "60": 23391,
-        "120": 27210
+        "120": 27210,
+        "180": 29424
       },
       "alertado": false
     },
@@ -1292,7 +1263,8 @@
       "criado": "2026-08-28T20:09:15+00:00",
       "medicoes": {
         "60": 22948,
-        "120": 32142
+        "120": 32142,
+        "180": 35732
       },
       "alertado": false
     },
@@ -1303,7 +1275,8 @@
       "criado": "2026-08-28T20:01:56+00:00",
       "medicoes": {
         "60": 18124,
-        "120": 26855
+        "120": 26855,
+        "180": 32473
       },
       "alertado": false
     },
@@ -1560,7 +1533,8 @@
       "url": "https://x.com/MarioNawfal/status/2093446020399067316",
       "criado": "2026-08-28T21:10:00+00:00",
       "medicoes": {
-        "60": 21743
+        "60": 21743,
+        "120": 25910
       },
       "alertado": false
     },
@@ -1570,7 +1544,8 @@
       "url": "https://x.com/NewsLiberdade/status/2093445808578277530",
       "criado": "2026-08-28T21:09:09+00:00",
       "medicoes": {
-        "60": 8210
+        "60": 8210,
+        "120": 11807
       },
       "alertado": false
     },
@@ -1580,7 +1555,8 @@
       "url": "https://x.com/clashreport/status/2093445546690199737",
       "criado": "2026-08-28T21:08:07+00:00",
       "medicoes": {
-        "60": 8645
+        "60": 8645,
+        "120": 10618
       },
       "alertado": false
     },
@@ -1590,7 +1566,8 @@
       "url": "https://x.com/MarioNawfal/status/2093444762649104574",
       "criado": "2026-08-28T21:05:00+00:00",
       "medicoes": {
-        "60": 30176
+        "60": 30176,
+        "120": 40277
       },
       "alertado": false
     },
@@ -1876,7 +1853,9 @@
       "texto": "🇷🇺 The West treats Putin as the monster, while in Moscow, he is still holding the leash. CIA Director Ratcliffe flew in this week to warn Russian intelligence not to poke NATO, with the Baltics first, after years of drones drifting west and mystery blasts. No Russian tanks are rolling into Estonia. A small test that makes Article 5 look optional would be enough. The bigger threat sits behind Putin...",
       "url": "https://x.com/MarioNawfal/status/2093459496160932062",
       "criado": "2026-08-28T22:03:33+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 26333
+      },
       "alertado": false
     },
     "2093466154404844017": {
@@ -2038,6 +2017,22 @@
       "criado": "2026-08-28T22:41:31+00:00",
       "medicoes": {},
       "alertado": false
+    },
+    "2093474376964243745": {
+      "autor": "NewsLiberdade",
+      "texto": "🚨AGORA - Trump anuncia o \"maior acordo de petróleo da história mundial\" com a Venezuela. https://t.co/VINvGRKVp2",
+      "url": "https://x.com/NewsLiberdade/status/2093474376964243745",
+      "criado": "2026-08-28T23:02:40+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093474280864678073": {
+      "autor": "MarioNawfal",
+      "texto": "🚨🇺🇸🇻🇪 Trump announces \"the biggest oil deal in world history\": majority US control of more than 65 BILLION barrels of Venezuelan reserves. Rubio and Hegseth closed it with interim President Delcy Rodriguez, covering more than a dozen productive fields at no cost to the taxpayer, holdings that more than double America's proven reserves. It lands with Hormuz choked and the Strategic Petroleum Reserv...",
+      "url": "https://x.com/MarioNawfal/status/2093474280864678073",
+      "criado": "2026-08-28T23:02:18+00:00",
+      "medicoes": {},
+      "alertado": false
     }
   },
   "baseline": {
@@ -2049,7 +2044,8 @@
         15281,
         48095,
         13196,
-        22428
+        22428,
+        17770
       ],
       "120": [
         429435,
@@ -2058,7 +2054,8 @@
         17942,
         133562,
         16445,
-        28731
+        28731,
+        25523
       ],
       "180": [
         429435,
@@ -2067,7 +2064,8 @@
         24245,
         193714,
         18037,
-        32685
+        32685,
+        32113
       ],
       "240": [
         429435,
@@ -2076,7 +2074,8 @@
         29452,
         436219,
         19252,
-        37636
+        37636,
+        39821
       ],
       "360": [
         429435,
@@ -2085,7 +2084,8 @@
         37677,
         845924,
         21040,
-        44452
+        44452,
+        53419
       ]
     },
     "MarioNawfal": {
@@ -2126,7 +2126,8 @@
         25525,
         50909,
         23481,
-        29271
+        29271,
+        25587
       ],
       "120": [
         115903,
@@ -2165,7 +2166,8 @@
         29351,
         87209,
         27014,
-        35126
+        35126,
+        30438
       ],
       "180": [
         115903,
@@ -2204,7 +2206,8 @@
         32131,
         109718,
         30437,
-        39298
+        39298,
+        33085
       ],
       "240": [
         115903,
@@ -2242,7 +2245,8 @@
         39179,
         127238,
         36932,
-        46644
+        46644,
+        38264
       ],
       "360": [
         115903,
@@ -2280,7 +2284,8 @@
         42278,
         186457,
         38767,
-        50117
+        50117,
+        41159
       ]
     },
     "MachadoDarlon": {
@@ -2478,7 +2483,8 @@
         12291,
         9758,
         13138,
-        11387
+        11387,
+        8370
       ],
       "120": [
         12248,
@@ -2507,7 +2513,8 @@
         15130,
         11255,
         18225,
-        13282
+        13282,
+        10038
       ],
       "180": [
         13823,
@@ -2536,7 +2543,8 @@
         16937,
         12329,
         21445,
-        14710
+        14710,
+        11171
       ],
       "240": [
         15179,
@@ -2565,7 +2573,8 @@
         18140,
         13120,
         23770,
-        15659
+        15659,
+        11983
       ],
       "360": [
         16603,
@@ -2594,7 +2603,8 @@
         19605,
         13891,
         26041,
-        16785
+        16785,
+        12977
       ]
     },
     "Osint613": {
@@ -2807,6 +2817,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-08-28T23:01:24+00:00",
+  "ultima_busca": "2026-08-28T23:10:28+00:00",
   "alertas_enviados": 0
 }
