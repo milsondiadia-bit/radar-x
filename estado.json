@@ -1,47 +1,5 @@
 {
   "posts": {
-    "2093579404052218221": {
-      "autor": "MarioNawfal",
-      "texto": "Two tunnel machines are already under Nashville. The third is coming. Now The Boring Company needs humans. The Boring Company is hiring welders, electricians, engineers, mechanics and construction managers for the Music City Loop. Want to help build Nashville underneath Nashville? Someone has to build the shortcut. @boringcompany / Writer: Annette, Grok Imagine Designer: Janné",
-      "url": "https://x.com/MarioNawfal/status/2093579404052218221",
-      "criado": "2026-08-29T06:00:01+00:00",
-      "medicoes": {
-        "60": 21788,
-        "120": 26527,
-        "180": 29388,
-        "240": 34238,
-        "360": 41853
-      },
-      "alertado": false
-    },
-    "2093575624598458618": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 Cargo ships that don’t stop for fuel... That’s the bet. The Department of Transportation wants nuclear merchant vessels: more payload because the tanks disappear, crossings up to 75% faster, roughly 20 years before anyone has to refuel. The first hull is targeted for 2028. China already builds the world’s ships, but this is Washington saying the next fleet doesn’t run on diesel, and that Americ...",
-      "url": "https://x.com/MarioNawfal/status/2093575624598458618",
-      "criado": "2026-08-29T05:45:00+00:00",
-      "medicoes": {
-        "60": 18694,
-        "120": 21850,
-        "180": 25810,
-        "240": 29669,
-        "360": 36907
-      },
-      "alertado": false
-    },
-    "2093581915798519810": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸🇻🇪 Toppling Maduro was never about drugs or freeing the people of Venezuela; it was always about the oil Remember that the next time you read a headline about how the U.S is trying to help free the people of Iran Trump's only interested in freeing countries from their oil Writer: Ian",
-      "url": "https://x.com/MarioNawfal/status/2093581915798519810",
-      "criado": "2026-08-29T06:10:00+00:00",
-      "medicoes": {
-        "60": 23568,
-        "120": 34786,
-        "180": 54082,
-        "240": 72948,
-        "360": 116275
-      },
-      "alertado": false
-    },
     "2093586950074794079": {
       "autor": "MarioNawfal",
       "texto": "Tough guy gets ragdolled by a donkey Instant karma's a beautiful thing Writer: Ian https://t.co/uKHoPgpvlE",
@@ -51,7 +9,8 @@
         "60": 27728,
         "120": 40574,
         "180": 50016,
-        "240": 57666
+        "240": 57666,
+        "360": 72503
       },
       "alertado": false
     },
@@ -64,7 +23,8 @@
         "60": 40149,
         "120": 66458,
         "180": 97548,
-        "240": 148055
+        "240": 148055,
+        "360": 261908
       },
       "alertado": false
     },
@@ -77,7 +37,8 @@
         "60": 25183,
         "120": 30996,
         "180": 35806,
-        "240": 41538
+        "240": 41538,
+        "360": 59301
       },
       "alertado": false
     },
@@ -98,7 +59,8 @@
         "60": 7264,
         "120": 9780,
         "180": 15303,
-        "240": 23045
+        "240": 23045,
+        "360": 31726
       },
       "alertado": false
     },
@@ -111,7 +73,8 @@
         "60": 14137,
         "120": 19342,
         "180": 22635,
-        "240": 24898
+        "240": 24898,
+        "360": 28096
       },
       "alertado": false
     },
@@ -124,7 +87,8 @@
         "60": 6409,
         "120": 8408,
         "180": 9544,
-        "240": 10341
+        "240": 10341,
+        "360": 13421
       },
       "alertado": false
     },
@@ -137,7 +101,8 @@
         "60": 7742,
         "120": 10861,
         "180": 12562,
-        "240": 13649
+        "240": 13649,
+        "360": 15267
       },
       "alertado": false
     },
@@ -150,7 +115,8 @@
         "60": 10024,
         "120": 14313,
         "180": 16723,
-        "240": 18348
+        "240": 18348,
+        "360": 21047
       },
       "alertado": false
     },
@@ -396,7 +362,8 @@
       "medicoes": {
         "60": 21429,
         "120": 29369,
-        "180": 37098
+        "180": 37098,
+        "240": 48050
       },
       "alertado": false
     },
@@ -408,7 +375,8 @@
       "medicoes": {
         "60": 6323,
         "120": 8330,
-        "180": 10199
+        "180": 10199,
+        "240": 12619
       },
       "alertado": false
     },
@@ -420,7 +388,8 @@
       "medicoes": {
         "60": 9946,
         "120": 14258,
-        "180": 17034
+        "180": 17034,
+        "240": 19257
       },
       "alertado": false
     },
@@ -432,7 +401,8 @@
       "medicoes": {
         "60": 21620,
         "120": 35078,
-        "180": 43462
+        "180": 43462,
+        "240": 51515
       },
       "alertado": false
     },
@@ -444,7 +414,8 @@
       "medicoes": {
         "60": 9615,
         "120": 15037,
-        "180": 19192
+        "180": 19192,
+        "240": 22982
       },
       "alertado": false
     },
@@ -456,7 +427,8 @@
       "medicoes": {
         "60": 6558,
         "120": 8323,
-        "180": 10008
+        "180": 10008,
+        "240": 11141
       },
       "alertado": false
     },
@@ -468,7 +440,8 @@
       "medicoes": {
         "60": 23693,
         "120": 32823,
-        "180": 41327
+        "180": 41327,
+        "240": 47711
       },
       "alertado": false
     },
@@ -480,7 +453,8 @@
       "medicoes": {
         "60": 15440,
         "120": 23542,
-        "180": 28884
+        "180": 28884,
+        "240": 33125
       },
       "alertado": false
     },
@@ -563,7 +537,8 @@
       "criado": "2026-08-29T09:30:00+00:00",
       "medicoes": {
         "60": 23417,
-        "120": 33029
+        "120": 33029,
+        "180": 40944
       },
       "alertado": false
     },
@@ -574,7 +549,8 @@
       "criado": "2026-08-29T09:20:00+00:00",
       "medicoes": {
         "60": 25431,
-        "120": 33690
+        "120": 33690,
+        "180": 41155
       },
       "alertado": false
     },
@@ -585,7 +561,8 @@
       "criado": "2026-08-29T09:40:00+00:00",
       "medicoes": {
         "60": 27239,
-        "120": 41948
+        "120": 41948,
+        "180": 54120
       },
       "alertado": false
     },
@@ -683,7 +660,8 @@
       "url": "https://x.com/MarioNawfal/status/2093647347007807648",
       "criado": "2026-08-29T10:30:00+00:00",
       "medicoes": {
-        "60": 20766
+        "60": 20766,
+        "120": 32710
       },
       "alertado": false
     },
@@ -693,7 +671,8 @@
       "url": "https://x.com/MarioNawfal/status/2093644830295675000",
       "criado": "2026-08-29T10:20:00+00:00",
       "medicoes": {
-        "60": 22709
+        "60": 22709,
+        "120": 28038
       },
       "alertado": false
     },
@@ -703,7 +682,8 @@
       "url": "https://x.com/MarioNawfal/status/2093649863443628214",
       "criado": "2026-08-29T10:40:00+00:00",
       "medicoes": {
-        "60": 21629
+        "60": 21629,
+        "120": 27971
       },
       "alertado": false
     },
@@ -713,7 +693,8 @@
       "url": "https://x.com/nexta_tv/status/2093649563814945173",
       "criado": "2026-08-29T10:38:48+00:00",
       "medicoes": {
-        "60": 11868
+        "60": 11868,
+        "120": 15190
       },
       "alertado": false
     },
@@ -723,7 +704,8 @@
       "url": "https://x.com/clashreport/status/2093649232699773023",
       "criado": "2026-08-29T10:37:29+00:00",
       "medicoes": {
-        "60": 7067
+        "60": 7067,
+        "120": 8861
       },
       "alertado": false
     },
@@ -733,7 +715,8 @@
       "url": "https://x.com/MachadoDarlon/status/2093649037903659288",
       "criado": "2026-08-29T10:36:43+00:00",
       "medicoes": {
-        "60": 634
+        "60": 634,
+        "120": 903
       },
       "alertado": false
     },
@@ -802,7 +785,9 @@
       "texto": "Iran’s Foreign Minister Abbas Araghchi: Our intelligence shows major efforts to game energy markets. U.S. Govt elements use gullible media to influence prices for personal gain and keep POTUS mired in a losing war. Israel-aligned actors also promote war with rosy assessments. U.S. consumers feel the real bottom line.",
       "url": "https://x.com/clashreport/status/2093662715826884899",
       "criado": "2026-08-29T11:31:04+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 11116
+      },
       "alertado": false
     },
     "2093662447164932291": {
@@ -810,7 +795,9 @@
       "texto": "🇱🇧🇮🇱 While the world's focus is still on Iran, Israel is methodically destroying swathes of properties in southern Lebanon under the guise of creating a \"security buffer zone\" Ethnic cleansing by any other name is still ethnic cleansing Source: Bint Jbeil / Writer: Ian https://t.co/Jv97mawwtB",
       "url": "https://x.com/MarioNawfal/status/2093662447164932291",
       "criado": "2026-08-29T11:30:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 24284
+      },
       "alertado": false
     },
     "2093659363680424231": {
@@ -818,7 +805,9 @@
       "texto": "😂 A video has leaked online revealing what Putin and a Volga employee were really talking about during the test drive — Whose Volga is this? — Russian. — Definitely Russian? — Vladimir Vladimirovich, let’s not ruin the scene with details.",
       "url": "https://x.com/nexta_tv/status/2093659363680424231",
       "criado": "2026-08-29T11:17:45+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 55406
+      },
       "alertado": false
     },
     "2093664962925257087": {
@@ -826,7 +815,9 @@
       "texto": "Some mornings, this is the only solution Writer: Ian https://t.co/xZGMFvY4eP",
       "url": "https://x.com/MarioNawfal/status/2093664962925257087",
       "criado": "2026-08-29T11:40:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 29643
+      },
       "alertado": false
     },
     "2093672513070907792": {
@@ -898,6 +889,102 @@
       "texto": "🚨AGORA - Presidente da Colômbia determinou a extradição de 41 criminosos em 19 dias de governo https://t.co/rXmIDY4GRq",
       "url": "https://x.com/NewsLiberdade/status/2093666229886038371",
       "criado": "2026-08-29T11:45:02+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093680062830924239": {
+      "autor": "MarioNawfal",
+      "texto": "Kids growing up in the West: I want to be an influencer Meanwhile, in China... Writers: Mhedi, Ian https://t.co/EaFZF7wGz9",
+      "url": "https://x.com/MarioNawfal/status/2093680062830924239",
+      "criado": "2026-08-29T12:40:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093679499166560408": {
+      "autor": "clashreport",
+      "texto": "Putin meets with Lukashenko to discuss bilateral cooperation, regional and international issues, and security. https://t.co/SWChV6MAlH",
+      "url": "https://x.com/clashreport/status/2093679499166560408",
+      "criado": "2026-08-29T12:37:45+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093679166788874373": {
+      "autor": "MarioNawfal",
+      "texto": "🇷🇺 Putin explains his approach to education to a teacher: \"Killer whales eat bears like they're nothing. They just attack in a pack like that and... boom! Tear them to pieces. That’s the food chain. Children should be told about this so that they understand what kind of world we live in and why we are conducting the special military operation.\" PTSD seems like a rite of passage for kids in Russia...",
+      "url": "https://x.com/MarioNawfal/status/2093679166788874373",
+      "criado": "2026-08-29T12:36:26+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093677857583005858": {
+      "autor": "NewsLiberdade",
+      "texto": "🚨AGORA - Cristian Cravinhos é banido de plataforma adulta após vídeo com simulação de pauladas https://t.co/ll5VFZ2CHU",
+      "url": "https://x.com/NewsLiberdade/status/2093677857583005858",
+      "criado": "2026-08-29T12:31:14+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093677546801860639": {
+      "autor": "MarioNawfal",
+      "texto": "🇷🇺🇺🇦 Massive fires continue to blaze in Ukraine after Russia struck a missile logistics center near Kyiv, port refueling infrastructure in Izmail, and multiple military storage facilities in Odesa and Mykolaiv At least 27 people were killed in the strikes Writer: Ian https://t.co/MOjGO5VnPF",
+      "url": "https://x.com/MarioNawfal/status/2093677546801860639",
+      "criado": "2026-08-29T12:30:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093676476700709121": {
+      "autor": "clashreport",
+      "texto": "Putin to a teacher: Killer whales eat those bears like they're nothing. They just attack in a pack like that and... boom! Tear them to pieces. That’s the food chain. And children should also be told about this so that they understand what kind of world we live in and why we are conducting the \"special military operation.\"",
+      "url": "https://x.com/clashreport/status/2093676476700709121",
+      "criado": "2026-08-29T12:25:45+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093675107935740245": {
+      "autor": "clashreport",
+      "texto": "Zelensky: For everything Russia is doing, it will receive a response.",
+      "url": "https://x.com/clashreport/status/2093675107935740245",
+      "criado": "2026-08-29T12:20:18+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093675029439619336": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸 Ex-USA team soccer star Megan Rapinoe just accidentally undermined her own stance of allowing trans women to compete in women's sports when criticizing Enes Kanter Freedom's attempt to join the WNBA as a self-identified woman: \"Let’s make one thing clear. We do not need men in the WNBA or women’s sports in general to make it successful.\" Later on, she'll say she was talking about men who don't...",
+      "url": "https://x.com/MarioNawfal/status/2093675029439619336",
+      "criado": "2026-08-29T12:20:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093674548818333839": {
+      "autor": "clashreport",
+      "texto": "BIG: Germany is preparing what officials are calling a “Zeitenwende 2.0” toward Russia. Berlin is expected to formally blame Moscow for the August drone attack at Leipzig/Halle Airport and pair the attribution with tougher national measures, more support for Ukraine and a major new EU sanctions package. The shift is meant to mark an end to earlier restraint on Russian hybrid attacks. Around 1,600...",
+      "url": "https://x.com/clashreport/status/2093674548818333839",
+      "criado": "2026-08-29T12:18:05+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093673887179399605": {
+      "autor": "NewsLiberdade",
+      "texto": "🚨VEJA - Flávio anuncia Claudio Lottenberg para Ministério da Saúde https://t.co/fGZL9TIUQQ",
+      "url": "https://x.com/NewsLiberdade/status/2093673887179399605",
+      "criado": "2026-08-29T12:15:27+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093673588398141702": {
+      "autor": "clashreport",
+      "texto": "A new Ifop-Fiducial poll puts Marine Le Pen ahead in every tested 2027 French presidential runoff. She leads Mélenchon 67–33, Glucksmann 55–45 and Hollande 54–46. Even the closest matchup, against Édouard Philippe, has Le Pen ahead 52–48. In the first round, she sits at 33–35% across scenarios, comfortably ahead of a fragmented left and centre. It is still eight months out and the field remains fl...",
+      "url": "https://x.com/clashreport/status/2093673588398141702",
+      "criado": "2026-08-29T12:14:16+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093673501022367818": {
+      "autor": "clashreport",
+      "texto": "France is ready to export its MdCN long-range naval cruise missile to Sweden for the first time, as part of a €4.3 billion deal for four French frigates built by Naval Group. The MdCN is often described as the European equivalent of the U.S. Tomahawk, with a reported range of up to 1,400 km. It has been used exclusively by the French Navy for nearly a decade and would now be supplied to a Northern...",
+      "url": "https://x.com/clashreport/status/2093673501022367818",
+      "criado": "2026-08-29T12:13:55+00:00",
       "medicoes": {},
       "alertado": false
     }
@@ -1057,9 +1144,6 @@
     },
     "MarioNawfal": {
       "60": [
-        56713,
-        31201,
-        18427,
         20887,
         32975,
         22805,
@@ -1096,12 +1180,12 @@
         20845,
         19769,
         19410,
-        21620
+        21620,
+        21788,
+        18694,
+        23568
       ],
       "120": [
-        99446,
-        45623,
-        22071,
         25648,
         45664,
         29389,
@@ -1138,12 +1222,12 @@
         26048,
         23713,
         23307,
-        25394
+        25394,
+        26527,
+        21850,
+        34786
       ],
       "180": [
-        138099,
-        54850,
-        26142,
         30430,
         54233,
         34260,
@@ -1180,12 +1264,12 @@
         31100,
         26682,
         27490,
-        30265
+        30265,
+        29388,
+        25810,
+        54082
       ],
       "240": [
-        174812,
-        62004,
-        29979,
         38834,
         62792,
         42758,
@@ -1222,12 +1306,12 @@
         37522,
         29436,
         32250,
-        36863
+        36863,
+        34238,
+        29669,
+        72948
       ],
       "360": [
-        218049,
-        76987,
-        34911,
         51866,
         76973,
         58566,
@@ -1264,7 +1348,10 @@
         50925,
         34158,
         39268,
-        50268
+        50268,
+        41853,
+        36907,
+        116275
       ]
     },
     "MachadoDarlon": {
@@ -2086,6 +2173,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-08-29T12:10:19+00:00",
+  "ultima_busca": "2026-08-29T12:40:24+00:00",
   "alertas_enviados": 0
 }
