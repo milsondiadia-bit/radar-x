@@ -1,33 +1,5 @@
 {
   "posts": {
-    "2093513982367637748": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸🇷🇺 The CIA director owns a private jet, so why did he fly a cargo plane to Moscow? Robert Barnes, Trump's former lawyer, laid out a theory that keeps surfacing across our guests. The director has a Gulfstream with secure communications and range to spare, yet took a C-17. Barnes argues the giveaway is what a C-17 carries that a G5 cannot, and points to a theory first floated by Commodore Steve J...",
-      "url": "https://x.com/MarioNawfal/status/2093513982367637748",
-      "criado": "2026-08-29T01:40:03+00:00",
-      "medicoes": {
-        "60": 56713,
-        "120": 99446,
-        "180": 138099,
-        "240": 174812,
-        "360": 218049
-      },
-      "alertado": false
-    },
-    "2093512379300471067": {
-      "autor": "NewsLiberdade",
-      "texto": "🚨AGORA - Flávio Bolsonaro diz que Eduardo Bolsonaro não defendeu trocar o PIX “Foi uma distorção do que ele falou, ele só disse que lá nos EUA também tem uma ferramenta parecida” https://t.co/o9YZG3WmbA",
-      "url": "https://x.com/NewsLiberdade/status/2093512379300471067",
-      "criado": "2026-08-29T01:33:41+00:00",
-      "medicoes": {
-        "60": 12016,
-        "120": 13622,
-        "180": 14307,
-        "240": 14680,
-        "360": 15059
-      },
-      "alertado": false
-    },
     "2093519290804605397": {
       "autor": "MarioNawfal",
       "texto": "It's over, guys. One already found out 💀😂 Writer: Lucas https://t.co/FSSYvYYa9L",
@@ -177,7 +149,8 @@
         "60": 750,
         "120": 990,
         "180": 1103,
-        "240": 1212
+        "240": 1212,
+        "360": 1442
       },
       "alertado": false
     },
@@ -190,7 +163,8 @@
         "60": 9721,
         "120": 11469,
         "180": 12243,
-        "240": 12641
+        "240": 12641,
+        "360": 13061
       },
       "alertado": false
     },
@@ -791,7 +765,8 @@
       "url": "https://x.com/MarioNawfal/status/2093581915798519810",
       "criado": "2026-08-29T06:10:00+00:00",
       "medicoes": {
-        "60": 23568
+        "60": 23568,
+        "120": 34786
       },
       "alertado": false
     },
@@ -908,7 +883,9 @@
       "texto": "🇺🇸🇮🇷 Iran is pledging to stand firm against U.S. sanctions A government spokesman said diplomacy and defence will be “complementary, coordinated and inseparable,” while also promising to fight “unjust sanctions,” improve Iranians’ livelihoods and strengthen national cohesion. In plain terms, be prepared for the war to drag on for the foreseeble future. Source: Al Jazeera / Writer: Mhedi",
       "url": "https://x.com/MarioNawfal/status/2093597015267516654",
       "criado": "2026-08-29T07:10:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 18684
+      },
       "alertado": false
     },
     "2093602048281354462": {
@@ -1006,6 +983,30 @@
       "criado": "2026-08-29T07:50:00+00:00",
       "medicoes": {},
       "alertado": false
+    },
+    "2093612156029644869": {
+      "autor": "clashreport",
+      "texto": "Polish PM Donald Tusk on AfD: in my view, the threat from AfD is somewhat smaller than that posed by the French far right, because AfD is an internally chaotic party. We can find virtually every school of thought about politics, economics and geopolitics within it. What unites these groups seems rather fragile.",
+      "url": "https://x.com/clashreport/status/2093612156029644869",
+      "criado": "2026-08-29T08:10:10+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093612114799948196": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸🇮🇷 Iran says it has already achieved 99% of its projected oil-revenue target for the first four months of the year, despite restrictions on its maritime exports. Tehran says $7.5 billion in oil-related foreign currency revenue reached its Central Bank, enough to cover government foreign-exchange expenses through January. For Trump’s “Economic D-Day,” the numbers are an early warning: Tehran is c...",
+      "url": "https://x.com/MarioNawfal/status/2093612114799948196",
+      "criado": "2026-08-29T08:10:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093610437602320399": {
+      "autor": "clashreport",
+      "texto": "Iranian President Masoud Pezeshkian: I've talked with the heads of some offices to shut them down in winter and switch to remote work. At least we wouldn't consume electricity, gas, travel expenses, and gasoline. Remote work is possible. During this war period, many places were closed. Did people face problems? No. We can do this. We won't even reduce our personnel's salaries. But we will reduce o...",
+      "url": "https://x.com/clashreport/status/2093610437602320399",
+      "criado": "2026-08-29T08:03:20+00:00",
+      "medicoes": {},
+      "alertado": false
     }
   },
   "baseline": {
@@ -1034,7 +1035,8 @@
         26257,
         106883,
         37790,
-        54860
+        54860,
+        12016
       ],
       "120": [
         429435,
@@ -1060,7 +1062,8 @@
         28674,
         122419,
         42743,
-        68602
+        68602,
+        13622
       ],
       "180": [
         429435,
@@ -1086,7 +1089,8 @@
         29663,
         128755,
         45583,
-        77219
+        77219,
+        14307
       ],
       "240": [
         429435,
@@ -1112,7 +1116,8 @@
         30097,
         132964,
         46851,
-        82142
+        82142,
+        14680
       ],
       "360": [
         429435,
@@ -1138,12 +1143,12 @@
         30553,
         136630,
         48249,
-        86001
+        86001,
+        15059
       ]
     },
     "MarioNawfal": {
       "60": [
-        22017,
         27215,
         20502,
         21645,
@@ -1182,10 +1187,10 @@
         24767,
         18640,
         18578,
-        23317
+        23317,
+        56713
       ],
       "120": [
-        112734,
         32236,
         38003,
         24309,
@@ -1224,10 +1229,10 @@
         28896,
         21520,
         21523,
-        30390
+        30390,
+        99446
       ],
       "180": [
-        135774,
         38634,
         45763,
         27778,
@@ -1266,10 +1271,10 @@
         31112,
         25466,
         25149,
-        35400
+        35400,
+        138099
       ],
       "240": [
-        159533,
         42865,
         51306,
         30950,
@@ -1308,10 +1313,10 @@
         37587,
         28130,
         27443,
-        43747
+        43747,
+        174812
       ],
       "360": [
-        186121,
         49276,
         57868,
         34196,
@@ -1350,7 +1355,8 @@
         45221,
         33030,
         30338,
-        57068
+        57068,
+        218049
       ]
     },
     "MachadoDarlon": {
@@ -2162,6 +2168,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-08-29T08:01:53+00:00",
+  "ultima_busca": "2026-08-29T08:10:20+00:00",
   "alertas_enviados": 0
 }
