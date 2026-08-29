@@ -1,19 +1,5 @@
 {
   "posts": {
-    "2093483769009201514": {
-      "autor": "nexta_tv",
-      "texto": "In the Ukrainian city of Khmelnytskyi, a man said he supports Russia — karma came instantly. https://t.co/XXUpeazM0j",
-      "url": "https://x.com/nexta_tv/status/2093483769009201514",
-      "criado": "2026-08-28T23:40:00+00:00",
-      "medicoes": {
-        "60": 13821,
-        "120": 21677,
-        "180": 27605,
-        "240": 32212,
-        "360": 45813
-      },
-      "alertado": false
-    },
     "2093489000292172276": {
       "autor": "MarioNawfal",
       "texto": "🇺🇸 A Guantanamo judge threw out Khalid Sheikh Mohammed’s 9/11 confession days before the 25th anniversary. The trial is still years away. Lt. Col. Michael Schrama ruled the 2007 FBI interviews weren’t voluntary because CIA coercion still hung over them, and agents skipped the rights warning. Trial is set for June 2028. Appeal comes next. The families have waited a generation while the usable evide...",
@@ -730,7 +716,8 @@
       "medicoes": {
         "60": 750,
         "120": 990,
-        "180": 1103
+        "180": 1103,
+        "240": 1212
       },
       "alertado": false
     },
@@ -742,7 +729,8 @@
       "medicoes": {
         "60": 9721,
         "120": 11469,
-        "180": 12243
+        "180": 12243,
+        "240": 12641
       },
       "alertado": false
     },
@@ -1252,6 +1240,14 @@
       "texto": "🇺🇸 Cargo ships that don’t stop for fuel... That’s the bet. The Department of Transportation wants nuclear merchant vessels: more payload because the tanks disappear, crossings up to 75% faster, roughly 20 years before anyone has to refuel. The first hull is targeted for 2028. China already builds the world’s ships, but this is Washington saying the next fleet doesn’t run on diesel, and that Americ...",
       "url": "https://x.com/MarioNawfal/status/2093575624598458618",
       "criado": "2026-08-29T05:45:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093581915798519810": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸🇻🇪 Toppling Maduro was never about drugs or freeing the people of Venezuela; it was always about the oil Remember that the next time you read a headline about how the U.S is trying to help free the people of Iran Trump's only interested in freeing countries from their oil Writer: Ian",
+      "url": "https://x.com/MarioNawfal/status/2093581915798519810",
+      "criado": "2026-08-29T06:10:00+00:00",
       "medicoes": {},
       "alertado": false
     }
@@ -2231,7 +2227,8 @@
         18491,
         10385,
         8409,
-        15694
+        15694,
+        13821
       ],
       "120": [
         19760,
@@ -2261,7 +2258,8 @@
         25134,
         13818,
         10598,
-        24289
+        24289,
+        21677
       ],
       "180": [
         22399,
@@ -2291,7 +2289,8 @@
         29220,
         15822,
         11912,
-        30761
+        30761,
+        27605
       ],
       "240": [
         24895,
@@ -2321,7 +2320,8 @@
         32266,
         17529,
         13140,
-        36513
+        36513,
+        32212
       ],
       "360": [
         28012,
@@ -2351,10 +2351,11 @@
         38110,
         22096,
         19379,
-        52154
+        52154,
+        45813
       ]
     }
   },
-  "ultima_busca": "2026-08-29T06:01:58+00:00",
+  "ultima_busca": "2026-08-29T06:10:22+00:00",
   "alertas_enviados": 0
 }
