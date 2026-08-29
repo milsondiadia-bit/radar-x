@@ -1,89 +1,5 @@
 {
   "posts": {
-    "2093423091716153530": {
-      "autor": "NewsLiberdade",
-      "texto": "🚨AGORA - Eduardo Saverin, um dos criadores do Facebook, é apontado como brasileiro mais rico do mundo pela Forbes, com fortuna de R$ 162,9 bilhões https://t.co/x4URGf8h7y",
-      "url": "https://x.com/NewsLiberdade/status/2093423091716153530",
-      "criado": "2026-08-28T19:38:53+00:00",
-      "medicoes": {
-        "60": 7122,
-        "120": 10243,
-        "180": 12556,
-        "240": 15609,
-        "360": 22116
-      },
-      "alertado": false
-    },
-    "2093423009831018677": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 Three students have been hospitalized after a stabbing at Americas High School in El Paso, Texas, authorities say. All three victims are reported in stable condition, while a suspect has been taken into custody by district police. The school was initially placed on lockdown before authorities lifted it. The El Paso County Sheriff’s Major Crimes Unit is investigating with assistance from the Tex...",
-      "url": "https://x.com/MarioNawfal/status/2093423009831018677",
-      "criado": "2026-08-28T19:38:34+00:00",
-      "medicoes": {
-        "60": 24464,
-        "120": 28794,
-        "180": 31082,
-        "240": 37283,
-        "360": 41277
-      },
-      "alertado": false
-    },
-    "2093422113025610114": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇦 Something huge went up near Ukraine's M06 highway overnight. Russia was pounding the Kyiv area with drones for a second day straight when a massive fireball erupted near the Zhytomyr highway, then more blasts and a giant cloud of smoke. Looks like ammo was cooking off inside. There are reports a Russian Geran-4 drone hit a warehouse or ammo site, but nothing's confirmed yet. Russian drones also...",
-      "url": "https://x.com/MarioNawfal/status/2093422113025610114",
-      "criado": "2026-08-28T19:35:00+00:00",
-      "medicoes": {
-        "60": 27360,
-        "120": 41907,
-        "180": 51076,
-        "240": 56626,
-        "360": 62855
-      },
-      "alertado": false
-    },
-    "2093422112866177471": {
-      "autor": "MarioNawfal",
-      "texto": "🇮🇱🇹🇷 Malcolm Nance argues Israel’s recent strike was about more than Syria. It was a warning to Ankara. Israel wants uncontested freedom to operate over Syria. Turkey wants to expand its own military and strategic influence southward. “They’re setting themselves up for a potential clash with Turkey.” For years, Syria was a battlefield between proxies and outside powers. Now two of the region’s str...",
-      "url": "https://x.com/MarioNawfal/status/2093422112866177471",
-      "criado": "2026-08-28T19:35:00+00:00",
-      "medicoes": {
-        "60": 39709,
-        "120": 51602,
-        "180": 57230,
-        "240": 59922,
-        "360": 62708
-      },
-      "alertado": false
-    },
-    "2093421921375277209": {
-      "autor": "clashreport",
-      "texto": "Hezbollah Leader Naim Qassem: We have thwarted the so-called \"Greater Israel\" project and prevented it from reaching Beirut and undermining Lebanon's power and capabilities. Today, the enemy does not dare to build settlements in southern Lebanon because, due to the presence of the resistance, the situation there is unstable for them.",
-      "url": "https://x.com/clashreport/status/2093421921375277209",
-      "criado": "2026-08-28T19:34:14+00:00",
-      "medicoes": {
-        "60": 11373,
-        "120": 15256,
-        "180": 17364,
-        "240": 18980,
-        "360": 21336
-      },
-      "alertado": false
-    },
-    "2093421707465724345": {
-      "autor": "nexta_tv",
-      "texto": "😱 A massive fire broke out on the Zhytomyr highway near Kyiv following a powerful explosion The flames have already spread to the surrounding forest.",
-      "url": "https://x.com/nexta_tv/status/2093421707465724345",
-      "criado": "2026-08-28T19:33:23+00:00",
-      "medicoes": {
-        "60": 21126,
-        "120": 27174,
-        "180": 30098,
-        "240": 31599,
-        "360": 33445
-      },
-      "alertado": false
-    },
     "2093430920804282826": {
       "autor": "MarioNawfal",
       "texto": "🇺🇲 Geopolitical analyst Peter Zeihan says Trump is functionally ending the longstanding U.S. alliance with South Korea. The commander-in-chief laid out his reasoning in a Truth Social post. Trump said he instructed Hegseth to reduce America’s annual joint military exercises with South Korea, which are meant to prepare for a North Korean invasion. It’s too costly. He then gives North Korea’s Kim Jo...",
@@ -93,7 +9,8 @@
         "60": 23391,
         "120": 27210,
         "180": 29424,
-        "240": 34073
+        "240": 34073,
+        "360": 37428
       },
       "alertado": false
     },
@@ -106,7 +23,8 @@
         "60": 22948,
         "120": 32142,
         "180": 35732,
-        "240": 38370
+        "240": 38370,
+        "360": 50584
       },
       "alertado": false
     },
@@ -119,7 +37,8 @@
         "60": 18124,
         "120": 26855,
         "180": 32473,
-        "240": 35019
+        "240": 35019,
+        "360": 38253
       },
       "alertado": false
     },
@@ -825,7 +744,8 @@
       "medicoes": {
         "60": 26333,
         "120": 33591,
-        "180": 38968
+        "180": 38968,
+        "240": 42818
       },
       "alertado": false
     },
@@ -1074,7 +994,8 @@
       "criado": "2026-08-28T23:02:40+00:00",
       "medicoes": {
         "60": 9860,
-        "120": 14111
+        "120": 14111,
+        "180": 16012
       },
       "alertado": false
     },
@@ -1085,7 +1006,8 @@
       "criado": "2026-08-28T23:02:18+00:00",
       "medicoes": {
         "60": 29721,
-        "120": 46834
+        "120": 46834,
+        "180": 58050
       },
       "alertado": false
     },
@@ -1446,7 +1368,9 @@
       "texto": "🇺🇸🇷🇺🇮🇱 Tucker says Russia, U.S., and Israel are treating nukes like bigger artillery, and the planet should panic. Moscow rewrote its doctrine in 2024 to allow nuclear response to a major conventional strike. Washington is now reviewing guidance for more “usable” options in regional wars. Israel’s arsenal remains the world’s worst-kept secret. A review of smaller warheads isn’t a launch order. It...",
       "url": "https://x.com/MarioNawfal/status/2093506247748149492",
       "criado": "2026-08-29T01:09:19+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 21650
+      },
       "alertado": false
     },
     "2093505967207903420": {
@@ -1454,7 +1378,9 @@
       "texto": "🚨🇺🇸 CENTCOM says 82 commercial ships have now been turned around by the Iran blockade The command posted an image of a sailor on lookout watch aboard the destroyer USS John Paul Jones, saying that as of August 28 its forces have redirected 82 commercial vessels, disabled three and boarded two to ensure compliance. Cooper put that figure at 75 yesterday, so theoretically seven more merchant ships w...",
       "url": "https://x.com/MarioNawfal/status/2093505967207903420",
       "criado": "2026-08-29T01:08:12+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 18823
+      },
       "alertado": false
     },
     "2093505187486871583": {
@@ -1462,7 +1388,9 @@
       "texto": "🚨⚠️🤖 O crescimento digital da campanha presidencial de Augusto Cury (Avante) virou alvo de monitoramento e desconfiança após auditorias identificarem um pico de buscas anômalo de 5.000% pelo nome do candidato concentrado na Índia, uma região sem qualquer vínculo com o cenário político brasileiro. O fenômeno técnico coincidiu com a adesão repentina de 2,2 milhões de novos seguidores em suas redes s...",
       "url": "https://x.com/MachadoDarlon/status/2093505187486871583",
       "criado": "2026-08-29T01:05:06+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 1172
+      },
       "alertado": false
     },
     "2093504891020857735": {
@@ -1470,7 +1398,9 @@
       "texto": "Defense Secretary Pete Hegseth has privately discussed a possible 2028 presidential campaign with friends and associates, according to NBC News, though Hegseth denied the report. https://t.co/FmKJ1urLms",
       "url": "https://x.com/clashreport/status/2093504891020857735",
       "criado": "2026-08-29T01:03:56+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 7594
+      },
       "alertado": false
     },
     "2093511451415900253": {
@@ -1648,6 +1578,22 @@
       "criado": "2026-08-29T01:44:05+00:00",
       "medicoes": {},
       "alertado": false
+    },
+    "2093520931775766556": {
+      "autor": "MachadoDarlon",
+      "texto": "🚨🇧🇴 BOLIVIA: 🛫 Três aviões roubados há quase cinco anos do aeroporto de Aquidauana (MS) foram encontrados na Bolívia. Segundo as autoridades bolivianas, entre eles está uma aeronave do cantor e compositor Almir Sater. Os aviões foram levados em 2021, durante uma invasão ao aeroporto que envolveu ao menos 18 criminosos armados. A informação foi confirmada ao g1 pelo secretário de Segurança Cidadã d...",
+      "url": "https://x.com/MachadoDarlon/status/2093520931775766556",
+      "criado": "2026-08-29T02:07:40+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093520666230153535": {
+      "autor": "NewsLiberdade",
+      "texto": "🚨AGORA - Flávio Bolsonaro faz considerações finais na sabatina e foca na economia e segurança pública https://t.co/wecdyFOtQT",
+      "url": "https://x.com/NewsLiberdade/status/2093520666230153535",
+      "criado": "2026-08-29T02:06:37+00:00",
+      "medicoes": {},
+      "alertado": false
     }
   },
   "baseline": {
@@ -1662,7 +1608,8 @@
         22428,
         17770,
         12772,
-        18651
+        18651,
+        7122
       ],
       "120": [
         429435,
@@ -1674,7 +1621,8 @@
         28731,
         25523,
         19007,
-        30097
+        30097,
+        10243
       ],
       "180": [
         429435,
@@ -1686,7 +1634,8 @@
         32685,
         32113,
         23687,
-        38677
+        38677,
+        12556
       ],
       "240": [
         429435,
@@ -1698,7 +1647,8 @@
         37636,
         39821,
         26913,
-        52854
+        52854,
+        15609
       ],
       "360": [
         429435,
@@ -1710,14 +1660,12 @@
         44452,
         53419,
         33417,
-        276576
+        276576,
+        22116
       ]
     },
     "MarioNawfal": {
       "60": [
-        33429,
-        39142,
-        25525,
         50909,
         23481,
         29271,
@@ -1754,12 +1702,12 @@
         61292,
         29393,
         26358,
-        112274
+        112274,
+        24464,
+        27360,
+        39709
       ],
       "120": [
-        46692,
-        51554,
-        29351,
         87209,
         27014,
         35126,
@@ -1796,12 +1744,12 @@
         101116,
         32712,
         33859,
-        178556
+        178556,
+        28794,
+        41907,
+        51602
       ],
       "180": [
-        56335,
-        60893,
-        32131,
         109718,
         30437,
         39298,
@@ -1838,12 +1786,12 @@
         124110,
         34403,
         38144,
-        221738
+        221738,
+        31082,
+        51076,
+        57230
       ],
       "240": [
-        62893,
-        68160,
-        39179,
         127238,
         36932,
         46644,
@@ -1880,12 +1828,12 @@
         142323,
         35998,
         41189,
-        224762
+        224762,
+        37283,
+        56626,
+        59922
       ],
       "360": [
-        68054,
-        74844,
-        42278,
         186457,
         38767,
         50117,
@@ -1922,7 +1870,10 @@
         161456,
         38152,
         45620,
-        228135
+        228135,
+        41277,
+        62855,
+        62708
       ]
     },
     "MachadoDarlon": {
@@ -2134,7 +2085,6 @@
     },
     "clashreport": {
       "60": [
-        46475,
         66414,
         12838,
         11667,
@@ -2173,10 +2123,10 @@
         20188,
         9968,
         12202,
-        11773
+        11773,
+        11373
       ],
       "120": [
-        63573,
         92895,
         15652,
         14245,
@@ -2215,10 +2165,10 @@
         39109,
         12128,
         14593,
-        13716
+        13716,
+        15256
       ],
       "180": [
-        86976,
         299829,
         17463,
         15440,
@@ -2257,10 +2207,10 @@
         55431,
         13173,
         15545,
-        14663
+        14663,
+        17364
       ],
       "240": [
-        104606,
         892064,
         18655,
         16333,
@@ -2299,10 +2249,10 @@
         66907,
         14057,
         16905,
-        15509
+        15509,
+        18980
       ],
       "360": [
-        129031,
         1751363,
         20273,
         17354,
@@ -2341,7 +2291,8 @@
         80370,
         15192,
         18653,
-        16684
+        16684,
+        21336
       ]
     },
     "Osint613": {
@@ -2574,7 +2525,8 @@
         16099,
         26314,
         21175,
-        16540
+        16540,
+        21126
       ],
       "120": [
         19760,
@@ -2593,7 +2545,8 @@
         21346,
         35224,
         27255,
-        19988
+        19988,
+        27174
       ],
       "180": [
         22399,
@@ -2612,7 +2565,8 @@
         24564,
         40673,
         30735,
-        21754
+        21754,
+        30098
       ],
       "240": [
         24895,
@@ -2631,7 +2585,8 @@
         26138,
         43565,
         33183,
-        23376
+        23376,
+        31599
       ],
       "360": [
         28012,
@@ -2650,10 +2605,11 @@
         27942,
         47075,
         35739,
-        25245
+        25245,
+        33445
       ]
     }
   },
-  "ultima_busca": "2026-08-29T02:01:37+00:00",
+  "ultima_busca": "2026-08-29T02:10:21+00:00",
   "alertas_enviados": 0
 }
