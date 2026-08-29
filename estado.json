@@ -1,19 +1,5 @@
 {
   "posts": {
-    "2093564719164444758": {
-      "autor": "MarioNawfal",
-      "texto": "This might be the MOST Florida coded clip in existence 😂 Guy tries to wrangle alligator but gets confronted by neighbors to “let her be” https://t.co/NMgULCmi2R",
-      "url": "https://x.com/MarioNawfal/status/2093564719164444758",
-      "criado": "2026-08-29T05:01:40+00:00",
-      "medicoes": {
-        "60": 19769,
-        "120": 23713,
-        "180": 26682,
-        "240": 29436,
-        "360": 34158
-      },
-      "alertado": false
-    },
     "2093571849489990107": {
       "autor": "MarioNawfal",
       "texto": "A town built around Starship was never going to choose boring police cars. Starbase's new police department is rolling out black-and-white Tesla Cybertrucks with full City of Starbase branding and emergency gear. The town has roughly 500 residents, mostly tied to SpaceX, and now its own chief and 8 officers right next to the Starship launch site. Rockets overhead. Cybertrucks on patrol. That track...",
@@ -279,7 +265,8 @@
       "medicoes": {
         "60": 21527,
         "120": 26207,
-        "180": 29609
+        "180": 29609,
+        "240": 34517
       },
       "alertado": false
     },
@@ -291,7 +278,8 @@
       "medicoes": {
         "60": 10800,
         "120": 13547,
-        "180": 15188
+        "180": 15188,
+        "240": 16462
       },
       "alertado": false
     },
@@ -494,7 +482,8 @@
       "criado": "2026-08-29T08:40:00+00:00",
       "medicoes": {
         "60": 23693,
-        "120": 32823
+        "120": 32823,
+        "180": 41327
       },
       "alertado": false
     },
@@ -505,7 +494,8 @@
       "criado": "2026-08-29T08:36:19+00:00",
       "medicoes": {
         "60": 15440,
-        "120": 23542
+        "120": 23542,
+        "180": 28884
       },
       "alertado": false
     },
@@ -603,7 +593,8 @@
       "url": "https://x.com/MarioNawfal/status/2093634764289040723",
       "criado": "2026-08-29T09:40:00+00:00",
       "medicoes": {
-        "60": 27239
+        "60": 27239,
+        "120": 41948
       },
       "alertado": false
     },
@@ -712,7 +703,9 @@
       "texto": "🇮🇷 Iran's president Pezeshkian just revealed that Tehran exported nearly 90 million barrels of oil (worth around $6.5 billion) during the ceasefire that followed the MoU. Writer: Mhedi https://t.co/NqNuFNbesk",
       "url": "https://x.com/MarioNawfal/status/2093649863443628214",
       "criado": "2026-08-29T10:40:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 21629
+      },
       "alertado": false
     },
     "2093649563814945173": {
@@ -720,7 +713,9 @@
       "texto": "💻 Hackers breach the Berlin Senate and demand millions — authorities refuse to pay The Rhysida ransomware group claims it stole nearly 6 TB of data from Berlin’s administration systems, including tens of thousands of contracts, passwords, internal correspondence and other sensitive information. The hackers are demanding 30 bitcoins and are threatening to publish the stolen files if they are not pa...",
       "url": "https://x.com/nexta_tv/status/2093649563814945173",
       "criado": "2026-08-29T10:38:48+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 11868
+      },
       "alertado": false
     },
     "2093649232699773023": {
@@ -728,7 +723,9 @@
       "texto": "Italy Recruits Fedorov to Help Shape Defense Innovation Strategy Former Ukrainian defense minister will advise Italy on military innovation while remaining based in Ukraine, extending Kyiv’s wartime technology experience into European defense planning. https://t.co/6v34prFlTa",
       "url": "https://x.com/clashreport/status/2093649232699773023",
       "criado": "2026-08-29T10:37:29+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 7067
+      },
       "alertado": false
     },
     "2093649037903659288": {
@@ -736,7 +733,9 @@
       "texto": "Tem que ter muito peito pra enfrentar essa missão ... 😏🤭 https://t.co/ChUswO7XaQ",
       "url": "https://x.com/MachadoDarlon/status/2093649037903659288",
       "criado": "2026-08-29T10:36:43+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 634
+      },
       "alertado": false
     },
     "2093655217296314717": {
@@ -808,6 +807,14 @@
       "texto": "😂 A video has leaked online revealing what Putin and a Volga employee were really talking about during the test drive — Whose Volga is this? — Russian. — Definitely Russian? — Vladimir Vladimirovich, let’s not ruin the scene with details.",
       "url": "https://x.com/nexta_tv/status/2093659363680424231",
       "criado": "2026-08-29T11:17:45+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093664962925257087": {
+      "autor": "MarioNawfal",
+      "texto": "Some mornings, this is the only solution Writer: Ian https://t.co/xZGMFvY4eP",
+      "url": "https://x.com/MarioNawfal/status/2093664962925257087",
+      "criado": "2026-08-29T11:40:00+00:00",
       "medicoes": {},
       "alertado": false
     }
@@ -967,7 +974,6 @@
     },
     "MarioNawfal": {
       "60": [
-        18640,
         18578,
         23317,
         56713,
@@ -1006,10 +1012,10 @@
         14669,
         20933,
         21343,
-        20845
+        20845,
+        19769
       ],
       "120": [
-        21520,
         21523,
         30390,
         99446,
@@ -1048,10 +1054,10 @@
         26252,
         24927,
         26182,
-        26048
+        26048,
+        23713
       ],
       "180": [
-        25466,
         25149,
         35400,
         138099,
@@ -1090,10 +1096,10 @@
         32477,
         29101,
         31933,
-        31100
+        31100,
+        26682
       ],
       "240": [
-        28130,
         27443,
         43747,
         174812,
@@ -1132,10 +1138,10 @@
         40442,
         35507,
         42091,
-        37522
+        37522,
+        29436
       ],
       "360": [
-        33030,
         30338,
         57068,
         218049,
@@ -1174,7 +1180,8 @@
         55806,
         47681,
         56959,
-        50925
+        50925,
+        34158
       ]
     },
     "MachadoDarlon": {
@@ -1996,6 +2003,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-08-29T11:31:34+00:00",
+  "ultima_busca": "2026-08-29T11:40:20+00:00",
   "alertas_enviados": 0
 }
