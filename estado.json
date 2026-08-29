@@ -1,47 +1,5 @@
 {
   "posts": {
-    "2093558648890888467": {
-      "autor": "MarioNawfal",
-      "texto": "🚨🇮🇷 🇺🇸 Tehran admits trade is down 35% and inflation is at 66%, as Iran's supreme leader broke his silence to tell his own government to fix the economy Iran's leadership just did something it almost never does: published its own pain. The president told state media that trade has collapsed 35% under sanctions and blockade, and the Supreme Leader, still unseen since the February attack that killed...",
-      "url": "https://x.com/MarioNawfal/status/2093558648890888467",
-      "criado": "2026-08-29T04:37:32+00:00",
-      "medicoes": {
-        "60": 16269,
-        "120": 17862,
-        "180": 18906,
-        "240": 19727,
-        "360": 21035
-      },
-      "alertado": false
-    },
-    "2093558406883811460": {
-      "autor": "MarioNawfal",
-      "texto": "🇳🇵 Nepal is not asking for more search parties, FM Shisir Khanal told Reuters the first wave is theirs as Nepali crews are already in the rivers. What they don’t have is the next kit: tunnel rescue where hydropower shafts may still hold people, bailey bridges after about two dozen spans vanished, DNA and the cold storage to name the dead. The country is saying send engineers and forensic teams, no...",
-      "url": "https://x.com/MarioNawfal/status/2093558406883811460",
-      "criado": "2026-08-29T04:36:35+00:00",
-      "medicoes": {
-        "60": 21086,
-        "120": 26652,
-        "180": 30442,
-        "240": 37013,
-        "360": 48384
-      },
-      "alertado": false
-    },
-    "2093557216410300837": {
-      "autor": "MarioNawfal",
-      "texto": "People spent more than $2.5 million in 24 hours... On a robot duck. Hugging Face and Pollen Robotics put Microduck on sale at $399. It's ten inches tall and has fifteen motors. It waddles, it roller-skates, AND you can train it. By the next day the queue was so deep they stopped promising Christmas. Writer: Val https://t.co/9k8jrMRoDR",
-      "url": "https://x.com/MarioNawfal/status/2093557216410300837",
-      "criado": "2026-08-29T04:31:51+00:00",
-      "medicoes": {
-        "60": 24332,
-        "120": 33001,
-        "180": 41506,
-        "240": 47327,
-        "360": 57403
-      },
-      "alertado": false
-    },
     "2093564719164444758": {
       "autor": "MarioNawfal",
       "texto": "This might be the MOST Florida coded clip in existence 😂 Guy tries to wrangle alligator but gets confronted by neighbors to “let her be” https://t.co/NMgULCmi2R",
@@ -51,7 +9,8 @@
         "60": 19769,
         "120": 23713,
         "180": 26682,
-        "240": 29436
+        "240": 29436,
+        "360": 34158
       },
       "alertado": false
     },
@@ -350,7 +309,8 @@
       "medicoes": {
         "60": 18684,
         "120": 22533,
-        "180": 25902
+        "180": 25902,
+        "240": 29464
       },
       "alertado": false
     },
@@ -505,7 +465,8 @@
       "criado": "2026-08-29T08:10:10+00:00",
       "medicoes": {
         "60": 7415,
-        "120": 11316
+        "120": 11316,
+        "180": 14136
       },
       "alertado": false
     },
@@ -516,7 +477,8 @@
       "criado": "2026-08-29T08:10:00+00:00",
       "medicoes": {
         "60": 22700,
-        "120": 29240
+        "120": 29240,
+        "180": 34594
       },
       "alertado": false
     },
@@ -527,7 +489,8 @@
       "criado": "2026-08-29T08:03:20+00:00",
       "medicoes": {
         "60": 9748,
-        "120": 16713
+        "120": 16713,
+        "180": 21593
       },
       "alertado": false
     },
@@ -669,7 +632,8 @@
       "url": "https://x.com/nexta_tv/status/2093627237568254413",
       "criado": "2026-08-29T09:10:05+00:00",
       "medicoes": {
-        "60": 13283
+        "60": 13283,
+        "120": 17526
       },
       "alertado": false
     },
@@ -679,7 +643,8 @@
       "url": "https://x.com/MarioNawfal/status/2093627214583460005",
       "criado": "2026-08-29T09:10:00+00:00",
       "medicoes": {
-        "60": 20683
+        "60": 20683,
+        "120": 26594
       },
       "alertado": false
     },
@@ -778,7 +743,9 @@
       "texto": "🇨🇳 China is rapidly expanding its version of Area 51 The Lop Nur flight-test base in Xinjiang has already added large hangars, extended taxiways, fuel infrastructure, and turning pads It's believed they could be preparing the site for testing the H-20 stealth bomber and sixth-generation fighters like the J-36 It matters because it is one visible piece of a much larger modernization effort as China...",
       "url": "https://x.com/MarioNawfal/status/2093642313952289190",
       "criado": "2026-08-29T10:10:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 23440
+      },
       "alertado": false
     },
     "2093642005200921083": {
@@ -786,7 +753,9 @@
       "texto": "US Will Take Majority Control of Vast Venezuelan Oil Reserves Trump said a US-led venture would gain majority control over 65 billion barrels of proven Venezuelan reserves, with Washington controlling 55% of effective output and securing crude at cost. https://t.co/V7PRuJqi4H",
       "url": "https://x.com/clashreport/status/2093642005200921083",
       "criado": "2026-08-29T10:08:46+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 7531
+      },
       "alertado": false
     },
     "2093647347007807648": {
@@ -874,6 +843,14 @@
       "texto": "🇧🇷👀🫢 Dois jovens, sob efeito da chamada “droga zumbi” foram filmados na estação Tatuapé do Metrô nesta sexta-feira (28). Esse comportamento é comum em usuários de “drogas da família K”. O vídeo mostra os rapazes em situação vulnerável, ou entorpecida, na plataforma para embarque e desembarque dos usuários de trens. Não é possível confirmar apenas por registros visuais se as pessoas estão sob efeit...",
       "url": "https://x.com/MachadoDarlon/status/2093651408616554599",
       "criado": "2026-08-29T10:46:08+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093657413572583455": {
+      "autor": "MarioNawfal",
+      "texto": "Space AI data centers sound insanely complicated. Elon says they’re actually easier to build than Starlink satellites. Starlink has to pack in huge phased-array antennas, parabolic antennas and multiple laser links just to keep everyone connected. An AI satellite is much simpler: lots of solar cells, a radiator, compute and a few laser links. No giant antenna gymnastics required. Turns out putting...",
+      "url": "https://x.com/MarioNawfal/status/2093657413572583455",
+      "criado": "2026-08-29T11:10:00+00:00",
       "medicoes": {},
       "alertado": false
     }
@@ -1033,9 +1010,6 @@
     },
     "MarioNawfal": {
       "60": [
-        18326,
-        40508,
-        35689,
         21641,
         22334,
         21650,
@@ -1072,12 +1046,12 @@
         22625,
         26066,
         20779,
-        21554
+        21554,
+        16269,
+        21086,
+        24332
       ],
       "120": [
-        21529,
-        68959,
-        53904,
         26478,
         26397,
         29573,
@@ -1114,12 +1088,12 @@
         27413,
         32710,
         28636,
-        24942
+        24942,
+        17862,
+        26652,
+        33001
       ],
       "180": [
-        24644,
-        90907,
-        67352,
         30769,
         31018,
         33990,
@@ -1156,12 +1130,12 @@
         30461,
         37127,
         34419,
-        28522
+        28522,
+        18906,
+        30442,
+        41506
       ],
       "240": [
-        26664,
-        107839,
-        79599,
         36872,
         37055,
         38963,
@@ -1198,12 +1172,12 @@
         36539,
         40927,
         39055,
-        30856
+        30856,
+        19727,
+        37013,
+        47327
       ],
       "360": [
-        29084,
-        130123,
-        90849,
         42007,
         41296,
         52831,
@@ -1240,7 +1214,10 @@
         47214,
         55377,
         53191,
-        34835
+        34835,
+        21035,
+        48384,
+        57403
       ]
     },
     "MachadoDarlon": {
@@ -2062,6 +2039,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-08-29T11:01:36+00:00",
+  "ultima_busca": "2026-08-29T11:10:19+00:00",
   "alertas_enviados": 0
 }
