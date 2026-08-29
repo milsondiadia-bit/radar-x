@@ -1,47 +1,5 @@
 {
   "posts": {
-    "2093632247744385199": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸🇮🇷 Iran refuses to budge after Trump claimed the MOU is gone and never coming back President Masoud Pezeshkian: \"They were supposed to lift the blockade. They were supposed to lift the oil and petrochemical sanctions. If they lift them, we'll continue, otherwise we won't. 100% of what we want will not happen, and 100% of what they want will not happen.\" Writer: Mhedi https://t.co/YgIluqJQI8",
-      "url": "https://x.com/MarioNawfal/status/2093632247744385199",
-      "criado": "2026-08-29T09:30:00+00:00",
-      "medicoes": {
-        "60": 23417,
-        "120": 33029,
-        "180": 40944,
-        "240": 46823,
-        "360": 55144
-      },
-      "alertado": false
-    },
-    "2093629730595680601": {
-      "autor": "MarioNawfal",
-      "texto": "You'd think it would be all over after he was stabbed, but this guy is built different Writer: Ian https://t.co/cC3ddRMmcc",
-      "url": "https://x.com/MarioNawfal/status/2093629730595680601",
-      "criado": "2026-08-29T09:20:00+00:00",
-      "medicoes": {
-        "60": 25431,
-        "120": 33690,
-        "180": 41155,
-        "240": 47036,
-        "360": 57087
-      },
-      "alertado": false
-    },
-    "2093634764289040723": {
-      "autor": "MarioNawfal",
-      "texto": "For a moment, I thought that was going to go horribly wrong Writer: Ian https://t.co/UBi6G6W7Ld",
-      "url": "https://x.com/MarioNawfal/status/2093634764289040723",
-      "criado": "2026-08-29T09:40:00+00:00",
-      "medicoes": {
-        "60": 27239,
-        "120": 41948,
-        "180": 54120,
-        "240": 63567,
-        "360": 77405
-      },
-      "alertado": false
-    },
     "2093639799215378563": {
       "autor": "MarioNawfal",
       "texto": "🇺🇸 Clavicular just ran into a wall with his incredibly elegant pick-up line: \"Do you want me to show you my hotel room later in a totally sexual way?\" Looks like having money from convincing young men that the solution to their dating issues is using hammers on their faces only takes you so far. 🤣 Writer: Mhedi https://t.co/qmIctIM9yE",
@@ -51,7 +9,8 @@
         "60": 28958,
         "120": 56226,
         "180": 74390,
-        "240": 86827
+        "240": 86827,
+        "360": 102851
       },
       "alertado": false
     },
@@ -64,7 +23,8 @@
         "60": 20307,
         "120": 105458,
         "180": 113080,
-        "240": 118996
+        "240": 118996,
+        "360": 126664
       },
       "alertado": false
     },
@@ -77,7 +37,8 @@
         "60": 10797,
         "120": 27406,
         "180": 46579,
-        "240": 68270
+        "240": 68270,
+        "360": 163721
       },
       "alertado": false
     },
@@ -90,7 +51,8 @@
         "60": 23622,
         "120": 29229,
         "180": 32900,
-        "240": 38698
+        "240": 38698,
+        "360": 45463
       },
       "alertado": false
     },
@@ -103,7 +65,8 @@
         "60": 24005,
         "120": 69915,
         "180": 163190,
-        "240": 201895
+        "240": 201895,
+        "360": 255531
       },
       "alertado": false
     },
@@ -116,7 +79,8 @@
         "60": 6647,
         "120": 8224,
         "180": 9021,
-        "240": 9566
+        "240": 9566,
+        "360": 12757
       },
       "alertado": false
     },
@@ -129,7 +93,8 @@
         "60": 23440,
         "120": 30462,
         "180": 35031,
-        "240": 38501
+        "240": 38501,
+        "360": 53736
       },
       "alertado": false
     },
@@ -142,7 +107,8 @@
         "60": 7531,
         "120": 9752,
         "180": 10935,
-        "240": 11778
+        "240": 11778,
+        "360": 12777
       },
       "alertado": false
     },
@@ -362,7 +328,8 @@
       "medicoes": {
         "60": 24380,
         "120": 29895,
-        "180": 33745
+        "180": 33745,
+        "240": 38137
       },
       "alertado": false
     },
@@ -374,7 +341,8 @@
       "medicoes": {
         "60": 17897,
         "120": 24248,
-        "180": 27941
+        "180": 27941,
+        "240": 30615
       },
       "alertado": false
     },
@@ -386,7 +354,8 @@
       "medicoes": {
         "60": 28295,
         "120": 38083,
-        "180": 44695
+        "180": 44695,
+        "240": 48949
       },
       "alertado": false
     },
@@ -398,7 +367,8 @@
       "medicoes": {
         "60": 8102,
         "120": 10420,
-        "180": 11857
+        "180": 11857,
+        "240": 12739
       },
       "alertado": false
     },
@@ -410,7 +380,8 @@
       "medicoes": {
         "60": 9323,
         "120": 14141,
-        "180": 17015
+        "180": 17015,
+        "240": 19747
       },
       "alertado": false
     },
@@ -422,7 +393,8 @@
       "medicoes": {
         "60": 14454,
         "120": 21646,
-        "180": 29947
+        "180": 29947,
+        "240": 45642
       },
       "alertado": false
     },
@@ -434,7 +406,8 @@
       "medicoes": {
         "60": 7993,
         "120": 9916,
-        "180": 11095
+        "180": 11095,
+        "240": 11854
       },
       "alertado": false
     },
@@ -446,7 +419,8 @@
       "medicoes": {
         "60": 26029,
         "120": 30168,
-        "180": 33014
+        "180": 33014,
+        "240": 42388
       },
       "alertado": false
     },
@@ -458,7 +432,8 @@
       "medicoes": {
         "60": 6378,
         "120": 7626,
-        "180": 8530
+        "180": 8530,
+        "240": 9210
       },
       "alertado": false
     },
@@ -613,7 +588,8 @@
       "criado": "2026-08-29T13:10:00+00:00",
       "medicoes": {
         "60": 32455,
-        "120": 56284
+        "120": 56284,
+        "180": 71450
       },
       "alertado": false
     },
@@ -624,7 +600,8 @@
       "criado": "2026-08-29T13:05:01+00:00",
       "medicoes": {
         "60": 496,
-        "120": 713
+        "120": 713,
+        "180": 996
       },
       "alertado": false
     },
@@ -635,7 +612,8 @@
       "criado": "2026-08-29T13:00:56+00:00",
       "medicoes": {
         "60": 17592,
-        "120": 23648
+        "120": 23648,
+        "180": 28442
       },
       "alertado": false
     },
@@ -646,7 +624,8 @@
       "criado": "2026-08-29T13:00:02+00:00",
       "medicoes": {
         "60": 23884,
-        "120": 29717
+        "120": 29717,
+        "180": 33404
       },
       "alertado": false
     },
@@ -657,7 +636,8 @@
       "criado": "2026-08-29T12:59:23+00:00",
       "medicoes": {
         "60": 440,
-        "120": 821
+        "120": 821,
+        "180": 1126
       },
       "alertado": false
     },
@@ -668,7 +648,8 @@
       "criado": "2026-08-29T12:55:00+00:00",
       "medicoes": {
         "60": 27470,
-        "120": 33372
+        "120": 33372,
+        "180": 37096
       },
       "alertado": false
     },
@@ -679,7 +660,8 @@
       "criado": "2026-08-29T12:53:59+00:00",
       "medicoes": {
         "60": 488,
-        "120": 889
+        "120": 889,
+        "180": 1289
       },
       "alertado": false
     },
@@ -690,7 +672,8 @@
       "criado": "2026-08-29T12:50:33+00:00",
       "medicoes": {
         "60": 20600,
-        "120": 26900
+        "120": 26900,
+        "180": 31833
       },
       "alertado": false
     },
@@ -701,7 +684,8 @@
       "criado": "2026-08-29T12:50:00+00:00",
       "medicoes": {
         "60": 88706,
-        "120": 140440
+        "120": 140440,
+        "180": 179829
       },
       "alertado": false
     },
@@ -712,7 +696,8 @@
       "criado": "2026-08-29T12:45:00+00:00",
       "medicoes": {
         "60": 35608,
-        "120": 43191
+        "120": 43191,
+        "180": 48651
       },
       "alertado": false
     },
@@ -723,7 +708,8 @@
       "criado": "2026-08-29T12:43:03+00:00",
       "medicoes": {
         "60": 15424,
-        "120": 30164
+        "120": 30164,
+        "180": 41085
       },
       "alertado": false
     },
@@ -843,7 +829,8 @@
       "url": "https://x.com/MarioNawfal/status/2093702712148029605",
       "criado": "2026-08-29T14:10:00+00:00",
       "medicoes": {
-        "60": 28102
+        "60": 28102,
+        "120": 40160
       },
       "alertado": false
     },
@@ -853,7 +840,8 @@
       "url": "https://x.com/MarioNawfal/status/2093700202322411547",
       "criado": "2026-08-29T14:00:01+00:00",
       "medicoes": {
-        "60": 27758
+        "60": 27758,
+        "120": 33758
       },
       "alertado": false
     },
@@ -863,7 +851,8 @@
       "url": "https://x.com/MachadoDarlon/status/2093699348009771186",
       "criado": "2026-08-29T13:56:38+00:00",
       "medicoes": {
-        "60": 588
+        "60": 588,
+        "120": 1235
       },
       "alertado": false
     },
@@ -873,7 +862,8 @@
       "url": "https://x.com/nexta_tv/status/2093698584503881959",
       "criado": "2026-08-29T13:53:36+00:00",
       "medicoes": {
-        "60": 25461
+        "60": 25461,
+        "120": 34418
       },
       "alertado": false
     },
@@ -883,7 +873,8 @@
       "url": "https://x.com/clashreport/status/2093697764836143570",
       "criado": "2026-08-29T13:50:20+00:00",
       "medicoes": {
-        "60": 10996
+        "60": 10996,
+        "120": 12992
       },
       "alertado": false
     },
@@ -893,7 +884,8 @@
       "url": "https://x.com/MarioNawfal/status/2093697679079719409",
       "criado": "2026-08-29T13:50:00+00:00",
       "medicoes": {
-        "60": 36885
+        "60": 36885,
+        "120": 47923
       },
       "alertado": false
     },
@@ -903,7 +895,8 @@
       "url": "https://x.com/MachadoDarlon/status/2093696455055741106",
       "criado": "2026-08-29T13:45:08+00:00",
       "medicoes": {
-        "60": 781
+        "60": 781,
+        "120": 1221
       },
       "alertado": false
     },
@@ -913,7 +906,8 @@
       "url": "https://x.com/clashreport/status/2093695509277884583",
       "criado": "2026-08-29T13:41:23+00:00",
       "medicoes": {
-        "60": 70439
+        "60": 70439,
+        "120": 116981
       },
       "alertado": false
     },
@@ -1052,7 +1046,9 @@
       "texto": "🇮🇱🇺🇸 A transgender former IDF intelligence specialist is facing deportation from the U.S. after serving time for kidnapping and interrogating a man at gunpoint. Allison Alon, formerly Avishay Alon, served in the IDF’s elite Unit 81 before later working at Amazon and Microsoft. Prosecutors said Alon and an accomplice held an acquaintance captive for hours at Alon’s New Hampshire home, pointing a gu...",
       "url": "https://x.com/MarioNawfal/status/2093717811441041580",
       "criado": "2026-08-29T15:10:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 26901
+      },
       "alertado": false
     },
     "2093717391637131517": {
@@ -1060,7 +1056,9 @@
       "texto": "Dr. Muzammil Ayyub Thakur (@M_A_Thakur) | Kashmiri Political Activist | World Kashmir Freedom Movement (WKFM): Israel's every move in Palestine, Lebanon & Syria draws international attention & reaction. India commits what amounts to an apocalypse in Kashmir - annexes the entire territory - with barely a response. Controversially but deliberately, the argument is this: India has succeeded where Isr...",
       "url": "https://x.com/clashreport/status/2093717391637131517",
       "criado": "2026-08-29T15:08:20+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 8291
+      },
       "alertado": false
     },
     "2093716332776992905": {
@@ -1068,7 +1066,9 @@
       "texto": "🇳🇵 The clearest look at what started the catastrophic floods in Nepal! New footage, obtained and verified by the New York Times, shows the Langtang Lirung collapse on August 26. The hikers heard it before they saw it. One crack, loud enough that they turned. Then the ice went, and the rock behind it, down into the valley, and the dust came up over all of it. A second video catches the debris alrea...",
       "url": "https://x.com/MarioNawfal/status/2093716332776992905",
       "criado": "2026-08-29T15:04:07+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 44599
+      },
       "alertado": false
     },
     "2093715959550808297": {
@@ -1076,7 +1076,9 @@
       "texto": "🐙🚩 😏 Do alto de um prédio residencial, um agente de segurança acompanhou a movimentação durante a passagem do presidente Lula pelo bairro da Liberdade, em Salvador (BA). Posicionado em um ponto elevado e com roupa camuflada, o agente observava o entorno enquanto o presidente participava de uma caminhada de campanha pela Estrada da Liberdade, na sexta-feira (28/8). O esquema de segurança acompanhou...",
       "url": "https://x.com/MachadoDarlon/status/2093715959550808297",
       "criado": "2026-08-29T15:02:38+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 699
+      },
       "alertado": false
     },
     "2093715175463633332": {
@@ -1084,7 +1086,9 @@
       "texto": "🇫🇮 🇮🇱 Finland quietly extended its defense-cooperation agreement with Israel through 2034, reportedly without publicly announcing the decision. The agreement covers military R&D, procurement, maintenance, upgrades and training and was renewed in 2024, after the Gaza war had already begun. Finland has become increasingly reliant on Israeli defense technology, including David’s Sling air defense, Sp...",
       "url": "https://x.com/MarioNawfal/status/2093715175463633332",
       "criado": "2026-08-29T14:59:31+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 23015
+      },
       "alertado": false
     },
     "2093712792624734365": {
@@ -1092,7 +1096,9 @@
       "texto": "🤔🪖🍉 CONCORDO A PRIORIDADE É BROCHA, TINTA E PINCEL ! 🎨🖌 O Tribunal de Contas da União (TCU) determinou que o Exército anule uma licitação de R$ 5,8 milhões para a compra de motocicletas que previa modelos específicos das marcas Yamaha e Triumph. O processo já havia sido homologado, as empresas vencedoras estavam definidas e uma ata de registro de preços havia sido assinada quando o caso chegou ao...",
       "url": "https://x.com/MachadoDarlon/status/2093712792624734365",
       "criado": "2026-08-29T14:50:03+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 455
+      },
       "alertado": false
     },
     "2093712778376933473": {
@@ -1100,7 +1106,9 @@
       "texto": "🇹🇷🇮🇷 These are Iranians in Turkey after crossing at Van Province. The city of Kapıköy is still open, and they do not need visas to get there, so the buses keep coming. Last night, some of them were in the street with the music up. Shops and hotels in Van are busy. Reality next door might be quite the opposite, and many people are asking for it. Writer: Lucas https://t.co/oUIdpINjzM",
       "url": "https://x.com/MarioNawfal/status/2093712778376933473",
       "criado": "2026-08-29T14:50:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 67687
+      },
       "alertado": false
     },
     "2093712724979028352": {
@@ -1108,7 +1116,9 @@
       "texto": "New exclusive footage obtained and verified by The New York Times gives the clearest view yet of the Aug. 26 Langtang Lirung collapse that triggered the catastrophic Nepal–Tibet floods. Hikers heard a huge crack before ice, rock and debris plunged into the valley, throwing up an enormous dust cloud. Another video captures debris racing downhill immediately after the collapse—the beginning of the d...",
       "url": "https://x.com/clashreport/status/2093712724979028352",
       "criado": "2026-08-29T14:49:47+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 42779
+      },
       "alertado": false
     },
     "2093711610611126712": {
@@ -1116,7 +1126,9 @@
       "texto": "Dr. Muzammil Ayyub Thakur (@M_A_Thakur) | Kashmiri Political Activist | World Kashmir Freedom Movement (WKFM): Hindutva is not confined to India's borders - it seeks to export itself, just like Zionism. Hindutva's believes in \"Akhand Bharat\" - a pan-Hindu nation stretching beyond Afghanistan, Nepal, Bangladesh, Pakistan & Iran. Their literature goes as far as claiming the Holy Kaaba is a Hindu tem...",
       "url": "https://x.com/clashreport/status/2093711610611126712",
       "criado": "2026-08-29T14:45:21+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 8572
+      },
       "alertado": false
     },
     "2093711451361816970": {
@@ -1124,7 +1136,9 @@
       "texto": "🚨⚠️*Conteúdo Sensível* ⚠️ - Um passeio em família terminou em desespero após um cão avançar contra o cachorro de uma mulher que empurrava o carrinho com o filho. No susto, ela tentou salvar o próprio pet e acabou deixando o carrinho cair no chão durante a reação. Pessoas que passavam pelo local intervieram para afastar o animal agressor e controlar a situação. O episódio dividiu opiniões nas redes...",
       "url": "https://x.com/MachadoDarlon/status/2093711451361816970",
       "criado": "2026-08-29T14:44:43+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 661
+      },
       "alertado": false
     },
     "2093711219173871774": {
@@ -1132,7 +1146,9 @@
       "texto": "🇺🇸 RFK Jr.: children shouldn’t be allowed to make life-altering decisions with permanent consequences “We don’t let kids drink and drive because their judgment is bad. We don’t give them driver’s licenses because we don’t want them to make decisions that affect them forever. The ones who made those choices are not doing well.” Among the sane it's always been clear: if society accepts that children...",
       "url": "https://x.com/MarioNawfal/status/2093711219173871774",
       "criado": "2026-08-29T14:43:48+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 42713
+      },
       "alertado": false
     },
     "2093711214631092628": {
@@ -1140,7 +1156,9 @@
       "texto": "Finland quietly extended its defence-cooperation MoU with Israel for 10 years, through 2034, without publicly announcing it. The agreement covers military R&D, procurement, maintenance, upgrades and training. The extension was approved in 2024, after the Gaza war began, and reinforces Finland’s long-term reliance on Israeli systems such as David’s Sling, Spike and Gabriel. Source: yle",
       "url": "https://x.com/clashreport/status/2093711214631092628",
       "criado": "2026-08-29T14:43:47+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 10536
+      },
       "alertado": false
     },
     "2093725361649463390": {
@@ -1284,6 +1302,94 @@
       "texto": "DOGS MAY BE HIDING CLUES TO HUMAN LONGEVITY Scientists studying thousands of molecules in dogs’ blood have discovered metabolic fingerprints linked to longer and shorter lifespans, and remarkably, many resemble the same patterns seen in humans. The Dog Aging Project compared its results with five large human mortality studies and found broadly similar biological signals involving metabolism, infla...",
       "url": "https://x.com/MarioNawfal/status/2093719026161852531",
       "criado": "2026-08-29T15:14:49+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093732911275028747": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸🇻🇪 Trump says the U.S. has secured a historic deal giving it control over access to 65 billion barrels of Venezuelan oil. Venezuela’s interim president calls it an economic lifeline. Trump calls it historic. For once, both descriptions may fit. After years of sanctions, Maduro, diplomatic hostility and enough political chaos to fill several Latin American soap operas, Washington and Caracas sudd...",
+      "url": "https://x.com/MarioNawfal/status/2093732911275028747",
+      "criado": "2026-08-29T16:10:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093732127560880211": {
+      "autor": "MachadoDarlon",
+      "texto": "📍🇪🇨 EQUADOR: 🚨⚠️ Um motim de detentos provocou tensão em um centro penitenciário do Equador neste sábado. Forças de segurança foram mobilizadas para tentar restaurar a ordem, enquanto as causas dos distúrbios seguem sob investigação. https://t.co/2pePyDeMdN",
+      "url": "https://x.com/MachadoDarlon/status/2093732127560880211",
+      "criado": "2026-08-29T16:06:53+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093730984965374255": {
+      "autor": "MachadoDarlon",
+      "texto": "🫣🥴😂 GESTOS CONTRA LULA E JERÔNIMO ACENDEM ALERTA NO PT BAIANO‼️ 🚨 Moradores fizeram gestos de reprovação durante a passagem de Lula e Jerônimo Rodrigues por Salvador nesta sexta-feira (28), em meio a uma campanha na qual o PT tenta transformar a força eleitoral do presidente na Bahia em votos para a reeleição do governador. 📊 Mas os números mostram um cenário mais complexo do que as imagens isolad...",
+      "url": "https://x.com/MachadoDarlon/status/2093730984965374255",
+      "criado": "2026-08-29T16:02:21+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093730458617917779": {
+      "autor": "nexta_tv",
+      "texto": "Putin keeps the war going despite mounting problems in Russia, betting that Ukraine will collapse first — NYT Despite worsening economic prospects, rising military spending, Ukrainian strikes inside Russia and declining support for the Russian military’s actions, Putin still appears to believe that time is on his side. His strategy is to outlast Ukraine: wait until Kyiv faces critical shortages of...",
+      "url": "https://x.com/nexta_tv/status/2093730458617917779",
+      "criado": "2026-08-29T16:00:15+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093730400606749019": {
+      "autor": "MarioNawfal",
+      "texto": "🇮🇱 Footage from the West Bank shows masked Israeli settlers arriving in vehicles as the IDF moves in to disperse them The specific claim that this group arrived in white Toyota pickups and escaped before arrests could be made has not yet been independently confirmed. But the broader pattern is well documented: masked settlers have repeatedly entered Palestinian communities in vehicles, attacking r...",
+      "url": "https://x.com/MarioNawfal/status/2093730400606749019",
+      "criado": "2026-08-29T16:00:01+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093730398077321303": {
+      "autor": "clashreport",
+      "texto": "Ethiopia’s Nile gamble risks turning water into a weapon. https://t.co/6wZBhE9Ifl",
+      "url": "https://x.com/clashreport/status/2093730398077321303",
+      "criado": "2026-08-29T16:00:01+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093729136502083847": {
+      "autor": "MarioNawfal",
+      "texto": "🇮🇷 Iranian Parliament Speaker Mohammad Bagher Ghalibaf is publicly taunting Treasury Secretary Scott Bessent after Bessent claimed the U.S. had guided 130 million barrels of oil through the Strait of Hormuz in 14 days. “Liar liar pants on fire,” Ghalibaf wrote, pointing instead to what he says are $130+ billion in US war costs and more than $130 million lost by Jane Street shorting oil futures. He...",
+      "url": "https://x.com/MarioNawfal/status/2093729136502083847",
+      "criado": "2026-08-29T15:55:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093727877842014344": {
+      "autor": "MarioNawfal",
+      "texto": "🇵🇰 Pakistan has unveiled the D-248, a new kamikaze drone with a claimed range of up to 3,000 km, carrying 30–50 kg warheads for long-range one-way strikes. Its Shahed-style design emphasizes low-cost, long-endurance attacks, potentially giving Pakistan a significantly deeper strike capability. It arrives as Pakistan joins Saudi Arabia and Türkiye in the Mecca mutual-defence pact as Gulf states inc...",
+      "url": "https://x.com/MarioNawfal/status/2093727877842014344",
+      "criado": "2026-08-29T15:50:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093727103741272514": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸 RFK Jr. says the Trump administration is overhauling military meals as part of its broader push away from ultra-processed food “Our soldiers are getting high-quality food for the first time in history” The Pentagon has been rolling out new “nutritional readiness” initiatives, while a new dining facility at Fort Drum was launched specifically around providing troops with more nutritious, high-qu...",
+      "url": "https://x.com/MarioNawfal/status/2093727103741272514",
+      "criado": "2026-08-29T15:46:55+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093726116313977260": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸🇨🇦 Brace yourselves, Trump plans to deploy the ducks. Checkmate, Ottawa 🦆 Source: @realDonaldTrump / Writer: Lucas https://t.co/vsTM7omWWL",
+      "url": "https://x.com/MarioNawfal/status/2093726116313977260",
+      "criado": "2026-08-29T15:43:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093725671054884941": {
+      "autor": "clashreport",
+      "texto": "Iran's Ghalibaf: Liar liar pants on fire. For real 130s, tell your staffer to pull Moody's showing $130+ billion in war costs, and ask another how much Jane Street burned north of $130 million shorting oil for you in just one futures roll. Liar liar yields on fire. https://t.co/gO4vn1csjr",
+      "url": "https://x.com/clashreport/status/2093725671054884941",
+      "criado": "2026-08-29T15:41:14+00:00",
       "medicoes": {},
       "alertado": false
     }
@@ -1443,9 +1549,6 @@
     },
     "MarioNawfal": {
       "60": [
-        29225,
-        17739,
-        21489,
         18601,
         19835,
         22625,
@@ -1482,12 +1585,12 @@
         23693,
         19584,
         20973,
-        20683
+        20683,
+        23417,
+        25431,
+        27239
       ],
       "120": [
-        36252,
-        21852,
-        25233,
         22021,
         23556,
         27413,
@@ -1524,12 +1627,12 @@
         32823,
         24798,
         25026,
-        26594
+        26594,
+        33029,
+        33690,
+        41948
       ],
       "180": [
-        40747,
-        26907,
-        28256,
         27313,
         28623,
         30461,
@@ -1566,12 +1669,12 @@
         41327,
         31610,
         31340,
-        31379
+        31379,
+        40944,
+        41155,
+        54120
       ],
       "240": [
-        44382,
-        29976,
-        31061,
         31680,
         33735,
         36539,
@@ -1608,12 +1711,12 @@
         47711,
         40450,
         39162,
-        40251
+        40251,
+        46823,
+        47036,
+        63567
       ],
       "360": [
-        51621,
-        33756,
-        34435,
         36298,
         39827,
         47214,
@@ -1650,7 +1753,10 @@
         56725,
         55323,
         52346,
-        56734
+        56734,
+        55144,
+        57087,
+        77405
       ]
     },
     "MachadoDarlon": {
@@ -2502,6 +2608,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-08-29T15:40:18+00:00",
+  "ultima_busca": "2026-08-29T16:10:18+00:00",
   "alertas_enviados": 0
 }
