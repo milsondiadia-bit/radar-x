@@ -1,47 +1,5 @@
 {
   "posts": {
-    "2093415866708934717": {
-      "autor": "MarioNawfal",
-      "texto": "🇦🇺 Police in Sydney moved a group of Muslim worshippers who had gathered to pray in a public roadway, directing them to clear the street. A certain teacher from Nazareth for example taught to pray in solitude. Cause praying is a relationship with God, nothing to show off publicly. Freedom of worship doesn’t automatically come with right-of-way. Should be obvious. For some it isn't. Writer: Oliver...",
-      "url": "https://x.com/MarioNawfal/status/2093415866708934717",
-      "criado": "2026-08-28T19:10:11+00:00",
-      "medicoes": {
-        "60": 35002,
-        "120": 57447,
-        "180": 73379,
-        "240": 83668,
-        "360": 92826
-      },
-      "alertado": false
-    },
-    "2093415821397606473": {
-      "autor": "MarioNawfal",
-      "texto": "🇷🇺 Russia is now making only around 70% of the gasoline it needs. Ukrainian drone attacks have knocked several major refineries offline, leaving Russia short by around 35,000 tons of gasoline every day. Fuel restrictions are back in some regions, with drivers facing purchase limits and even certain days they’re allowed to fill up based on their license plate. Russia has banned gasoline exports and...",
-      "url": "https://x.com/MarioNawfal/status/2093415821397606473",
-      "criado": "2026-08-28T19:10:00+00:00",
-      "medicoes": {
-        "60": 22580,
-        "120": 27784,
-        "180": 30950,
-        "240": 37101,
-        "360": 40058
-      },
-      "alertado": false
-    },
-    "2093414563349704739": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 Tennessee Gov. Bill Lee and Nashville International Airport have announced plans to rename BNA in honor of Dolly Parton, working alongside the Dollywood Foundation and Imagination Library. The proposal would attach one of Tennessee’s most famous names to the state’s busiest airport while keeping the familiar BNA code. Frankly, if anyone has accumulated enough Tennessee points to get an airport,...",
-      "url": "https://x.com/MarioNawfal/status/2093414563349704739",
-      "criado": "2026-08-28T19:05:00+00:00",
-      "medicoes": {
-        "60": 23835,
-        "120": 30657,
-        "180": 35443,
-        "240": 38208,
-        "360": 42669
-      },
-      "alertado": false
-    },
     "2093423091716153530": {
       "autor": "NewsLiberdade",
       "texto": "🚨AGORA - Eduardo Saverin, um dos criadores do Facebook, é apontado como brasileiro mais rico do mundo pela Forbes, com fortuna de R$ 162,9 bilhões https://t.co/x4URGf8h7y",
@@ -51,7 +9,8 @@
         "60": 7122,
         "120": 10243,
         "180": 12556,
-        "240": 15609
+        "240": 15609,
+        "360": 22116
       },
       "alertado": false
     },
@@ -64,7 +23,8 @@
         "60": 24464,
         "120": 28794,
         "180": 31082,
-        "240": 37283
+        "240": 37283,
+        "360": 41277
       },
       "alertado": false
     },
@@ -77,7 +37,8 @@
         "60": 27360,
         "120": 41907,
         "180": 51076,
-        "240": 56626
+        "240": 56626,
+        "360": 62855
       },
       "alertado": false
     },
@@ -90,7 +51,8 @@
         "60": 39709,
         "120": 51602,
         "180": 57230,
-        "240": 59922
+        "240": 59922,
+        "360": 62708
       },
       "alertado": false
     },
@@ -103,7 +65,8 @@
         "60": 11373,
         "120": 15256,
         "180": 17364,
-        "240": 18980
+        "240": 18980,
+        "360": 21336
       },
       "alertado": false
     },
@@ -116,7 +79,8 @@
         "60": 21126,
         "120": 27174,
         "180": 30098,
-        "240": 31599
+        "240": 31599,
+        "360": 33445
       },
       "alertado": false
     },
@@ -708,7 +672,8 @@
       "medicoes": {
         "60": 11625,
         "120": 14606,
-        "180": 15850
+        "180": 15850,
+        "240": 16637
       },
       "alertado": false
     },
@@ -720,7 +685,8 @@
       "medicoes": {
         "60": 26601,
         "120": 32819,
-        "180": 36324
+        "180": 36324,
+        "240": 38800
       },
       "alertado": false
     },
@@ -732,7 +698,8 @@
       "medicoes": {
         "60": 4243,
         "120": 4406,
-        "180": 4450
+        "180": 4450,
+        "240": 4486
       },
       "alertado": false
     },
@@ -744,7 +711,8 @@
       "medicoes": {
         "60": 21536,
         "120": 24686,
-        "180": 28494
+        "180": 28494,
+        "240": 33626
       },
       "alertado": false
     },
@@ -1049,7 +1017,8 @@
       "criado": "2026-08-28T22:40:00+00:00",
       "medicoes": {
         "60": 10385,
-        "120": 13818
+        "120": 13818,
+        "180": 15822
       },
       "alertado": false
     },
@@ -1060,7 +1029,8 @@
       "criado": "2026-08-28T22:38:01+00:00",
       "medicoes": {
         "60": 998,
-        "120": 3412
+        "120": 3412,
+        "180": 5657
       },
       "alertado": false
     },
@@ -1071,7 +1041,8 @@
       "criado": "2026-08-28T22:32:56+00:00",
       "medicoes": {
         "60": 1598,
-        "120": 3188
+        "120": 3188,
+        "180": 4455
       },
       "alertado": false
     },
@@ -1082,7 +1053,8 @@
       "criado": "2026-08-28T22:32:43+00:00",
       "medicoes": {
         "60": 42380,
-        "120": 77844
+        "120": 77844,
+        "180": 113299
       },
       "alertado": false
     },
@@ -1267,7 +1239,8 @@
       "url": "https://x.com/nexta_tv/status/2093483769009201514",
       "criado": "2026-08-28T23:40:00+00:00",
       "medicoes": {
-        "60": 13821
+        "60": 13821,
+        "120": 21677
       },
       "alertado": false
     },
@@ -1426,7 +1399,9 @@
       "texto": "🚨URGENTE - Flávio Bolsonaro diz que o patrocínio de Vorcaro ao Filme Dark Horse é o mesmo que a Globo recebeu “É o mesmo patrocínio de R$ 160 milhões de Vorcaro a Globo para o programa de Luciano Hulk” https://t.co/NUwqdaUepJ",
       "url": "https://x.com/NewsLiberdade/status/2093498944395321805",
       "criado": "2026-08-29T00:40:18+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 178915
+      },
       "alertado": false
     },
     "2093498891266093113": {
@@ -1434,7 +1409,9 @@
       "texto": "🇦🇺 If you’re buried, you won’t care what crawls in first... Australian researchers strapped cameras and remote syringes to Queensland’s giant burrowing cockroaches (the heaviest on Earth) and taught them to reach a body robots can’t. One roach finds you, another lines up, and a human still pulls the trigger. In tests they hit from 15 cm almost every time, and the full crawl-and-shot worked in most...",
       "url": "https://x.com/MarioNawfal/status/2093498891266093113",
       "criado": "2026-08-29T00:40:05+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 20976
+      },
       "alertado": false
     },
     "2093497145781375368": {
@@ -1442,7 +1419,9 @@
       "texto": "🇧🇾🇺🇦 Russia is massing troops in Belarus and Lukashenko flies to meet Putin this weekend Larry Johnson joined tonight, and the buildup north of Chernihiv led the conversation. Russian forces and equipment have been moving into Belarus for a month, with its president heading to Russia for closed-door talks in days. The assessment discussed was that Belarusian troops stay in reserve while the threat...",
       "url": "https://x.com/MarioNawfal/status/2093497145781375368",
       "criado": "2026-08-29T00:33:09+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 54447
+      },
       "alertado": false
     },
     "2093504159731380686": {
@@ -1636,6 +1615,22 @@
       "criado": "2026-08-29T01:13:03+00:00",
       "medicoes": {},
       "alertado": false
+    },
+    "2093513982367637748": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸🇷🇺 The CIA director owns a private jet, so why did he fly a cargo plane to Moscow? Robert Barnes, Trump's former lawyer, laid out a theory that keeps surfacing across our guests. The director has a Gulfstream with secure communications and range to spare, yet took a C-17. Barnes argues the giveaway is what a C-17 carries that a G5 cannot, and points to a theory first floated by Commodore Steve J...",
+      "url": "https://x.com/MarioNawfal/status/2093513982367637748",
+      "criado": "2026-08-29T01:40:03+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093512379300471067": {
+      "autor": "NewsLiberdade",
+      "texto": "🚨AGORA - Flávio Bolsonaro diz que Eduardo Bolsonaro não defendeu trocar o PIX “Foi uma distorção do que ele falou, ele só disse que lá nos EUA também tem uma ferramenta parecida” https://t.co/o9YZG3WmbA",
+      "url": "https://x.com/NewsLiberdade/status/2093512379300471067",
+      "criado": "2026-08-29T01:33:41+00:00",
+      "medicoes": {},
+      "alertado": false
     }
   },
   "baseline": {
@@ -1703,9 +1698,6 @@
     },
     "MarioNawfal": {
       "60": [
-        25664,
-        39340,
-        24430,
         22339,
         71245,
         27614,
@@ -1742,12 +1734,12 @@
         41280,
         58073,
         45428,
-        29212
+        29212,
+        35002,
+        22580,
+        23835
       ],
       "120": [
-        32789,
-        53636,
-        28367,
         26641,
         181735,
         34280,
@@ -1784,12 +1776,12 @@
         48749,
         93219,
         53096,
-        34935
+        34935,
+        57447,
+        27784,
+        30657
       ],
       "180": [
-        38196,
-        66285,
-        35557,
         29809,
         455546,
         39444,
@@ -1826,12 +1818,12 @@
         52215,
         121424,
         56212,
-        37588
+        37588,
+        73379,
+        30950,
+        35443
       ],
       "240": [
-        76162,
-        42617,
-        73621,
         43262,
         35634,
         43377,
@@ -1868,12 +1860,12 @@
         54233,
         154716,
         58507,
-        39875
+        39875,
+        83668,
+        37101,
+        38208
       ],
       "360": [
-        110231,
-        49129,
-        81696,
         51085,
         40946,
         52366,
@@ -1910,7 +1902,10 @@
         56294,
         205851,
         61826,
-        42821
+        42821,
+        92826,
+        40058,
+        42669
       ]
     },
     "MachadoDarlon": {
@@ -2637,6 +2632,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-08-29T01:31:18+00:00",
+  "ultima_busca": "2026-08-29T01:40:24+00:00",
   "alertas_enviados": 0
 }
