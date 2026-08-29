@@ -1,75 +1,5 @@
 {
   "posts": {
-    "2093481253743845408": {
-      "autor": "MarioNawfal",
-      "texto": "🇱🇷🇺🇲 An American plane landed in Liberia last Thursday with 20 people who had been deported from the U.S. Instead of being returned to their home countries, they were flown to the African nation as part of a new agreement with Liberian President Joseph Boakai. Maybe that’s why 5 migrants refused to leave the aircraft and flew on to Equatorial Guinea. Liberian Information Min. Jerolinmek Matthew Pi...",
-      "url": "https://x.com/MarioNawfal/status/2093481253743845408",
-      "criado": "2026-08-28T23:30:00+00:00",
-      "medicoes": {
-        "60": 21491,
-        "120": 27209,
-        "180": 31562,
-        "240": 37864,
-        "360": 45563
-      },
-      "alertado": false
-    },
-    "2093478735705981158": {
-      "autor": "nexta_tv",
-      "texto": "Straight out of a dystopian movie: footage of a massive line for the metro in St. Petersburg has gone viral online. https://t.co/AXf1fNmpPq",
-      "url": "https://x.com/nexta_tv/status/2093478735705981158",
-      "criado": "2026-08-28T23:20:00+00:00",
-      "medicoes": {
-        "60": 15694,
-        "120": 24289,
-        "180": 30761,
-        "240": 36513,
-        "360": 52154
-      },
-      "alertado": false
-    },
-    "2093478707176312917": {
-      "autor": "NewsLiberdade",
-      "texto": "🚨AGORA - Polícia e o Exército da Colômbia desmantelaram um laboratório clandestino capaz de produzir 2 toneladas de cocaína por mês Resultados da operação: 695 quilos de cocaína apreendidos 185 galões de insumos líquidos 1.619 quilos de insumos sólidos https://t.co/I12QIO0Kz1",
-      "url": "https://x.com/NewsLiberdade/status/2093478707176312917",
-      "criado": "2026-08-28T23:19:53+00:00",
-      "medicoes": {
-        "60": 7947,
-        "120": 10719,
-        "180": 11869,
-        "240": 12351,
-        "360": 12778
-      },
-      "alertado": false
-    },
-    "2093477477586960564": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 A 41-year-old MAN ran onto the field and tripped a 9-year-old scoring a touchdown Then ran away like a COWARD Cops only got him at a traffic stop where he confessed His punishment? A citation and a season ban NOT GOOD ENOUGH... he should never be near a youth game again! Writer: Daniel https://t.co/a90RZIlSW8",
-      "url": "https://x.com/MarioNawfal/status/2093477477586960564",
-      "criado": "2026-08-28T23:15:00+00:00",
-      "medicoes": {
-        "60": 26127,
-        "120": 30887,
-        "180": 34343,
-        "240": 42178,
-        "360": 49897
-      },
-      "alertado": false
-    },
-    "2093476591733002550": {
-      "autor": "MachadoDarlon",
-      "texto": "🇧🇷🙏🔥🕊 - Flávio Bolsonaro afirmou que, caso seja eleito presidente da República, pretende declarar em seu primeiro ato que “o Brasil pertence a Jesus Cristo”. A fala reforça a presença da fé cristã no discurso do senador e rapidamente ganhou repercussão nas redes sociais. Enquanto apoiadores celebraram a declaração, críticos questionaram a mistura entre religião e política. ✝️ 👀 O episódio deve con...",
-      "url": "https://x.com/MachadoDarlon/status/2093476591733002550",
-      "criado": "2026-08-28T23:11:29+00:00",
-      "medicoes": {
-        "60": 873,
-        "120": 2130,
-        "180": 2856,
-        "240": 3257,
-        "360": 3549
-      },
-      "alertado": false
-    },
     "2093483769009201514": {
       "autor": "nexta_tv",
       "texto": "In the Ukrainian city of Khmelnytskyi, a man said he supports Russia — karma came instantly. https://t.co/XXUpeazM0j",
@@ -93,7 +23,8 @@
         "60": 18555,
         "120": 21790,
         "180": 28250,
-        "240": 32320
+        "240": 32320,
+        "360": 35551
       },
       "alertado": false
     },
@@ -106,7 +37,8 @@
         "60": 6437,
         "120": 8143,
         "180": 10120,
-        "240": 12595
+        "240": 12595,
+        "360": 19326
       },
       "alertado": false
     },
@@ -119,7 +51,8 @@
         "60": 10766,
         "120": 15156,
         "180": 16411,
-        "240": 17199
+        "240": 17199,
+        "360": 18162
       },
       "alertado": false
     },
@@ -132,7 +65,8 @@
         "60": 28714,
         "120": 41874,
         "180": 50361,
-        "240": 58446
+        "240": 58446,
+        "360": 69421
       },
       "alertado": false
     },
@@ -145,7 +79,8 @@
         "60": 772,
         "120": 1461,
         "180": 1784,
-        "240": 1989
+        "240": 1989,
+        "360": 2203
       },
       "alertado": false
     },
@@ -158,7 +93,8 @@
         "60": 35078,
         "120": 48404,
         "180": 58034,
-        "240": 66349
+        "240": 66349,
+        "360": 75238
       },
       "alertado": false
     },
@@ -664,7 +600,8 @@
       "medicoes": {
         "60": 31201,
         "120": 45623,
-        "180": 54850
+        "180": 54850,
+        "240": 62004
       },
       "alertado": false
     },
@@ -676,7 +613,8 @@
       "medicoes": {
         "60": 684,
         "120": 1045,
-        "180": 1240
+        "180": 1240,
+        "240": 1356
       },
       "alertado": false
     },
@@ -688,7 +626,8 @@
       "medicoes": {
         "60": 18427,
         "120": 22071,
-        "180": 26142
+        "180": 26142,
+        "240": 29979
       },
       "alertado": false
     },
@@ -700,7 +639,8 @@
       "medicoes": {
         "60": 524,
         "120": 630,
-        "180": 750
+        "180": 750,
+        "240": 801
       },
       "alertado": false
     },
@@ -712,7 +652,8 @@
       "medicoes": {
         "60": 20887,
         "120": 25648,
-        "180": 30430
+        "180": 30430,
+        "240": 38834
       },
       "alertado": false
     },
@@ -724,7 +665,8 @@
       "medicoes": {
         "60": 11613,
         "120": 13091,
-        "180": 13783
+        "180": 13783,
+        "240": 14076
       },
       "alertado": false
     },
@@ -736,7 +678,8 @@
       "medicoes": {
         "60": 1440,
         "120": 2465,
-        "180": 2807
+        "180": 2807,
+        "240": 3133
       },
       "alertado": false
     },
@@ -748,7 +691,8 @@
       "medicoes": {
         "60": 514,
         "120": 802,
-        "180": 1046
+        "180": 1046,
+        "240": 1174
       },
       "alertado": false
     },
@@ -760,7 +704,8 @@
       "medicoes": {
         "60": 32975,
         "120": 45664,
-        "180": 54233
+        "180": 54233,
+        "240": 62792
       },
       "alertado": false
     },
@@ -772,7 +717,8 @@
       "medicoes": {
         "60": 22805,
         "120": 29389,
-        "180": 34260
+        "180": 34260,
+        "240": 42758
       },
       "alertado": false
     },
@@ -915,7 +861,8 @@
       "criado": "2026-08-29T03:00:00+00:00",
       "medicoes": {
         "60": 17617,
-        "120": 21477
+        "120": 21477,
+        "180": 27073
       },
       "alertado": false
     },
@@ -926,7 +873,8 @@
       "criado": "2026-08-29T02:52:21+00:00",
       "medicoes": {
         "60": 456,
-        "120": 704
+        "120": 704,
+        "180": 834
       },
       "alertado": false
     },
@@ -937,7 +885,8 @@
       "criado": "2026-08-29T02:50:24+00:00",
       "medicoes": {
         "60": 26114,
-        "120": 35315
+        "120": 35315,
+        "180": 43338
       },
       "alertado": false
     },
@@ -948,7 +897,8 @@
       "criado": "2026-08-29T02:48:04+00:00",
       "medicoes": {
         "60": 620,
-        "120": 804
+        "120": 804,
+        "180": 882
       },
       "alertado": false
     },
@@ -959,7 +909,8 @@
       "criado": "2026-08-29T02:48:00+00:00",
       "medicoes": {
         "60": 20876,
-        "120": 25018
+        "120": 25018,
+        "180": 31295
       },
       "alertado": false
     },
@@ -970,7 +921,8 @@
       "criado": "2026-08-29T02:45:00+00:00",
       "medicoes": {
         "60": 28547,
-        "120": 41252
+        "120": 41252,
+        "180": 50828
       },
       "alertado": false
     },
@@ -981,7 +933,8 @@
       "criado": "2026-08-29T02:44:36+00:00",
       "medicoes": {
         "60": 40487,
-        "120": 57812
+        "120": 57812,
+        "180": 72346
       },
       "alertado": false
     },
@@ -1134,7 +1087,8 @@
       "url": "https://x.com/MarioNawfal/status/2093549200558735832",
       "criado": "2026-08-29T04:00:00+00:00",
       "medicoes": {
-        "60": 22625
+        "60": 22625,
+        "120": 27413
       },
       "alertado": false
     },
@@ -1144,7 +1098,8 @@
       "url": "https://x.com/MarioNawfal/status/2093545425370517640",
       "criado": "2026-08-29T03:45:00+00:00",
       "medicoes": {
-        "60": 26066
+        "60": 26066,
+        "120": 32710
       },
       "alertado": false
     },
@@ -1203,7 +1158,9 @@
       "texto": "This might be the MOST Florida coded clip in existence 😂 Guy tries to wrangle alligator but gets confronted by neighbors to “let her be” https://t.co/NMgULCmi2R",
       "url": "https://x.com/MarioNawfal/status/2093564719164444758",
       "criado": "2026-08-29T05:01:40+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 19769
+      },
       "alertado": false
     },
     "2093564305094439278": {
@@ -1211,7 +1168,9 @@
       "texto": "🇳🇬 Nigeria's outlook just improved because of the Iran war... Moody's revised the country to positive from stable on Friday, citing stronger foreign exchange reserves and growth ahead of expectations, while affirming the B3 rating. The agency expects Nigeria's current account surplus to stay sizeable even if oil prices fall materially. Africa's third-largest economy has ridden the crude surge driv...",
       "url": "https://x.com/MarioNawfal/status/2093564305094439278",
       "criado": "2026-08-29T05:00:01+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 17169
+      },
       "alertado": false
     },
     "2093564301181108387": {
@@ -1219,7 +1178,9 @@
       "texto": "🇺🇸🇲🇽 The Black Hawk lost power on takeoff, and started spinning toward the trees at El Salto, Durango, MX. A few seconds that usually end in a wreck, but the pilot put it down on its skids inside the base... with seven people on board. Only bruises, that’s it, but the cause still under investigation. The part that matters already happened: they walked away. Source: wfwitness (Telegram) / Writer: V...",
       "url": "https://x.com/MarioNawfal/status/2093564301181108387",
       "criado": "2026-08-29T05:00:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 16403
+      },
       "alertado": false
     },
     "2093562869870674246": {
@@ -1227,7 +1188,9 @@
       "texto": "🚨🇮🇷 🇺🇸 Tehran admits trade is down 35% and inflation is at 66%, as Iran's supreme leader broke his silence to tell his own government to fix the economy Iran's leadership just did something it almost never does: published its own pain. The president told state media that trade has collapsed 35% under sanctions and blockade, and the Supreme Leader, still unseen since the February attack that killed...",
       "url": "https://x.com/MarioNawfal/status/2093562869870674246",
       "criado": "2026-08-29T04:54:19+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 14669
+      },
       "alertado": false
     },
     "2093561580524802310": {
@@ -1235,7 +1198,9 @@
       "texto": "🇺🇸 A Starship every 48 minutes: That’s the number if Starbase Louisiana ever hits 30 flights a day. Elon says the site gets more than a dozen towers... its basically a conveyor belt. Right now rockets are events, but this plan treats them like departures. Construction is slated for 2027, with the first flight targeted around 2029. @SpaceX / Writer: Val https://t.co/QvzxngY674",
       "url": "https://x.com/MarioNawfal/status/2093561580524802310",
       "criado": "2026-08-29T04:49:11+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 20933
+      },
       "alertado": false
     },
     "2093560525103755540": {
@@ -1243,7 +1208,9 @@
       "texto": "🚨🇺🇸 NYPD just pulled 580 POUNDS of cartel cocaine out of a Queens storage unit The commissioner on the scale of it: \"More than a quarter of a metric ton of cocaine sitting in boxes and ready to move.\" Nelson Salcedo, 35, was cuffed mid-load Wednesday with 19 boxes between his van and the pavement, holding 230 bricks worth an estimated $10 million. The DEA says the trail runs straight back to the c...",
       "url": "https://x.com/MarioNawfal/status/2093560525103755540",
       "criado": "2026-08-29T04:45:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 21343
+      },
       "alertado": false
     },
     "2093560416722907374": {
@@ -1251,7 +1218,9 @@
       "texto": "🇺🇸🇮🇷 Iran didn’t come out of this war looking for a deal, but they were surely looking for a lesson. Washington still thinks pressure buys concessions, Tehran now thinks pressure is what you get after you concede. Tehran-based analyst Ali Akbar Dareini: “Iran has learned through war if you give any concessions to someone like Trump, you are done.” So any gesture is a signal that the squeeze works....",
       "url": "https://x.com/MarioNawfal/status/2093560416722907374",
       "criado": "2026-08-29T04:44:34+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 20845
+      },
       "alertado": false
     },
     "2093571849489990107": {
@@ -1267,6 +1236,22 @@
       "texto": "🇺🇸 He made videos on how to make the NFL, showing off his McLaren, Lamborghini, 49ers helmet... The whole package. Federal prosecutors now say Daejon Labrayae Love never played at all. The league and the 49ers told investigators he’d never been on a roster. The career was a costume. The cars were the bait, and dating apps were the door. Feds say at least 26 women were taken for more than $1.3 mill...",
       "url": "https://x.com/MarioNawfal/status/2093568074662514838",
       "criado": "2026-08-29T05:15:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093579404052218221": {
+      "autor": "MarioNawfal",
+      "texto": "Two tunnel machines are already under Nashville. The third is coming. Now The Boring Company needs humans. The Boring Company is hiring welders, electricians, engineers, mechanics and construction managers for the Music City Loop. Want to help build Nashville underneath Nashville? Someone has to build the shortcut. @boringcompany / Writer: Annette, Grok Imagine Designer: Janné",
+      "url": "https://x.com/MarioNawfal/status/2093579404052218221",
+      "criado": "2026-08-29T06:00:01+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093575624598458618": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸 Cargo ships that don’t stop for fuel... That’s the bet. The Department of Transportation wants nuclear merchant vessels: more payload because the tanks disappear, crossings up to 75% faster, roughly 20 years before anyone has to refuel. The first hull is targeted for 2028. China already builds the world’s ships, but this is Washington saying the next fleet doesn’t run on diesel, and that Americ...",
+      "url": "https://x.com/MarioNawfal/status/2093575624598458618",
+      "criado": "2026-08-29T05:45:00+00:00",
       "medicoes": {},
       "alertado": false
     }
@@ -1289,7 +1274,8 @@
         7760,
         12666,
         20237,
-        9860
+        9860,
+        7947
       ],
       "120": [
         429435,
@@ -1307,7 +1293,8 @@
         9917,
         17195,
         27596,
-        14111
+        14111,
+        10719
       ],
       "180": [
         429435,
@@ -1325,7 +1312,8 @@
         11578,
         20210,
         36198,
-        16012
+        16012,
+        11869
       ],
       "240": [
         429435,
@@ -1343,7 +1331,8 @@
         14016,
         21896,
         38094,
-        16751
+        16751,
+        12351
       ],
       "360": [
         429435,
@@ -1361,13 +1350,12 @@
         15002,
         23059,
         40375,
-        17477
+        17477,
+        12778
       ]
     },
     "MarioNawfal": {
       "60": [
-        22948,
-        25082,
         29662,
         68409,
         22577,
@@ -1405,11 +1393,11 @@
         24870,
         27937,
         20108,
-        29721
+        29721,
+        21491,
+        26127
       ],
       "120": [
-        27210,
-        32142,
         32447,
         35203,
         91842,
@@ -1447,11 +1435,11 @@
         31911,
         43440,
         23185,
-        46834
+        46834,
+        27209,
+        30887
       ],
       "180": [
-        29424,
-        35732,
         37580,
         38526,
         107714,
@@ -1489,11 +1477,11 @@
         36270,
         54839,
         26900,
-        58050
+        58050,
+        31562,
+        34343
       ],
       "240": [
-        34073,
-        38370,
         40756,
         40493,
         118003,
@@ -1531,11 +1519,11 @@
         40036,
         69552,
         29608,
-        65240
+        65240,
+        37864,
+        42178
       ],
       "360": [
-        37428,
-        50584,
         53098,
         45975,
         125214,
@@ -1573,12 +1561,13 @@
         54092,
         176494,
         32043,
-        73292
+        73292,
+        45563,
+        49897
       ]
     },
     "MachadoDarlon": {
       "60": [
-        650,
         3263,
         584,
         1009,
@@ -1617,10 +1606,10 @@
         998,
         1598,
         755,
-        829
+        829,
+        873
       ],
       "120": [
-        833,
         5353,
         844,
         1274,
@@ -1659,10 +1648,10 @@
         3412,
         3188,
         1007,
-        1624
+        1624,
+        2130
       ],
       "180": [
-        1066,
         6714,
         1110,
         1710,
@@ -1701,10 +1690,10 @@
         5657,
         4455,
         1199,
-        2177
+        2177,
+        2856
       ],
       "240": [
-        1337,
         7792,
         1274,
         2224,
@@ -1743,10 +1732,10 @@
         10502,
         5120,
         1338,
-        2476
+        2476,
+        3257
       ],
       "360": [
-        1632,
         9435,
         1481,
         2859,
@@ -1785,7 +1774,8 @@
         23849,
         5694,
         1496,
-        2733
+        2733,
+        3549
       ]
     },
     "clashreport": {
@@ -2240,7 +2230,8 @@
         9512,
         18491,
         10385,
-        8409
+        8409,
+        15694
       ],
       "120": [
         19760,
@@ -2269,7 +2260,8 @@
         11581,
         25134,
         13818,
-        10598
+        10598,
+        24289
       ],
       "180": [
         22399,
@@ -2298,7 +2290,8 @@
         15615,
         29220,
         15822,
-        11912
+        11912,
+        30761
       ],
       "240": [
         24895,
@@ -2327,7 +2320,8 @@
         19354,
         32266,
         17529,
-        13140
+        13140,
+        36513
       ],
       "360": [
         28012,
@@ -2356,10 +2350,11 @@
         24867,
         38110,
         22096,
-        19379
+        19379,
+        52154
       ]
     }
   },
-  "ultima_busca": "2026-08-29T05:40:23+00:00",
+  "ultima_busca": "2026-08-29T06:01:58+00:00",
   "alertas_enviados": 0
 }
