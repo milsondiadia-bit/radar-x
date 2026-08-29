@@ -135,7 +135,8 @@
         "60": 178915,
         "120": 318957,
         "180": 374176,
-        "240": 399097
+        "240": 399097,
+        "360": 420029
       },
       "alertado": false
     },
@@ -148,7 +149,8 @@
         "60": 20976,
         "120": 25853,
         "180": 29248,
-        "240": 38398
+        "240": 38398,
+        "360": 45868
       },
       "alertado": false
     },
@@ -161,7 +163,8 @@
         "60": 54447,
         "120": 89407,
         "180": 123568,
-        "240": 160154
+        "240": 160154,
+        "360": 193829
       },
       "alertado": false
     },
@@ -758,7 +761,8 @@
       "medicoes": {
         "60": 21228,
         "120": 25958,
-        "180": 29000
+        "180": 29000,
+        "240": 34097
       },
       "alertado": false
     },
@@ -770,7 +774,8 @@
       "medicoes": {
         "60": 1032,
         "120": 1580,
-        "180": 1835
+        "180": 1835,
+        "240": 2009
       },
       "alertado": false
     },
@@ -1009,7 +1014,8 @@
       "criado": "2026-08-29T03:33:51+00:00",
       "medicoes": {
         "60": 19835,
-        "120": 23556
+        "120": 23556,
+        "180": 28623
       },
       "alertado": false
     },
@@ -1063,7 +1069,8 @@
       "url": "https://x.com/MarioNawfal/status/2093558648890888467",
       "criado": "2026-08-29T04:37:32+00:00",
       "medicoes": {
-        "60": 16269
+        "60": 16269,
+        "120": 17862
       },
       "alertado": false
     },
@@ -1073,7 +1080,8 @@
       "url": "https://x.com/MarioNawfal/status/2093558406883811460",
       "criado": "2026-08-29T04:36:35+00:00",
       "medicoes": {
-        "60": 21086
+        "60": 21086,
+        "120": 26652
       },
       "alertado": false
     },
@@ -1083,7 +1091,8 @@
       "url": "https://x.com/MarioNawfal/status/2093557216410300837",
       "criado": "2026-08-29T04:31:51+00:00",
       "medicoes": {
-        "60": 24332
+        "60": 24332,
+        "120": 33001
       },
       "alertado": false
     },
@@ -1222,6 +1231,54 @@
       "texto": "🇺🇸 I know there's the Second Amendment, but some people shouldn't be allowed anywhere near guns Writer: Ian https://t.co/xqCHQttiBA",
       "url": "https://x.com/MarioNawfal/status/2093584432347460086",
       "criado": "2026-08-29T06:20:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093589465470320744": {
+      "autor": "MarioNawfal",
+      "texto": "Hasan Piker set himself up for that one 😂 Writer: Ian https://t.co/rAhsDMslYI",
+      "url": "https://x.com/MarioNawfal/status/2093589465470320744",
+      "criado": "2026-08-29T06:40:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093588841596645761": {
+      "autor": "clashreport",
+      "texto": "Ukrainian strikes hit Russia’s Rostov region, reportedly setting DNS and Ozon warehouses on fire. https://t.co/0nDZrEM2fB",
+      "url": "https://x.com/clashreport/status/2093588841596645761",
+      "criado": "2026-08-29T06:37:31+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093588673983909972": {
+      "autor": "nexta_tv",
+      "texto": "💥 Discount night in Russia’s Rostov region: Ukrainian drones paid a visit to several warehouses at once According to Ukrainian monitoring channels, a DNS electronics warehouse, a Chizhik grocery distribution center, and an Ozon facility were hit. Ozon rushed to reassure everyone that there was only a “small fire” that was supposedly extinguished quickly. A Russian classic: if a warehouse is burnin...",
+      "url": "https://x.com/nexta_tv/status/2093588673983909972",
+      "criado": "2026-08-29T06:36:51+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093588255044170057": {
+      "autor": "clashreport",
+      "texto": "Trump: Very sad to hear about the passing of King Harald of Norway — A strong, proud, and greatly respected man. He loved his Country, and was truly loved and respected by his people. Our hearts are with the Royal Family, and all of Norway, during this difficult time. A truly BIG loss!",
+      "url": "https://x.com/clashreport/status/2093588255044170057",
+      "criado": "2026-08-29T06:35:11+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093587997065122162": {
+      "autor": "clashreport",
+      "texto": "A White House teleprompter operator was ordered to pay $172,000 after using nonpublic information about Trump’s upcoming speeches to place prediction-market bets on Kalshi. Gabriel Perez must repay $107,539 in profits, pay a $65,000 fine, and is banned from prediction-market trading for three years. Source: NBC News",
+      "url": "https://x.com/clashreport/status/2093587997065122162",
+      "criado": "2026-08-29T06:34:10+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093587643892134338": {
+      "autor": "clashreport",
+      "texto": "The U.S. has transferred large quantities of missiles and air-defense systems to the Middle East for the Iran war, leaving some stockpiles in Europe and Asia at critically low levels, according to U.S. officials. Patriot, ATACMS and other precision weapons have been heavily depleted, while THAAD interceptors and counterdrone systems have also been shifted to the region. Replenishing inventories co...",
+      "url": "https://x.com/clashreport/status/2093587643892134338",
+      "criado": "2026-08-29T06:32:45+00:00",
       "medicoes": {},
       "alertado": false
     }
@@ -2340,6 +2397,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-08-29T06:31:29+00:00",
+  "ultima_busca": "2026-08-29T06:40:21+00:00",
   "alertas_enviados": 0
 }
