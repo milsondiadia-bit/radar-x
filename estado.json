@@ -1,33 +1,5 @@
 {
   "posts": {
-    "2093549200558735832": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 Flashback to the early days of @Tesla. Fremont, 2015: Model X launch. Elon parks next to another car so tight a normal door would eat the paint, then he hits the Falcon Wing. It rises first, folds, feels the gap, and slips through it without a scrape. The room goes quiet, then loses it. At the time engineers told him this door was a bad idea, and the thing works as inteded in front of thousands...",
-      "url": "https://x.com/MarioNawfal/status/2093549200558735832",
-      "criado": "2026-08-29T04:00:00+00:00",
-      "medicoes": {
-        "60": 22625,
-        "120": 27413,
-        "180": 30461,
-        "240": 36539,
-        "360": 47214
-      },
-      "alertado": false
-    },
-    "2093545425370517640": {
-      "autor": "MarioNawfal",
-      "texto": "🚨🇺🇸 AOC is overhauling her staff ahead of a possible 2028 presidential run. Campaign manager gone. Creative director gone. Old aides brought back in. Her team is stacked with Bernie Sanders alumni. Two failed presidential campaigns worth of staff... Third time's the charm, right?🤣 Source: Axios / Writer: Daniel",
-      "url": "https://x.com/MarioNawfal/status/2093545425370517640",
-      "criado": "2026-08-29T03:45:00+00:00",
-      "medicoes": {
-        "60": 26066,
-        "120": 32710,
-        "180": 37127,
-        "240": 40927,
-        "360": 55377
-      },
-      "alertado": false
-    },
     "2093556751895277873": {
       "autor": "MarioNawfal",
       "texto": "🇷🇺 Every provocation Moscow has tried on NATO has produced almost no response, which is exactly the problem... Drones over Poland and Romania, aircraft brushing Estonia, explosives on a German tarmac. A year of it, met with Article 4 consultations and enhanced defensive measures. NATO's restraint was deliberate and correct, since the whole point of a provocation is to draw the punch. But the Wall...",
@@ -37,7 +9,8 @@
         "60": 20779,
         "120": 28636,
         "180": 34419,
-        "240": 39055
+        "240": 39055,
+        "360": 53191
       },
       "alertado": false
     },
@@ -50,7 +23,8 @@
         "60": 21554,
         "120": 24942,
         "180": 28522,
-        "240": 30856
+        "240": 30856,
+        "360": 34835
       },
       "alertado": false
     },
@@ -257,7 +231,8 @@
       "medicoes": {
         "60": 27728,
         "120": 40574,
-        "180": 50016
+        "180": 50016,
+        "240": 57666
       },
       "alertado": false
     },
@@ -269,7 +244,8 @@
       "medicoes": {
         "60": 40149,
         "120": 66458,
-        "180": 97548
+        "180": 97548,
+        "240": 148055
       },
       "alertado": false
     },
@@ -281,7 +257,8 @@
       "medicoes": {
         "60": 25183,
         "120": 30996,
-        "180": 35806
+        "180": 35806,
+        "240": 41538
       },
       "alertado": false
     },
@@ -396,7 +373,8 @@
       "criado": "2026-08-29T07:30:00+00:00",
       "medicoes": {
         "60": 21523,
-        "120": 27589
+        "120": 27589,
+        "180": 32785
       },
       "alertado": false
     },
@@ -407,7 +385,8 @@
       "criado": "2026-08-29T07:20:00+00:00",
       "medicoes": {
         "60": 33597,
-        "120": 80930
+        "120": 80930,
+        "180": 150660
       },
       "alertado": false
     },
@@ -418,7 +397,8 @@
       "criado": "2026-08-29T07:15:57+00:00",
       "medicoes": {
         "60": 16423,
-        "120": 20406
+        "120": 20406,
+        "180": 23022
       },
       "alertado": false
     },
@@ -560,7 +540,8 @@
       "url": "https://x.com/MarioNawfal/status/2093617150560715018",
       "criado": "2026-08-29T08:30:00+00:00",
       "medicoes": {
-        "60": 21429
+        "60": 21429,
+        "120": 29369
       },
       "alertado": false
     },
@@ -570,7 +551,8 @@
       "url": "https://x.com/clashreport/status/2093616004349735290",
       "criado": "2026-08-29T08:25:27+00:00",
       "medicoes": {
-        "60": 6323
+        "60": 6323,
+        "120": 8330
       },
       "alertado": false
     },
@@ -580,7 +562,8 @@
       "url": "https://x.com/clashreport/status/2093615470674854104",
       "criado": "2026-08-29T08:23:20+00:00",
       "medicoes": {
-        "60": 9946
+        "60": 9946,
+        "120": 14258
       },
       "alertado": false
     },
@@ -590,7 +573,8 @@
       "url": "https://x.com/clashreport/status/2093614436778959124",
       "criado": "2026-08-29T08:19:13+00:00",
       "medicoes": {
-        "60": 21620
+        "60": 21620,
+        "120": 35078
       },
       "alertado": false
     },
@@ -600,7 +584,8 @@
       "url": "https://x.com/clashreport/status/2093613040021233958",
       "criado": "2026-08-29T08:13:40+00:00",
       "medicoes": {
-        "60": 9615
+        "60": 9615,
+        "120": 15037
       },
       "alertado": false
     },
@@ -610,7 +595,8 @@
       "url": "https://x.com/clashreport/status/2093612690874785967",
       "criado": "2026-08-29T08:12:17+00:00",
       "medicoes": {
-        "60": 6558
+        "60": 6558,
+        "120": 8323
       },
       "alertado": false
     },
@@ -699,7 +685,9 @@
       "texto": "🇺🇸🇮🇷 Iran refuses to budge after Trump claimed the MOU is gone and never coming back President Masoud Pezeshkian: \"They were supposed to lift the blockade. They were supposed to lift the oil and petrochemical sanctions. If they lift them, we'll continue, otherwise we won't. 100% of what we want will not happen, and 100% of what they want will not happen.\" Writer: Mhedi https://t.co/YgIluqJQI8",
       "url": "https://x.com/MarioNawfal/status/2093632247744385199",
       "criado": "2026-08-29T09:30:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 23417
+      },
       "alertado": false
     },
     "2093629730595680601": {
@@ -707,7 +695,9 @@
       "texto": "You'd think it would be all over after he was stabbed, but this guy is built different Writer: Ian https://t.co/cC3ddRMmcc",
       "url": "https://x.com/MarioNawfal/status/2093629730595680601",
       "criado": "2026-08-29T09:20:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 25431
+      },
       "alertado": false
     },
     "2093634764289040723": {
@@ -779,6 +769,22 @@
       "texto": "US Will Take Majority Control of Vast Venezuelan Oil Reserves Trump said a US-led venture would gain majority control over 65 billion barrels of proven Venezuelan reserves, with Washington controlling 55% of effective output and securing crude at cost. https://t.co/V7PRuJqi4H",
       "url": "https://x.com/clashreport/status/2093642005200921083",
       "criado": "2026-08-29T10:08:46+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093647347007807648": {
+      "autor": "MarioNawfal",
+      "texto": "🇷🇺🇨🇳 Putin and Xi will attend the Shanghai Cooperation Organisation summit in Bishkek, Kyrgyzstan, together with the leaders of Iran, India, and Pakistan They're scheduled to arrive on Monday, and Putin is due to hold a one-on-one meeting with Iran's president Pezeshkian on the sidelines Russia, China, and Pakistan have already rejected Trump's sanctions on Iran, which is no doubt going to feature...",
+      "url": "https://x.com/MarioNawfal/status/2093647347007807648",
+      "criado": "2026-08-29T10:30:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093644830295675000": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸 AOC just had another accent change in front of a crowd loyal to Al Sharpton in D.C. Just months ago, she sounded like a Southern Baptist preacher; now this. She must have no idea how the internet works. 🤣 Writer: Mhedi https://t.co/1AjnVYALRG https://t.co/oKLm8KTrGK",
+      "url": "https://x.com/MarioNawfal/status/2093644830295675000",
+      "criado": "2026-08-29T10:20:00+00:00",
       "medicoes": {},
       "alertado": false
     }
@@ -938,8 +944,6 @@
     },
     "MarioNawfal": {
       "60": [
-        23146,
-        22528,
         20976,
         54447,
         18326,
@@ -977,11 +981,11 @@
         17739,
         21489,
         18601,
-        19835
+        19835,
+        22625,
+        26066
       ],
       "120": [
-        27130,
-        26626,
         25853,
         89407,
         21529,
@@ -1019,11 +1023,11 @@
         21852,
         25233,
         22021,
-        23556
+        23556,
+        27413,
+        32710
       ],
       "180": [
-        34499,
-        32532,
         29248,
         123568,
         24644,
@@ -1061,11 +1065,11 @@
         26907,
         28256,
         27313,
-        28623
+        28623,
+        30461,
+        37127
       ],
       "240": [
-        41405,
-        40748,
         38398,
         160154,
         26664,
@@ -1103,11 +1107,11 @@
         29976,
         31061,
         31680,
-        33735
+        33735,
+        36539,
+        40927
       ],
       "360": [
-        48348,
-        45384,
         45868,
         193829,
         29084,
@@ -1145,7 +1149,9 @@
         33756,
         34435,
         36298,
-        39827
+        39827,
+        47214,
+        55377
       ]
     },
     "MachadoDarlon": {
@@ -1967,6 +1973,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-08-29T10:10:23+00:00",
+  "ultima_busca": "2026-08-29T10:31:31+00:00",
   "alertas_enviados": 0
 }
