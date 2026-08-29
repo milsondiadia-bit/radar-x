@@ -1,61 +1,5 @@
 {
   "posts": {
-    "2093506247748149492": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸🇷🇺🇮🇱 Tucker says Russia, U.S., and Israel are treating nukes like bigger artillery, and the planet should panic. Moscow rewrote its doctrine in 2024 to allow nuclear response to a major conventional strike. Washington is now reviewing guidance for more “usable” options in regional wars. Israel’s arsenal remains the world’s worst-kept secret. A review of smaller warheads isn’t a launch order. It...",
-      "url": "https://x.com/MarioNawfal/status/2093506247748149492",
-      "criado": "2026-08-29T01:09:19+00:00",
-      "medicoes": {
-        "60": 21650,
-        "120": 29573,
-        "180": 33990,
-        "240": 38963,
-        "360": 52831
-      },
-      "alertado": false
-    },
-    "2093505967207903420": {
-      "autor": "MarioNawfal",
-      "texto": "🚨🇺🇸 CENTCOM says 82 commercial ships have now been turned around by the Iran blockade The command posted an image of a sailor on lookout watch aboard the destroyer USS John Paul Jones, saying that as of August 28 its forces have redirected 82 commercial vessels, disabled three and boarded two to ensure compliance. Cooper put that figure at 75 yesterday, so theoretically seven more merchant ships w...",
-      "url": "https://x.com/MarioNawfal/status/2093505967207903420",
-      "criado": "2026-08-29T01:08:12+00:00",
-      "medicoes": {
-        "60": 18823,
-        "120": 21888,
-        "180": 25936,
-        "240": 29193,
-        "360": 32658
-      },
-      "alertado": false
-    },
-    "2093505187486871583": {
-      "autor": "MachadoDarlon",
-      "texto": "🚨⚠️🤖 O crescimento digital da campanha presidencial de Augusto Cury (Avante) virou alvo de monitoramento e desconfiança após auditorias identificarem um pico de buscas anômalo de 5.000% pelo nome do candidato concentrado na Índia, uma região sem qualquer vínculo com o cenário político brasileiro. O fenômeno técnico coincidiu com a adesão repentina de 2,2 milhões de novos seguidores em suas redes s...",
-      "url": "https://x.com/MachadoDarlon/status/2093505187486871583",
-      "criado": "2026-08-29T01:05:06+00:00",
-      "medicoes": {
-        "60": 1172,
-        "120": 1433,
-        "180": 1546,
-        "240": 1633,
-        "360": 1761
-      },
-      "alertado": false
-    },
-    "2093504891020857735": {
-      "autor": "clashreport",
-      "texto": "Defense Secretary Pete Hegseth has privately discussed a possible 2028 presidential campaign with friends and associates, according to NBC News, though Hegseth denied the report. https://t.co/FmKJ1urLms",
-      "url": "https://x.com/clashreport/status/2093504891020857735",
-      "criado": "2026-08-29T01:03:56+00:00",
-      "medicoes": {
-        "60": 7594,
-        "120": 10514,
-        "180": 13040,
-        "240": 15626,
-        "360": 20260
-      },
-      "alertado": false
-    },
     "2093511451415900253": {
       "autor": "MarioNawfal",
       "texto": "🇳🇱 🇺🇸 The Netherlands just issued a RED ALERT on ecstasy pills stamped with Trump's face Side effects reportedly include hallucinations, spontaneous YMCA choreography, and an unquenchable craving for Diet Coke. Just kidding. The actual contents are PMMA, not MDMA. It hits late so people take more and overheat This one genuinely kills, so stay away! Source: NYP / Writers: Lucas, Daniel",
@@ -205,7 +149,8 @@
         "60": 56713,
         "120": 99446,
         "180": 138099,
-        "240": 174812
+        "240": 174812,
+        "360": 218049
       },
       "alertado": false
     },
@@ -218,7 +163,8 @@
         "60": 12016,
         "120": 13622,
         "180": 14307,
-        "240": 14680
+        "240": 14680,
+        "360": 15059
       },
       "alertado": false
     },
@@ -750,7 +696,8 @@
       "medicoes": {
         "60": 19835,
         "120": 23556,
-        "180": 28623
+        "180": 28623,
+        "240": 33735
       },
       "alertado": false
     },
@@ -809,7 +756,8 @@
       "criado": "2026-08-29T04:37:32+00:00",
       "medicoes": {
         "60": 16269,
-        "120": 17862
+        "120": 17862,
+        "180": 18906
       },
       "alertado": false
     },
@@ -820,7 +768,8 @@
       "criado": "2026-08-29T04:36:35+00:00",
       "medicoes": {
         "60": 21086,
-        "120": 26652
+        "120": 26652,
+        "180": 30442
       },
       "alertado": false
     },
@@ -831,7 +780,8 @@
       "criado": "2026-08-29T04:31:51+00:00",
       "medicoes": {
         "60": 24332,
-        "120": 33001
+        "120": 33001,
+        "180": 41506
       },
       "alertado": false
     },
@@ -1007,7 +957,9 @@
       "texto": "Ukrainian strikes hit Russia’s Rostov region, reportedly setting DNS and Ozon warehouses on fire. https://t.co/0nDZrEM2fB",
       "url": "https://x.com/clashreport/status/2093588841596645761",
       "criado": "2026-08-29T06:37:31+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 7264
+      },
       "alertado": false
     },
     "2093588673983909972": {
@@ -1015,7 +967,9 @@
       "texto": "💥 Discount night in Russia’s Rostov region: Ukrainian drones paid a visit to several warehouses at once According to Ukrainian monitoring channels, a DNS electronics warehouse, a Chizhik grocery distribution center, and an Ozon facility were hit. Ozon rushed to reassure everyone that there was only a “small fire” that was supposedly extinguished quickly. A Russian classic: if a warehouse is burnin...",
       "url": "https://x.com/nexta_tv/status/2093588673983909972",
       "criado": "2026-08-29T06:36:51+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 14137
+      },
       "alertado": false
     },
     "2093588255044170057": {
@@ -1023,7 +977,9 @@
       "texto": "Trump: Very sad to hear about the passing of King Harald of Norway — A strong, proud, and greatly respected man. He loved his Country, and was truly loved and respected by his people. Our hearts are with the Royal Family, and all of Norway, during this difficult time. A truly BIG loss!",
       "url": "https://x.com/clashreport/status/2093588255044170057",
       "criado": "2026-08-29T06:35:11+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 6409
+      },
       "alertado": false
     },
     "2093587997065122162": {
@@ -1031,7 +987,9 @@
       "texto": "A White House teleprompter operator was ordered to pay $172,000 after using nonpublic information about Trump’s upcoming speeches to place prediction-market bets on Kalshi. Gabriel Perez must repay $107,539 in profits, pay a $65,000 fine, and is banned from prediction-market trading for three years. Source: NBC News",
       "url": "https://x.com/clashreport/status/2093587997065122162",
       "criado": "2026-08-29T06:34:10+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 7742
+      },
       "alertado": false
     },
     "2093587643892134338": {
@@ -1039,7 +997,9 @@
       "texto": "The U.S. has transferred large quantities of missiles and air-defense systems to the Middle East for the Iran war, leaving some stockpiles in Europe and Asia at critically low levels, according to U.S. officials. Patriot, ATACMS and other precision weapons have been heavily depleted, while THAAD interceptors and counterdrone systems have also been shifted to the region. Replenishing inventories co...",
       "url": "https://x.com/clashreport/status/2093587643892134338",
       "criado": "2026-08-29T06:32:45+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 10024
+      },
       "alertado": false
     },
     "2093594503110447585": {
@@ -1087,6 +1047,22 @@
       "texto": "😱 Footage filmed in the immediate vicinity of the epicenter of yesterday’s explosion in the Bucha district of Kyiv region",
       "url": "https://x.com/nexta_tv/status/2093598515402322206",
       "criado": "2026-08-29T07:15:57+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093604565035663750": {
+      "autor": "MarioNawfal",
+      "texto": "Tesla finally showed up in Latvia. Naturally, Cybertruck is stealing the attention. The new Riga store brings Model 3, Model Y and Cybertruck, which is already doing a pretty good job of getting people to stop and stare. A local Model Y test drive came back impressed with the space, comfort and speed. Latvia was the last Baltic country without an official Tesla store. Not anymore. Now the whole re...",
+      "url": "https://x.com/MarioNawfal/status/2093604565035663750",
+      "criado": "2026-08-29T07:40:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093602849980654004": {
+      "autor": "nexta_tv",
+      "texto": "🕯️ August 29 — Day of Remembrance for the Defenders of Ukraine Today, Ukraine remembers those who gave their lives for its freedom, independence and future. This date is tied to one of the most tragic chapters of the Russo-Ukrainian war — the withdrawal of Ukrainian troops from the encirclement near Ilovaisk in 2014. Russian forces violated the agreed “green corridor” and opened fire on the Ukrain...",
+      "url": "https://x.com/nexta_tv/status/2093602849980654004",
+      "criado": "2026-08-29T07:33:11+00:00",
       "medicoes": {},
       "alertado": false
     }
@@ -1216,8 +1192,6 @@
     },
     "MarioNawfal": {
       "60": [
-        20514,
-        19969,
         37616,
         27400,
         26601,
@@ -1255,11 +1229,11 @@
         40508,
         35689,
         21641,
-        22334
+        22334,
+        21650,
+        18823
       ],
       "120": [
-        40277,
-        23915,
         24012,
         53441,
         32685,
@@ -1297,11 +1271,11 @@
         68959,
         53904,
         26478,
-        26397
+        26397,
+        29573,
+        21888
       ],
       "180": [
-        45603,
-        27308,
         28536,
         62968,
         35535,
@@ -1339,11 +1313,11 @@
         90907,
         67352,
         30769,
-        31018
+        31018,
+        33990,
+        25936
       ],
       "240": [
-        48464,
-        30647,
         34812,
         69825,
         40775,
@@ -1381,11 +1355,11 @@
         107839,
         79599,
         36872,
-        37055
+        37055,
+        38963,
+        29193
       ],
       "360": [
-        51571,
-        34163,
         40766,
         83077,
         50723,
@@ -1423,12 +1397,13 @@
         130123,
         90849,
         42007,
-        41296
+        41296,
+        52831,
+        32658
       ]
     },
     "MachadoDarlon": {
       "60": [
-        661,
         928,
         398,
         385,
@@ -1467,10 +1442,10 @@
         734,
         1422,
         1005,
-        1299
+        1299,
+        1172
       ],
       "120": [
-        1780,
         2003,
         615,
         738,
@@ -1509,10 +1484,10 @@
         794,
         2161,
         1534,
-        1468
+        1468,
+        1433
       ],
       "180": [
-        2730,
         3749,
         957,
         1033,
@@ -1551,10 +1526,10 @@
         948,
         2654,
         1663,
-        1537
+        1537,
+        1546
       ],
       "240": [
-        3650,
         5048,
         1259,
         1358,
@@ -1593,10 +1568,10 @@
         1033,
         2986,
         1716,
-        1568
+        1568,
+        1633
       ],
       "360": [
-        4625,
         7613,
         2050,
         1969,
@@ -1635,12 +1610,12 @@
         1094,
         3280,
         1807,
-        1704
+        1704,
+        1761
       ]
     },
     "clashreport": {
       "60": [
-        10344,
         12291,
         9758,
         13138,
@@ -1679,10 +1654,10 @@
         4243,
         14494,
         17257,
-        7152
+        7152,
+        7594
       ],
       "120": [
-        11715,
         15130,
         11255,
         18225,
@@ -1721,10 +1696,10 @@
         4406,
         20322,
         23193,
-        11464
+        11464,
+        10514
       ],
       "180": [
-        12608,
         16937,
         12329,
         21445,
@@ -1763,10 +1738,10 @@
         4450,
         23647,
         27876,
-        15185
+        15185,
+        13040
       ],
       "240": [
-        13202,
         18140,
         13120,
         23770,
@@ -1805,10 +1780,10 @@
         4486,
         26307,
         32383,
-        18792
+        18792,
+        15626
       ],
       "360": [
-        13939,
         19605,
         13891,
         26041,
@@ -1847,7 +1822,8 @@
         4551,
         30503,
         39514,
-        24618
+        24618,
+        20260
       ]
     },
     "Osint613": {
@@ -2230,6 +2206,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-08-29T07:31:33+00:00",
+  "ultima_busca": "2026-08-29T07:40:19+00:00",
   "alertas_enviados": 0
 }
