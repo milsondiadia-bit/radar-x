@@ -1,47 +1,5 @@
 {
   "posts": {
-    "2093430920804282826": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇲 Geopolitical analyst Peter Zeihan says Trump is functionally ending the longstanding U.S. alliance with South Korea. The commander-in-chief laid out his reasoning in a Truth Social post. Trump said he instructed Hegseth to reduce America’s annual joint military exercises with South Korea, which are meant to prepare for a North Korean invasion. It’s too costly. He then gives North Korea’s Kim Jo...",
-      "url": "https://x.com/MarioNawfal/status/2093430920804282826",
-      "criado": "2026-08-28T20:10:00+00:00",
-      "medicoes": {
-        "60": 23391,
-        "120": 27210,
-        "180": 29424,
-        "240": 34073,
-        "360": 37428
-      },
-      "alertado": false
-    },
-    "2093430732408402149": {
-      "autor": "MarioNawfal",
-      "texto": "🚽🧻 We do spend a lot of time during our lives on the toilet. Why not make sure your next one is a comfortable fit? https://t.co/U3madAmVlW",
-      "url": "https://x.com/MarioNawfal/status/2093430732408402149",
-      "criado": "2026-08-28T20:09:15+00:00",
-      "medicoes": {
-        "60": 22948,
-        "120": 32142,
-        "180": 35732,
-        "240": 38370,
-        "360": 50584
-      },
-      "alertado": false
-    },
-    "2093428891125727630": {
-      "autor": "clashreport",
-      "texto": "NEW: The U.S. is increasing pressure on Britain to raise defense spending, with Pentagon officials reportedly considering a change in Washington’s stance on the Falkland Islands as leverage. According to The Telegraph, U.S. officials believe the UK is not moving fast enough toward NATO’s new target of spending 5% of GDP on defense and security. Source: The Telegraph",
-      "url": "https://x.com/clashreport/status/2093428891125727630",
-      "criado": "2026-08-28T20:01:56+00:00",
-      "medicoes": {
-        "60": 18124,
-        "120": 26855,
-        "180": 32473,
-        "240": 35019,
-        "360": 38253
-      },
-      "alertado": false
-    },
     "2093438547067896015": {
       "autor": "clashreport",
       "texto": "Trump: Maggot Hagerman, the Fake Reporter from The Failing New York Times, an unattractive person both inside and out, and who knows less about me than most reporters on the beat (She’s a SCAMMER!), made up a story that on September 11th, I’m not going to the World Trade Center, in New York City, because they won’t let me make a speech, and I’m going to the Pentagon in D.C., because I’m a featured...",
@@ -51,7 +9,8 @@
         "60": 9364,
         "120": 12278,
         "180": 14012,
-        "240": 15060
+        "240": 15060,
+        "360": 16279
       },
       "alertado": false
     },
@@ -64,7 +23,8 @@
         "60": 24506,
         "120": 30932,
         "180": 34588,
-        "240": 37566
+        "240": 37566,
+        "360": 44926
       },
       "alertado": false
     },
@@ -77,7 +37,8 @@
         "60": 967,
         "120": 1651,
         "180": 2142,
-        "240": 2353
+        "240": 2353,
+        "360": 2612
       },
       "alertado": false
     },
@@ -90,7 +51,8 @@
         "60": 22429,
         "120": 26429,
         "180": 30297,
-        "240": 39728
+        "240": 39728,
+        "360": 47533
       },
       "alertado": false
     },
@@ -103,7 +65,8 @@
         "60": 26507,
         "120": 33116,
         "180": 37128,
-        "240": 40145
+        "240": 40145,
+        "360": 50367
       },
       "alertado": false
     },
@@ -790,7 +753,8 @@
       "medicoes": {
         "60": 10385,
         "120": 13818,
-        "180": 15822
+        "180": 15822,
+        "240": 17529
       },
       "alertado": false
     },
@@ -802,7 +766,8 @@
       "medicoes": {
         "60": 998,
         "120": 3412,
-        "180": 5657
+        "180": 5657,
+        "240": 10502
       },
       "alertado": false
     },
@@ -814,7 +779,8 @@
       "medicoes": {
         "60": 1598,
         "120": 3188,
-        "180": 4455
+        "180": 4455,
+        "240": 5120
       },
       "alertado": false
     },
@@ -826,7 +792,8 @@
       "medicoes": {
         "60": 42380,
         "120": 77844,
-        "180": 113299
+        "180": 113299,
+        "240": 150263
       },
       "alertado": false
     },
@@ -1027,7 +994,8 @@
       "criado": "2026-08-28T23:40:00+00:00",
       "medicoes": {
         "60": 13821,
-        "120": 21677
+        "120": 21677,
+        "180": 27605
       },
       "alertado": false
     },
@@ -1202,7 +1170,8 @@
       "url": "https://x.com/NewsLiberdade/status/2093498944395321805",
       "criado": "2026-08-29T00:40:18+00:00",
       "medicoes": {
-        "60": 178915
+        "60": 178915,
+        "120": 318957
       },
       "alertado": false
     },
@@ -1212,7 +1181,8 @@
       "url": "https://x.com/MarioNawfal/status/2093498891266093113",
       "criado": "2026-08-29T00:40:05+00:00",
       "medicoes": {
-        "60": 20976
+        "60": 20976,
+        "120": 25853
       },
       "alertado": false
     },
@@ -1222,7 +1192,8 @@
       "url": "https://x.com/MarioNawfal/status/2093497145781375368",
       "criado": "2026-08-29T00:33:09+00:00",
       "medicoes": {
-        "60": 54447
+        "60": 54447,
+        "120": 89407
       },
       "alertado": false
     },
@@ -1471,7 +1442,9 @@
       "texto": "🇺🇸🇷🇺 The CIA director owns a private jet, so why did he fly a cargo plane to Moscow? Robert Barnes, Trump's former lawyer, laid out a theory that keeps surfacing across our guests. The director has a Gulfstream with secure communications and range to spare, yet took a C-17. Barnes argues the giveaway is what a C-17 carries that a G5 cannot, and points to a theory first floated by Commodore Steve J...",
       "url": "https://x.com/MarioNawfal/status/2093513982367637748",
       "criado": "2026-08-29T01:40:03+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 56713
+      },
       "alertado": false
     },
     "2093512379300471067": {
@@ -1479,7 +1452,9 @@
       "texto": "🚨AGORA - Flávio Bolsonaro diz que Eduardo Bolsonaro não defendeu trocar o PIX “Foi uma distorção do que ele falou, ele só disse que lá nos EUA também tem uma ferramenta parecida” https://t.co/o9YZG3WmbA",
       "url": "https://x.com/NewsLiberdade/status/2093512379300471067",
       "criado": "2026-08-29T01:33:41+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 12016
+      },
       "alertado": false
     },
     "2093519290804605397": {
@@ -1633,6 +1608,22 @@
       "criado": "2026-08-29T02:15:00+00:00",
       "medicoes": {},
       "alertado": false
+    },
+    "2093528487885750571": {
+      "autor": "MarioNawfal",
+      "texto": "🇮🇱🇮🇷🇱🇧 Israel is pushing into Lebanon, and the questions Tucker and Joe Kent are asking is simpler than the maps: who pays if it spreads? Kent isn’t a pundit guessing from a green room, his case is that American troops in the region have become tripwires: hit us, and Washington has to double down on a fight he says was never America’s to start. \"We have yet to change the nature of our relationship...",
+      "url": "https://x.com/MarioNawfal/status/2093528487885750571",
+      "criado": "2026-08-29T02:37:42+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093528134733750503": {
+      "autor": "MachadoDarlon",
+      "texto": "🇧🇷🗳 ELEIÇÕES 2026: 😎🔥 A sabatina de Flávio Bolsonaro no Jornal Nacional ganhou um dos momentos mais tensos quando Renata Vasconcellos questionou o presidenciável sobre sua relação com Daniel Vorcaro, do Banco Master. Durante a troca, Flávio rebateu a cobrança e afirmou que o mesmo rigor deveria ser aplicado ao presidente Lula, citando reuniões com o banqueiro e questionando a resistência do govern...",
+      "url": "https://x.com/MachadoDarlon/status/2093528134733750503",
+      "criado": "2026-08-29T02:36:17+00:00",
+      "medicoes": {},
+      "alertado": false
     }
   },
   "baseline": {
@@ -1705,8 +1696,6 @@
     },
     "MarioNawfal": {
       "60": [
-        21608,
-        26368,
         22755,
         42131,
         33565,
@@ -1744,11 +1733,11 @@
         23627,
         46341,
         44987,
-        25721
+        25721,
+        23391,
+        22948
       ],
       "120": [
-        26988,
-        29608,
         27097,
         52892,
         51936,
@@ -1786,11 +1775,11 @@
         27715,
         55089,
         58982,
-        28461
+        28461,
+        27210,
+        32142
       ],
       "180": [
-        31616,
-        33005,
         29871,
         58445,
         61963,
@@ -1828,11 +1817,11 @@
         29998,
         59659,
         76531,
-        31236
+        31236,
+        29424,
+        35732
       ],
       "240": [
-        39955,
-        36718,
         37401,
         62217,
         65692,
@@ -1870,11 +1859,11 @@
         37700,
         62472,
         86347,
-        36355
+        36355,
+        34073,
+        38370
       ],
       "360": [
-        41997,
-        38397,
         39405,
         67078,
         68421,
@@ -1912,7 +1901,9 @@
         43294,
         68345,
         94869,
-        39590
+        39590,
+        37428,
+        50584
       ]
     },
     "MachadoDarlon": {
@@ -2124,7 +2115,6 @@
     },
     "clashreport": {
       "60": [
-        66414,
         12838,
         11667,
         12457,
@@ -2163,10 +2153,10 @@
         9968,
         12202,
         11773,
-        11373
+        11373,
+        18124
       ],
       "120": [
-        92895,
         15652,
         14245,
         16157,
@@ -2205,10 +2195,10 @@
         12128,
         14593,
         13716,
-        15256
+        15256,
+        26855
       ],
       "180": [
-        299829,
         17463,
         15440,
         18127,
@@ -2247,10 +2237,10 @@
         13173,
         15545,
         14663,
-        17364
+        17364,
+        32473
       ],
       "240": [
-        892064,
         18655,
         16333,
         19675,
@@ -2289,10 +2279,10 @@
         14057,
         16905,
         15509,
-        18980
+        18980,
+        35019
       ],
       "360": [
-        1751363,
         20273,
         17354,
         21922,
@@ -2331,7 +2321,8 @@
         15192,
         18653,
         16684,
-        21336
+        21336,
+        38253
       ]
     },
     "Osint613": {
@@ -2654,6 +2645,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-08-29T02:31:24+00:00",
+  "ultima_busca": "2026-08-29T02:40:24+00:00",
   "alertas_enviados": 0
 }
