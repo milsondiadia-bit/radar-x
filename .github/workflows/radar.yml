@@ -1,8 +1,6 @@
 name: Radar X
 
 on:
-  schedule:
-    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 permissions:
