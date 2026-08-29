@@ -1,33 +1,5 @@
 {
   "posts": {
-    "2093520931775766556": {
-      "autor": "MachadoDarlon",
-      "texto": "🚨🇧🇴 BOLIVIA: 🛫 Três aviões roubados há quase cinco anos do aeroporto de Aquidauana (MS) foram encontrados na Bolívia. Segundo as autoridades bolivianas, entre eles está uma aeronave do cantor e compositor Almir Sater. Os aviões foram levados em 2021, durante uma invasão ao aeroporto que envolveu ao menos 18 criminosos armados. A informação foi confirmada ao g1 pelo secretário de Segurança Cidadã d...",
-      "url": "https://x.com/MachadoDarlon/status/2093520931775766556",
-      "criado": "2026-08-29T02:07:40+00:00",
-      "medicoes": {
-        "60": 750,
-        "120": 990,
-        "180": 1103,
-        "240": 1212,
-        "360": 1442
-      },
-      "alertado": false
-    },
-    "2093520666230153535": {
-      "autor": "NewsLiberdade",
-      "texto": "🚨AGORA - Flávio Bolsonaro faz considerações finais na sabatina e foca na economia e segurança pública https://t.co/wecdyFOtQT",
-      "url": "https://x.com/NewsLiberdade/status/2093520666230153535",
-      "criado": "2026-08-29T02:06:37+00:00",
-      "medicoes": {
-        "60": 9721,
-        "120": 11469,
-        "180": 12243,
-        "240": 12641,
-        "360": 13061
-      },
-      "alertado": false
-    },
     "2093526551241572669": {
       "autor": "MarioNawfal",
       "texto": "🚨🇺🇸 Hegseth is weighing a second mass summons of America's generals and admirals to Quantico Set aside NBC’s report that Hegseth has told friends he is weighing a 2028 run, and Pete has a heavy few months ahead. Officials say he is considering bringing hundreds of senior military personnel back to the Marine Corps base where he delivered last September’s “no more beardos” address, this time to lay...",
@@ -135,7 +107,8 @@
         "60": 21228,
         "120": 25958,
         "180": 29000,
-        "240": 34097
+        "240": 34097,
+        "360": 41337
       },
       "alertado": false
     },
@@ -148,7 +121,8 @@
         "60": 1032,
         "120": 1580,
         "180": 1835,
-        "240": 2009
+        "240": 2009,
+        "360": 2395
       },
       "alertado": false
     },
@@ -472,7 +446,8 @@
       "medicoes": {
         "60": 16269,
         "120": 17862,
-        "180": 18906
+        "180": 18906,
+        "240": 19727
       },
       "alertado": false
     },
@@ -484,7 +459,8 @@
       "medicoes": {
         "60": 21086,
         "120": 26652,
-        "180": 30442
+        "180": 30442,
+        "240": 37013
       },
       "alertado": false
     },
@@ -689,7 +665,8 @@
       "url": "https://x.com/clashreport/status/2093588841596645761",
       "criado": "2026-08-29T06:37:31+00:00",
       "medicoes": {
-        "60": 7264
+        "60": 7264,
+        "120": 9780
       },
       "alertado": false
     },
@@ -699,7 +676,8 @@
       "url": "https://x.com/nexta_tv/status/2093588673983909972",
       "criado": "2026-08-29T06:36:51+00:00",
       "medicoes": {
-        "60": 14137
+        "60": 14137,
+        "120": 19342
       },
       "alertado": false
     },
@@ -709,7 +687,8 @@
       "url": "https://x.com/clashreport/status/2093588255044170057",
       "criado": "2026-08-29T06:35:11+00:00",
       "medicoes": {
-        "60": 6409
+        "60": 6409,
+        "120": 8408
       },
       "alertado": false
     },
@@ -719,7 +698,8 @@
       "url": "https://x.com/clashreport/status/2093587997065122162",
       "criado": "2026-08-29T06:34:10+00:00",
       "medicoes": {
-        "60": 7742
+        "60": 7742,
+        "120": 10861
       },
       "alertado": false
     },
@@ -729,7 +709,8 @@
       "url": "https://x.com/clashreport/status/2093587643892134338",
       "criado": "2026-08-29T06:32:45+00:00",
       "medicoes": {
-        "60": 10024
+        "60": 10024,
+        "120": 14313
       },
       "alertado": false
     },
@@ -798,7 +779,9 @@
       "texto": "Tesla finally showed up in Latvia. Naturally, Cybertruck is stealing the attention. The new Riga store brings Model 3, Model Y and Cybertruck, which is already doing a pretty good job of getting people to stop and stare. A local Model Y test drive came back impressed with the space, comfort and speed. Latvia was the last Baltic country without an official Tesla store. Not anymore. Now the whole re...",
       "url": "https://x.com/MarioNawfal/status/2093604565035663750",
       "criado": "2026-08-29T07:40:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 21527
+      },
       "alertado": false
     },
     "2093602849980654004": {
@@ -806,7 +789,9 @@
       "texto": "🕯️ August 29 — Day of Remembrance for the Defenders of Ukraine Today, Ukraine remembers those who gave their lives for its freedom, independence and future. This date is tied to one of the most tragic chapters of the Russo-Ukrainian war — the withdrawal of Ukrainian troops from the encirclement near Ilovaisk in 2014. Russian forces violated the agreed “green corridor” and opened fire on the Ukrain...",
       "url": "https://x.com/nexta_tv/status/2093602849980654004",
       "criado": "2026-08-29T07:33:11+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 10800
+      },
       "alertado": false
     },
     "2093609889067073702": {
@@ -936,6 +921,22 @@
       "criado": "2026-08-29T08:12:17+00:00",
       "medicoes": {},
       "alertado": false
+    },
+    "2093619664463245803": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇦🇷🇺 Kyiv looked like a scene from an apocalypse movie as Russia's latest attack struck overnight Putin launched a huge drone strike on a Ukrainian ammo dump, sparking a huge fireball and killing several people on the outskirts of the city Writer: Ian https://t.co/jHVelGItGH",
+      "url": "https://x.com/MarioNawfal/status/2093619664463245803",
+      "criado": "2026-08-29T08:40:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093618738931064968": {
+      "autor": "nexta_tv",
+      "texto": "🌊 Disaster in Nepal: death toll rises above 600, nearly 2,500 people still missing At least 626 people have been confirmed dead after devastating floods and mudslides in the Nepal-Tibet border region, while 2,478 people remain missing. In some of the worst-hit areas, authorities are running out of space to store bodies. Temporary facilities are being set up, while some victims are being transporte...",
+      "url": "https://x.com/nexta_tv/status/2093618738931064968",
+      "criado": "2026-08-29T08:36:19+00:00",
+      "medicoes": {},
+      "alertado": false
     }
   },
   "baseline": {
@@ -966,7 +967,8 @@
         37790,
         54860,
         12016,
-        11613
+        11613,
+        9721
       ],
       "120": [
         429435,
@@ -994,7 +996,8 @@
         42743,
         68602,
         13622,
-        13091
+        13091,
+        11469
       ],
       "180": [
         429435,
@@ -1022,7 +1025,8 @@
         45583,
         77219,
         14307,
-        13783
+        13783,
+        12243
       ],
       "240": [
         429435,
@@ -1050,7 +1054,8 @@
         46851,
         82142,
         14680,
-        14076
+        14076,
+        12641
       ],
       "360": [
         429435,
@@ -1078,7 +1083,8 @@
         48249,
         86001,
         15059,
-        14433
+        14433,
+        13061
       ]
     },
     "MarioNawfal": {
@@ -1295,7 +1301,6 @@
     },
     "MachadoDarlon": {
       "60": [
-        1619,
         435,
         516,
         549,
@@ -1334,10 +1339,10 @@
         684,
         524,
         1440,
-        514
+        514,
+        750
       ],
       "120": [
-        3296,
         787,
         939,
         696,
@@ -1376,10 +1381,10 @@
         1045,
         630,
         2465,
-        802
+        802,
+        990
       ],
       "180": [
-        4413,
         1052,
         1124,
         880,
@@ -1418,10 +1423,10 @@
         1240,
         750,
         2807,
-        1046
+        1046,
+        1103
       ],
       "240": [
-        5097,
         1241,
         1416,
         1125,
@@ -1460,10 +1465,10 @@
         1356,
         801,
         3133,
-        1174
+        1174,
+        1212
       ],
       "360": [
-        6187,
         1701,
         1766,
         1538,
@@ -1502,7 +1507,8 @@
         1707,
         862,
         3296,
-        1303
+        1303,
+        1442
       ]
     },
     "clashreport": {
@@ -2102,6 +2108,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-08-29T08:31:58+00:00",
+  "ultima_busca": "2026-08-29T08:40:19+00:00",
   "alertas_enviados": 0
 }
