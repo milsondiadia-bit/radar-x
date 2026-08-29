@@ -1,33 +1,5 @@
 {
   "posts": {
-    "2093474376964243745": {
-      "autor": "NewsLiberdade",
-      "texto": "🚨AGORA - Trump anuncia o \"maior acordo de petróleo da história mundial\" com a Venezuela. https://t.co/VINvGRKVp2",
-      "url": "https://x.com/NewsLiberdade/status/2093474376964243745",
-      "criado": "2026-08-28T23:02:40+00:00",
-      "medicoes": {
-        "60": 9860,
-        "120": 14111,
-        "180": 16012,
-        "240": 16751,
-        "360": 17477
-      },
-      "alertado": false
-    },
-    "2093474280864678073": {
-      "autor": "MarioNawfal",
-      "texto": "🚨🇺🇸🇻🇪 Trump announces \"the biggest oil deal in world history\": majority US control of more than 65 BILLION barrels of Venezuelan reserves. Rubio and Hegseth closed it with interim President Delcy Rodriguez, covering more than a dozen productive fields at no cost to the taxpayer, holdings that more than double America's proven reserves. It lands with Hormuz choked and the Strategic Petroleum Reserv...",
-      "url": "https://x.com/MarioNawfal/status/2093474280864678073",
-      "criado": "2026-08-28T23:02:18+00:00",
-      "medicoes": {
-        "60": 29721,
-        "120": 46834,
-        "180": 58050,
-        "240": 65240,
-        "360": 73292
-      },
-      "alertado": false
-    },
     "2093481253743845408": {
       "autor": "MarioNawfal",
       "texto": "🇱🇷🇺🇲 An American plane landed in Liberia last Thursday with 20 people who had been deported from the U.S. Instead of being returned to their home countries, they were flown to the African nation as part of a new agreement with Liberian President Joseph Boakai. Maybe that’s why 5 migrants refused to leave the aircraft and flew on to Equatorial Guinea. Liberian Information Min. Jerolinmek Matthew Pi...",
@@ -107,7 +79,8 @@
         "60": 13821,
         "120": 21677,
         "180": 27605,
-        "240": 32212
+        "240": 32212,
+        "360": 45813
       },
       "alertado": false
     },
@@ -665,7 +638,8 @@
       "medicoes": {
         "60": 56713,
         "120": 99446,
-        "180": 138099
+        "180": 138099,
+        "240": 174812
       },
       "alertado": false
     },
@@ -677,7 +651,8 @@
       "medicoes": {
         "60": 12016,
         "120": 13622,
-        "180": 14307
+        "180": 14307,
+        "240": 14680
       },
       "alertado": false
     },
@@ -916,7 +891,8 @@
       "criado": "2026-08-29T02:37:42+00:00",
       "medicoes": {
         "60": 21228,
-        "120": 25958
+        "120": 25958,
+        "180": 29000
       },
       "alertado": false
     },
@@ -927,7 +903,8 @@
       "criado": "2026-08-29T02:36:17+00:00",
       "medicoes": {
         "60": 1032,
-        "120": 1580
+        "120": 1580,
+        "180": 1835
       },
       "alertado": false
     },
@@ -1146,7 +1123,8 @@
       "url": "https://x.com/MarioNawfal/status/2093542619628314627",
       "criado": "2026-08-29T03:33:51+00:00",
       "medicoes": {
-        "60": 19835
+        "60": 19835,
+        "120": 23556
       },
       "alertado": false
     },
@@ -1195,7 +1173,9 @@
       "texto": "🚨🇮🇷 🇺🇸 Tehran admits trade is down 35% and inflation is at 66%, as Iran's supreme leader broke his silence to tell his own government to fix the economy Iran's leadership just did something it almost never does: published its own pain. The president told state media that trade has collapsed 35% under sanctions and blockade, and the Supreme Leader, still unseen since the February attack that killed...",
       "url": "https://x.com/MarioNawfal/status/2093558648890888467",
       "criado": "2026-08-29T04:37:32+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 16269
+      },
       "alertado": false
     },
     "2093558406883811460": {
@@ -1203,7 +1183,9 @@
       "texto": "🇳🇵 Nepal is not asking for more search parties, FM Shisir Khanal told Reuters the first wave is theirs as Nepali crews are already in the rivers. What they don’t have is the next kit: tunnel rescue where hydropower shafts may still hold people, bailey bridges after about two dozen spans vanished, DNA and the cold storage to name the dead. The country is saying send engineers and forensic teams, no...",
       "url": "https://x.com/MarioNawfal/status/2093558406883811460",
       "criado": "2026-08-29T04:36:35+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 21086
+      },
       "alertado": false
     },
     "2093557216410300837": {
@@ -1211,7 +1193,9 @@
       "texto": "People spent more than $2.5 million in 24 hours... On a robot duck. Hugging Face and Pollen Robotics put Microduck on sale at $399. It's ten inches tall and has fifteen motors. It waddles, it roller-skates, AND you can train it. By the next day the queue was so deep they stopped promising Christmas. Writer: Val https://t.co/9k8jrMRoDR",
       "url": "https://x.com/MarioNawfal/status/2093557216410300837",
       "criado": "2026-08-29T04:31:51+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 24332
+      },
       "alertado": false
     },
     "2093564719164444758": {
@@ -1304,7 +1288,8 @@
         8210,
         7760,
         12666,
-        20237
+        20237,
+        9860
       ],
       "120": [
         429435,
@@ -1321,7 +1306,8 @@
         11807,
         9917,
         17195,
-        27596
+        27596,
+        14111
       ],
       "180": [
         429435,
@@ -1338,7 +1324,8 @@
         14570,
         11578,
         20210,
-        36198
+        36198,
+        16012
       ],
       "240": [
         429435,
@@ -1355,7 +1342,8 @@
         17121,
         14016,
         21896,
-        38094
+        38094,
+        16751
       ],
       "360": [
         429435,
@@ -1372,12 +1360,12 @@
         18961,
         15002,
         23059,
-        40375
+        40375,
+        17477
       ]
     },
     "MarioNawfal": {
       "60": [
-        23391,
         22948,
         25082,
         29662,
@@ -1416,10 +1404,10 @@
         20888,
         24870,
         27937,
-        20108
+        20108,
+        29721
       ],
       "120": [
-        28461,
         27210,
         32142,
         32447,
@@ -1458,10 +1446,10 @@
         25445,
         31911,
         43440,
-        23185
+        23185,
+        46834
       ],
       "180": [
-        31236,
         29424,
         35732,
         37580,
@@ -1500,10 +1488,10 @@
         29955,
         36270,
         54839,
-        26900
+        26900,
+        58050
       ],
       "240": [
-        36355,
         34073,
         38370,
         40756,
@@ -1542,10 +1530,10 @@
         37221,
         40036,
         69552,
-        29608
+        29608,
+        65240
       ],
       "360": [
-        39590,
         37428,
         50584,
         53098,
@@ -1584,7 +1572,8 @@
         42912,
         54092,
         176494,
-        32043
+        32043,
+        73292
       ]
     },
     "MachadoDarlon": {
@@ -2371,6 +2360,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-08-29T05:31:35+00:00",
+  "ultima_busca": "2026-08-29T05:40:23+00:00",
   "alertas_enviados": 0
 }
