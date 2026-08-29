@@ -1,61 +1,5 @@
 {
   "posts": {
-    "2093453569999389053": {
-      "autor": "nexta_tv",
-      "texto": "The internet came up with a hilarious startup idea for making money off gamblers: a toilet that only flushes when you hit the jackpot. https://t.co/XVJPlnnBNp",
-      "url": "https://x.com/nexta_tv/status/2093453569999389053",
-      "criado": "2026-08-28T21:40:00+00:00",
-      "medicoes": {
-        "60": 11625,
-        "120": 14606,
-        "180": 15850,
-        "240": 16637,
-        "360": 18348
-      },
-      "alertado": false
-    },
-    "2093452764630163788": {
-      "autor": "MarioNawfal",
-      "texto": "🚨🇮🇷 Iran reportedly tried to hit a ship in the Strait of Hormuz within the past hour Unconfirmed reports describe an attempted strike using drones and missiles, with no maritime advisory issued yet and no vessel identified. This is a statement carried by Iran’s state broadcaster in which the Revolutionary Guard Navy declared the strait closed to any ship transiting without coordinating with Tehran...",
-      "url": "https://x.com/MarioNawfal/status/2093452764630163788",
-      "criado": "2026-08-28T21:36:48+00:00",
-      "medicoes": {
-        "60": 26601,
-        "120": 32819,
-        "180": 36324,
-        "240": 38800,
-        "360": 47894
-      },
-      "alertado": false
-    },
-    "2093452335326343180": {
-      "autor": "clashreport",
-      "texto": "Serbian President Aleksandar Vučić lashed out at a government minister from Novi Pazar for saying Ratko Mladić would face punishment in the afterlife. “Why do you do that? My dear brother, why do you do that?” Vučić said, adding: “You are not the minister of Novi Pazar; you are a minister of the whole of Serbia.” Vučić avoided giving his own judgment on Mladić, saying: “I am not getting into what...",
-      "url": "https://x.com/clashreport/status/2093452335326343180",
-      "criado": "2026-08-28T21:35:05+00:00",
-      "medicoes": {
-        "60": 4243,
-        "120": 4406,
-        "180": 4450,
-        "240": 4486,
-        "360": 4551
-      },
-      "alertado": false
-    },
-    "2093451815878566132": {
-      "autor": "MarioNawfal",
-      "texto": "🇮🇷 Iran's parliament speaker declares internal division a religious offense and pledges loyalty to the unseen Supreme Leader: \"The message of the Supreme Leader is the apple of our eye. We must avoid illusory dualisms in any form, and any action that harms social cohesion is a national and religious prohibition for all of us. We pledge to the people and the leadership that we will dedicate our liv...",
-      "url": "https://x.com/MarioNawfal/status/2093451815878566132",
-      "criado": "2026-08-28T21:33:02+00:00",
-      "medicoes": {
-        "60": 21536,
-        "120": 24686,
-        "180": 28494,
-        "240": 33626,
-        "360": 38058
-      },
-      "alertado": false
-    },
     "2093454828106350689": {
       "autor": "MarioNawfal",
       "texto": "Don’t go chasing waterfalls. Writer: Marie https://t.co/dwytsT75Nx",
@@ -205,7 +149,8 @@
         "60": 26333,
         "120": 33591,
         "180": 38968,
-        "240": 42818
+        "240": 42818,
+        "360": 49924
       },
       "alertado": false
     },
@@ -919,7 +864,8 @@
       "criado": "2026-08-29T01:09:19+00:00",
       "medicoes": {
         "60": 21650,
-        "120": 29573
+        "120": 29573,
+        "180": 33990
       },
       "alertado": false
     },
@@ -930,7 +876,8 @@
       "criado": "2026-08-29T01:08:12+00:00",
       "medicoes": {
         "60": 18823,
-        "120": 21888
+        "120": 21888,
+        "180": 25936
       },
       "alertado": false
     },
@@ -941,7 +888,8 @@
       "criado": "2026-08-29T01:05:06+00:00",
       "medicoes": {
         "60": 1172,
-        "120": 1433
+        "120": 1433,
+        "180": 1546
       },
       "alertado": false
     },
@@ -952,7 +900,8 @@
       "criado": "2026-08-29T01:03:56+00:00",
       "medicoes": {
         "60": 7594,
-        "120": 10514
+        "120": 10514,
+        "180": 13040
       },
       "alertado": false
     },
@@ -1204,7 +1153,8 @@
       "url": "https://x.com/MachadoDarlon/status/2093520931775766556",
       "criado": "2026-08-29T02:07:40+00:00",
       "medicoes": {
-        "60": 750
+        "60": 750,
+        "120": 990
       },
       "alertado": false
     },
@@ -1214,7 +1164,8 @@
       "url": "https://x.com/NewsLiberdade/status/2093520666230153535",
       "criado": "2026-08-29T02:06:37+00:00",
       "medicoes": {
-        "60": 9721
+        "60": 9721,
+        "120": 11469
       },
       "alertado": false
     },
@@ -1574,8 +1525,6 @@
     },
     "MarioNawfal": {
       "60": [
-        58073,
-        45428,
         29212,
         35002,
         22580,
@@ -1613,11 +1562,11 @@
         20514,
         19969,
         37616,
-        27400
+        27400,
+        26601,
+        21536
       ],
       "120": [
-        93219,
-        53096,
         34935,
         57447,
         27784,
@@ -1655,11 +1604,11 @@
         23915,
         24012,
         53441,
-        32685
+        32685,
+        32819,
+        24686
       ],
       "180": [
-        121424,
-        56212,
         37588,
         73379,
         30950,
@@ -1697,11 +1646,11 @@
         27308,
         28536,
         62968,
-        35535
+        35535,
+        36324,
+        28494
       ],
       "240": [
-        154716,
-        58507,
         39875,
         83668,
         37101,
@@ -1739,11 +1688,11 @@
         30647,
         34812,
         69825,
-        40775
+        40775,
+        38800,
+        33626
       ],
       "360": [
-        205851,
-        61826,
         42821,
         92826,
         40058,
@@ -1781,7 +1730,9 @@
         34163,
         40766,
         83077,
-        50723
+        50723,
+        47894,
+        38058
       ]
     },
     "MachadoDarlon": {
@@ -1998,7 +1949,6 @@
     },
     "clashreport": {
       "60": [
-        10461,
         9534,
         10609,
         13269,
@@ -2037,10 +1987,10 @@
         12344,
         9364,
         8645,
-        9066
+        9066,
+        4243
       ],
       "120": [
-        14209,
         11018,
         12833,
         16250,
@@ -2079,10 +2029,10 @@
         17500,
         12278,
         10618,
-        11949
+        11949,
+        4406
       ],
       "180": [
-        16916,
         11855,
         13993,
         18189,
@@ -2121,10 +2071,10 @@
         21547,
         14012,
         11743,
-        13330
+        13330,
+        4450
       ],
       "240": [
-        18304,
         12541,
         14855,
         19715,
@@ -2163,10 +2113,10 @@
         24339,
         15060,
         12444,
-        14216
+        14216,
+        4486
       ],
       "360": [
-        20423,
         13547,
         16139,
         21327,
@@ -2205,7 +2155,8 @@
         29074,
         16279,
         13491,
-        15746
+        15746,
+        4551
       ]
     },
     "Osint613": {
@@ -2443,7 +2394,8 @@
         30654,
         15989,
         13157,
-        12684
+        12684,
+        11625
       ],
       "120": [
         19760,
@@ -2467,7 +2419,8 @@
         44178,
         19526,
         16019,
-        14829
+        14829,
+        14606
       ],
       "180": [
         22399,
@@ -2491,7 +2444,8 @@
         54946,
         21565,
         17414,
-        16087
+        16087,
+        15850
       ],
       "240": [
         24895,
@@ -2515,7 +2469,8 @@
         61541,
         22783,
         18206,
-        17052
+        17052,
+        16637
       ],
       "360": [
         28012,
@@ -2539,10 +2494,11 @@
         69368,
         24485,
         19535,
-        18880
+        18880,
+        18348
       ]
     }
   },
-  "ultima_busca": "2026-08-29T04:01:40+00:00",
+  "ultima_busca": "2026-08-29T04:10:23+00:00",
   "alertas_enviados": 0
 }
