@@ -1,47 +1,5 @@
 {
   "posts": {
-    "2093498944395321805": {
-      "autor": "NewsLiberdade",
-      "texto": "🚨URGENTE - Flávio Bolsonaro diz que o patrocínio de Vorcaro ao Filme Dark Horse é o mesmo que a Globo recebeu “É o mesmo patrocínio de R$ 160 milhões de Vorcaro a Globo para o programa de Luciano Hulk” https://t.co/NUwqdaUepJ",
-      "url": "https://x.com/NewsLiberdade/status/2093498944395321805",
-      "criado": "2026-08-29T00:40:18+00:00",
-      "medicoes": {
-        "60": 178915,
-        "120": 318957,
-        "180": 374176,
-        "240": 399097,
-        "360": 420029
-      },
-      "alertado": false
-    },
-    "2093498891266093113": {
-      "autor": "MarioNawfal",
-      "texto": "🇦🇺 If you’re buried, you won’t care what crawls in first... Australian researchers strapped cameras and remote syringes to Queensland’s giant burrowing cockroaches (the heaviest on Earth) and taught them to reach a body robots can’t. One roach finds you, another lines up, and a human still pulls the trigger. In tests they hit from 15 cm almost every time, and the full crawl-and-shot worked in most...",
-      "url": "https://x.com/MarioNawfal/status/2093498891266093113",
-      "criado": "2026-08-29T00:40:05+00:00",
-      "medicoes": {
-        "60": 20976,
-        "120": 25853,
-        "180": 29248,
-        "240": 38398,
-        "360": 45868
-      },
-      "alertado": false
-    },
-    "2093497145781375368": {
-      "autor": "MarioNawfal",
-      "texto": "🇧🇾🇺🇦 Russia is massing troops in Belarus and Lukashenko flies to meet Putin this weekend Larry Johnson joined tonight, and the buildup north of Chernihiv led the conversation. Russian forces and equipment have been moving into Belarus for a month, with its president heading to Russia for closed-door talks in days. The assessment discussed was that Belarusian troops stay in reserve while the threat...",
-      "url": "https://x.com/MarioNawfal/status/2093497145781375368",
-      "criado": "2026-08-29T00:33:09+00:00",
-      "medicoes": {
-        "60": 54447,
-        "120": 89407,
-        "180": 123568,
-        "240": 160154,
-        "360": 193829
-      },
-      "alertado": false
-    },
     "2093504159731380686": {
       "autor": "NewsLiberdade",
       "texto": "🚨AGORA - Flávio Bolsonaro diz que vai ganhar as eleições no primeiro turno https://t.co/IKz2fFPmhq",
@@ -191,7 +149,8 @@
         "60": 21650,
         "120": 29573,
         "180": 33990,
-        "240": 38963
+        "240": 38963,
+        "360": 52831
       },
       "alertado": false
     },
@@ -204,7 +163,8 @@
         "60": 18823,
         "120": 21888,
         "180": 25936,
-        "240": 29193
+        "240": 29193,
+        "360": 32658
       },
       "alertado": false
     },
@@ -217,7 +177,8 @@
         "60": 1172,
         "120": 1433,
         "180": 1546,
-        "240": 1633
+        "240": 1633,
+        "360": 1761
       },
       "alertado": false
     },
@@ -230,7 +191,8 @@
         "60": 7594,
         "120": 10514,
         "180": 13040,
-        "240": 15626
+        "240": 15626,
+        "360": 20260
       },
       "alertado": false
     },
@@ -1111,7 +1073,9 @@
       "texto": "🇺🇸🇻🇪 Toppling Maduro was never about drugs or freeing the people of Venezuela; it was always about the oil Remember that the next time you read a headline about how the U.S is trying to help free the people of Iran Trump's only interested in freeing countries from their oil Writer: Ian",
       "url": "https://x.com/MarioNawfal/status/2093581915798519810",
       "criado": "2026-08-29T06:10:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 23568
+      },
       "alertado": false
     },
     "2093586950074794079": {
@@ -1201,6 +1165,14 @@
       "criado": "2026-08-29T06:50:00+00:00",
       "medicoes": {},
       "alertado": false
+    },
+    "2093597015267516654": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸🇮🇷 Iran is pledging to stand firm against U.S. sanctions A government spokesman said diplomacy and defence will be “complementary, coordinated and inseparable,” while also promising to fight “unjust sanctions,” improve Iranians’ livelihoods and strengthen national cohesion. In plain terms, be prepared for the war to drag on for the foreseeble future. Source: Al Jazeera / Writer: Mhedi",
+      "url": "https://x.com/MarioNawfal/status/2093597015267516654",
+      "criado": "2026-08-29T07:10:00+00:00",
+      "medicoes": {},
+      "alertado": false
     }
   },
   "baseline": {
@@ -1224,7 +1196,8 @@
         9860,
         7947,
         10766,
-        42113
+        42113,
+        178915
       ],
       "120": [
         429435,
@@ -1245,7 +1218,8 @@
         14111,
         10719,
         15156,
-        46617
+        46617,
+        318957
       ],
       "180": [
         429435,
@@ -1266,7 +1240,8 @@
         16012,
         11869,
         16411,
-        47886
+        47886,
+        374176
       ],
       "240": [
         429435,
@@ -1287,7 +1262,8 @@
         16751,
         12351,
         17199,
-        48478
+        48478,
+        399097
       ],
       "360": [
         429435,
@@ -1308,13 +1284,12 @@
         17477,
         12778,
         18162,
-        49088
+        49088,
+        420029
       ]
     },
     "MarioNawfal": {
       "60": [
-        26507,
-        21520,
         27799,
         23359,
         33494,
@@ -1352,11 +1327,11 @@
         24838,
         21026,
         23146,
-        22528
+        22528,
+        20976,
+        54447
       ],
       "120": [
-        26429,
-        33116,
         27124,
         33129,
         27962,
@@ -1394,11 +1369,11 @@
         33371,
         26813,
         27130,
-        26626
+        26626,
+        25853,
+        89407
       ],
       "180": [
-        30297,
-        37128,
         30396,
         36591,
         31535,
@@ -1436,11 +1411,11 @@
         39945,
         30997,
         34499,
-        32532
+        32532,
+        29248,
+        123568
       ],
       "240": [
-        39728,
-        40145,
         36596,
         39292,
         39765,
@@ -1478,11 +1453,11 @@
         45608,
         37488,
         41405,
-        40748
+        40748,
+        38398,
+        160154
       ],
       "360": [
-        47533,
-        50367,
         42331,
         48478,
         48021,
@@ -1520,7 +1495,9 @@
         53922,
         43889,
         48348,
-        45384
+        45384,
+        45868,
+        193829
       ]
     },
     "MachadoDarlon": {
@@ -2327,6 +2304,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-08-29T07:01:59+00:00",
+  "ultima_busca": "2026-08-29T07:10:21+00:00",
   "alertas_enviados": 0
 }
