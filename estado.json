@@ -177,7 +177,8 @@
         "60": 19835,
         "120": 23556,
         "180": 28623,
-        "240": 33735
+        "240": 33735,
+        "360": 39827
       },
       "alertado": false
     },
@@ -476,7 +477,8 @@
       "criado": "2026-08-29T06:37:31+00:00",
       "medicoes": {
         "60": 7264,
-        "120": 9780
+        "120": 9780,
+        "180": 15303
       },
       "alertado": false
     },
@@ -487,7 +489,8 @@
       "criado": "2026-08-29T06:36:51+00:00",
       "medicoes": {
         "60": 14137,
-        "120": 19342
+        "120": 19342,
+        "180": 22635
       },
       "alertado": false
     },
@@ -498,7 +501,8 @@
       "criado": "2026-08-29T06:35:11+00:00",
       "medicoes": {
         "60": 6409,
-        "120": 8408
+        "120": 8408,
+        "180": 9544
       },
       "alertado": false
     },
@@ -509,7 +513,8 @@
       "criado": "2026-08-29T06:34:10+00:00",
       "medicoes": {
         "60": 7742,
-        "120": 10861
+        "120": 10861,
+        "180": 12562
       },
       "alertado": false
     },
@@ -520,7 +525,8 @@
       "criado": "2026-08-29T06:32:45+00:00",
       "medicoes": {
         "60": 10024,
-        "120": 14313
+        "120": 14313,
+        "180": 16723
       },
       "alertado": false
     },
@@ -596,7 +602,8 @@
       "url": "https://x.com/MarioNawfal/status/2093604565035663750",
       "criado": "2026-08-29T07:40:00+00:00",
       "medicoes": {
-        "60": 21527
+        "60": 21527,
+        "120": 26207
       },
       "alertado": false
     },
@@ -606,7 +613,8 @@
       "url": "https://x.com/nexta_tv/status/2093602849980654004",
       "criado": "2026-08-29T07:33:11+00:00",
       "medicoes": {
-        "60": 10800
+        "60": 10800,
+        "120": 13547
       },
       "alertado": false
     },
@@ -775,7 +783,9 @@
       "texto": "🇺🇦🇷🇺 Kyiv looked like a scene from an apocalypse movie as Russia's latest attack struck overnight Putin launched a huge drone strike on a Ukrainian ammo dump, sparking a huge fireball and killing several people on the outskirts of the city Writer: Ian https://t.co/jHVelGItGH",
       "url": "https://x.com/MarioNawfal/status/2093619664463245803",
       "criado": "2026-08-29T08:40:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 23693
+      },
       "alertado": false
     },
     "2093618738931064968": {
@@ -783,7 +793,9 @@
       "texto": "🌊 Disaster in Nepal: death toll rises above 600, nearly 2,500 people still missing At least 626 people have been confirmed dead after devastating floods and mudslides in the Nepal-Tibet border region, while 2,478 people remain missing. In some of the worst-hit areas, authorities are running out of space to store bodies. Temporary facilities are being set up, while some victims are being transporte...",
       "url": "https://x.com/nexta_tv/status/2093618738931064968",
       "criado": "2026-08-29T08:36:19+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 15440
+      },
       "alertado": false
     },
     "2093624944512860607": {
@@ -847,6 +859,14 @@
       "texto": "You'd think it would be all over after he was stabbed, but this guy is built different Writer: Ian https://t.co/cC3ddRMmcc",
       "url": "https://x.com/MarioNawfal/status/2093629730595680601",
       "criado": "2026-08-29T09:20:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093634764289040723": {
+      "autor": "MarioNawfal",
+      "texto": "For a moment, I thought that was going to go horribly wrong Writer: Ian https://t.co/UBi6G6W7Ld",
+      "url": "https://x.com/MarioNawfal/status/2093634764289040723",
+      "criado": "2026-08-29T09:40:00+00:00",
       "medicoes": {},
       "alertado": false
     }
@@ -2030,6 +2050,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-08-29T09:31:25+00:00",
+  "ultima_busca": "2026-08-29T09:40:21+00:00",
   "alertas_enviados": 0
 }
