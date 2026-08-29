@@ -1,89 +1,5 @@
 {
   "posts": {
-    "2093393172260921551": {
-      "autor": "MarioNawfal",
-      "texto": "🇬🇧 Hackers just got their hands on data from 8.7 million UK airport customers. Manchester, London Stansted and East Midlands airports were hit, with hackers getting emails, phone numbers, postcodes and even car registration numbers. The data came from things like airport parking, lounges, fast-track bookings and WiFi sign-ups. The good news is they didn’t get bank or payment details, and flights w...",
-      "url": "https://x.com/MarioNawfal/status/2093393172260921551",
-      "criado": "2026-08-28T17:40:00+00:00",
-      "medicoes": {
-        "60": 23096,
-        "120": 27104,
-        "180": 29076,
-        "240": 32684,
-        "360": 37448
-      },
-      "alertado": false
-    },
-    "2093393073203986634": {
-      "autor": "Osint613",
-      "texto": "Trump enters Mission Control at Johnson Space Center in Houston. https://t.co/jySDDwqlJb",
-      "url": "https://x.com/Osint613/status/2093393073203986634",
-      "criado": "2026-08-28T17:39:36+00:00",
-      "medicoes": {
-        "60": 27171,
-        "120": 37280,
-        "180": 43735,
-        "240": 48447,
-        "360": 54271
-      },
-      "alertado": false
-    },
-    "2093392037735182481": {
-      "autor": "MachadoDarlon",
-      "texto": "🇧🇷🗳 TRETA NO DEBATE‼️ 😆🔥 Uma cena inusitada chamou atenção durante o debate de O Povo. O governador Elmano de Freitas afirmou que Ciro Gomes teria “muita inveja” de seu líder político, Camilo Santana. Na réplica, Ciro respondeu em tom irônico e arrancou reação ao dizer que a única coisa que invejava em Camilo era “esse pedaço de rabo de guaxinim que ele botou na testa”, fazendo referência ao cabel...",
-      "url": "https://x.com/MachadoDarlon/status/2093392037735182481",
-      "criado": "2026-08-28T17:35:29+00:00",
-      "medicoes": {
-        "60": 512,
-        "120": 732,
-        "180": 1262,
-        "240": 1522,
-        "360": 2360
-      },
-      "alertado": false
-    },
-    "2093391526856401178": {
-      "autor": "clashreport",
-      "texto": "Former Greek Finance Minister Yanis Varoufakis has been charged with promoting drug use after publicly saying he tried MDMA in 1989 and had also smoked marijuana. Varoufakis is due in court in December, while his Mera25 party says the case is politically motivated. https://t.co/23qV9BhPFf",
-      "url": "https://x.com/clashreport/status/2093391526856401178",
-      "criado": "2026-08-28T17:33:27+00:00",
-      "medicoes": {
-        "60": 9087,
-        "120": 11539,
-        "180": 13065,
-        "240": 14034,
-        "360": 15141
-      },
-      "alertado": false
-    },
-    "2093391336493764764": {
-      "autor": "Osint613",
-      "texto": "Mojtaba Khamenei praised Pezeshkian and Iran's government for keeping goods, services and energy flowing during \"the third imposed war,\" despite \"American-Zionist sanctions.\"",
-      "url": "https://x.com/Osint613/status/2093391336493764764",
-      "criado": "2026-08-28T17:32:42+00:00",
-      "medicoes": {
-        "60": 19082,
-        "120": 23494,
-        "180": 26377,
-        "240": 28429,
-        "360": 31207
-      },
-      "alertado": false
-    },
-    "2093391303547482114": {
-      "autor": "NewsLiberdade",
-      "texto": "🚨AGORA - Andrei Rodrigues, diretor geral da PF, diz que a instituição atua com imparcialidade “Hoje temos uma polícia que atua com autonomia, guiada pela Constituição Federal e pelas leis, sem proteger ou perseguir. É técnica, imparcial e livre de qualquer viés político” https://t.co/tkjmuWvhUp",
-      "url": "https://x.com/NewsLiberdade/status/2093391303547482114",
-      "criado": "2026-08-28T17:32:34+00:00",
-      "medicoes": {
-        "60": 12772,
-        "120": 19007,
-        "180": 23687,
-        "240": 26913,
-        "360": 33417
-      },
-      "alertado": false
-    },
     "2093400721895104819": {
       "autor": "MarioNawfal",
       "texto": "🇵🇱 Poland charged Grzegorz Braun with Holocaust denial and he immediately went for round two. The far-right leader got charged for calling the Auschwitz gas chambers “fake,” which can land you up to three years in prison in Poland. You’d think that might make him chill for a minute. Nope. Right after getting charged, Braun questioned the gas chambers again, so prosecutors opened another investigat...",
@@ -93,7 +9,8 @@
         "60": 23868,
         "120": 32213,
         "180": 38498,
-        "240": 43327
+        "240": 43327,
+        "360": 48996
       },
       "alertado": false
     },
@@ -106,7 +23,8 @@
         "60": 34173,
         "120": 50782,
         "180": 60718,
-        "240": 66896
+        "240": 66896,
+        "360": 75020
       },
       "alertado": false
     },
@@ -119,7 +37,8 @@
         "60": 43605,
         "120": 50582,
         "180": 54143,
-        "240": 56645
+        "240": 56645,
+        "360": 59291
       },
       "alertado": false
     },
@@ -132,7 +51,8 @@
         "60": 854,
         "120": 1217,
         "180": 1559,
-        "240": 2039
+        "240": 2039,
+        "360": 2480
       },
       "alertado": false
     },
@@ -698,7 +618,8 @@
       "medicoes": {
         "60": 23391,
         "120": 27210,
-        "180": 29424
+        "180": 29424,
+        "240": 34073
       },
       "alertado": false
     },
@@ -710,7 +631,8 @@
       "medicoes": {
         "60": 22948,
         "120": 32142,
-        "180": 35732
+        "180": 35732,
+        "240": 38370
       },
       "alertado": false
     },
@@ -722,7 +644,8 @@
       "medicoes": {
         "60": 18124,
         "120": 26855,
-        "180": 32473
+        "180": 32473,
+        "240": 35019
       },
       "alertado": false
     },
@@ -1002,7 +925,8 @@
       "criado": "2026-08-28T21:10:00+00:00",
       "medicoes": {
         "60": 21743,
-        "120": 25910
+        "120": 25910,
+        "180": 28580
       },
       "alertado": false
     },
@@ -1013,7 +937,8 @@
       "criado": "2026-08-28T21:09:09+00:00",
       "medicoes": {
         "60": 8210,
-        "120": 11807
+        "120": 11807,
+        "180": 14570
       },
       "alertado": false
     },
@@ -1024,7 +949,8 @@
       "criado": "2026-08-28T21:08:07+00:00",
       "medicoes": {
         "60": 8645,
-        "120": 10618
+        "120": 10618,
+        "180": 11743
       },
       "alertado": false
     },
@@ -1035,7 +961,8 @@
       "criado": "2026-08-28T21:05:00+00:00",
       "medicoes": {
         "60": 30176,
-        "120": 40277
+        "120": 40277,
+        "180": 45603
       },
       "alertado": false
     },
@@ -1349,7 +1276,8 @@
       "url": "https://x.com/MarioNawfal/status/2093459496160932062",
       "criado": "2026-08-28T22:03:33+00:00",
       "medicoes": {
-        "60": 26333
+        "60": 26333,
+        "120": 33591
       },
       "alertado": false
     },
@@ -1558,7 +1486,9 @@
       "texto": "🚨AGORA - Trump anuncia o \"maior acordo de petróleo da história mundial\" com a Venezuela. https://t.co/VINvGRKVp2",
       "url": "https://x.com/NewsLiberdade/status/2093474376964243745",
       "criado": "2026-08-28T23:02:40+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 9860
+      },
       "alertado": false
     },
     "2093474280864678073": {
@@ -1566,7 +1496,9 @@
       "texto": "🚨🇺🇸🇻🇪 Trump announces \"the biggest oil deal in world history\": majority US control of more than 65 BILLION barrels of Venezuelan reserves. Rubio and Hegseth closed it with interim President Delcy Rodriguez, covering more than a dozen productive fields at no cost to the taxpayer, holdings that more than double America's proven reserves. It lands with Hormuz choked and the Strategic Petroleum Reserv...",
       "url": "https://x.com/MarioNawfal/status/2093474280864678073",
       "criado": "2026-08-28T23:02:18+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 29721
+      },
       "alertado": false
     },
     "2093481253743845408": {
@@ -1676,7 +1608,8 @@
         48095,
         13196,
         22428,
-        17770
+        17770,
+        12772
       ],
       "120": [
         429435,
@@ -1686,7 +1619,8 @@
         133562,
         16445,
         28731,
-        25523
+        25523,
+        19007
       ],
       "180": [
         429435,
@@ -1696,7 +1630,8 @@
         193714,
         18037,
         32685,
-        32113
+        32113,
+        23687
       ],
       "240": [
         429435,
@@ -1706,7 +1641,8 @@
         436219,
         19252,
         37636,
-        39821
+        39821,
+        26913
       ],
       "360": [
         429435,
@@ -1716,12 +1652,12 @@
         845924,
         21040,
         44452,
-        53419
+        53419,
+        33417
       ]
     },
     "MarioNawfal": {
       "60": [
-        27987,
         23517,
         30470,
         30315,
@@ -1760,10 +1696,10 @@
         33565,
         29194,
         85142,
-        35924
+        35924,
+        23096
       ],
       "120": [
-        30125,
         26798,
         42752,
         39373,
@@ -1802,10 +1738,10 @@
         51936,
         33935,
         129190,
-        41240
+        41240,
+        27104
       ],
       "180": [
-        31501,
         29357,
         53800,
         45555,
@@ -1844,10 +1780,10 @@
         61963,
         38130,
         168701,
-        44761
+        44761,
+        29076
       ],
       "240": [
-        39787,
         37241,
         37130,
         61479,
@@ -1886,10 +1822,10 @@
         65692,
         41607,
         212096,
-        46964
+        46964,
+        32684
       ],
       "360": [
-        52436,
         42737,
         46725,
         70581,
@@ -1928,7 +1864,8 @@
         68421,
         44886,
         245097,
-        50974
+        50974,
+        37448
       ]
     },
     "MachadoDarlon": {
@@ -1968,7 +1905,8 @@
         1341,
         453,
         336,
-        444
+        444,
+        512
       ],
       "120": [
         1519,
@@ -2006,7 +1944,8 @@
         2179,
         615,
         566,
-        693
+        693,
+        732
       ],
       "180": [
         2032,
@@ -2044,7 +1983,8 @@
         2681,
         730,
         680,
-        815
+        815,
+        1262
       ],
       "240": [
         2449,
@@ -2082,7 +2022,8 @@
         3313,
         959,
         769,
-        877
+        877,
+        1522
       ],
       "360": [
         2964,
@@ -2120,12 +2061,12 @@
         4404,
         1633,
         916,
-        965
+        965,
+        2360
       ]
     },
     "clashreport": {
       "60": [
-        14548,
         14121,
         9414,
         12364,
@@ -2164,10 +2105,10 @@
         10364,
         10821,
         12114,
-        17822
+        17822,
+        9087
       ],
       "120": [
-        17133,
         17345,
         10369,
         14774,
@@ -2206,10 +2147,10 @@
         13264,
         13537,
         14585,
-        24912
+        24912,
+        11539
       ],
       "180": [
-        18478,
         19223,
         10783,
         17857,
@@ -2248,10 +2189,10 @@
         17460,
         15962,
         16287,
-        29088
+        29088,
+        13065
       ],
       "240": [
-        20191,
         22522,
         11262,
         22647,
@@ -2290,10 +2231,10 @@
         24292,
         17460,
         17374,
-        35749
+        35749,
+        14034
       ],
       "360": [
-        23250,
         26628,
         13327,
         35389,
@@ -2332,7 +2273,8 @@
         29636,
         18991,
         18483,
-        45283
+        45283,
+        15141
       ]
     },
     "Osint613": {
@@ -2372,7 +2314,9 @@
         23987,
         21569,
         23221,
-        27057
+        27057,
+        27171,
+        19082
       ],
       "120": [
         32520,
@@ -2410,7 +2354,9 @@
         28965,
         26437,
         29904,
-        32338
+        32338,
+        37280,
+        23494
       ],
       "180": [
         36158,
@@ -2448,7 +2394,9 @@
         32020,
         29930,
         34614,
-        36076
+        36076,
+        43735,
+        26377
       ],
       "240": [
         39574,
@@ -2486,7 +2434,9 @@
         34124,
         32296,
         37772,
-        38963
+        38963,
+        48447,
+        28429
       ],
       "360": [
         43119,
@@ -2524,7 +2474,9 @@
         37282,
         35535,
         42018,
-        42531
+        42531,
+        54271,
+        31207
       ]
     },
     "nexta_tv": {
@@ -2605,6 +2557,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-08-29T00:01:33+00:00",
+  "ultima_busca": "2026-08-29T00:10:25+00:00",
   "alertas_enviados": 0
 }
