@@ -1,89 +1,5 @@
 {
   "posts": {
-    "2093489000292172276": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 A Guantanamo judge threw out Khalid Sheikh Mohammed’s 9/11 confession days before the 25th anniversary. The trial is still years away. Lt. Col. Michael Schrama ruled the 2007 FBI interviews weren’t voluntary because CIA coercion still hung over them, and agents skipped the rights warning. Trial is set for June 2028. Appeal comes next. The families have waited a generation while the usable evide...",
-      "url": "https://x.com/MarioNawfal/status/2093489000292172276",
-      "criado": "2026-08-29T00:00:47+00:00",
-      "medicoes": {
-        "60": 18555,
-        "120": 21790,
-        "180": 28250,
-        "240": 32320,
-        "360": 35551
-      },
-      "alertado": false
-    },
-    "2093488806112436643": {
-      "autor": "nexta_tv",
-      "texto": "Hackers convinced an AI that the attacks were a “test” — and targeted at least seven companies Russian-speaking hackers used the Cursor AI agent to attack at least seven companies The Aur0ra ransomware group manipulated the AI into carrying out hundreds of malicious operations — from stealing credentials to taking over systems — by disguising them as training tasks. Researchers gained access to th...",
-      "url": "https://x.com/nexta_tv/status/2093488806112436643",
-      "criado": "2026-08-29T00:00:01+00:00",
-      "medicoes": {
-        "60": 6437,
-        "120": 8143,
-        "180": 10120,
-        "240": 12595,
-        "360": 19326
-      },
-      "alertado": false
-    },
-    "2093487874272268596": {
-      "autor": "NewsLiberdade",
-      "texto": "🚨AGORA - Flávio Bolsonaro diz que vai se encontrar com ministro de Bukele no domingo https://t.co/ZSd7Icbp8K",
-      "url": "https://x.com/NewsLiberdade/status/2093487874272268596",
-      "criado": "2026-08-28T23:56:19+00:00",
-      "medicoes": {
-        "60": 10766,
-        "120": 15156,
-        "180": 16411,
-        "240": 17199,
-        "360": 18162
-      },
-      "alertado": false
-    },
-    "2093487827443126341": {
-      "autor": "MarioNawfal",
-      "texto": "🇹🇷🇵🇸 Erdoğan calls Gaza the world's largest children's graveyard: \"The genocide network has turned Gaza into the world's largest children's graveyard, where even kites are seen as a threat and are being banned.\" The kite image is built to travel, one detail carrying the whole indictment. And the speaker moves the needle as much as the words. A G20 head of state commanding NATO's second-largest arm...",
-      "url": "https://x.com/MarioNawfal/status/2093487827443126341",
-      "criado": "2026-08-28T23:56:07+00:00",
-      "medicoes": {
-        "60": 28714,
-        "120": 41874,
-        "180": 50361,
-        "240": 58446,
-        "360": 69421
-      },
-      "alertado": false
-    },
-    "2093485794992263323": {
-      "autor": "MachadoDarlon",
-      "texto": "Mais um post do mesmo pra comunidade colocar notinha que é fake ! 👉 🤡 👌 https://t.co/A0ZWjOZDEY",
-      "url": "https://x.com/MachadoDarlon/status/2093485794992263323",
-      "criado": "2026-08-28T23:48:03+00:00",
-      "medicoes": {
-        "60": 772,
-        "120": 1461,
-        "180": 1784,
-        "240": 1989,
-        "360": 2203
-      },
-      "alertado": false
-    },
-    "2093483903193334241": {
-      "autor": "MarioNawfal",
-      "texto": "🇳🇵 It wasn’t a storm... A slab of glacier tore off the mountain Wednesday morning, and the collapse hit so hard it registered as a quake. What came next was ice, rock, and river, moving as one. Near the Nepal–Tibet border the surge hit 120 mph, over the first 25 km it still averaged 93. Villages in the gorge had minutes, if that. Bridges, the border post, whole stretches of road went with it. Now...",
-      "url": "https://x.com/MarioNawfal/status/2093483903193334241",
-      "criado": "2026-08-28T23:40:32+00:00",
-      "medicoes": {
-        "60": 35078,
-        "120": 48404,
-        "180": 58034,
-        "240": 66349,
-        "360": 75238
-      },
-      "alertado": false
-    },
     "2093496423367016774": {
       "autor": "MachadoDarlon",
       "texto": "🚨⚠️ 👀👉 SE LIGA: 🧐 Isso pode te custar até R$ 106 mil reais. Desde 16 de agosto está Pr0ibid0 fazer ou divulgar enquete eleitoral em qualquer rede social, segundo a Resolução TSE nº 23.600/2019. A regra vale pra Instagram, Facebook, WhatsApp e qualquer outro canal, não importa o tamanho do grupo ou do post. O problema começa quando você posta gráfico com porcentagem, nome e foto de candidato. Isso...",
@@ -93,7 +9,8 @@
         "60": 545,
         "120": 634,
         "180": 788,
-        "240": 853
+        "240": 853,
+        "360": 895
       },
       "alertado": false
     },
@@ -106,7 +23,8 @@
         "60": 24838,
         "120": 33371,
         "180": 39945,
-        "240": 45608
+        "240": 45608,
+        "360": 53922
       },
       "alertado": false
     },
@@ -119,7 +37,8 @@
         "60": 6417,
         "120": 8026,
         "180": 10259,
-        "240": 13243
+        "240": 13243,
+        "360": 19177
       },
       "alertado": false
     },
@@ -132,7 +51,8 @@
         "60": 21026,
         "120": 26813,
         "180": 30997,
-        "240": 37488
+        "240": 37488,
+        "360": 43889
       },
       "alertado": false
     },
@@ -145,7 +65,8 @@
         "60": 734,
         "120": 794,
         "180": 948,
-        "240": 1033
+        "240": 1033,
+        "360": 1094
       },
       "alertado": false
     },
@@ -158,7 +79,8 @@
         "60": 1422,
         "120": 2161,
         "180": 2654,
-        "240": 2986
+        "240": 2986,
+        "360": 3280
       },
       "alertado": false
     },
@@ -171,7 +93,8 @@
         "60": 23146,
         "120": 27130,
         "180": 34499,
-        "240": 41405
+        "240": 41405,
+        "360": 48348
       },
       "alertado": false
     },
@@ -184,7 +107,8 @@
         "60": 22528,
         "120": 26626,
         "180": 32532,
-        "240": 40748
+        "240": 40748,
+        "360": 45384
       },
       "alertado": false
     },
@@ -197,7 +121,8 @@
         "60": 42113,
         "120": 46617,
         "180": 47886,
-        "240": 48478
+        "240": 48478,
+        "360": 49088
       },
       "alertado": false
     },
@@ -742,7 +667,8 @@
       "medicoes": {
         "60": 24449,
         "120": 29870,
-        "180": 33371
+        "180": 33371,
+        "240": 38850
       },
       "alertado": false
     },
@@ -754,7 +680,8 @@
       "medicoes": {
         "60": 6436,
         "120": 9009,
-        "180": 12177
+        "180": 12177,
+        "240": 15364
       },
       "alertado": false
     },
@@ -766,7 +693,8 @@
       "medicoes": {
         "60": 50420,
         "120": 84671,
-        "180": 119184
+        "180": 119184,
+        "240": 154354
       },
       "alertado": false
     },
@@ -778,7 +706,8 @@
       "medicoes": {
         "60": 739,
         "120": 1823,
-        "180": 2477
+        "180": 2477,
+        "240": 2803
       },
       "alertado": false
     },
@@ -790,7 +719,8 @@
       "medicoes": {
         "60": 20583,
         "120": 28700,
-        "180": 32910
+        "180": 32910,
+        "240": 35499
       },
       "alertado": false
     },
@@ -802,7 +732,8 @@
       "medicoes": {
         "60": 31730,
         "120": 42901,
-        "180": 50374
+        "180": 50374,
+        "240": 56136
       },
       "alertado": false
     },
@@ -814,7 +745,8 @@
       "medicoes": {
         "60": 20051,
         "120": 22813,
-        "180": 27184
+        "180": 27184,
+        "240": 29926
       },
       "alertado": false
     },
@@ -933,7 +865,8 @@
       "criado": "2026-08-29T03:30:00+00:00",
       "medicoes": {
         "60": 28811,
-        "120": 44324
+        "120": 44324,
+        "180": 57422
       },
       "alertado": false
     },
@@ -944,7 +877,8 @@
       "criado": "2026-08-29T03:30:00+00:00",
       "medicoes": {
         "60": 6373,
-        "120": 17658
+        "120": 17658,
+        "180": 29595
       },
       "alertado": false
     },
@@ -955,7 +889,8 @@
       "criado": "2026-08-29T03:26:10+00:00",
       "medicoes": {
         "60": 20734,
-        "120": 25299
+        "120": 25299,
+        "180": 30213
       },
       "alertado": false
     },
@@ -966,7 +901,8 @@
       "criado": "2026-08-29T03:20:34+00:00",
       "medicoes": {
         "60": 530,
-        "120": 711
+        "120": 711,
+        "180": 863
       },
       "alertado": false
     },
@@ -977,7 +913,8 @@
       "criado": "2026-08-29T03:18:43+00:00",
       "medicoes": {
         "60": 19377,
-        "120": 22459
+        "120": 22459,
+        "180": 25707
       },
       "alertado": false
     },
@@ -988,7 +925,8 @@
       "criado": "2026-08-29T03:18:34+00:00",
       "medicoes": {
         "60": 412,
-        "120": 626
+        "120": 626,
+        "180": 802
       },
       "alertado": false
     },
@@ -999,7 +937,8 @@
       "criado": "2026-08-29T03:15:00+00:00",
       "medicoes": {
         "60": 29225,
-        "120": 36252
+        "120": 36252,
+        "180": 40747
       },
       "alertado": false
     },
@@ -1010,7 +949,8 @@
       "criado": "2026-08-29T03:15:00+00:00",
       "medicoes": {
         "60": 17739,
-        "120": 21852
+        "120": 21852,
+        "180": 26907
       },
       "alertado": false
     },
@@ -1021,7 +961,8 @@
       "criado": "2026-08-29T03:14:56+00:00",
       "medicoes": {
         "60": 524,
-        "120": 670
+        "120": 670,
+        "180": 877
       },
       "alertado": false
     },
@@ -1032,7 +973,8 @@
       "criado": "2026-08-29T03:14:20+00:00",
       "medicoes": {
         "60": 21489,
-        "120": 25233
+        "120": 25233,
+        "180": 28256
       },
       "alertado": false
     },
@@ -1043,7 +985,8 @@
       "criado": "2026-08-29T03:14:03+00:00",
       "medicoes": {
         "60": 18601,
-        "120": 22021
+        "120": 22021,
+        "180": 27313
       },
       "alertado": false
     },
@@ -1054,7 +997,8 @@
       "criado": "2026-08-29T03:12:50+00:00",
       "medicoes": {
         "60": 462,
-        "120": 555
+        "120": 555,
+        "180": 607
       },
       "alertado": false
     },
@@ -1097,7 +1041,8 @@
       "url": "https://x.com/MarioNawfal/status/2093556751895277873",
       "criado": "2026-08-29T04:30:00+00:00",
       "medicoes": {
-        "60": 20779
+        "60": 20779,
+        "120": 28636
       },
       "alertado": false
     },
@@ -1107,7 +1052,8 @@
       "url": "https://x.com/MarioNawfal/status/2093552975235137712",
       "criado": "2026-08-29T04:15:00+00:00",
       "medicoes": {
-        "60": 21554
+        "60": 21554,
+        "120": 24942
       },
       "alertado": false
     },
@@ -1216,7 +1162,9 @@
       "texto": "A town built around Starship was never going to choose boring police cars. Starbase's new police department is rolling out black-and-white Tesla Cybertrucks with full City of Starbase branding and emergency gear. The town has roughly 500 residents, mostly tied to SpaceX, and now its own chief and 8 officers right next to the Starship launch site. Rockets overhead. Cybertrucks on patrol. That track...",
       "url": "https://x.com/MarioNawfal/status/2093571849489990107",
       "criado": "2026-08-29T05:30:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 19410
+      },
       "alertado": false
     },
     "2093568074662514838": {
@@ -1224,7 +1172,9 @@
       "texto": "🇺🇸 He made videos on how to make the NFL, showing off his McLaren, Lamborghini, 49ers helmet... The whole package. Federal prosecutors now say Daejon Labrayae Love never played at all. The league and the 49ers told investigators he’d never been on a roster. The career was a costume. The cars were the bait, and dating apps were the door. Feds say at least 26 women were taken for more than $1.3 mill...",
       "url": "https://x.com/MarioNawfal/status/2093568074662514838",
       "criado": "2026-08-29T05:15:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 21620
+      },
       "alertado": false
     },
     "2093579404052218221": {
@@ -1250,6 +1200,30 @@
       "criado": "2026-08-29T06:10:00+00:00",
       "medicoes": {},
       "alertado": false
+    },
+    "2093586950074794079": {
+      "autor": "MarioNawfal",
+      "texto": "Tough guy gets ragdolled by a donkey Instant karma's a beautiful thing Writer: Ian https://t.co/uKHoPgpvlE",
+      "url": "https://x.com/MarioNawfal/status/2093586950074794079",
+      "criado": "2026-08-29T06:30:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093584692918263954": {
+      "autor": "nexta_tv",
+      "texto": "❗️ Russian strike near Kyiv triggers massive fire and secondary explosions at a site storing explosive materials: fatalities reported, six injured In the village of Mila in Kyiv region’s Bucha district, a Russian drone reportedly crashed or struck the territory of an enterprise, causing a large-scale fire followed by secondary detonations. According to local authorities, six people were injured an...",
+      "url": "https://x.com/nexta_tv/status/2093584692918263954",
+      "criado": "2026-08-29T06:21:02+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093584432347460086": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸 I know there's the Second Amendment, but some people shouldn't be allowed anywhere near guns Writer: Ian https://t.co/xqCHQttiBA",
+      "url": "https://x.com/MarioNawfal/status/2093584432347460086",
+      "criado": "2026-08-29T06:20:00+00:00",
+      "medicoes": {},
+      "alertado": false
     }
   },
   "baseline": {
@@ -1271,7 +1245,8 @@
         12666,
         20237,
         9860,
-        7947
+        7947,
+        10766
       ],
       "120": [
         429435,
@@ -1290,7 +1265,8 @@
         17195,
         27596,
         14111,
-        10719
+        10719,
+        15156
       ],
       "180": [
         429435,
@@ -1309,7 +1285,8 @@
         20210,
         36198,
         16012,
-        11869
+        11869,
+        16411
       ],
       "240": [
         429435,
@@ -1328,7 +1305,8 @@
         21896,
         38094,
         16751,
-        12351
+        12351,
+        17199
       ],
       "360": [
         429435,
@@ -1347,14 +1325,12 @@
         23059,
         40375,
         17477,
-        12778
+        12778,
+        18162
       ]
     },
     "MarioNawfal": {
       "60": [
-        29662,
-        68409,
-        22577,
         29799,
         46648,
         24506,
@@ -1391,12 +1367,12 @@
         20108,
         29721,
         21491,
-        26127
+        26127,
+        18555,
+        28714,
+        35078
       ],
       "120": [
-        32447,
-        35203,
-        91842,
         25906,
         32818,
         58404,
@@ -1433,12 +1409,12 @@
         23185,
         46834,
         27209,
-        30887
+        30887,
+        21790,
+        41874,
+        48404
       ],
       "180": [
-        37580,
-        38526,
-        107714,
         31505,
         34947,
         66840,
@@ -1475,12 +1451,12 @@
         26900,
         58050,
         31562,
-        34343
+        34343,
+        28250,
+        50361,
+        58034
       ],
       "240": [
-        40756,
-        40493,
-        118003,
         40795,
         37560,
         71788,
@@ -1517,12 +1493,12 @@
         29608,
         65240,
         37864,
-        42178
+        42178,
+        32320,
+        58446,
+        66349
       ],
       "360": [
-        53098,
-        45975,
-        125214,
         45835,
         40894,
         82677,
@@ -1559,12 +1535,14 @@
         32043,
         73292,
         45563,
-        49897
+        49897,
+        35551,
+        69421,
+        75238
       ]
     },
     "MachadoDarlon": {
       "60": [
-        3263,
         584,
         1009,
         1091,
@@ -1603,10 +1581,10 @@
         1598,
         755,
         829,
-        873
+        873,
+        772
       ],
       "120": [
-        5353,
         844,
         1274,
         1276,
@@ -1645,10 +1623,10 @@
         3188,
         1007,
         1624,
-        2130
+        2130,
+        1461
       ],
       "180": [
-        6714,
         1110,
         1710,
         1552,
@@ -1687,10 +1665,10 @@
         4455,
         1199,
         2177,
-        2856
+        2856,
+        1784
       ],
       "240": [
-        7792,
         1274,
         2224,
         1842,
@@ -1729,10 +1707,10 @@
         5120,
         1338,
         2476,
-        3257
+        3257,
+        1989
       ],
       "360": [
-        9435,
         1481,
         2859,
         2120,
@@ -1771,7 +1749,8 @@
         5694,
         1496,
         2733,
-        3549
+        3549,
+        2203
       ]
     },
     "clashreport": {
@@ -2228,7 +2207,8 @@
         10385,
         8409,
         15694,
-        13821
+        13821,
+        6437
       ],
       "120": [
         19760,
@@ -2259,7 +2239,8 @@
         13818,
         10598,
         24289,
-        21677
+        21677,
+        8143
       ],
       "180": [
         22399,
@@ -2290,7 +2271,8 @@
         15822,
         11912,
         30761,
-        27605
+        27605,
+        10120
       ],
       "240": [
         24895,
@@ -2321,7 +2303,8 @@
         17529,
         13140,
         36513,
-        32212
+        32212,
+        12595
       ],
       "360": [
         28012,
@@ -2352,10 +2335,11 @@
         22096,
         19379,
         52154,
-        45813
+        45813,
+        19326
       ]
     }
   },
-  "ultima_busca": "2026-08-29T06:10:22+00:00",
+  "ultima_busca": "2026-08-29T06:31:29+00:00",
   "alertas_enviados": 0
 }
