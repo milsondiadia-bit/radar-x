@@ -1,19 +1,5 @@
 {
   "posts": {
-    "2093542619628314627": {
-      "autor": "MarioNawfal",
-      "texto": "Something seems out of place here... Can't put my finger on it🤣 https://t.co/LLNCXogczV",
-      "url": "https://x.com/MarioNawfal/status/2093542619628314627",
-      "criado": "2026-08-29T03:33:51+00:00",
-      "medicoes": {
-        "60": 19835,
-        "120": 23556,
-        "180": 28623,
-        "240": 33735,
-        "360": 39827
-      },
-      "alertado": false
-    },
     "2093549200558735832": {
       "autor": "MarioNawfal",
       "texto": "🇺🇸 Flashback to the early days of @Tesla. Fremont, 2015: Model X launch. Elon parks next to another car so tight a normal door would eat the paint, then he hits the Falcon Wing. It rises first, folds, feels the gap, and slips through it without a scrape. The room goes quiet, then loses it. At the time engineers told him this door was a bad idea, and the thing works as inteded in front of thousands...",
@@ -258,7 +244,8 @@
       "medicoes": {
         "60": 23568,
         "120": 34786,
-        "180": 54082
+        "180": 54082,
+        "240": 72948
       },
       "alertado": false
     },
@@ -397,7 +384,8 @@
       "criado": "2026-08-29T07:10:00+00:00",
       "medicoes": {
         "60": 18684,
-        "120": 22533
+        "120": 22533,
+        "180": 25902
       },
       "alertado": false
     },
@@ -539,7 +527,8 @@
       "url": "https://x.com/clashreport/status/2093612156029644869",
       "criado": "2026-08-29T08:10:10+00:00",
       "medicoes": {
-        "60": 7415
+        "60": 7415,
+        "120": 11316
       },
       "alertado": false
     },
@@ -549,7 +538,8 @@
       "url": "https://x.com/MarioNawfal/status/2093612114799948196",
       "criado": "2026-08-29T08:10:00+00:00",
       "medicoes": {
-        "60": 22700
+        "60": 22700,
+        "120": 29240
       },
       "alertado": false
     },
@@ -559,7 +549,8 @@
       "url": "https://x.com/clashreport/status/2093610437602320399",
       "criado": "2026-08-29T08:03:20+00:00",
       "medicoes": {
-        "60": 9748
+        "60": 9748,
+        "120": 16713
       },
       "alertado": false
     },
@@ -688,7 +679,9 @@
       "texto": "“How about THANK YOU AMBASSADOR?” — Bill White fires back at Belgium The US ambassador to Belgium insists he never actually called Health Minister Frank Vandenbroucke a “loser.” He says he merely reposted someone else’s question — “Who’s the biggest loser in Belgium?” — and ran a poll. Then he added that he has already received 386 messages from Belgians with their answers, before teasing: “Would...",
       "url": "https://x.com/nexta_tv/status/2093627237568254413",
       "criado": "2026-08-29T09:10:05+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 13283
+      },
       "alertado": false
     },
     "2093627214583460005": {
@@ -696,7 +689,9 @@
       "texto": "🇳🇵🇨🇳 The death toll from the catastrophic Nepal-Tibet floods has now surged to 626, with 2,426 people still missing as rescuers enter the fourth day of searching through mud and debris. Officials say hundreds of recovered bodies are no longer identifiable. Among foreign nationals still listed as missing in Nepal: 🇮🇳 178 from India 🇺🇸 65 from the U.S. 🇺🇦 53 from Ukraine 🇲🇾 51 from Malaysia 🇦🇺 35 fr...",
       "url": "https://x.com/MarioNawfal/status/2093627214583460005",
       "criado": "2026-08-29T09:10:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 20683
+      },
       "alertado": false
     },
     "2093632247744385199": {
@@ -768,6 +763,22 @@
       "texto": "Pete Hegseth Weighs Possible 2028 Presidential Run Defense Secretary Pete Hegseth has discussed a possible 2028 presidential campaign with associates, adding another senior Trump administration figure to the emerging Republican succession debate. https://t.co/KdfWlw1PI1",
       "url": "https://x.com/clashreport/status/2093635940698693963",
       "criado": "2026-08-29T09:44:40+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093642313952289190": {
+      "autor": "MarioNawfal",
+      "texto": "🇨🇳 China is rapidly expanding its version of Area 51 The Lop Nur flight-test base in Xinjiang has already added large hangars, extended taxiways, fuel infrastructure, and turning pads It's believed they could be preparing the site for testing the H-20 stealth bomber and sixth-generation fighters like the J-36 It matters because it is one visible piece of a much larger modernization effort as China...",
+      "url": "https://x.com/MarioNawfal/status/2093642313952289190",
+      "criado": "2026-08-29T10:10:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093642005200921083": {
+      "autor": "clashreport",
+      "texto": "US Will Take Majority Control of Vast Venezuelan Oil Reserves Trump said a US-led venture would gain majority control over 65 billion barrels of proven Venezuelan reserves, with Washington controlling 55% of effective output and securing crude at cost. https://t.co/V7PRuJqi4H",
+      "url": "https://x.com/clashreport/status/2093642005200921083",
+      "criado": "2026-08-29T10:08:46+00:00",
       "medicoes": {},
       "alertado": false
     }
@@ -927,7 +938,6 @@
     },
     "MarioNawfal": {
       "60": [
-        21026,
         23146,
         22528,
         20976,
@@ -966,10 +976,10 @@
         29225,
         17739,
         21489,
-        18601
+        18601,
+        19835
       ],
       "120": [
-        26813,
         27130,
         26626,
         25853,
@@ -1008,10 +1018,10 @@
         36252,
         21852,
         25233,
-        22021
+        22021,
+        23556
       ],
       "180": [
-        30997,
         34499,
         32532,
         29248,
@@ -1050,10 +1060,10 @@
         40747,
         26907,
         28256,
-        27313
+        27313,
+        28623
       ],
       "240": [
-        37488,
         41405,
         40748,
         38398,
@@ -1092,10 +1102,10 @@
         44382,
         29976,
         31061,
-        31680
+        31680,
+        33735
       ],
       "360": [
-        43889,
         48348,
         45384,
         45868,
@@ -1134,7 +1144,8 @@
         51621,
         33756,
         34435,
-        36298
+        36298,
+        39827
       ]
     },
     "MachadoDarlon": {
@@ -1956,6 +1967,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-08-29T10:01:48+00:00",
+  "ultima_busca": "2026-08-29T10:10:23+00:00",
   "alertas_enviados": 0
 }
