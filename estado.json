@@ -1,47 +1,5 @@
 {
   "posts": {
-    "2093594503110447585": {
-      "autor": "MarioNawfal",
-      "texto": "Have they never watched The Deer Hunter?!?! Writer: Ian https://t.co/CrYprhhAAk",
-      "url": "https://x.com/MarioNawfal/status/2093594503110447585",
-      "criado": "2026-08-29T07:00:01+00:00",
-      "medicoes": {
-        "60": 19767,
-        "120": 25092,
-        "180": 29799,
-        "240": 40426,
-        "360": 55584
-      },
-      "alertado": false
-    },
-    "2093591982354698456": {
-      "autor": "MarioNawfal",
-      "texto": "🇮🇱🇺🇸 Remember in 2024 when the BBC confronted MTG about Jewish space lasers, claiming it was a conspiracy theory? Well, a few weeks ago, Israeli Defense Minister Katz revealed Israel is developing space lasers to carry out attacks from orbit: \"If we achieve this, it will ensure the advantage of deterrence, of the ability to attack, destroy, and all of the other matters, versus our enemies with lar...",
-      "url": "https://x.com/MarioNawfal/status/2093591982354698456",
-      "criado": "2026-08-29T06:50:00+00:00",
-      "medicoes": {
-        "60": 23290,
-        "120": 34515,
-        "180": 43702,
-        "240": 50864,
-        "360": 64010
-      },
-      "alertado": false
-    },
-    "2093597015267516654": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸🇮🇷 Iran is pledging to stand firm against U.S. sanctions A government spokesman said diplomacy and defence will be “complementary, coordinated and inseparable,” while also promising to fight “unjust sanctions,” improve Iranians’ livelihoods and strengthen national cohesion. In plain terms, be prepared for the war to drag on for the foreseeble future. Source: Al Jazeera / Writer: Mhedi",
-      "url": "https://x.com/MarioNawfal/status/2093597015267516654",
-      "criado": "2026-08-29T07:10:00+00:00",
-      "medicoes": {
-        "60": 18684,
-        "120": 22533,
-        "180": 25902,
-        "240": 29464,
-        "360": 34845
-      },
-      "alertado": false
-    },
     "2093602048281354462": {
       "autor": "MarioNawfal",
       "texto": "This just goes from bad to worse 😬 Writer: Ian https://t.co/qeKRtltkd3",
@@ -51,7 +9,8 @@
         "60": 21523,
         "120": 27589,
         "180": 32785,
-        "240": 41210
+        "240": 41210,
+        "360": 57212
       },
       "alertado": false
     },
@@ -64,7 +23,8 @@
         "60": 33597,
         "120": 80930,
         "180": 150660,
-        "240": 219498
+        "240": 219498,
+        "360": 352394
       },
       "alertado": false
     },
@@ -77,7 +37,8 @@
         "60": 16423,
         "120": 20406,
         "180": 23022,
-        "240": 24890
+        "240": 24890,
+        "360": 27424
       },
       "alertado": false
     },
@@ -90,7 +51,8 @@
         "60": 21527,
         "120": 26207,
         "180": 29609,
-        "240": 34517
+        "240": 34517,
+        "360": 42176
       },
       "alertado": false
     },
@@ -103,7 +65,8 @@
         "60": 10800,
         "120": 13547,
         "180": 15188,
-        "240": 16462
+        "240": 16462,
+        "360": 18442
       },
       "alertado": false
     },
@@ -427,7 +390,8 @@
       "medicoes": {
         "60": 23417,
         "120": 33029,
-        "180": 40944
+        "180": 40944,
+        "240": 46823
       },
       "alertado": false
     },
@@ -439,7 +403,8 @@
       "medicoes": {
         "60": 25431,
         "120": 33690,
-        "180": 41155
+        "180": 41155,
+        "240": 47036
       },
       "alertado": false
     },
@@ -451,7 +416,8 @@
       "medicoes": {
         "60": 27239,
         "120": 41948,
-        "180": 54120
+        "180": 54120,
+        "240": 63567
       },
       "alertado": false
     },
@@ -558,7 +524,8 @@
       "criado": "2026-08-29T10:30:00+00:00",
       "medicoes": {
         "60": 20766,
-        "120": 32710
+        "120": 32710,
+        "180": 38993
       },
       "alertado": false
     },
@@ -569,7 +536,8 @@
       "criado": "2026-08-29T10:20:00+00:00",
       "medicoes": {
         "60": 22709,
-        "120": 28038
+        "120": 28038,
+        "180": 32994
       },
       "alertado": false
     },
@@ -580,7 +548,8 @@
       "criado": "2026-08-29T10:40:00+00:00",
       "medicoes": {
         "60": 21629,
-        "120": 27971
+        "120": 27971,
+        "180": 31982
       },
       "alertado": false
     },
@@ -591,7 +560,8 @@
       "criado": "2026-08-29T10:38:48+00:00",
       "medicoes": {
         "60": 11868,
-        "120": 15190
+        "120": 15190,
+        "180": 17324
       },
       "alertado": false
     },
@@ -602,7 +572,8 @@
       "criado": "2026-08-29T10:37:29+00:00",
       "medicoes": {
         "60": 7067,
-        "120": 8861
+        "120": 8861,
+        "180": 9936
       },
       "alertado": false
     },
@@ -613,7 +584,8 @@
       "criado": "2026-08-29T10:36:43+00:00",
       "medicoes": {
         "60": 634,
-        "120": 903
+        "120": 903,
+        "180": 1189
       },
       "alertado": false
     },
@@ -689,7 +661,8 @@
       "url": "https://x.com/clashreport/status/2093662715826884899",
       "criado": "2026-08-29T11:31:04+00:00",
       "medicoes": {
-        "60": 11116
+        "60": 11116,
+        "120": 13882
       },
       "alertado": false
     },
@@ -699,7 +672,8 @@
       "url": "https://x.com/MarioNawfal/status/2093662447164932291",
       "criado": "2026-08-29T11:30:00+00:00",
       "medicoes": {
-        "60": 24284
+        "60": 24284,
+        "120": 30085
       },
       "alertado": false
     },
@@ -709,7 +683,8 @@
       "url": "https://x.com/nexta_tv/status/2093659363680424231",
       "criado": "2026-08-29T11:17:45+00:00",
       "medicoes": {
-        "60": 55406
+        "60": 55406,
+        "120": 85053
       },
       "alertado": false
     },
@@ -719,7 +694,8 @@
       "url": "https://x.com/MarioNawfal/status/2093664962925257087",
       "criado": "2026-08-29T11:40:00+00:00",
       "medicoes": {
-        "60": 29643
+        "60": 29643,
+        "120": 40804
       },
       "alertado": false
     },
@@ -818,7 +794,9 @@
       "texto": "Kids growing up in the West: I want to be an influencer Meanwhile, in China... Writers: Mhedi, Ian https://t.co/EaFZF7wGz9",
       "url": "https://x.com/MarioNawfal/status/2093680062830924239",
       "criado": "2026-08-29T12:40:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 29476
+      },
       "alertado": false
     },
     "2093679499166560408": {
@@ -826,7 +804,9 @@
       "texto": "Putin meets with Lukashenko to discuss bilateral cooperation, regional and international issues, and security. https://t.co/SWChV6MAlH",
       "url": "https://x.com/clashreport/status/2093679499166560408",
       "criado": "2026-08-29T12:37:45+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 11841
+      },
       "alertado": false
     },
     "2093679166788874373": {
@@ -834,7 +814,9 @@
       "texto": "🇷🇺 Putin explains his approach to education to a teacher: \"Killer whales eat bears like they're nothing. They just attack in a pack like that and... boom! Tear them to pieces. That’s the food chain. Children should be told about this so that they understand what kind of world we live in and why we are conducting the special military operation.\" PTSD seems like a rite of passage for kids in Russia...",
       "url": "https://x.com/MarioNawfal/status/2093679166788874373",
       "criado": "2026-08-29T12:36:26+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 32550
+      },
       "alertado": false
     },
     "2093677857583005858": {
@@ -842,7 +824,9 @@
       "texto": "🚨AGORA - Cristian Cravinhos é banido de plataforma adulta após vídeo com simulação de pauladas https://t.co/ll5VFZ2CHU",
       "url": "https://x.com/NewsLiberdade/status/2093677857583005858",
       "criado": "2026-08-29T12:31:14+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 6879
+      },
       "alertado": false
     },
     "2093677546801860639": {
@@ -850,7 +834,9 @@
       "texto": "🇷🇺🇺🇦 Massive fires continue to blaze in Ukraine after Russia struck a missile logistics center near Kyiv, port refueling infrastructure in Izmail, and multiple military storage facilities in Odesa and Mykolaiv At least 27 people were killed in the strikes Writer: Ian https://t.co/MOjGO5VnPF",
       "url": "https://x.com/MarioNawfal/status/2093677546801860639",
       "criado": "2026-08-29T12:30:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 61985
+      },
       "alertado": false
     },
     "2093676476700709121": {
@@ -858,7 +844,9 @@
       "texto": "Putin to a teacher: Killer whales eat those bears like they're nothing. They just attack in a pack like that and... boom! Tear them to pieces. That’s the food chain. And children should also be told about this so that they understand what kind of world we live in and why we are conducting the \"special military operation.\"",
       "url": "https://x.com/clashreport/status/2093676476700709121",
       "criado": "2026-08-29T12:25:45+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 28757
+      },
       "alertado": false
     },
     "2093675107935740245": {
@@ -866,7 +854,9 @@
       "texto": "Zelensky: For everything Russia is doing, it will receive a response.",
       "url": "https://x.com/clashreport/status/2093675107935740245",
       "criado": "2026-08-29T12:20:18+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 11277
+      },
       "alertado": false
     },
     "2093675029439619336": {
@@ -874,7 +864,9 @@
       "texto": "🇺🇸 Ex-USA team soccer star Megan Rapinoe just accidentally undermined her own stance of allowing trans women to compete in women's sports when criticizing Enes Kanter Freedom's attempt to join the WNBA as a self-identified woman: \"Let’s make one thing clear. We do not need men in the WNBA or women’s sports in general to make it successful.\" Later on, she'll say she was talking about men who don't...",
       "url": "https://x.com/MarioNawfal/status/2093675029439619336",
       "criado": "2026-08-29T12:20:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 28009
+      },
       "alertado": false
     },
     "2093674548818333839": {
@@ -882,7 +874,9 @@
       "texto": "BIG: Germany is preparing what officials are calling a “Zeitenwende 2.0” toward Russia. Berlin is expected to formally blame Moscow for the August drone attack at Leipzig/Halle Airport and pair the attribution with tougher national measures, more support for Ukraine and a major new EU sanctions package. The shift is meant to mark an end to earlier restraint on Russian hybrid attacks. Around 1,600...",
       "url": "https://x.com/clashreport/status/2093674548818333839",
       "criado": "2026-08-29T12:18:05+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 27930
+      },
       "alertado": false
     },
     "2093673887179399605": {
@@ -890,7 +884,9 @@
       "texto": "🚨VEJA - Flávio anuncia Claudio Lottenberg para Ministério da Saúde https://t.co/fGZL9TIUQQ",
       "url": "https://x.com/NewsLiberdade/status/2093673887179399605",
       "criado": "2026-08-29T12:15:27+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 9216
+      },
       "alertado": false
     },
     "2093673588398141702": {
@@ -898,7 +894,9 @@
       "texto": "A new Ifop-Fiducial poll puts Marine Le Pen ahead in every tested 2027 French presidential runoff. She leads Mélenchon 67–33, Glucksmann 55–45 and Hollande 54–46. Even the closest matchup, against Édouard Philippe, has Le Pen ahead 52–48. In the first round, she sits at 33–35% across scenarios, comfortably ahead of a fragmented left and centre. It is still eight months out and the field remains fl...",
       "url": "https://x.com/clashreport/status/2093673588398141702",
       "criado": "2026-08-29T12:14:16+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 8000
+      },
       "alertado": false
     },
     "2093673501022367818": {
@@ -906,7 +904,9 @@
       "texto": "France is ready to export its MdCN long-range naval cruise missile to Sweden for the first time, as part of a €4.3 billion deal for four French frigates built by Naval Group. The MdCN is often described as the European equivalent of the U.S. Tomahawk, with a reported range of up to 1,400 km. It has been used exclusively by the French Navy for nearly a decade and would now be supplied to a Northern...",
       "url": "https://x.com/clashreport/status/2093673501022367818",
       "criado": "2026-08-29T12:13:55+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 8687
+      },
       "alertado": false
     },
     "2093687612896575860": {
@@ -994,6 +994,86 @@
       "texto": "🚨AGORA - Renan Santos bate boca com jornalista e critica Cleitinho https://t.co/Zkw10BYAPn",
       "url": "https://x.com/NewsLiberdade/status/2093680832762294777",
       "criado": "2026-08-29T12:43:03+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093695162354737660": {
+      "autor": "MarioNawfal",
+      "texto": "🇸🇻 BUKELE: GOD CAN FORGIVE CRIMINALS. THE STATE STILL HAS TO LOCK THEM UP Bukele did the thing nobody does anymore. He drew a line and didn't apologize for it. \"I believe God can forgive everyone. If the criminal repents, he will go to heaven like any other sinner. That is up to God. On Earth, he has to be in prison.\" We've spent about 30 years pretending that if a man felt bad enough, loudly enou...",
+      "url": "https://x.com/MarioNawfal/status/2093695162354737660",
+      "criado": "2026-08-29T13:40:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093694730047504712": {
+      "autor": "clashreport",
+      "texto": "NEW: Türkiye summoned Ukraine's Ambassador over drone attacks on two Turkish-linked vessels in the Black Sea this week. The cargo ship Lider Bordo Mavi was hit by three drones while carrying vegetables from Samsun to Russia's Tuapse port, injuring five crew. When the Lider Kocatepe was sent to assist, it was also struck by a drone. Türkiye has called for a mutual moratorium on attacks against civi...",
+      "url": "https://x.com/clashreport/status/2093694730047504712",
+      "criado": "2026-08-29T13:38:17+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093692646514721139": {
+      "autor": "MarioNawfal",
+      "texto": "I really hope they're playing tag; otherwise, he's in big trouble 😬 Writer: Ian https://t.co/gV6jyUtJQk",
+      "url": "https://x.com/MarioNawfal/status/2093692646514721139",
+      "criado": "2026-08-29T13:30:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093692311754469591": {
+      "autor": "MachadoDarlon",
+      "texto": "🤔😒 OPINIÃO: É difícil assistir a um adolescente falando sobre trabalho, estudo, investimento e vontade de construir o próprio futuro e não se perguntar em que momento começamos a tratar iniciativa como problema. Pelo relato do Richard, ele não está trabalhando porque passa necessidade, mas porque decidiu aprender a vender, guardar dinheiro, investir e construir algo para o futuro, enquanto continu...",
+      "url": "https://x.com/MachadoDarlon/status/2093692311754469591",
+      "criado": "2026-08-29T13:28:40+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093691445911978247": {
+      "autor": "MarioNawfal",
+      "texto": "🇮🇷🇸🇦 Iran: maybe the Middle East should stop outsourcing its security Iranian Parliament Speaker Mohammad Ghalibaf is making Tehran’s pitch for the region: stop relying on outside powers for security and let Muslim nations handle their own neighborhood. It’s classic Iranian foreign policy dressed in brotherhood language. Except the Iran-Saudi thaw means the sales pitch doesn’t sound quite as theor...",
+      "url": "https://x.com/MarioNawfal/status/2093691445911978247",
+      "criado": "2026-08-29T13:25:14+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093691438819131758": {
+      "autor": "nexta_tv",
+      "texto": "😡 Zelensky: the first strike on Mila hit a storage site containing ammunition belonging to the Defense Forces According to the Ukrainian president, the impact triggered the detonation of shells, mines and drones stored at the facility. It was the subsequent explosions that caused the massive destruction, fires and deaths.",
+      "url": "https://x.com/nexta_tv/status/2093691438819131758",
+      "criado": "2026-08-29T13:25:12+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093690595076177952": {
+      "autor": "clashreport",
+      "texto": "Kremlin: There are currently no grounds for improving relations between Russia and the European Union. Europeans are fully mobilizing their military resources against the Russian Federation.",
+      "url": "https://x.com/clashreport/status/2093690595076177952",
+      "criado": "2026-08-29T13:21:51+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093690129424794071": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇦🇷🇺 The death toll from last night’s massive Russian strike on the Bucha district outside Kyiv has risen to 37, with at least 42 others injured. A Russian drone triggered a huge fire and secondary explosions that tore through the surrounding area of the warehouse it struck, damaging 50 homes and forcing hundreds to evacuate. Ukraine is now investigating what happened inside the facility, with aut...",
+      "url": "https://x.com/MarioNawfal/status/2093690129424794071",
+      "criado": "2026-08-29T13:20:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093688924426449159": {
+      "autor": "MarioNawfal",
+      "texto": "🇵🇱🇷🇺 Poland warns: The next 6 months will be decisive! Polish PM Donald Tusk says NATO chief Mark Rutte has briefed him on continued Russian escalation, with Europe now urgently trying to strengthen Ukraine’s air defenses. But Tusk’s bigger warning was closer to home. Poland and NATO are preparing for multiple scenarios, including the possibility of Russian provocations against an alliance member....",
+      "url": "https://x.com/MarioNawfal/status/2093688924426449159",
+      "criado": "2026-08-29T13:15:13+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093688248593715563": {
+      "autor": "clashreport",
+      "texto": "Iran's Ghalibaf: Security based on extra-regional powers is fragile and dependent, while security built on the will and cooperation of Muslim nations can be sustainable, dignified, and lasting. New regional agreements signal a new era in which neighboring Muslim countries rely on their own capabilities and choose cooperation and brotherhood over destructive rivalries.",
+      "url": "https://x.com/clashreport/status/2093688248593715563",
+      "criado": "2026-08-29T13:12:31+00:00",
       "medicoes": {},
       "alertado": false
     }
@@ -1153,9 +1233,6 @@
     },
     "MarioNawfal": {
       "60": [
-        22805,
-        24449,
-        50420,
         31730,
         20051,
         21228,
@@ -1192,12 +1269,12 @@
         18694,
         23568,
         27728,
-        25183
+        25183,
+        19767,
+        23290,
+        18684
       ],
       "120": [
-        29389,
-        29870,
-        84671,
         42901,
         22813,
         25958,
@@ -1234,12 +1311,12 @@
         21850,
         34786,
         40574,
-        30996
+        30996,
+        25092,
+        34515,
+        22533
       ],
       "180": [
-        34260,
-        33371,
-        119184,
         50374,
         27184,
         29000,
@@ -1276,12 +1353,12 @@
         25810,
         54082,
         50016,
-        35806
+        35806,
+        29799,
+        43702,
+        25902
       ],
       "240": [
-        42758,
-        38850,
-        154354,
         56136,
         29926,
         34097,
@@ -1318,12 +1395,12 @@
         29669,
         72948,
         57666,
-        41538
+        41538,
+        40426,
+        50864,
+        29464
       ],
       "360": [
-        58566,
-        53633,
-        189910,
         65572,
         33397,
         41337,
@@ -1360,7 +1437,10 @@
         36907,
         116275,
         72503,
-        59301
+        59301,
+        55584,
+        64010,
+        34845
       ]
     },
     "MachadoDarlon": {
@@ -2192,6 +2272,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-08-29T13:10:20+00:00",
+  "ultima_busca": "2026-08-29T13:40:19+00:00",
   "alertas_enviados": 0
 }
