@@ -1,103 +1,5 @@
 {
   "posts": {
-    "2094004701549253012": {
-      "autor": "MarioNawfal",
-      "texto": "🇳🇵🇨🇳 Heartbreaking footage of an old man doing his best to get away from the flood that left more than 700 people dead in Nepal and Tibet on Wednesday. Writer: Mhedi https://t.co/G4noHEsvP2",
-      "url": "https://x.com/MarioNawfal/status/2094004701549253012",
-      "criado": "2026-08-30T10:10:00+00:00",
-      "medicoes": {
-        "60": 36084,
-        "120": 59559,
-        "180": 78285,
-        "240": 92058,
-        "360": 115508
-      },
-      "alertado": false
-    },
-    "2094004561681789216": {
-      "autor": "clashreport",
-      "texto": "Ukraine was hit by approximately 1,500 jet-powered Shaheds last month. This month, the number has already exceeded 2,500. The jet-powered Shaheds are being launched at Ukraine practically straight from the factory. Source: Ukrainian MoD advisor and EW expert Serhii \"Flash\" Beskrestnov",
-      "url": "https://x.com/clashreport/status/2094004561681789216",
-      "criado": "2026-08-30T10:09:26+00:00",
-      "medicoes": {
-        "60": 10498,
-        "120": 19715,
-        "180": 25892,
-        "240": 30494,
-        "360": 37389
-      },
-      "alertado": false
-    },
-    "2094004064132469238": {
-      "autor": "clashreport",
-      "texto": "Croatian General Rahim Ademi on Ratko Mladić: He was not a soldier at all. He showed \"courage\" only against innocent, unarmed civilians. Ademi and his units defeated Serbian forces under Mladić's command near Šibenik in September 1991. https://t.co/5Vy4hzLpvy",
-      "url": "https://x.com/clashreport/status/2094004064132469238",
-      "criado": "2026-08-30T10:07:28+00:00",
-      "medicoes": {
-        "60": 7943,
-        "120": 11336,
-        "180": 14660,
-        "240": 18617,
-        "360": 27810
-      },
-      "alertado": false
-    },
-    "2094003443883258348": {
-      "autor": "nexta_tv",
-      "texto": "🇩🇪 A mug reading “Russian Army” was found in the office of one of AfD’s most pro-Russian politicians The politician in question is Hans-Thomas Tillschneider, deputy leader of Alternative for Germany in Saxony-Anhalt. During filming in his office, a journalist spotted a black mug with a red star and the words “Russian Army.” “I don’t associate anything special with it. It’s just a mug that was give...",
-      "url": "https://x.com/nexta_tv/status/2094003443883258348",
-      "criado": "2026-08-30T10:05:00+00:00",
-      "medicoes": {
-        "60": 17684,
-        "120": 26878,
-        "180": 35969,
-        "240": 50921,
-        "360": 96306
-      },
-      "alertado": false
-    },
-    "2094002187865297324": {
-      "autor": "MarioNawfal",
-      "texto": "Google Maps inside the U.S vs. outside the U.S A rose by any other name... Writer: Ian https://t.co/1b7FWkQnTD",
-      "url": "https://x.com/MarioNawfal/status/2094002187865297324",
-      "criado": "2026-08-30T10:00:00+00:00",
-      "medicoes": {
-        "60": 33590,
-        "120": 57602,
-        "180": 74764,
-        "240": 90190,
-        "360": 112678
-      },
-      "alertado": false
-    },
-    "2094001105365520468": {
-      "autor": "clashreport",
-      "texto": "German MP Maximilian Krah visited the Turkish Cypriot Football Federation (KTFF) in Northern Cyprus and criticized the international sporting restrictions imposed on Turkish Cypriots. During the visit, Krah met KTFF President Hasan Sertoğlu and wore a Northern Cyprus national team jersey presented to him as a gift.",
-      "url": "https://x.com/clashreport/status/2094001105365520468",
-      "criado": "2026-08-30T09:55:42+00:00",
-      "medicoes": {
-        "60": 8793,
-        "120": 10836,
-        "180": 12525,
-        "240": 13613,
-        "360": 14887
-      },
-      "alertado": false
-    },
-    "2093999668497895580": {
-      "autor": "MarioNawfal",
-      "texto": "🇷🇺🇺🇦 Russia's getting locked and loaded for another massive attack on Ukraine According to the Russian Ministry of Defense, preparations are underway to launch extensive strikes against Ukraine’s energy infrastructure Days ago, Putin promised significant retaliation for Ukraine's continued attacks on e-commerce warehouses and oil facilities; it looks like the countdown has already begun Source: Wa...",
-      "url": "https://x.com/MarioNawfal/status/2093999668497895580",
-      "criado": "2026-08-30T09:50:00+00:00",
-      "medicoes": {
-        "60": 26163,
-        "120": 32464,
-        "180": 36690,
-        "240": 41104,
-        "360": 55361
-      },
-      "alertado": false
-    },
     "2094012251305115817": {
       "autor": "MarioNawfal",
       "texto": "🇩🇪🇬🇧 A 31-year-old British woman was stabbed to death this morning at Rosenheim train station in Germany A 27-year-old \"German national\" was arrested for the attack Tellingly, the police are refusing to give any further details about the attacker, which can often mean they're an immigrant Source: Der Spiegel / Writer: Ian",
@@ -107,7 +9,8 @@
         "60": 24032,
         "120": 35736,
         "180": 45599,
-        "240": 52410
+        "240": 52410,
+        "360": 62458
       },
       "alertado": false
     },
@@ -120,7 +23,8 @@
         "60": 499,
         "120": 944,
         "180": 1534,
-        "240": 1974
+        "240": 1974,
+        "360": 2835
       },
       "alertado": false
     },
@@ -133,7 +37,8 @@
         "60": 15288,
         "120": 27296,
         "180": 35290,
-        "240": 41326
+        "240": 41326,
+        "360": 51505
       },
       "alertado": false
     },
@@ -146,7 +51,8 @@
         "60": 22911,
         "120": 29933,
         "180": 84880,
-        "240": 98627
+        "240": 98627,
+        "360": 110541
       },
       "alertado": false
     },
@@ -159,7 +65,8 @@
         "60": 11758,
         "120": 16571,
         "180": 20257,
-        "240": 23079
+        "240": 23079,
+        "360": 26705
       },
       "alertado": false
     },
@@ -172,7 +79,8 @@
         "60": 29760,
         "120": 46096,
         "180": 62464,
-        "240": 76116
+        "240": 76116,
+        "360": 93039
       },
       "alertado": false
     },
@@ -185,7 +93,8 @@
         "60": 7218,
         "120": 8943,
         "180": 9966,
-        "240": 10752
+        "240": 10752,
+        "360": 13492
       },
       "alertado": false
     },
@@ -198,7 +107,8 @@
         "60": 10064,
         "120": 12988,
         "180": 15045,
-        "240": 17196
+        "240": 17196,
+        "360": 19124
       },
       "alertado": false
     },
@@ -211,7 +121,8 @@
         "60": 17952,
         "120": 27397,
         "180": 37147,
-        "240": 45443
+        "240": 45443,
+        "360": 57163
       },
       "alertado": false
     },
@@ -224,7 +135,8 @@
         "60": 4897,
         "120": 7139,
         "180": 8918,
-        "240": 10845
+        "240": 10845,
+        "360": 13605
       },
       "alertado": false
     },
@@ -652,7 +564,8 @@
       "medicoes": {
         "60": 24683,
         "120": 30777,
-        "180": 34542
+        "180": 34542,
+        "240": 38119
       },
       "alertado": false
     },
@@ -664,7 +577,8 @@
       "medicoes": {
         "60": 10985,
         "120": 16342,
-        "180": 19795
+        "180": 19795,
+        "240": 22075
       },
       "alertado": false
     },
@@ -676,7 +590,8 @@
       "medicoes": {
         "60": 9173,
         "120": 12481,
-        "180": 14086
+        "180": 14086,
+        "240": 15276
       },
       "alertado": false
     },
@@ -688,7 +603,8 @@
       "medicoes": {
         "60": 13749,
         "120": 16983,
-        "180": 18785
+        "180": 18785,
+        "240": 19998
       },
       "alertado": false
     },
@@ -700,7 +616,8 @@
       "medicoes": {
         "60": 66173,
         "120": 132438,
-        "180": 172264
+        "180": 172264,
+        "240": 199194
       },
       "alertado": false
     },
@@ -712,7 +629,8 @@
       "medicoes": {
         "60": 11391,
         "120": 15801,
-        "180": 19374
+        "180": 19374,
+        "240": 22622
       },
       "alertado": false
     },
@@ -724,7 +642,8 @@
       "medicoes": {
         "60": 27980,
         "120": 35040,
-        "180": 39329
+        "180": 39329,
+        "240": 42520
       },
       "alertado": false
     },
@@ -736,7 +655,8 @@
       "medicoes": {
         "60": 38923,
         "120": 49773,
-        "180": 56379
+        "180": 56379,
+        "240": 60675
       },
       "alertado": false
     },
@@ -748,7 +668,8 @@
       "medicoes": {
         "60": 19432,
         "120": 26382,
-        "180": 30584
+        "180": 30584,
+        "240": 33619
       },
       "alertado": false
     },
@@ -760,7 +681,8 @@
       "medicoes": {
         "60": 32764,
         "120": 42806,
-        "180": 49992
+        "180": 49992,
+        "240": 54750
       },
       "alertado": false
     },
@@ -772,7 +694,8 @@
       "medicoes": {
         "60": 24975,
         "120": 29024,
-        "180": 33408
+        "180": 33408,
+        "240": 41677
       },
       "alertado": false
     },
@@ -784,7 +707,8 @@
       "medicoes": {
         "60": 21405,
         "120": 30923,
-        "180": 38815
+        "180": 38815,
+        "240": 45388
       },
       "alertado": false
     },
@@ -796,7 +720,8 @@
       "medicoes": {
         "60": 19426,
         "120": 29019,
-        "180": 35832
+        "180": 35832,
+        "240": 41116
       },
       "alertado": false
     },
@@ -808,7 +733,8 @@
       "medicoes": {
         "60": 55879,
         "120": 74479,
-        "180": 86003
+        "180": 86003,
+        "240": 95622
       },
       "alertado": false
     },
@@ -951,7 +877,8 @@
       "criado": "2026-08-30T13:40:00+00:00",
       "medicoes": {
         "60": 24398,
-        "120": 31352
+        "120": 31352,
+        "180": 35281
       },
       "alertado": false
     },
@@ -962,7 +889,8 @@
       "criado": "2026-08-30T13:35:00+00:00",
       "medicoes": {
         "60": 26123,
-        "120": 31250
+        "120": 31250,
+        "180": 33920
       },
       "alertado": false
     },
@@ -973,7 +901,8 @@
       "criado": "2026-08-30T13:33:54+00:00",
       "medicoes": {
         "60": 35124,
-        "120": 45112
+        "120": 45112,
+        "180": 51452
       },
       "alertado": false
     },
@@ -984,7 +913,8 @@
       "criado": "2026-08-30T13:30:00+00:00",
       "medicoes": {
         "60": 24649,
-        "120": 29024
+        "120": 29024,
+        "180": 31649
       },
       "alertado": false
     },
@@ -995,7 +925,8 @@
       "criado": "2026-08-30T13:26:04+00:00",
       "medicoes": {
         "60": 30113,
-        "120": 45175
+        "120": 45175,
+        "180": 63017
       },
       "alertado": false
     },
@@ -1006,7 +937,8 @@
       "criado": "2026-08-30T13:23:54+00:00",
       "medicoes": {
         "60": 331932,
-        "120": 1476616
+        "120": 1476616,
+        "180": 2228101
       },
       "alertado": false
     },
@@ -1017,7 +949,8 @@
       "criado": "2026-08-30T13:20:00+00:00",
       "medicoes": {
         "60": 43615,
-        "120": 59353
+        "120": 59353,
+        "180": 69903
       },
       "alertado": false
     },
@@ -1131,7 +1064,8 @@
       "url": "https://x.com/MarioNawfal/status/2094072650356101199",
       "criado": "2026-08-30T14:40:00+00:00",
       "medicoes": {
-        "60": 25057
+        "60": 25057,
+        "120": 30218
       },
       "alertado": false
     },
@@ -1141,7 +1075,8 @@
       "url": "https://x.com/Osint613/status/2094071404345827616",
       "criado": "2026-08-30T14:35:03+00:00",
       "medicoes": {
-        "60": 25083
+        "60": 25083,
+        "120": 30470
       },
       "alertado": false
     },
@@ -1151,7 +1086,8 @@
       "url": "https://x.com/MarioNawfal/status/2094071391830065387",
       "criado": "2026-08-30T14:35:00+00:00",
       "medicoes": {
-        "60": 25754
+        "60": 25754,
+        "120": 30019
       },
       "alertado": false
     },
@@ -1161,7 +1097,8 @@
       "url": "https://x.com/NewsLiberdade/status/2094070804166168919",
       "criado": "2026-08-30T14:32:40+00:00",
       "medicoes": {
-        "60": 24224
+        "60": 24224,
+        "120": 66328
       },
       "alertado": false
     },
@@ -1171,7 +1108,8 @@
       "url": "https://x.com/MarioNawfal/status/2094070134822301717",
       "criado": "2026-08-30T14:30:00+00:00",
       "medicoes": {
-        "60": 24283
+        "60": 24283,
+        "120": 28048
       },
       "alertado": false
     },
@@ -1181,7 +1119,8 @@
       "url": "https://x.com/Osint613/status/2094069567240695920",
       "criado": "2026-08-30T14:27:45+00:00",
       "medicoes": {
-        "60": 30699
+        "60": 30699,
+        "120": 39776
       },
       "alertado": false
     },
@@ -1191,7 +1130,8 @@
       "url": "https://x.com/nexta_tv/status/2094069220971565260",
       "criado": "2026-08-30T14:26:22+00:00",
       "medicoes": {
-        "60": 26089
+        "60": 26089,
+        "120": 38741
       },
       "alertado": false
     },
@@ -1201,7 +1141,8 @@
       "url": "https://x.com/MarioNawfal/status/2094069219298058622",
       "criado": "2026-08-30T14:26:22+00:00",
       "medicoes": {
-        "60": 46192
+        "60": 46192,
+        "120": 57523
       },
       "alertado": false
     },
@@ -1211,7 +1152,8 @@
       "url": "https://x.com/MarioNawfal/status/2094069127035978072",
       "criado": "2026-08-30T14:26:00+00:00",
       "medicoes": {
-        "60": 33949
+        "60": 33949,
+        "120": 42218
       },
       "alertado": false
     },
@@ -1229,7 +1171,8 @@
       "url": "https://x.com/Osint613/status/2094067625437307021",
       "criado": "2026-08-30T14:20:02+00:00",
       "medicoes": {
-        "60": 24273
+        "60": 24273,
+        "120": 28596
       },
       "alertado": false
     },
@@ -1239,7 +1182,8 @@
       "url": "https://x.com/MarioNawfal/status/2094067616294056361",
       "criado": "2026-08-30T14:20:00+00:00",
       "medicoes": {
-        "60": 26532
+        "60": 26532,
+        "120": 37037
       },
       "alertado": false
     },
@@ -1249,7 +1193,8 @@
       "url": "https://x.com/Osint613/status/2094066350293422521",
       "criado": "2026-08-30T14:14:58+00:00",
       "medicoes": {
-        "60": 25282
+        "60": 25282,
+        "120": 29404
       },
       "alertado": false
     },
@@ -1259,7 +1204,8 @@
       "url": "https://x.com/Osint613/status/2094066127273938956",
       "criado": "2026-08-30T14:14:05+00:00",
       "medicoes": {
-        "60": 35552
+        "60": 35552,
+        "120": 43695
       },
       "alertado": false
     },
@@ -1269,7 +1215,8 @@
       "url": "https://x.com/clashreport/status/2094065634816479621",
       "criado": "2026-08-30T14:12:07+00:00",
       "medicoes": {
-        "60": 29036
+        "60": 29036,
+        "120": 37545
       },
       "alertado": false
     },
@@ -1408,7 +1355,9 @@
       "texto": "🇭🇺 UPDATE: The errant plane in Hungary that was forced down after approaching a nuclear plant was being piloted by a 24-year-old DRUNK MAN! He jacked the plane from Kalocsa Airport and later made an emergency landing in a sunflower field near Gerjen. If that wasn’t enough, after landing, he attempted a carjacking but was ultimately captured by police for questioning. Bro had shit to do! 🤣 Source:...",
       "url": "https://x.com/MarioNawfal/status/2094087748852539790",
       "criado": "2026-08-30T15:40:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 27791
+      },
       "alertado": false
     },
     "2094086491085410449": {
@@ -1416,7 +1365,9 @@
       "texto": "🚨🇨🇾🇹🇷 UPDATE: At least 7 have died after a passenger ferry capsized off the coast of northern Cyprus, on its way to Turkey. 267 people were on the boat; 23 are still missing... Source: Reuters / Writer: Michael https://t.co/4D5uov3TB2",
       "url": "https://x.com/MarioNawfal/status/2094086491085410449",
       "criado": "2026-08-30T15:35:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 29601
+      },
       "alertado": false
     },
     "2094086239813034405": {
@@ -1424,7 +1375,9 @@
       "texto": "Saudi outlet Al Arabiya reports dozens of Hezbollah operatives remain trapped under the Ali al Taher ridge in southern Lebanon. According to other reports, the IDF has slowly begun destroying infrastructure belonging to Hezbollah. https://t.co/zmpRvHV1In",
       "url": "https://x.com/Osint613/status/2094086239813034405",
       "criado": "2026-08-30T15:34:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 26920
+      },
       "alertado": false
     },
     "2094085779198767591": {
@@ -1432,7 +1385,9 @@
       "texto": "🇩🇪 Germany is preparing to make Russia pay — and, for the first time, is getting ready to officially blame Moscow for the drone attack on Leipzig/Halle Airport Even Germany’s own interior minister admits the evidence is not yet sufficient — authorities still need either direct proof or strong grounds for suspicion. That is why U.S. intelligence has entered the picture. According to The Wall Street...",
       "url": "https://x.com/nexta_tv/status/2094085779198767591",
       "criado": "2026-08-30T15:32:10+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 17567
+      },
       "alertado": false
     },
     "2094085234354737265": {
@@ -1440,7 +1395,9 @@
       "texto": "🇺🇲 NASA admin. Jared Isaacman was holding a presser about today’s launch of the Roman Space Telescope, when POTUS rang in to offer some kind words. Trump: \"Boy, it looked BEAUTIFUL on television... Jared's doing a fantastic job. You are doing a fantastic job… We're the hottest there is. We're the hottest; you're the hottest in space, and we have the hottest country anywhere in the world, so let's...",
       "url": "https://x.com/MarioNawfal/status/2094085234354737265",
       "criado": "2026-08-30T15:30:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 24109
+      },
       "alertado": false
     },
     "2094083974012576243": {
@@ -1448,7 +1405,9 @@
       "texto": "🇺🇲🇻🇪 Trump is talking about using Venezuelan oil to re-fill America’s Strategic Petroleum Reserves... “One of the things I am going to do with the Venezuelan Oil is fill up the Strategic National Reserves… The ‘topping out’ process will begin very shortly and is a Gift from Venezuela to the People of the United States.” Trump may call the oil a “gift,” but it’s really an arrangement for a 100-year...",
       "url": "https://x.com/MarioNawfal/status/2094083974012576243",
       "criado": "2026-08-30T15:25:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 29795
+      },
       "alertado": false
     },
     "2094083649750593845": {
@@ -1456,7 +1415,9 @@
       "texto": "U.S. Navy CMV 22B Osprey, registration 169463, is approaching Salalah, Oman, from the Arabian Sea while squawking 7700. 7700 means there’s some sort of emergency. - Map: FR https://t.co/8T9kF2ugov",
       "url": "https://x.com/Osint613/status/2094083649750593845",
       "criado": "2026-08-30T15:23:42+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 32105
+      },
       "alertado": false
     },
     "2094082716601847827": {
@@ -1464,7 +1425,9 @@
       "texto": "🇺🇸🇮🇷 MTP’s Kristen Welker grills Sen. Cruz on Trump’s 'Mission Accomplished' post: \"Senator, do you agree with President Trump that it's ‘mission accomplished’ in Iran?” CRUZ: “Well, listen, I think there are multiple missions. If you look at the initial mission that the Trump administration laid out, which is to degrade and eliminate Iran’s military capacity, then I think the answer is unequivoca...",
       "url": "https://x.com/MarioNawfal/status/2094082716601847827",
       "criado": "2026-08-30T15:20:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 26753
+      },
       "alertado": false
     },
     "2094081919436673404": {
@@ -1472,7 +1435,9 @@
       "texto": "Yair Netanyahu to the UK’s Rupert Lowe: The official position of Argentina under Javier Milei is to support Israel full stop, and to be one of our closet allies. Why the hell are we suppose to take your side and not Argentina’s? https://t.co/9X9wTlBe87",
       "url": "https://x.com/clashreport/status/2094081919436673404",
       "criado": "2026-08-30T15:16:50+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 14178
+      },
       "alertado": false
     },
     "2094081455483769208": {
@@ -1480,7 +1445,9 @@
       "texto": "🚨AGORA - Flávio Bolsonaro se encontra como o ministro da justiça de Bukele https://t.co/bcWAAqApRr",
       "url": "https://x.com/NewsLiberdade/status/2094081455483769208",
       "criado": "2026-08-30T15:14:59+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 15020
+      },
       "alertado": false
     },
     "2094095299186745406": {
@@ -1584,6 +1551,126 @@
       "texto": "🇺🇸🇮🇱🇵🇸 \"Jared Kushner... was at Davos in January and he starts giving this slideshow of all the hotels and condominiums they're going to build in Gaza.\" Norman Finkelstein says the Trump Admin is attempting to REDEFINE the international status of Gaza, so that it can become the PROPERTY of Trump. \"They gave the deed to the land those people so struggled to remain in... they gave [it] to a retarded...",
       "url": "https://x.com/MarioNawfal/status/2094088516099535138",
       "criado": "2026-08-30T15:43:03+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094102874879832143": {
+      "autor": "clashreport",
+      "texto": "Israeli Minister of Energy Eli Cohen on Iran: If Iran makes the mistake of trying to revive its nuclear program or ballistic missile program, even if there is an agreement with the United States, we will be there to attack. https://t.co/ewVTrfdIhR",
+      "url": "https://x.com/clashreport/status/2094102874879832143",
+      "criado": "2026-08-30T16:40:06+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094102848216907886": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸 I think he broke his taint on that last drop! I bet he has subsidized healthcare too! Take a look, taxpayers. You’ll be paying for his back surgeries soon! Writer: Jamie https://t.co/dURyx2I2eS",
+      "url": "https://x.com/MarioNawfal/status/2094102848216907886",
+      "criado": "2026-08-30T16:40:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094102454602281212": {
+      "autor": "clashreport",
+      "texto": "Ukraine's Agrarian Policy Minister Taras Vysotskyi said Russian strikes have destroyed around 90% of Ukraine's modern storage and warehouse facilities. He said there is no risk of famine, but continued attacks could disrupt product availability and variety in stores. Source: Pravda Ukraine",
+      "url": "https://x.com/clashreport/status/2094102454602281212",
+      "criado": "2026-08-30T16:38:26+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094102221889618202": {
+      "autor": "MarioNawfal",
+      "texto": "🚨🇴🇲🇮🇷 BREAKING: The UKMTO has reported an incident north of Khasab, Oman, involving a commercial vessel in the Strait of Hormuz. The tanker was transiting inbound, when it was struck by \"an unknown projectile.\" Khasab is the capital of Oman’s Musandam Peninsula, an isolated piece of land that juts directly into the mouth of the Persian Gulf. At this specific point, the Strait of Hormuz narrows to...",
+      "url": "https://x.com/MarioNawfal/status/2094102221889618202",
+      "criado": "2026-08-30T16:37:30+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094101435721892166": {
+      "autor": "clashreport",
+      "texto": "A tanker was struck by an unknown projectile on August 29, 12NM north of Khasab, Oman, while transiting the Strait of Hormuz. No casualties or environmental damage reported. https://t.co/lRwRjfzQk2",
+      "url": "https://x.com/clashreport/status/2094101435721892166",
+      "criado": "2026-08-30T16:34:23+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094100527856435637": {
+      "autor": "Osint613",
+      "texto": "Lebanese FM Youssef Raggi is continuing his public rebuke of Iranian influence in Lebanon, slamming Tehran for keeping Ambassador Mohammad Reza Sheibani in Beirut despite an expulsion order. Raggi cynically \"welcomed\" Iranian FM Abbas Araghchi's remarks on Tehran's interest in good ties with Lebanon. He added that relations between states run through legitimate constitutional institutions, not int...",
+      "url": "https://x.com/Osint613/status/2094100527856435637",
+      "criado": "2026-08-30T16:30:47+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094100333974737288": {
+      "autor": "MarioNawfal",
+      "texto": "🇨🇦🇺🇲 Ontario Premier Doug Ford told Trump to “kiss my ass” about a week ago, as trade talks collapsed. \"You gotta eventually stand up to someone who just continuously attacks our country and insults our country. A tariff on Canada is nothing more than a tax on the American people. We need to focus on a free trade agreement that will create more jobs, more opportunities on BOTH sides of the border....",
+      "url": "https://x.com/MarioNawfal/status/2094100333974737288",
+      "criado": "2026-08-30T16:30:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094099924275142870": {
+      "autor": "nexta_tv",
+      "texto": "🇺🇦 Zelensky: “Russia’s tactic now is to wear down Ukraine and Ukrainians” The Ukrainian president said that over the past four days, Russia launched nearly 1,500 drones, around 800 of them jet-powered. Destroying those drones is currently the most difficult task. The good news: Yevhen Khmara said that Ukraine has already tested four interceptor systems capable of shooting down jet-powered Shahed d...",
+      "url": "https://x.com/nexta_tv/status/2094099924275142870",
+      "criado": "2026-08-30T16:28:23+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094099553129468222": {
+      "autor": "Osint613",
+      "texto": "JUST IN: UKMTO reports that an oil tanker was struck while transiting the Strait of Hormuz by an unknown projectile on August 29 12NM north of Khasab, Oman At the time, no casualties were recorded. https://t.co/JPgbTCTPGZ",
+      "url": "https://x.com/Osint613/status/2094099553129468222",
+      "criado": "2026-08-30T16:26:54+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094099073477284339": {
+      "autor": "MarioNawfal",
+      "texto": "🇷🇺🇺🇦 More explosions in Russia today, this new video was captured in Belgorod, where a drone is reported to have struck near a nuclear power plant and electrical substations. Sadly, this is becoming a part of normal daily life in both Russia and Ukraine. Source: WF Witness (TG) / Writer: Jamie",
+      "url": "https://x.com/MarioNawfal/status/2094099073477284339",
+      "criado": "2026-08-30T16:25:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094098302299951399": {
+      "autor": "MachadoDarlon",
+      "texto": "🇧🇷🇸🇻🤝 Flávio Bolsonaro e Sérgio Moro se reuniram com o ministro da Justiça e Segurança Pública de El Salvador, Gustavo Villatoro, para discutir experiências e estratégias relacionadas ao combate ao crime e à segurança pública. O encontro teve como foco o modelo adotado pelo governo salvadorenho, com debates sobre ações contra organizações criminosas, sistema prisional e políticas de enfrentamento...",
+      "url": "https://x.com/MachadoDarlon/status/2094098302299951399",
+      "criado": "2026-08-30T16:21:56+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094097815329005612": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸🇨🇦 Lake Ontario is officially Lake America now, you can go check Google Maps for yourself! All of a sudden, that HOMES acronym everyone had to learn in school for some reason is entirely useless. Well, MORE useless... 😂 Source: Google Maps / Writer: Michael https://t.co/u5nFl1BaoL",
+      "url": "https://x.com/MarioNawfal/status/2094097815329005612",
+      "criado": "2026-08-30T16:20:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094097008520786389": {
+      "autor": "Osint613",
+      "texto": "Greece and Israel will sign a €3 billion defense deal in Tel Aviv tomorrow, dubbed \"Achilles' Shield.\" Greece will acquire systems from Israel's defense industries, including Rafael's David's Sling and SPYDER and IAI's Barak, assigned by threat type and defense layer, modeled on Israel's own multi-layered defense array. The agreement comes as Turkey works to establish itself in the region, with Is...",
+      "url": "https://x.com/Osint613/status/2094097008520786389",
+      "criado": "2026-08-30T16:16:47+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094096557113332032": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇦🇷🇺 Zelensky on the challenge of fighting a drone war: \"Over the past 4 days alone, nearly 1,500 drones of all types have been detected, with approximately 800 of them being jet-powered. The most challenging task is intercepting these jet-powered drones. 4 companies have developed interceptor drones, and 1 company has the most promising technology. The Ministry of Defense and the military are wor...",
+      "url": "https://x.com/MarioNawfal/status/2094096557113332032",
+      "criado": "2026-08-30T16:15:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094095752154800431": {
+      "autor": "clashreport",
+      "texto": "Uzbekistan has officially shown its new Chinese-made J-10CE fighter jets for the first time, airing footage on state TV during Independence Day events. The footage shows six J-10CEs operating from Karshi-Khanabad Air Base, confirming Uzbekistan as the second foreign operator of the type after Pakistan.",
+      "url": "https://x.com/clashreport/status/2094095752154800431",
+      "criado": "2026-08-30T16:11:48+00:00",
       "medicoes": {},
       "alertado": false
     }
@@ -1803,9 +1890,6 @@
     },
     "MarioNawfal": {
       "60": [
-        27466,
-        20330,
-        22004,
         17472,
         29639,
         20491,
@@ -1842,12 +1926,12 @@
         32259,
         25835,
         22864,
-        26565
+        26565,
+        36084,
+        33590,
+        26163
       ],
       "120": [
-        36685,
-        25021,
-        26716,
         19024,
         39395,
         23816,
@@ -1884,12 +1968,12 @@
         53635,
         36850,
         27353,
-        31814
+        31814,
+        59559,
+        57602,
+        32464
       ],
       "180": [
-        30439,
-        44521,
-        35836,
         29683,
         20126,
         45318,
@@ -1926,12 +2010,12 @@
         71045,
         45813,
         35051,
-        36199
+        36199,
+        78285,
+        74764,
+        36690
       ],
       "240": [
-        43733,
-        36110,
-        50697,
         40755,
         34493,
         20928,
@@ -1968,12 +2052,12 @@
         86876,
         52821,
         41725,
-        43474
+        43474,
+        92058,
+        90190,
+        41104
       ],
       "360": [
-        50903,
-        44215,
-        58843,
         57428,
         42461,
         22237,
@@ -2010,7 +2094,10 @@
         121608,
         63114,
         58625,
-        59370
+        59370,
+        115508,
+        112678,
+        55361
       ]
     },
     "MachadoDarlon": {
@@ -2227,9 +2314,6 @@
     },
     "clashreport": {
       "60": [
-        7803,
-        12013,
-        8246,
         10935,
         9692,
         11010,
@@ -2266,12 +2350,12 @@
         9582,
         17073,
         9412,
-        10126
+        10126,
+        10498,
+        7943,
+        8793
       ],
       "120": [
-        10734,
-        17808,
-        10560,
         16749,
         12600,
         13211,
@@ -2308,12 +2392,12 @@
         13440,
         22977,
         13252,
-        12507
+        12507,
+        19715,
+        11336,
+        10836
       ],
       "180": [
-        13217,
-        21689,
-        12057,
         19860,
         14591,
         14557,
@@ -2350,12 +2434,12 @@
         17288,
         27069,
         16164,
-        14412
+        14412,
+        25892,
+        14660,
+        12525
       ],
       "240": [
-        15107,
-        25065,
-        13120,
         22411,
         19243,
         15481,
@@ -2392,12 +2476,12 @@
         21779,
         30480,
         18286,
-        15714
+        15714,
+        30494,
+        18617,
+        13613
       ],
       "360": [
-        18259,
-        30421,
-        14576,
         25459,
         30259,
         16836,
@@ -2434,7 +2518,10 @@
         33148,
         40644,
         20807,
-        17665
+        17665,
+        37389,
+        27810,
+        14887
       ]
     },
     "Osint613": {
@@ -2651,7 +2738,6 @@
     },
     "nexta_tv": {
       "60": [
-        40149,
         14137,
         16423,
         10800,
@@ -2690,10 +2776,10 @@
         16477,
         18159,
         16429,
-        16280
+        16280,
+        17684
       ],
       "120": [
-        66458,
         19342,
         20406,
         13547,
@@ -2732,10 +2818,10 @@
         23154,
         26040,
         26332,
-        20759
+        20759,
+        26878
       ],
       "180": [
-        29595,
         97548,
         22635,
         23022,
@@ -2774,10 +2860,10 @@
         18412,
         27635,
         35969,
-        23948
+        23948,
+        35969
       ],
       "240": [
-        40057,
         148055,
         24898,
         24890,
@@ -2816,10 +2902,10 @@
         21465,
         31183,
         43694,
-        26287
+        26287,
+        50921
       ],
       "360": [
-        55587,
         261908,
         28096,
         27424,
@@ -2858,10 +2944,11 @@
         25826,
         36287,
         55740,
-        30012
+        30012,
+        96306
       ]
     }
   },
-  "ultima_busca": "2026-08-30T16:10:18+00:00",
+  "ultima_busca": "2026-08-30T16:40:18+00:00",
   "alertas_enviados": 0
 }
