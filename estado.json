@@ -1,89 +1,5 @@
 {
   "posts": {
-    "2093897792238354591": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸⛳ Some sort-of exciting golf news from President DJT: “At the request of the PGA Tour, and its Great new Commissioner, Brian Rolapp, it is my Honor to accept being the Honorary Chairman of the upcoming Presidents Cup, which will take place at the Medinah Country Club in Chicago. This will be a particularly exciting event.” “Thank you for your attention to this matter. See you in Chicago! Preside...",
-      "url": "https://x.com/MarioNawfal/status/2093897792238354591",
-      "criado": "2026-08-30T03:05:11+00:00",
-      "medicoes": {
-        "60": 19215,
-        "120": 22363,
-        "180": 27386,
-        "240": 31560,
-        "360": 37650
-      },
-      "alertado": false
-    },
-    "2093896491777835036": {
-      "autor": "MarioNawfal",
-      "texto": "🇷🇺 A losing Russia may be more dangerous to NATO than a winning one... Finland's president Alexander Stubb told BILD that Russian troops are tied down in Ukraine with a manpower deficit, and that he does not see Moscow mobilizing for a second front. He also warned against expecting economics to end the war, saying never underestimate Russians' capacity to endure hard times, and pointing back to th...",
-      "url": "https://x.com/MarioNawfal/status/2093896491777835036",
-      "criado": "2026-08-30T03:00:01+00:00",
-      "medicoes": {
-        "60": 22365,
-        "120": 30386,
-        "180": 36825,
-        "240": 43185,
-        "360": 55449
-      },
-      "alertado": false
-    },
-    "2093895293628477561": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸✈️ Delta did this lady wrong! Lemme get this straight… y’all didn’t put enough gas to get from LAX to Tampa, so you landed in Ft. Myers, and now y’all gonna leave without this lady but with this lady’s bag? AND the airport is CLOSED! I’m sure there is a Waffle House within 15 minutes by Uber. Writer: Jamie https://t.co/Ep9MIMWpJS",
-      "url": "https://x.com/MarioNawfal/status/2093895293628477561",
-      "criado": "2026-08-30T02:55:15+00:00",
-      "medicoes": {
-        "60": 27089,
-        "120": 34712,
-        "180": 40871,
-        "240": 45786,
-        "360": 56860
-      },
-      "alertado": false
-    },
-    "2093895230231580800": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸🇮🇷 The blockade both governments call ironclad may be letting ships through at both ends Satellite imagery puts real crude flow through Hormuz near 4 million barrels a day, well under the 8 to 16 million reported by Bloomberg and Axios. \"The Americans are letting Iranian ships through their blockade, and the Iranians are letting ships through the American blockade.\" CENTCOM says Iran has exporte...",
-      "url": "https://x.com/MarioNawfal/status/2093895230231580800",
-      "criado": "2026-08-30T02:55:00+00:00",
-      "medicoes": {
-        "60": 33604,
-        "120": 40574,
-        "180": 44839,
-        "240": 47654,
-        "360": 53215
-      },
-      "alertado": false
-    },
-    "2093894977675817324": {
-      "autor": "Osint613",
-      "texto": "Power outage leaves at least five states in western Venezuela without electricity.",
-      "url": "https://x.com/Osint613/status/2093894977675817324",
-      "criado": "2026-08-30T02:54:00+00:00",
-      "medicoes": {
-        "60": 26889,
-        "120": 33583,
-        "180": 38466,
-        "240": 42213,
-        "360": 47433
-      },
-      "alertado": false
-    },
-    "2093892713712124084": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 🇮🇷 Washington has tied its credibility to regime change in Iran, which leaves only two exits. Professor Seyed Mohammad Marandi lays out the box the Treasury Secretary built around himself: \"If he's not serious about his statement, then he's a fool. If he is serious about his statement, then I think, yes, conflict is inevitable.\" Either the threat was hollow or the war is coming, and there's no...",
-      "url": "https://x.com/MarioNawfal/status/2093892713712124084",
-      "criado": "2026-08-30T02:45:00+00:00",
-      "medicoes": {
-        "60": 26598,
-        "120": 30004,
-        "180": 32799,
-        "240": 40268,
-        "360": 53471
-      },
-      "alertado": false
-    },
     "2093905376341016689": {
       "autor": "MarioNawfal",
       "texto": "🇺🇸 Why does no one seem to be concerned that all the refrigerators in military commissaries at several U.S. bases decided to stop working at the same time? DCA Official: “The Department is aware of a possible refrigeration disruption at some Defense Commissary Agency commissaries”… “Commissaries remain open, and all possible measures are being taken to ensure food safety. Beyond this we have nothi...",
@@ -93,7 +9,8 @@
         "60": 17633,
         "120": 21635,
         "180": 28948,
-        "240": 35078
+        "240": 35078,
+        "360": 42127
       },
       "alertado": false
     },
@@ -106,7 +23,8 @@
         "60": 22471,
         "120": 26460,
         "180": 29192,
-        "240": 33185
+        "240": 33185,
+        "360": 38266
       },
       "alertado": false
     },
@@ -119,7 +37,8 @@
         "60": 23314,
         "120": 40124,
         "180": 51751,
-        "240": 58854
+        "240": 58854,
+        "360": 70872
       },
       "alertado": false
     },
@@ -132,7 +51,8 @@
         "60": 28158,
         "120": 44714,
         "180": 55120,
-        "240": 63775
+        "240": 63775,
+        "360": 75647
       },
       "alertado": false
     },
@@ -145,7 +65,8 @@
         "60": 36266,
         "120": 42527,
         "180": 46705,
-        "240": 51853
+        "240": 51853,
+        "360": 58603
       },
       "alertado": false
     },
@@ -412,7 +333,8 @@
       "medicoes": {
         "60": 23131,
         "120": 28122,
-        "180": 31633
+        "180": 31633,
+        "240": 39579
       },
       "alertado": false
     },
@@ -424,7 +346,8 @@
       "medicoes": {
         "60": 47460,
         "120": 74889,
-        "180": 96071
+        "180": 96071,
+        "240": 124039
       },
       "alertado": false
     },
@@ -436,7 +359,8 @@
       "medicoes": {
         "60": 21521,
         "120": 25151,
-        "180": 31710
+        "180": 31710,
+        "240": 40786
       },
       "alertado": false
     },
@@ -448,7 +372,8 @@
       "medicoes": {
         "60": 23885,
         "120": 30366,
-        "180": 35628
+        "180": 35628,
+        "240": 43378
       },
       "alertado": false
     },
@@ -495,7 +420,8 @@
       "criado": "2026-08-30T06:40:00+00:00",
       "medicoes": {
         "60": 21554,
-        "120": 28467
+        "120": 28467,
+        "180": 33683
       },
       "alertado": false
     },
@@ -506,7 +432,8 @@
       "criado": "2026-08-30T06:35:00+00:00",
       "medicoes": {
         "60": 15978,
-        "120": 23305
+        "120": 23305,
+        "180": 29994
       },
       "alertado": false
     },
@@ -517,7 +444,8 @@
       "criado": "2026-08-30T06:30:00+00:00",
       "medicoes": {
         "60": 20129,
-        "120": 24009
+        "120": 24009,
+        "180": 27323
       },
       "alertado": false
     },
@@ -528,7 +456,8 @@
       "criado": "2026-08-30T06:20:00+00:00",
       "medicoes": {
         "60": 25298,
-        "120": 30871
+        "120": 30871,
+        "180": 35406
       },
       "alertado": false
     },
@@ -539,7 +468,8 @@
       "criado": "2026-08-30T06:17:34+00:00",
       "medicoes": {
         "60": 36073,
-        "120": 50817
+        "120": 50817,
+        "180": 60152
       },
       "alertado": false
     },
@@ -659,7 +589,8 @@
       "url": "https://x.com/nexta_tv/status/2093966952867959092",
       "criado": "2026-08-30T07:40:00+00:00",
       "medicoes": {
-        "60": 12430
+        "60": 12430,
+        "120": 16187
       },
       "alertado": false
     },
@@ -669,7 +600,8 @@
       "url": "https://x.com/MarioNawfal/status/2093966952700039390",
       "criado": "2026-08-30T07:40:00+00:00",
       "medicoes": {
-        "60": 26528
+        "60": 26528,
+        "120": 43452
       },
       "alertado": false
     },
@@ -679,7 +611,8 @@
       "url": "https://x.com/clashreport/status/2093965122490315086",
       "criado": "2026-08-30T07:32:43+00:00",
       "medicoes": {
-        "60": 8656
+        "60": 8656,
+        "120": 11440
       },
       "alertado": false
     },
@@ -689,7 +622,8 @@
       "url": "https://x.com/clashreport/status/2093964842143035762",
       "criado": "2026-08-30T07:31:37+00:00",
       "medicoes": {
-        "60": 6699
+        "60": 6699,
+        "120": 8589
       },
       "alertado": false
     },
@@ -699,7 +633,8 @@
       "url": "https://x.com/MarioNawfal/status/2093964437749166572",
       "criado": "2026-08-30T07:30:00+00:00",
       "medicoes": {
-        "60": 26445
+        "60": 26445,
+        "120": 40642
       },
       "alertado": false
     },
@@ -709,7 +644,8 @@
       "url": "https://x.com/MarioNawfal/status/2093961919724147075",
       "criado": "2026-08-30T07:20:00+00:00",
       "medicoes": {
-        "60": 24779
+        "60": 24779,
+        "120": 31005
       },
       "alertado": false
     },
@@ -719,7 +655,8 @@
       "url": "https://x.com/clashreport/status/2093960987225252009",
       "criado": "2026-08-30T07:16:17+00:00",
       "medicoes": {
-        "60": 10531
+        "60": 10531,
+        "120": 15645
       },
       "alertado": false
     },
@@ -729,7 +666,8 @@
       "url": "https://x.com/clashreport/status/2093960295655862551",
       "criado": "2026-08-30T07:13:33+00:00",
       "medicoes": {
-        "60": 11785
+        "60": 11785,
+        "120": 18446
       },
       "alertado": false
     },
@@ -778,7 +716,9 @@
       "texto": "🇦🇺 Thousands have taken to the streets across Australia demanding stronger free-speech protections and an end to the imprisonment of right-wing political dissidents. The rallies follow laws passed after the Bondi Beach massacre that increased hate-crime penalties and criminalized membership or support of designated \"hate groups\" Hard to blame the anger when a massacre is followed by tighter speech...",
       "url": "https://x.com/MarioNawfal/status/2093982052404346903",
       "criado": "2026-08-30T08:40:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 20707
+      },
       "alertado": false
     },
     "2093981000720101716": {
@@ -786,7 +726,9 @@
       "texto": "The US rejected a request from Saudi Crown Prince Mohammed bin Salman for Washington to lead a military campaign against Yemen’s Houthis. US officials said Washington would support a Saudi operation but would not lead it, partly because Yemeni forces are currently targeting Saudi-linked vessels rather than US ships in the Red Sea. Source: Kan News",
       "url": "https://x.com/clashreport/status/2093981000720101716",
       "criado": "2026-08-30T08:35:49+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 13113
+      },
       "alertado": false
     },
     "2093979929960484904": {
@@ -794,7 +736,9 @@
       "texto": "Iran’s Supreme Leader Mojtaba Khamenei: If Muslims had been united and powerful as one, would the people of Palestine have been left so defenseless and subjected to the oppression and crimes of the occupiers? Would the countries and peoples living around the Persian Gulf be facing this situation if they had established their unity under the banner of Islam? Would rootless and corrupt elements have...",
       "url": "https://x.com/clashreport/status/2093979929960484904",
       "criado": "2026-08-30T08:31:34+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 9855
+      },
       "alertado": false
     },
     "2093979537860153414": {
@@ -802,7 +746,9 @@
       "texto": "🇺🇸 If you think you're having a bad day, spare a thought for two-time NBA champion Kentavious Caldwell-Pope He'd just signed the lease on a Philadelphia penthouse, then it got struck by lightning and flooded What are the odds of that?!?! Writer: Ian https://t.co/yNyN0iKFeQ",
       "url": "https://x.com/MarioNawfal/status/2093979537860153414",
       "criado": "2026-08-30T08:30:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 20535
+      },
       "alertado": false
     },
     "2093978277434294562": {
@@ -810,7 +756,9 @@
       "texto": "⚡️ Russia is preparing new massive strikes on Ukraine’s energy infrastructure The Russian Defense Ministry officially announced the preparations in a Telegram post this morning. Moscow is cynically describing preparations for new war crimes as a “response” to Ukrainian strikes on Russian infrastructure and oil refineries. According to Zelensky, Russia has already launched nearly 2,000 attack drone...",
       "url": "https://x.com/nexta_tv/status/2093978277434294562",
       "criado": "2026-08-30T08:25:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 16477
+      },
       "alertado": false
     },
     "2093977019340231043": {
@@ -818,7 +766,9 @@
       "texto": "🇫🇮🇷🇺 While the rest of the EU is banging the war drums, using Russia as an excuse for massive defense spending, Finnish president Alexander Stubb wants dialogue rather than endless rhetoric: \"We are approaching the day when it would be useful for Europeans to be in more direct contact with Russia. Especially because we need to avoid misunderstandings.\" Writers: Mehdi, Ian https://t.co/EpELRuNN9O",
       "url": "https://x.com/MarioNawfal/status/2093977019340231043",
       "criado": "2026-08-30T08:20:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 22104
+      },
       "alertado": false
     },
     "2093974704696463816": {
@@ -826,7 +776,9 @@
       "texto": "Yair Netanyahu: The Falkland Islands belong to Argentina! https://t.co/oUakQ65GXf",
       "url": "https://x.com/clashreport/status/2093974704696463816",
       "criado": "2026-08-30T08:10:48+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 8665
+      },
       "alertado": false
     },
     "2093987795438067733": {
@@ -890,6 +842,70 @@
       "texto": "Türkiye's first HÜRJET aircraft destined for the Air Force completed its maiden flight on Victory Day, marking the transition from prototype testing to production aircraft. HÜRJET is a supersonic advanced jet trainer designed to replace aging T-38s and F-5s, capable of Mach 1.4 with a 45,000 ft ceiling. Spain has ordered 30 units, making it Türkiye's first jet trainer export to a NATO country. Fir...",
       "url": "https://x.com/clashreport/status/2093983181414265005",
       "criado": "2026-08-30T08:44:29+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093997151697174997": {
+      "autor": "nexta_tv",
+      "texto": "🤡 Lavrov was asked how Russia had ended up with only two allies left — North Korea and Iran “What’s wrong with that company?” the Russian foreign minister replied in surprise.",
+      "url": "https://x.com/nexta_tv/status/2093997151697174997",
+      "criado": "2026-08-30T09:40:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093997151609340304": {
+      "autor": "MarioNawfal",
+      "texto": "It's a tough life being a spiritual guru Writer: Ian https://t.co/L6TpWKfClb",
+      "url": "https://x.com/MarioNawfal/status/2093997151609340304",
+      "criado": "2026-08-30T09:40:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093996375864168464": {
+      "autor": "clashreport",
+      "texto": "A Cessna 172 stolen from Kalocsa Airport flew toward Hungary’s Paks nuclear power plant, prompting the military to scramble two Gripen fighter jets after detecting it on radar. The aircraft later made an emergency landing near Gerjen and was found damaged. The Gripens remained overhead until rescue crews arrived. No injuries were reported, and police launched an investigation into the theft and fl...",
+      "url": "https://x.com/clashreport/status/2093996375864168464",
+      "criado": "2026-08-30T09:36:55+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093994638235333018": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇦🇷🇺 It's rumored that Patriot interceptors were being stored in the warehouse near Kyiv that Russia hit yesterday Zelensky has confirmed munitions were in the warehouse, but it's not yet clear whether Patriot missiles were there If true, the attack couldn't have come at a worse time for Ukraine as their stocks of interceptors are already dangerously low Writers: Mhedi, Ian https://t.co/DoHEon126l",
+      "url": "https://x.com/MarioNawfal/status/2093994638235333018",
+      "criado": "2026-08-30T09:30:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093992310312669667": {
+      "autor": "clashreport",
+      "texto": "Icelanders voted against reopening EU membership talks, rejecting the government’s push to reconsider joining the bloc. Opponents argued EU membership would threaten Iceland’s sovereignty and control over its fishing waters, while supporters cited economic and security benefits. Source: Reuters",
+      "url": "https://x.com/clashreport/status/2093992310312669667",
+      "criado": "2026-08-30T09:20:45+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093992118544941233": {
+      "autor": "MarioNawfal",
+      "texto": "How it started: Social media will connect people from all over the world and help humanity How it's going... Writers: Mhedi, Ian https://t.co/fnC819Ffvf",
+      "url": "https://x.com/MarioNawfal/status/2093992118544941233",
+      "criado": "2026-08-30T09:20:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093990860824220132": {
+      "autor": "nexta_tv",
+      "texto": "🇫🇮🇷🇺 He wanted to Russify Ukraine — and got NATO expansion instead: Stubb on Putin’s humiliating failure The Finnish president said Putin’s key goals had ended in complete failure. Judge for yourself: “Remember, Putin’s goal was to Russify Ukraine? Instead, it became European. Russia’s goal was to stop NATO expansion? Finland and Sweden joined the alliance. Russia’s goal was to keep European defen...",
+      "url": "https://x.com/nexta_tv/status/2093990860824220132",
+      "criado": "2026-08-30T09:15:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093989730538889486": {
+      "autor": "MarioNawfal",
+      "texto": "🇮🇷 Iran's reclusive Supreme Leader, Mojtaba Khamenei, has released another written statement, this time to mark 'Unity Week' Ironically, there's not much unity in it for the U.S and Israel, whom he calls enemies of all Muslims: \"The criminal rulers of the United States and the illegitimate Zionist regime are sworn enemies of this unity and friendship. They are not merely enemies of the Islamic Rep...",
+      "url": "https://x.com/MarioNawfal/status/2093989730538889486",
+      "criado": "2026-08-30T09:10:30+00:00",
       "medicoes": {},
       "alertado": false
     }
@@ -1109,11 +1125,6 @@
     },
     "MarioNawfal": {
       "60": [
-        34528,
-        23453,
-        75175,
-        21649,
-        28861,
         21513,
         62376,
         22330,
@@ -1148,14 +1159,14 @@
         25191,
         33929,
         42560,
-        22540
+        22540,
+        19215,
+        22365,
+        27089,
+        33604,
+        26598
       ],
       "120": [
-        44499,
-        27655,
-        80669,
-        24787,
-        33390,
         29001,
         70581,
         26705,
@@ -1190,14 +1201,14 @@
         29573,
         41005,
         50870,
-        26135
+        26135,
+        22363,
+        30386,
+        34712,
+        40574,
+        30004
       ],
       "180": [
-        50892,
-        30924,
-        83785,
-        30459,
-        36795,
         34111,
         74885,
         29839,
@@ -1232,14 +1243,14 @@
         33042,
         45548,
         56421,
-        33332
+        33332,
+        27386,
+        36825,
+        40871,
+        44839,
+        32799
       ],
       "240": [
-        56160,
-        38501,
-        86434,
-        35650,
-        43406,
         38525,
         80566,
         37241,
@@ -1274,14 +1285,14 @@
         38406,
         48326,
         67046,
-        41368
+        41368,
+        31560,
+        43185,
+        45786,
+        47654,
+        40268
       ],
       "360": [
-        62870,
-        45409,
-        97778,
-        40801,
-        52892,
         50817,
         91117,
         44725,
@@ -1316,7 +1327,12 @@
         49932,
         55274,
         87637,
-        52142
+        52142,
+        37650,
+        55449,
+        56860,
+        53215,
+        53471
       ]
     },
     "MachadoDarlon": {
@@ -1745,7 +1761,6 @@
     },
     "Osint613": {
       "60": [
-        24957,
         23987,
         21569,
         23221,
@@ -1784,10 +1799,10 @@
         32084,
         29272,
         30203,
-        27636
+        27636,
+        26889
       ],
       "120": [
-        28592,
         28965,
         26437,
         29904,
@@ -1826,10 +1841,10 @@
         38027,
         36062,
         36515,
-        33896
+        33896,
+        33583
       ],
       "180": [
-        31283,
         32020,
         29930,
         34614,
@@ -1868,10 +1883,10 @@
         41932,
         40435,
         40948,
-        38309
+        38309,
+        38466
       ],
       "240": [
-        33276,
         34124,
         32296,
         37772,
@@ -1910,10 +1925,10 @@
         45263,
         43806,
         44400,
-        41818
+        41818,
+        42213
       ],
       "360": [
-        35988,
         37282,
         35535,
         42018,
@@ -1952,7 +1967,8 @@
         51913,
         49523,
         49883,
-        47724
+        47724,
+        47433
       ]
     },
     "nexta_tv": {
@@ -2168,6 +2184,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-08-30T09:10:19+00:00",
+  "ultima_busca": "2026-08-30T09:40:16+00:00",
   "alertas_enviados": 0
 }
