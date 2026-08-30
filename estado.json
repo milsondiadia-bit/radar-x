@@ -1,61 +1,5 @@
 {
   "posts": {
-    "2093934237120389342": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸🇻🇪 Congresswoman Salazar trashed the Venezuela oil deal, deleted the post in English AND Spanish, then returned an hour later singing its praises 65 billion barrels will do that to a person!😂 Source: NYP https://t.co/1528bYVM08",
-      "url": "https://x.com/MarioNawfal/status/2093934237120389342",
-      "criado": "2026-08-30T05:30:00+00:00",
-      "medicoes": {
-        "60": 23131,
-        "120": 28122,
-        "180": 31633,
-        "240": 39579,
-        "360": 55071
-      },
-      "alertado": false
-    },
-    "2093933258031390801": {
-      "autor": "Osint613",
-      "texto": "JUST IN: Shots heard at event in Aarau, Switzerland. Police confirm there are multiple victims. (Video: Blick) https://t.co/nZMKcGtMGD",
-      "url": "https://x.com/Osint613/status/2093933258031390801",
-      "criado": "2026-08-30T05:26:06+00:00",
-      "medicoes": {
-        "60": 47460,
-        "120": 74889,
-        "180": 96071,
-        "240": 124039,
-        "360": 162226
-      },
-      "alertado": false
-    },
-    "2093933042251219443": {
-      "autor": "MarioNawfal",
-      "texto": "Another reason @Tesla absolutely mogs Waymo self driving… Waymos can’t read hand gestures ☠️ https://t.co/T7gMESsqws",
-      "url": "https://x.com/MarioNawfal/status/2093933042251219443",
-      "criado": "2026-08-30T05:25:15+00:00",
-      "medicoes": {
-        "60": 21521,
-        "120": 25151,
-        "180": 31710,
-        "240": 40786,
-        "360": 56429
-      },
-      "alertado": false
-    },
-    "2093930462343561595": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸🇵🇱 Poland has led every country in the world for reported assaults on US troops three years in a row Of 246 reported sexual assaults involving deployed American forces last year, 73 came from Poland. Kuwait had 30, Qatar 24, Iraq 23, Romania 20. The Army's response to the report avoided the subject entirely, with a spokesman citing progress on prevention and survivor support while not addressing...",
-      "url": "https://x.com/MarioNawfal/status/2093930462343561595",
-      "criado": "2026-08-30T05:15:00+00:00",
-      "medicoes": {
-        "60": 23885,
-        "120": 30366,
-        "180": 35628,
-        "240": 43378,
-        "360": 58414
-      },
-      "alertado": false
-    },
     "2093944303680971122": {
       "autor": "MarioNawfal",
       "texto": "🇨🇭 Several people have been shot at a techno festival in Aarau, Switzerland, with a massive police operation now underway. The number of victims and their conditions are not yet known. Source: Reuters / Writer: Mhedi https://t.co/XzB3xuhJAr",
@@ -65,7 +9,8 @@
         "60": 23087,
         "120": 33440,
         "180": 41419,
-        "240": 48005
+        "240": 48005,
+        "360": 55594
       },
       "alertado": false
     },
@@ -78,7 +23,8 @@
         "60": 19519,
         "120": 24012,
         "180": 29203,
-        "240": 34575
+        "240": 34575,
+        "360": 47096
       },
       "alertado": false
     },
@@ -91,7 +37,8 @@
         "60": 24893,
         "120": 32141,
         "180": 37299,
-        "240": 42850
+        "240": 42850,
+        "360": 58227
       },
       "alertado": false
     },
@@ -400,7 +347,8 @@
       "medicoes": {
         "60": 18101,
         "120": 24347,
-        "180": 30090
+        "180": 30090,
+        "240": 40027
       },
       "alertado": false
     },
@@ -424,7 +372,8 @@
       "medicoes": {
         "60": 11765,
         "120": 15606,
-        "180": 18412
+        "180": 18412,
+        "240": 21465
       },
       "alertado": false
     },
@@ -436,7 +385,8 @@
       "medicoes": {
         "60": 25458,
         "120": 33657,
-        "180": 40498
+        "180": 40498,
+        "240": 46420
       },
       "alertado": false
     },
@@ -531,7 +481,8 @@
       "criado": "2026-08-30T09:02:49+00:00",
       "medicoes": {
         "60": 24377,
-        "120": 33845
+        "120": 33845,
+        "180": 41607
       },
       "alertado": false
     },
@@ -542,7 +493,8 @@
       "criado": "2026-08-30T09:02:00+00:00",
       "medicoes": {
         "60": 18575,
-        "120": 25382
+        "120": 25382,
+        "180": 31323
       },
       "alertado": false
     },
@@ -553,7 +505,8 @@
       "criado": "2026-08-30T09:00:28+00:00",
       "medicoes": {
         "60": 29859,
-        "120": 48254
+        "120": 48254,
+        "180": 65001
       },
       "alertado": false
     },
@@ -564,7 +517,8 @@
       "criado": "2026-08-30T08:52:38+00:00",
       "medicoes": {
         "60": 14552,
-        "120": 21248
+        "120": 21248,
+        "180": 25362
       },
       "alertado": false
     },
@@ -586,7 +540,8 @@
       "criado": "2026-08-30T08:50:00+00:00",
       "medicoes": {
         "60": 32175,
-        "120": 45745
+        "120": 45745,
+        "180": 55346
       },
       "alertado": false
     },
@@ -597,7 +552,8 @@
       "criado": "2026-08-30T08:48:26+00:00",
       "medicoes": {
         "60": 9582,
-        "120": 13440
+        "120": 13440,
+        "180": 17288
       },
       "alertado": false
     },
@@ -608,7 +564,8 @@
       "criado": "2026-08-30T08:44:29+00:00",
       "medicoes": {
         "60": 17073,
-        "120": 22977
+        "120": 22977,
+        "180": 27069
       },
       "alertado": false
     },
@@ -706,7 +663,8 @@
       "url": "https://x.com/MarioNawfal/status/2094004701549253012",
       "criado": "2026-08-30T10:10:00+00:00",
       "medicoes": {
-        "60": 36084
+        "60": 36084,
+        "120": 59559
       },
       "alertado": false
     },
@@ -716,7 +674,8 @@
       "url": "https://x.com/clashreport/status/2094004561681789216",
       "criado": "2026-08-30T10:09:26+00:00",
       "medicoes": {
-        "60": 10498
+        "60": 10498,
+        "120": 19715
       },
       "alertado": false
     },
@@ -726,7 +685,8 @@
       "url": "https://x.com/clashreport/status/2094004064132469238",
       "criado": "2026-08-30T10:07:28+00:00",
       "medicoes": {
-        "60": 7943
+        "60": 7943,
+        "120": 11336
       },
       "alertado": false
     },
@@ -736,7 +696,8 @@
       "url": "https://x.com/nexta_tv/status/2094003443883258348",
       "criado": "2026-08-30T10:05:00+00:00",
       "medicoes": {
-        "60": 17684
+        "60": 17684,
+        "120": 26878
       },
       "alertado": false
     },
@@ -746,7 +707,8 @@
       "url": "https://x.com/MarioNawfal/status/2094002187865297324",
       "criado": "2026-08-30T10:00:00+00:00",
       "medicoes": {
-        "60": 33590
+        "60": 33590,
+        "120": 57602
       },
       "alertado": false
     },
@@ -756,7 +718,8 @@
       "url": "https://x.com/clashreport/status/2094001105365520468",
       "criado": "2026-08-30T09:55:42+00:00",
       "medicoes": {
-        "60": 8793
+        "60": 8793,
+        "120": 10836
       },
       "alertado": false
     },
@@ -766,7 +729,8 @@
       "url": "https://x.com/MarioNawfal/status/2093999668497895580",
       "criado": "2026-08-30T09:50:00+00:00",
       "medicoes": {
-        "60": 26163
+        "60": 26163,
+        "120": 32464
       },
       "alertado": false
     },
@@ -875,7 +839,9 @@
       "texto": "🇺🇸 This trans person went to a Japanese restaurant in New York and walked out without paying because the chefs allegedly made them \"feel uncomfortable\" during their meal. I feel uncomfortable just watching this Writers: Mhedi, Ian https://t.co/hI9r9hzHRg",
       "url": "https://x.com/MarioNawfal/status/2094019801169662331",
       "criado": "2026-08-30T11:10:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 29025
+      },
       "alertado": false
     },
     "2094019579320103234": {
@@ -883,7 +849,9 @@
       "texto": "A passenger ferry traveling from Girne to Taşucu, Mersin, capsized after taking on water off the coast of Northern Cyprus on August 30. Coast Guard vessels, helicopters and civilian boats were sent to the scene, while ambulances waited at Girne Port. Rescue operations are ongoing. Reports on the number of people aboard vary, with officials citing between 267 and 287 passengers and crew. https://t....",
       "url": "https://x.com/clashreport/status/2094019579320103234",
       "criado": "2026-08-30T11:09:07+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 13264
+      },
       "alertado": false
     },
     "2094019031535640598": {
@@ -891,7 +859,9 @@
       "texto": "“Commanders urinate and defecate into soldiers’ mouths.” Putin supporter Gubarev describes conditions in the Russian army Pissing into subordinates’ mouths appears to have become a new trend — and this patriot seems to be telling the truth. On the so-called “special military operation,” they reportedly do it both as punishment and purely as a “preventive” measure. The other problems Gubarev descri...",
       "url": "https://x.com/nexta_tv/status/2094019031535640598",
       "criado": "2026-08-30T11:06:56+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 14016
+      },
       "alertado": false
     },
     "2094018632611188841": {
@@ -899,7 +869,9 @@
       "texto": "Chamaram o chefe dele pelo nome: L@DRÃ0! 👏 SIGA: @rip_esquerda 🇧🇷🇺🇸🇮🇱 https://t.co/EEF00Ma0IS",
       "url": "https://x.com/MachadoDarlon/status/2094018632611188841",
       "criado": "2026-08-30T11:05:21+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 508
+      },
       "alertado": false
     },
     "2094017297866203387": {
@@ -907,7 +879,9 @@
       "texto": "🇭🇺 Hungary scrambled fighter jets after a man allegedly stole a small civilian plane from an Airport and began flying toward the country’s Paks nuclear power plant. The military detected the aircraft shortly after takeoff and launched two fighters as it approached the heavily restricted airspace surrounding Hungary’s only nuclear plant. The drama ended minutes later when the plane made an emergenc...",
       "url": "https://x.com/MarioNawfal/status/2094017297866203387",
       "criado": "2026-08-30T11:00:03+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 26786
+      },
       "alertado": false
     },
     "2094016977601749458": {
@@ -915,7 +889,9 @@
       "texto": "🚨⚠️🇺🇸 EUA: Entre os dias 18 e 22 de agosto de 2026, autoridades da Flórida realizaram a Operation Statewide Shield, uma grande operação para localizar crianças desaparecidas. Ao todo, 163 crianças e adolescentes, entre 2 meses e 17 anos, foram encontrados e recuperados em diferentes regiões do estado. A operação envolveu o Departamento de Polícia da Flórida (FDLE) e outras forças policiais. Os cas...",
       "url": "https://x.com/MachadoDarlon/status/2094016977601749458",
       "criado": "2026-08-30T10:58:47+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 501
+      },
       "alertado": false
     },
     "2094016041886134746": {
@@ -923,7 +899,9 @@
       "texto": "🇧🇷🐎🤠 BARRETÃO 2026: 🎶✨️ Leonardo cantou o sucesso para o estádio! https://t.co/l1h3wpeA60",
       "url": "https://x.com/MachadoDarlon/status/2094016041886134746",
       "criado": "2026-08-30T10:55:03+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 439
+      },
       "alertado": false
     },
     "2094015450979934641": {
@@ -931,7 +909,9 @@
       "texto": "🚨GRAVE - Brasil bate recorde de R$ 180 bilhões em dívidas em recuperação judicial e extrajudicial https://t.co/5EaXa7t8bz",
       "url": "https://x.com/NewsLiberdade/status/2094015450979934641",
       "criado": "2026-08-30T10:52:43+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 5554
+      },
       "alertado": false
     },
     "2094014808467046819": {
@@ -939,7 +919,9 @@
       "texto": "Mais do que justo, demorou e foi muito para que esta regra seja aplicada ! 👊👍 https://t.co/TSuAVbcsqR",
       "url": "https://x.com/MachadoDarlon/status/2094014808467046819",
       "criado": "2026-08-30T10:50:09+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 556
+      },
       "alertado": false
     },
     "2094014768013090984": {
@@ -947,7 +929,9 @@
       "texto": "🇳🇵 This has to be one of the luckiest escapes from the flooding in Nepal Writers: Mhedi, Ian https://t.co/cWppA3FXqI",
       "url": "https://x.com/MarioNawfal/status/2094014768013090984",
       "criado": "2026-08-30T10:50:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 40723
+      },
       "alertado": false
     },
     "2094013104107421742": {
@@ -955,7 +939,9 @@
       "texto": "🔥🚨👀 Lula voltou a ser alvo de protestos neste sábado (29), com um coro de “Ei, Lula, vai tomar no c*” em meio à programação da Festa do Peão de Barretos, em São Paulo. A manifestação já havia ocorrido no sábado anterior, dia 22, durante o primeiro show de Gusttavo Lima nesta edição. Na ocasião, os gritos foram captados durante a transmissão ao vivo da TV Globo. O cantor não reagiu e seguiu normalm...",
       "url": "https://x.com/MachadoDarlon/status/2094013104107421742",
       "criado": "2026-08-30T10:43:23+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 602
+      },
       "alertado": false
     },
     "2094013066413297963": {
@@ -963,7 +949,9 @@
       "texto": "🤮 A Russian woman showed off a bank card featuring Putin riding a bear “I love my president. To me, he is a symbol of resilience, courage, wisdom and power — everything best a man can be,” she says with a satisfied smirk. Propaganda doesn’t turn people into idiots. It is designed for them in the first place.",
       "url": "https://x.com/nexta_tv/status/2094013066413297963",
       "criado": "2026-08-30T10:43:14+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 29281
+      },
       "alertado": false
     },
     "2094027350983733708": {
@@ -1027,6 +1015,102 @@
       "texto": "🚨GRAVE - PIB do agronegócio deve recuar quase 8% em 2026 https://t.co/uOqd9f4HTU",
       "url": "https://x.com/NewsLiberdade/status/2094022303499575686",
       "criado": "2026-08-30T11:19:56+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094034900563165340": {
+      "autor": "MarioNawfal",
+      "texto": "I'm amazed this guy kept his cool and didn't get into a fight Some balls, livestreaming from the center of Glasgow Writer: Ian https://t.co/h0mXNBmuyR",
+      "url": "https://x.com/MarioNawfal/status/2094034900563165340",
+      "criado": "2026-08-30T12:10:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094034843952709907": {
+      "autor": "Osint613",
+      "texto": "The IDF's top brass will convene to discuss brigade commander appointments in the regular service. Wartime battalion commanders are set to replace brigade commanders who were also appointed during the war, with names expected tomorrow.",
+      "url": "https://x.com/Osint613/status/2094034843952709907",
+      "criado": "2026-08-30T12:09:46+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094034546261963157": {
+      "autor": "NewsLiberdade",
+      "texto": "🚨GRAVE - Ministério do Trabalho proíbe catadores de lixo de usar o estribo do caminhão, fazendo com que eles precisem andar todo o percurso https://t.co/HFvhGVZGnF",
+      "url": "https://x.com/NewsLiberdade/status/2094034546261963157",
+      "criado": "2026-08-30T12:08:35+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094033559170228328": {
+      "autor": "Osint613",
+      "texto": "Overnight, Ukrainian drones struck the “KINEF” Kirishi Oil Refinery, Leningrad Oblast. The facility is one of the largest in the country, with a processing capacity of approximately 20 million tons of oil per year. Contributed by @BeamTracker_ https://t.co/HCyy7kTcf7",
+      "url": "https://x.com/Osint613/status/2094033559170228328",
+      "criado": "2026-08-30T12:04:40+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094032847606517777": {
+      "autor": "nexta_tv",
+      "texto": "🚨 BREAKING: Calls in Russia for a nuclear strike “We are obliged to use tactical nuclear weapons and force the enemy to capitulate,” MP Zhuravlyov said.",
+      "url": "https://x.com/nexta_tv/status/2094032847606517777",
+      "criado": "2026-08-30T12:01:50+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094032395699642655": {
+      "autor": "MarioNawfal",
+      "texto": "🇹🇷🇸🇦🇵🇰 Türkiye, Saudi Arabia and Pakistan will hold their first meeting under the new Mecca Joint Defence Agreement on Monday. Foreign and defence ministers alongside military chiefs will meet in Istanbul to discuss joint weapons production, military interoperability and strengthening their collective defence capabilities. The pact effectively carries an Article 5-style commitment: an armed attack...",
+      "url": "https://x.com/MarioNawfal/status/2094032395699642655",
+      "criado": "2026-08-30T12:00:03+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094031515432701988": {
+      "autor": "Osint613",
+      "texto": "Two Israeli teenagers, 14 and 16, were charged with spying for Iran after a handler recruited them on Telegram. In return for payment they ran photography missions, sprayed graffiti, and tried recruiting others. One posed as a soldier for extra assignments.",
+      "url": "https://x.com/Osint613/status/2094031515432701988",
+      "criado": "2026-08-30T11:56:33+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094030860731531493": {
+      "autor": "MarioNawfal",
+      "texto": "🇮🇱🇵🇸 Gaza has become a \"human laboratory\" to test how far a population can be compressed, deprived and controlled without triggering intolerable international backlash Political scientist Norman Finkelstein's argument begins with the extraordinary conditions now imposed on the people struggling to survive there. Israel controls roughly 65–70% of the Strip, while everyone has been pushed into the r...",
+      "url": "https://x.com/MarioNawfal/status/2094030860731531493",
+      "criado": "2026-08-30T11:53:57+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094030681189871811": {
+      "autor": "Osint613",
+      "texto": "A passenger ferry traveling from Girne to Taşucu, Mersin, capsized off Northern Cyprus after taking on water. Officials say between 267 and 287 people were aboard. Rescue operations are ongoing. https://t.co/ojXBjBxiDC",
+      "url": "https://x.com/Osint613/status/2094030681189871811",
+      "criado": "2026-08-30T11:53:14+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094029893755388140": {
+      "autor": "Osint613",
+      "texto": "A passenger ship with about 270 people on board sank off Cyprus. Rescue forces are operating at the scene.",
+      "url": "https://x.com/Osint613/status/2094029893755388140",
+      "criado": "2026-08-30T11:50:06+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094029867620680051": {
+      "autor": "MarioNawfal",
+      "texto": "Clavicular's face when he realises he's sitting next to someone with a lower mental age than him is priceless 🤣 Writer: Ian https://t.co/RUj3gANHGz",
+      "url": "https://x.com/MarioNawfal/status/2094029867620680051",
+      "criado": "2026-08-30T11:50:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094028074304033149": {
+      "autor": "nexta_tv",
+      "texto": "🚨 WATCH: Another video shows a vessel carrying hundreds of passengers in distress off the coast of Northern Cyprus According to preliminary reports, water first began entering the bow of the ferry, after which the vessel capsized. The exact cause of the incident remains unknown. More than 260 people were reportedly on board. Coast guard search-and-rescue teams are working at the scene.",
+      "url": "https://x.com/nexta_tv/status/2094028074304033149",
+      "criado": "2026-08-30T11:42:52+00:00",
       "medicoes": {},
       "alertado": false
     }
@@ -1246,9 +1330,6 @@
     },
     "MarioNawfal": {
       "60": [
-        22967,
-        23469,
-        21466,
         42833,
         21186,
         24983,
@@ -1285,12 +1366,12 @@
         18041,
         20630,
         19532,
-        38186
+        38186,
+        23131,
+        21521,
+        23885
       ],
       "120": [
-        32775,
-        30701,
-        24704,
         53056,
         24319,
         29911,
@@ -1327,12 +1408,12 @@
         21940,
         24124,
         23745,
-        58092
+        58092,
+        28122,
+        25151,
+        30366
       ],
       "180": [
-        39479,
-        35476,
-        40387,
         59631,
         30218,
         33455,
@@ -1369,12 +1450,12 @@
         25557,
         31962,
         29838,
-        73131
+        73131,
+        31633,
+        31710,
+        35628
       ],
       "240": [
-        43611,
-        41196,
-        49002,
         64706,
         34700,
         43485,
@@ -1411,12 +1492,12 @@
         27763,
         38229,
         33098,
-        84550
+        84550,
+        39579,
+        40786,
+        43378
       ],
       "360": [
-        54628,
-        55869,
-        61563,
         81695,
         40634,
         54349,
@@ -1453,7 +1534,10 @@
         31478,
         50255,
         39240,
-        104091
+        104091,
+        55071,
+        56429,
+        58414
       ]
     },
     "MachadoDarlon": {
@@ -1882,7 +1966,6 @@
     },
     "Osint613": {
       "60": [
-        23987,
         21569,
         23221,
         27057,
@@ -1921,10 +2004,10 @@
         29272,
         30203,
         27636,
-        26889
+        26889,
+        47460
       ],
       "120": [
-        28965,
         26437,
         29904,
         32338,
@@ -1963,10 +2046,10 @@
         36062,
         36515,
         33896,
-        33583
+        33583,
+        74889
       ],
       "180": [
-        32020,
         29930,
         34614,
         36076,
@@ -2005,10 +2088,10 @@
         40435,
         40948,
         38309,
-        38466
+        38466,
+        96071
       ],
       "240": [
-        34124,
         32296,
         37772,
         38963,
@@ -2047,10 +2130,10 @@
         43806,
         44400,
         41818,
-        42213
+        42213,
+        124039
       ],
       "360": [
-        37282,
         35535,
         42018,
         42531,
@@ -2089,7 +2172,8 @@
         49523,
         49883,
         47724,
-        47433
+        47433,
+        162226
       ]
     },
     "nexta_tv": {
@@ -2305,6 +2389,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-08-30T11:40:19+00:00",
+  "ultima_busca": "2026-08-30T12:10:17+00:00",
   "alertas_enviados": 0
 }
