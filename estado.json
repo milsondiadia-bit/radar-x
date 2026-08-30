@@ -1,47 +1,5 @@
 {
   "posts": {
-    "2093944303680971122": {
-      "autor": "MarioNawfal",
-      "texto": "🇨🇭 Several people have been shot at a techno festival in Aarau, Switzerland, with a massive police operation now underway. The number of victims and their conditions are not yet known. Source: Reuters / Writer: Mhedi https://t.co/XzB3xuhJAr",
-      "url": "https://x.com/MarioNawfal/status/2093944303680971122",
-      "criado": "2026-08-30T06:10:00+00:00",
-      "medicoes": {
-        "60": 23087,
-        "120": 33440,
-        "180": 41419,
-        "240": 48005,
-        "360": 55594
-      },
-      "alertado": false
-    },
-    "2093941787224424780": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 We keep hearing about climate change a lot lately. Especially in the American West where the Colorado river continues to keep everyone on their toes. Now the threat of Vegas losing water in the next decade as the Feds wrap up their 10-year Colorado River management framework. You’re telling me the country that figured out how to move oil from Canada to the ‘Gulf of America’ and from coast to co...",
-      "url": "https://x.com/MarioNawfal/status/2093941787224424780",
-      "criado": "2026-08-30T06:00:00+00:00",
-      "medicoes": {
-        "60": 19519,
-        "120": 24012,
-        "180": 29203,
-        "240": 34575,
-        "360": 47096
-      },
-      "alertado": false
-    },
-    "2093938012329517224": {
-      "autor": "MarioNawfal",
-      "texto": "🇮🇱 Archaeologists say they finally found the lost city where Jesus fed the five thousand Ten years of digging on the shore of the Sea of Galilee, and this summer the ground finally gave it up. Coins, makeup tools, Roman walls, and half a carved column that once decorated a public building. Then came the oil lamps. Three of them in a single day out of one patch of dirt, and that style was only ever...",
-      "url": "https://x.com/MarioNawfal/status/2093938012329517224",
-      "criado": "2026-08-30T05:45:00+00:00",
-      "medicoes": {
-        "60": 24893,
-        "120": 32141,
-        "180": 37299,
-        "240": 42850,
-        "360": 58227
-      },
-      "alertado": false
-    },
     "2093951853595693118": {
       "autor": "MarioNawfal",
       "texto": "🇸🇾🇮🇱 Syria is trying to rebuild, but Israel isn't making it easy for them There’s a strange contradiction playing out in Syria right now. Ahmed al-Sharaa’s government is trying to drag the country back into the world economy, attract investment and rebuild a state shattered by 14 years of war, while simultaneously dealing with Israeli strikes and incursions. Almost 2 weeks ago, Israel dropped at l...",
@@ -51,7 +9,8 @@
         "60": 21554,
         "120": 28467,
         "180": 33683,
-        "240": 38164
+        "240": 38164,
+        "360": 53752
       },
       "alertado": false
     },
@@ -64,7 +23,8 @@
         "60": 15978,
         "120": 23305,
         "180": 29994,
-        "240": 35074
+        "240": 35074,
+        "360": 43855
       },
       "alertado": false
     },
@@ -77,7 +37,8 @@
         "60": 20129,
         "120": 24009,
         "180": 27323,
-        "240": 30546
+        "240": 30546,
+        "360": 36888
       },
       "alertado": false
     },
@@ -90,7 +51,8 @@
         "60": 25298,
         "120": 30871,
         "180": 35406,
-        "240": 44247
+        "240": 44247,
+        "360": 57472
       },
       "alertado": false
     },
@@ -103,7 +65,8 @@
         "60": 36073,
         "120": 50817,
         "180": 60152,
-        "240": 67208
+        "240": 67208,
+        "360": 79537
       },
       "alertado": false
     },
@@ -398,7 +361,8 @@
       "medicoes": {
         "60": 20707,
         "120": 27217,
-        "180": 32073
+        "180": 32073,
+        "240": 38828
       },
       "alertado": false
     },
@@ -410,7 +374,8 @@
       "medicoes": {
         "60": 13113,
         "120": 24718,
-        "180": 32608
+        "180": 32608,
+        "240": 39357
       },
       "alertado": false
     },
@@ -422,7 +387,8 @@
       "medicoes": {
         "60": 9855,
         "120": 13794,
-        "180": 16803
+        "180": 16803,
+        "240": 22752
       },
       "alertado": false
     },
@@ -434,7 +400,8 @@
       "medicoes": {
         "60": 20535,
         "120": 25464,
-        "180": 32985
+        "180": 32985,
+        "240": 42099
       },
       "alertado": false
     },
@@ -446,7 +413,8 @@
       "medicoes": {
         "60": 16477,
         "120": 23154,
-        "180": 27635
+        "180": 27635,
+        "240": 31183
       },
       "alertado": false
     },
@@ -458,7 +426,8 @@
       "medicoes": {
         "60": 22104,
         "120": 28031,
-        "180": 34024
+        "180": 34024,
+        "240": 42809
       },
       "alertado": false
     },
@@ -470,7 +439,8 @@
       "medicoes": {
         "60": 8665,
         "120": 11109,
-        "180": 12860
+        "180": 12860,
+        "240": 14318
       },
       "alertado": false
     },
@@ -576,7 +546,8 @@
       "criado": "2026-08-30T09:40:00+00:00",
       "medicoes": {
         "60": 16429,
-        "120": 26332
+        "120": 26332,
+        "180": 35969
       },
       "alertado": false
     },
@@ -587,7 +558,8 @@
       "criado": "2026-08-30T09:40:00+00:00",
       "medicoes": {
         "60": 32259,
-        "120": 53635
+        "120": 53635,
+        "180": 71045
       },
       "alertado": false
     },
@@ -598,7 +570,8 @@
       "criado": "2026-08-30T09:36:55+00:00",
       "medicoes": {
         "60": 9412,
-        "120": 13252
+        "120": 13252,
+        "180": 16164
       },
       "alertado": false
     },
@@ -609,7 +582,8 @@
       "criado": "2026-08-30T09:30:00+00:00",
       "medicoes": {
         "60": 25835,
-        "120": 36850
+        "120": 36850,
+        "180": 45813
       },
       "alertado": false
     },
@@ -620,7 +594,8 @@
       "criado": "2026-08-30T09:20:45+00:00",
       "medicoes": {
         "60": 10126,
-        "120": 12507
+        "120": 12507,
+        "180": 14412
       },
       "alertado": false
     },
@@ -631,7 +606,8 @@
       "criado": "2026-08-30T09:20:00+00:00",
       "medicoes": {
         "60": 22864,
-        "120": 27353
+        "120": 27353,
+        "180": 35051
       },
       "alertado": false
     },
@@ -642,7 +618,8 @@
       "criado": "2026-08-30T09:15:00+00:00",
       "medicoes": {
         "60": 16280,
-        "120": 20759
+        "120": 20759,
+        "180": 23948
       },
       "alertado": false
     },
@@ -653,7 +630,8 @@
       "criado": "2026-08-30T09:10:30+00:00",
       "medicoes": {
         "60": 26565,
-        "120": 31814
+        "120": 31814,
+        "180": 36199
       },
       "alertado": false
     },
@@ -740,7 +718,8 @@
       "url": "https://x.com/MarioNawfal/status/2094012251305115817",
       "criado": "2026-08-30T10:40:00+00:00",
       "medicoes": {
-        "60": 24032
+        "60": 24032,
+        "120": 35736
       },
       "alertado": false
     },
@@ -750,7 +729,8 @@
       "url": "https://x.com/MachadoDarlon/status/2094011555385872806",
       "criado": "2026-08-30T10:37:14+00:00",
       "medicoes": {
-        "60": 499
+        "60": 499,
+        "120": 944
       },
       "alertado": false
     },
@@ -760,7 +740,8 @@
       "url": "https://x.com/clashreport/status/2094011034176463114",
       "criado": "2026-08-30T10:35:10+00:00",
       "medicoes": {
-        "60": 15288
+        "60": 15288,
+        "120": 27296
       },
       "alertado": false
     },
@@ -770,7 +751,8 @@
       "url": "https://x.com/MarioNawfal/status/2094009310741192743",
       "criado": "2026-08-30T10:28:19+00:00",
       "medicoes": {
-        "60": 22911
+        "60": 22911,
+        "120": 29933
       },
       "alertado": false
     },
@@ -780,7 +762,8 @@
       "url": "https://x.com/clashreport/status/2094007585191977037",
       "criado": "2026-08-30T10:21:27+00:00",
       "medicoes": {
-        "60": 11758
+        "60": 11758,
+        "120": 16571
       },
       "alertado": false
     },
@@ -790,7 +773,8 @@
       "url": "https://x.com/MarioNawfal/status/2094007218329006388",
       "criado": "2026-08-30T10:20:00+00:00",
       "medicoes": {
-        "60": 29760
+        "60": 29760,
+        "120": 46096
       },
       "alertado": false
     },
@@ -800,7 +784,8 @@
       "url": "https://x.com/clashreport/status/2094006915382620392",
       "criado": "2026-08-30T10:18:48+00:00",
       "medicoes": {
-        "60": 7218
+        "60": 7218,
+        "120": 8943
       },
       "alertado": false
     },
@@ -810,7 +795,8 @@
       "url": "https://x.com/clashreport/status/2094006111808426487",
       "criado": "2026-08-30T10:15:36+00:00",
       "medicoes": {
-        "60": 10064
+        "60": 10064,
+        "120": 12988
       },
       "alertado": false
     },
@@ -820,7 +806,8 @@
       "url": "https://x.com/clashreport/status/2094005097999089825",
       "criado": "2026-08-30T10:11:34+00:00",
       "medicoes": {
-        "60": 17952
+        "60": 17952,
+        "120": 27397
       },
       "alertado": false
     },
@@ -830,7 +817,8 @@
       "url": "https://x.com/NewsLiberdade/status/2094004913621631000",
       "criado": "2026-08-30T10:10:50+00:00",
       "medicoes": {
-        "60": 4897
+        "60": 4897,
+        "120": 7139
       },
       "alertado": false
     },
@@ -959,7 +947,9 @@
       "texto": "🇨🇳 Holy crap, China's already begun reconstruction work in the area of Tibet affected by massive flooding One look at this footage and you quickly realise why China's leaps and bounds ahead of everyone else in engineering and construction Writer: Ian https://t.co/7VAYZXElQk",
       "url": "https://x.com/MarioNawfal/status/2094027350983733708",
       "criado": "2026-08-30T11:40:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 53541
+      },
       "alertado": false
     },
     "2094025930779832388": {
@@ -967,7 +957,9 @@
       "texto": "🚨AGORA - Ministério do Trabalho proíbe catadores de lixo de usar o estribo do caminhão, fazendo com que eles precisem andar todo o percurso “Além de ferrar com a empresa, eles ferram com o trabalhador” https://t.co/kdFG60H1WV",
       "url": "https://x.com/NewsLiberdade/status/2094025930779832388",
       "criado": "2026-08-30T11:34:21+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 21678
+      },
       "alertado": false
     },
     "2094025309171462595": {
@@ -975,7 +967,9 @@
       "texto": "The first meeting of the Mecca Defense Agreement will be held in Istanbul on Monday, bringing together Turkey, Saudi Arabia and Pakistan. Attending will be the three countries' foreign ministers, defense ministers and armed forces chiefs of staff, per a Turkish Foreign Ministry source.",
       "url": "https://x.com/Osint613/status/2094025309171462595",
       "criado": "2026-08-30T11:31:53+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 25480
+      },
       "alertado": false
     },
     "2094024916748112274": {
@@ -983,7 +977,9 @@
       "texto": "Iranian President Pezeshkian, targeting the conservative state broadcaster that censored him and other deal supporters while pushing a hardline line: \"These days I don't even watch [their] television anymore. They aren't creating unity [in the country].\"",
       "url": "https://x.com/Osint613/status/2094024916748112274",
       "criado": "2026-08-30T11:30:19+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 44386
+      },
       "alertado": false
     },
     "2094024834246181056": {
@@ -991,7 +987,9 @@
       "texto": "🇨🇾 More than 250 passengers are awaiting rescue after a ship capsized just 2–3 km off the coast of Cyprus shortly after leaving Girne Port. Coast Guard boats, civilian ships and helicopters are racing to reach them. Writer: Mhedi https://t.co/tWaG202qjL",
       "url": "https://x.com/MarioNawfal/status/2094024834246181056",
       "criado": "2026-08-30T11:30:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 36836
+      },
       "alertado": false
     },
     "2094023728560537604": {
@@ -999,7 +997,9 @@
       "texto": "🚨 BREAKING: Passenger ferry sinking off the coast of Northern Cyprus There are 279 people on board. Turkish media report that some passengers have been injured. People are awaiting rescue on the overturned ferry, which was heading to the Turkish port of Taşucu 🇹🇷 Coast guard boats are attempting to evacuate the passengers.",
       "url": "https://x.com/nexta_tv/status/2094023728560537604",
       "criado": "2026-08-30T11:25:36+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 55217
+      },
       "alertado": false
     },
     "2094022317890539718": {
@@ -1007,7 +1007,9 @@
       "texto": "🇳🇪 Niger says it crushed a mutiny after hundreds of soldiers attacked a key airbase Gunfire and explosions erupted across Niamey as mutinous soldiers reportedly attacked the capital’s main military airbase and fighting broke out near the presidency. This wasn’t some random outpost: the base houses Nigerien aircraft and drones, an Alliance of Sahel States counter-terrorism unit, and Russian and Ita...",
       "url": "https://x.com/MarioNawfal/status/2094022317890539718",
       "criado": "2026-08-30T11:20:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 24524
+      },
       "alertado": false
     },
     "2094022303499575686": {
@@ -1015,7 +1017,9 @@
       "texto": "🚨GRAVE - PIB do agronegócio deve recuar quase 8% em 2026 https://t.co/uOqd9f4HTU",
       "url": "https://x.com/NewsLiberdade/status/2094022303499575686",
       "criado": "2026-08-30T11:19:56+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 5614
+      },
       "alertado": false
     },
     "2094034900563165340": {
@@ -1111,6 +1115,118 @@
       "texto": "🚨 WATCH: Another video shows a vessel carrying hundreds of passengers in distress off the coast of Northern Cyprus According to preliminary reports, water first began entering the bow of the ferry, after which the vessel capsized. The exact cause of the incident remains unknown. More than 260 people were reportedly on board. Coast guard search-and-rescue teams are working at the scene.",
       "url": "https://x.com/nexta_tv/status/2094028074304033149",
       "criado": "2026-08-30T11:42:52+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094042450658574659": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸 Trump shuts the New York Times, WSJ, and Bloomberg out of upcoming G20 finance meeting Journalists from around the world will be gathering for the meeting in Asheville, N.C, but the Treasury Dept has refused accreditation to three of the top U.S outlets A spokeswoman for The Times said the decision was “not just another disturbing effort by the administration to undermine independent journalism...",
+      "url": "https://x.com/MarioNawfal/status/2094042450658574659",
+      "criado": "2026-08-30T12:40:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094041824021058021": {
+      "autor": "clashreport",
+      "texto": "The U.S. is hoping to avoid imposing secondary sanctions on China over its purchases of Iranian oil, former U.S. national security official Mark Pfeifle said. He said Washington is keeping sanctions as a last-resort option because broad measures against Beijing would be diplomatically hard given how intertwined the two economies are. Source: Al Jazeera",
+      "url": "https://x.com/clashreport/status/2094041824021058021",
+      "criado": "2026-08-30T12:37:30+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094041543032058071": {
+      "autor": "clashreport",
+      "texto": "Trump reposts: Trump’s historic oil deal with Venezuela realigns global energy and puts OPEC, Canada on notice. https://t.co/IrOvBsPWjQ",
+      "url": "https://x.com/clashreport/status/2094041543032058071",
+      "criado": "2026-08-30T12:36:23+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094041242153710069": {
+      "autor": "clashreport",
+      "texto": "6 people died after a ship capsized off Girne. 172 were rescued; search efforts continue.",
+      "url": "https://x.com/clashreport/status/2094041242153710069",
+      "criado": "2026-08-30T12:35:12+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094041214500671707": {
+      "autor": "Osint613",
+      "texto": "Additional footage from northern Cyprus shows frightened passengers awaiting rescue after a vessel carrying around 270 people sank near Kyrenia. Some fatalities have been reported. https://t.co/5aAmalBoQ5",
+      "url": "https://x.com/Osint613/status/2094041214500671707",
+      "criado": "2026-08-30T12:35:05+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094040714879353072": {
+      "autor": "clashreport",
+      "texto": "U.S. military leaders are warning Defense Secretary Pete Hegseth that extending the Iran war could dangerously strain American forces worldwide. Commanders say months of deployments have depleted ships, missiles, drones and air defenses, while weakening readiness in Europe, Asia and homeland defense. The Navy raised the strongest objections, saying current operations are unsustainable and only abo...",
+      "url": "https://x.com/clashreport/status/2094040714879353072",
+      "criado": "2026-08-30T12:33:06+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094039937779700163": {
+      "autor": "MarioNawfal",
+      "texto": "🇮🇳 The train commutes in India goes something like this: -Hurl yourself into a moving locomotive from the platform. -Hold your breath as you fit yourself into a crowded passenger car. -Hope the train doesn’t start filling with smoke. Some passengers in Maharashtra made it past steps one and two but missed out on three Writer: Marie https://t.co/EKYeTb0svr",
+      "url": "https://x.com/MarioNawfal/status/2094039937779700163",
+      "criado": "2026-08-30T12:30:01+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094038719854461089": {
+      "autor": "MarioNawfal",
+      "texto": "🇨🇾🇹🇷 Victims of the Cyprus ferry that capsized a little while ago are being flown ashore via helicopter... The ferry was reportedly carrying 267 people when the incident occurred off Girne, and \"all available resources\" have been mobilized in the rescue effort. It was heading from Northern Cyprus to Turkey. Source: TRT World, Haber Kibris (TG) / Writer: Michael",
+      "url": "https://x.com/MarioNawfal/status/2094038719854461089",
+      "criado": "2026-08-30T12:25:10+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094037873167090047": {
+      "autor": "clashreport",
+      "texto": "Google Maps is now showing “Lake America” in the U.S., while users in Canada continue to see “Lake Ontario.” Users outside the U.S. and Canada see both names. https://t.co/juOcJbHdHo",
+      "url": "https://x.com/clashreport/status/2094037873167090047",
+      "criado": "2026-08-30T12:21:48+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094037632552415232": {
+      "autor": "Osint613",
+      "texto": "It’s a busy day in the Persian Gulf as the U.S. continues escorting ships through the Hormuz, bypassing Iran. Map: FR https://t.co/2CnnDKNTLL",
+      "url": "https://x.com/Osint613/status/2094037632552415232",
+      "criado": "2026-08-30T12:20:51+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094037417183580332": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸 These guys, suspected of being human smugglers, thought they could outrun the cops... until the air support showed up One carjacking later and both are in custody Writer: Ian https://t.co/zfSfG54vVj",
+      "url": "https://x.com/MarioNawfal/status/2094037417183580332",
+      "criado": "2026-08-30T12:20:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094037417041006926": {
+      "autor": "nexta_tv",
+      "texto": "👌 Nice! A Ukrainian ground drone skillfully dodged a Russian FPV drone and calmly continued on its way",
+      "url": "https://x.com/nexta_tv/status/2094037417041006926",
+      "criado": "2026-08-30T12:20:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094037007848591815": {
+      "autor": "clashreport",
+      "texto": "WATCH: Ukrainian ground drone dodges a Russian FPV and keeps going. https://t.co/AsFNXcRADz",
+      "url": "https://x.com/clashreport/status/2094037007848591815",
+      "criado": "2026-08-30T12:18:22+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094035697833226286": {
+      "autor": "Osint613",
+      "texto": "Iranian President Pezeshkian attacked the state broadcaster for censoring him and other supporters of the U.S. MoU, accusing it of taking an extreme line. Pezeshkian: \"Nowadays I no longer watch their television at all. They don't bring unity.\" https://t.co/dRuGwmWOvJ",
+      "url": "https://x.com/Osint613/status/2094035697833226286",
+      "criado": "2026-08-30T12:13:10+00:00",
       "medicoes": {},
       "alertado": false
     }
@@ -1330,9 +1446,6 @@
     },
     "MarioNawfal": {
       "60": [
-        42833,
-        21186,
-        24983,
         29150,
         25191,
         33929,
@@ -1369,12 +1482,12 @@
         38186,
         23131,
         21521,
-        23885
+        23885,
+        23087,
+        19519,
+        24893
       ],
       "120": [
-        53056,
-        24319,
-        29911,
         43737,
         29573,
         41005,
@@ -1411,12 +1524,12 @@
         58092,
         28122,
         25151,
-        30366
+        30366,
+        33440,
+        24012,
+        32141
       ],
       "180": [
-        59631,
-        30218,
-        33455,
         52064,
         33042,
         45548,
@@ -1453,12 +1566,12 @@
         73131,
         31633,
         31710,
-        35628
+        35628,
+        41419,
+        29203,
+        37299
       ],
       "240": [
-        64706,
-        34700,
-        43485,
         58649,
         38406,
         48326,
@@ -1495,12 +1608,12 @@
         84550,
         39579,
         40786,
-        43378
+        43378,
+        48005,
+        34575,
+        42850
       ],
       "360": [
-        81695,
-        40634,
-        54349,
         70006,
         49932,
         55274,
@@ -1537,7 +1650,10 @@
         104091,
         55071,
         56429,
-        58414
+        58414,
+        55594,
+        47096,
+        58227
       ]
     },
     "MachadoDarlon": {
@@ -2389,6 +2505,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-08-30T12:10:17+00:00",
+  "ultima_busca": "2026-08-30T12:40:17+00:00",
   "alertas_enviados": 0
 }
