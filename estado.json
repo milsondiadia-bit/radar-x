@@ -1,75 +1,5 @@
 {
   "posts": {
-    "2093920396085211531": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 US debt just crossed $40 trillion, double what it was ten years ago, with interest costs up 15% in a year. Fmr. PIMCO CEO Mohamed El-Erian says AI borrowing is about to compound it, with hyperscalers raising $800 billion this year, four times last year's total: \"In order to convince the market to lend 800 billion here, to continue lending to a government that's running 6% of GDP deficit, they n...",
-      "url": "https://x.com/MarioNawfal/status/2093920396085211531",
-      "criado": "2026-08-30T04:35:00+00:00",
-      "medicoes": {
-        "60": 22004,
-        "120": 26716,
-        "180": 29683,
-        "240": 34493,
-        "360": 42461
-      },
-      "alertado": false
-    },
-    "2093919138771014021": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 Waltz makes the case for the UN's existence, with a soldier's credo attached: \"When people ask what the heck is the UN good for, well, President Trump is a president of peace, he puts diplomacy first, and you need one place in the world where everybody can at least come and talk. As a former soldier, I tell my team all the time, if we're using words and not bullets, then we're on the right trac...",
-      "url": "https://x.com/MarioNawfal/status/2093919138771014021",
-      "criado": "2026-08-30T04:30:00+00:00",
-      "medicoes": {
-        "60": 17472,
-        "120": 19024,
-        "180": 20126,
-        "240": 20928,
-        "360": 22237
-      },
-      "alertado": false
-    },
-    "2093917658244657573": {
-      "autor": "MarioNawfal",
-      "texto": "🚨🇷🇺🇺🇦Russia is holding captured Ukrainian drones that could be flown at NATO countries under Ukraine's flag Western officials tell the Wall Street Journal that Moscow has recovered Ukrainian drones and could use them for false-flag attacks on alliance members. NATO leaders describe the wider grey zone campaign of incursions, sabotage and cyberattacks as evidence of a rising appetite for risk. Pesk...",
-      "url": "https://x.com/MarioNawfal/status/2093917658244657573",
-      "criado": "2026-08-30T04:24:07+00:00",
-      "medicoes": {
-        "60": 29639,
-        "120": 39395,
-        "180": 45318,
-        "240": 50967,
-        "360": 58740
-      },
-      "alertado": false
-    },
-    "2093916916297376180": {
-      "autor": "MarioNawfal",
-      "texto": "🇨🇳🇧🇷🥊 It must be the night for roundhouse elbow strikes! Denise Gomes' first-round strike was enough to take down China's Yan Xiaonan in the strawweight co-main event at UFC Shanghai. Brazilian Gomes’ extended her win streak to five. The longest active in the division and tied for the UFC strawweight record with 4 career knockouts, elevating her title contender status. Writer: Jamie https://t.co/d...",
-      "url": "https://x.com/MarioNawfal/status/2093916916297376180",
-      "criado": "2026-08-30T04:21:10+00:00",
-      "medicoes": {
-        "60": 20491,
-        "120": 23816,
-        "180": 28775,
-        "240": 33388,
-        "360": 40900
-      },
-      "alertado": false
-    },
-    "2093915364308484115": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 Trump establishes United States Space Academy A new NASA-led academy to forge America's next astronauts, engineers, and space warfighters. The presidential commission chaired by the NASA Administrator has 120 days to design the curriculum, service obligations, and location. Welcome to the Space Age, Major Tom! Source: The White House / Writer: Jamie",
-      "url": "https://x.com/MarioNawfal/status/2093915364308484115",
-      "criado": "2026-08-30T04:15:00+00:00",
-      "medicoes": {
-        "60": 20409,
-        "120": 23988,
-        "180": 30376,
-        "240": 34092,
-        "360": 40148
-      },
-      "alertado": false
-    },
     "2093926862808347086": {
       "autor": "MarioNawfal",
       "texto": "🇬🇧 British Actor Tom Hardy a.k.a. Frankie Pulitzer dropped a collab album with CZARFACE. He’s also worked with Method Man. You can’t tell me we didn’t jump timelines! We’re definitely in a simulation. Writer: Jamie https://t.co/IcPXVK3zWq",
@@ -79,7 +9,8 @@
         "60": 19884,
         "120": 23513,
         "180": 29518,
-        "240": 40287
+        "240": 40287,
+        "360": 55607
       },
       "alertado": false
     },
@@ -92,7 +23,8 @@
         "60": 20513,
         "120": 28854,
         "180": 36201,
-        "240": 41710
+        "240": 41710,
+        "360": 60370
       },
       "alertado": false
     },
@@ -113,7 +45,8 @@
         "60": 18041,
         "120": 21940,
         "180": 25557,
-        "240": 27763
+        "240": 27763,
+        "360": 31478
       },
       "alertado": false
     },
@@ -126,7 +59,8 @@
         "60": 20630,
         "120": 24124,
         "180": 31962,
-        "240": 38229
+        "240": 38229,
+        "360": 50255
       },
       "alertado": false
     },
@@ -139,7 +73,8 @@
         "60": 19532,
         "120": 23745,
         "180": 29838,
-        "240": 33098
+        "240": 33098,
+        "360": 39240
       },
       "alertado": false
     },
@@ -152,7 +87,8 @@
         "60": 38186,
         "120": 58092,
         "180": 73131,
-        "240": 84550
+        "240": 84550,
+        "360": 104091
       },
       "alertado": false
     },
@@ -320,7 +256,8 @@
       "medicoes": {
         "60": 21662,
         "120": 27032,
-        "180": 31587
+        "180": 31587,
+        "240": 38017
       },
       "alertado": false
     },
@@ -332,7 +269,8 @@
       "medicoes": {
         "60": 14892,
         "120": 20589,
-        "180": 24425
+        "180": 24425,
+        "240": 27409
       },
       "alertado": false
     },
@@ -344,7 +282,8 @@
       "medicoes": {
         "60": 5858,
         "120": 7588,
-        "180": 8660
+        "180": 8660,
+        "240": 9277
       },
       "alertado": false
     },
@@ -356,7 +295,8 @@
       "medicoes": {
         "60": 8195,
         "120": 11614,
-        "180": 14284
+        "180": 14284,
+        "240": 19511
       },
       "alertado": false
     },
@@ -368,7 +308,8 @@
       "medicoes": {
         "60": 21750,
         "120": 28079,
-        "180": 32593
+        "180": 32593,
+        "240": 42443
       },
       "alertado": false
     },
@@ -380,7 +321,8 @@
       "medicoes": {
         "60": 10072,
         "120": 14372,
-        "180": 17336
+        "180": 17336,
+        "240": 20247
       },
       "alertado": false
     },
@@ -392,7 +334,8 @@
       "medicoes": {
         "60": 6897,
         "120": 8676,
-        "180": 9949
+        "180": 9949,
+        "240": 10997
       },
       "alertado": false
     },
@@ -404,7 +347,8 @@
       "medicoes": {
         "60": 32018,
         "120": 41978,
-        "180": 51485
+        "180": 51485,
+        "240": 59580
       },
       "alertado": false
     },
@@ -416,7 +360,8 @@
       "medicoes": {
         "60": 16394,
         "120": 20812,
-        "180": 23738
+        "180": 23738,
+        "240": 26342
       },
       "alertado": false
     },
@@ -428,7 +373,8 @@
       "medicoes": {
         "60": 7162,
         "120": 8608,
-        "180": 9678
+        "180": 9678,
+        "240": 10296
       },
       "alertado": false
     },
@@ -534,7 +480,8 @@
       "criado": "2026-08-30T08:10:00+00:00",
       "medicoes": {
         "60": 18101,
-        "120": 24347
+        "120": 24347,
+        "180": 30090
       },
       "alertado": false
     },
@@ -545,7 +492,8 @@
       "criado": "2026-08-30T08:00:01+00:00",
       "medicoes": {
         "60": 26070,
-        "120": 37060
+        "120": 37060,
+        "180": 47311
       },
       "alertado": false
     },
@@ -556,7 +504,8 @@
       "criado": "2026-08-30T08:00:01+00:00",
       "medicoes": {
         "60": 11765,
-        "120": 15606
+        "120": 15606,
+        "180": 18412
       },
       "alertado": false
     },
@@ -567,7 +516,8 @@
       "criado": "2026-08-30T07:50:00+00:00",
       "medicoes": {
         "60": 25458,
-        "120": 33657
+        "120": 33657,
+        "180": 40498
       },
       "alertado": false
     },
@@ -654,7 +604,8 @@
       "url": "https://x.com/Osint613/status/2093987795438067733",
       "criado": "2026-08-30T09:02:49+00:00",
       "medicoes": {
-        "60": 24377
+        "60": 24377,
+        "120": 33845
       },
       "alertado": false
     },
@@ -664,7 +615,8 @@
       "url": "https://x.com/Osint613/status/2093987589585862814",
       "criado": "2026-08-30T09:02:00+00:00",
       "medicoes": {
-        "60": 18575
+        "60": 18575,
+        "120": 25382
       },
       "alertado": false
     },
@@ -674,7 +626,8 @@
       "url": "https://x.com/MarioNawfal/status/2093987203420402013",
       "criado": "2026-08-30T09:00:28+00:00",
       "medicoes": {
-        "60": 29859
+        "60": 29859,
+        "120": 48254
       },
       "alertado": false
     },
@@ -684,7 +637,8 @@
       "url": "https://x.com/clashreport/status/2093985231560745226",
       "criado": "2026-08-30T08:52:38+00:00",
       "medicoes": {
-        "60": 14552
+        "60": 14552,
+        "120": 21248
       },
       "alertado": false
     },
@@ -694,7 +648,8 @@
       "url": "https://x.com/nexta_tv/status/2093984569049461010",
       "criado": "2026-08-30T08:50:00+00:00",
       "medicoes": {
-        "60": 18159
+        "60": 18159,
+        "120": 26040
       },
       "alertado": false
     },
@@ -704,7 +659,8 @@
       "url": "https://x.com/MarioNawfal/status/2093984568781279606",
       "criado": "2026-08-30T08:50:00+00:00",
       "medicoes": {
-        "60": 32175
+        "60": 32175,
+        "120": 45745
       },
       "alertado": false
     },
@@ -714,7 +670,8 @@
       "url": "https://x.com/clashreport/status/2093984175481045276",
       "criado": "2026-08-30T08:48:26+00:00",
       "medicoes": {
-        "60": 9582
+        "60": 9582,
+        "120": 13440
       },
       "alertado": false
     },
@@ -724,7 +681,8 @@
       "url": "https://x.com/clashreport/status/2093983181414265005",
       "criado": "2026-08-30T08:44:29+00:00",
       "medicoes": {
-        "60": 17073
+        "60": 17073,
+        "120": 22977
       },
       "alertado": false
     },
@@ -813,7 +771,9 @@
       "texto": "🇳🇵🇨🇳 Heartbreaking footage of an old man doing his best to get away from the flood that left more than 700 people dead in Nepal and Tibet on Wednesday. Writer: Mhedi https://t.co/G4noHEsvP2",
       "url": "https://x.com/MarioNawfal/status/2094004701549253012",
       "criado": "2026-08-30T10:10:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 36084
+      },
       "alertado": false
     },
     "2094004561681789216": {
@@ -821,7 +781,9 @@
       "texto": "Ukraine was hit by approximately 1,500 jet-powered Shaheds last month. This month, the number has already exceeded 2,500. The jet-powered Shaheds are being launched at Ukraine practically straight from the factory. Source: Ukrainian MoD advisor and EW expert Serhii \"Flash\" Beskrestnov",
       "url": "https://x.com/clashreport/status/2094004561681789216",
       "criado": "2026-08-30T10:09:26+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 10498
+      },
       "alertado": false
     },
     "2094004064132469238": {
@@ -829,7 +791,9 @@
       "texto": "Croatian General Rahim Ademi on Ratko Mladić: He was not a soldier at all. He showed \"courage\" only against innocent, unarmed civilians. Ademi and his units defeated Serbian forces under Mladić's command near Šibenik in September 1991. https://t.co/5Vy4hzLpvy",
       "url": "https://x.com/clashreport/status/2094004064132469238",
       "criado": "2026-08-30T10:07:28+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 7943
+      },
       "alertado": false
     },
     "2094003443883258348": {
@@ -837,7 +801,9 @@
       "texto": "🇩🇪 A mug reading “Russian Army” was found in the office of one of AfD’s most pro-Russian politicians The politician in question is Hans-Thomas Tillschneider, deputy leader of Alternative for Germany in Saxony-Anhalt. During filming in his office, a journalist spotted a black mug with a red star and the words “Russian Army.” “I don’t associate anything special with it. It’s just a mug that was give...",
       "url": "https://x.com/nexta_tv/status/2094003443883258348",
       "criado": "2026-08-30T10:05:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 17684
+      },
       "alertado": false
     },
     "2094002187865297324": {
@@ -845,7 +811,9 @@
       "texto": "Google Maps inside the U.S vs. outside the U.S A rose by any other name... Writer: Ian https://t.co/1b7FWkQnTD",
       "url": "https://x.com/MarioNawfal/status/2094002187865297324",
       "criado": "2026-08-30T10:00:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 33590
+      },
       "alertado": false
     },
     "2094001105365520468": {
@@ -853,7 +821,9 @@
       "texto": "German MP Maximilian Krah visited the Turkish Cypriot Football Federation (KTFF) in Northern Cyprus and criticized the international sporting restrictions imposed on Turkish Cypriots. During the visit, Krah met KTFF President Hasan Sertoğlu and wore a Northern Cyprus national team jersey presented to him as a gift.",
       "url": "https://x.com/clashreport/status/2094001105365520468",
       "criado": "2026-08-30T09:55:42+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 8793
+      },
       "alertado": false
     },
     "2093999668497895580": {
@@ -861,7 +831,9 @@
       "texto": "🇷🇺🇺🇦 Russia's getting locked and loaded for another massive attack on Ukraine According to the Russian Ministry of Defense, preparations are underway to launch extensive strikes against Ukraine’s energy infrastructure Days ago, Putin promised significant retaliation for Ukraine's continued attacks on e-commerce warehouses and oil facilities; it looks like the countdown has already begun Source: Wa...",
       "url": "https://x.com/MarioNawfal/status/2093999668497895580",
       "criado": "2026-08-30T09:50:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 26163
+      },
       "alertado": false
     },
     "2094012251305115817": {
@@ -941,6 +913,102 @@
       "texto": "🚨URGENTE - Lula diz que a profissão de “leiteiro” é “muito pobre” e não dá orgulho “Não é uma profissão que dá orgulho de dizer: eu sou lixeiro! O cara tem orgulho de falar que é engenheiro” https://t.co/E7XvB8DZVN",
       "url": "https://x.com/NewsLiberdade/status/2094004913621631000",
       "criado": "2026-08-30T10:10:50+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094019801169662331": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸 This trans person went to a Japanese restaurant in New York and walked out without paying because the chefs allegedly made them \"feel uncomfortable\" during their meal. I feel uncomfortable just watching this Writers: Mhedi, Ian https://t.co/hI9r9hzHRg",
+      "url": "https://x.com/MarioNawfal/status/2094019801169662331",
+      "criado": "2026-08-30T11:10:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094019579320103234": {
+      "autor": "clashreport",
+      "texto": "A passenger ferry traveling from Girne to Taşucu, Mersin, capsized after taking on water off the coast of Northern Cyprus on August 30. Coast Guard vessels, helicopters and civilian boats were sent to the scene, while ambulances waited at Girne Port. Rescue operations are ongoing. Reports on the number of people aboard vary, with officials citing between 267 and 287 passengers and crew. https://t....",
+      "url": "https://x.com/clashreport/status/2094019579320103234",
+      "criado": "2026-08-30T11:09:07+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094019031535640598": {
+      "autor": "nexta_tv",
+      "texto": "“Commanders urinate and defecate into soldiers’ mouths.” Putin supporter Gubarev describes conditions in the Russian army Pissing into subordinates’ mouths appears to have become a new trend — and this patriot seems to be telling the truth. On the so-called “special military operation,” they reportedly do it both as punishment and purely as a “preventive” measure. The other problems Gubarev descri...",
+      "url": "https://x.com/nexta_tv/status/2094019031535640598",
+      "criado": "2026-08-30T11:06:56+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094018632611188841": {
+      "autor": "MachadoDarlon",
+      "texto": "Chamaram o chefe dele pelo nome: L@DRÃ0! 👏 SIGA: @rip_esquerda 🇧🇷🇺🇸🇮🇱 https://t.co/EEF00Ma0IS",
+      "url": "https://x.com/MachadoDarlon/status/2094018632611188841",
+      "criado": "2026-08-30T11:05:21+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094017297866203387": {
+      "autor": "MarioNawfal",
+      "texto": "🇭🇺 Hungary scrambled fighter jets after a man allegedly stole a small civilian plane from an Airport and began flying toward the country’s Paks nuclear power plant. The military detected the aircraft shortly after takeoff and launched two fighters as it approached the heavily restricted airspace surrounding Hungary’s only nuclear plant. The drama ended minutes later when the plane made an emergenc...",
+      "url": "https://x.com/MarioNawfal/status/2094017297866203387",
+      "criado": "2026-08-30T11:00:03+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094016977601749458": {
+      "autor": "MachadoDarlon",
+      "texto": "🚨⚠️🇺🇸 EUA: Entre os dias 18 e 22 de agosto de 2026, autoridades da Flórida realizaram a Operation Statewide Shield, uma grande operação para localizar crianças desaparecidas. Ao todo, 163 crianças e adolescentes, entre 2 meses e 17 anos, foram encontrados e recuperados em diferentes regiões do estado. A operação envolveu o Departamento de Polícia da Flórida (FDLE) e outras forças policiais. Os cas...",
+      "url": "https://x.com/MachadoDarlon/status/2094016977601749458",
+      "criado": "2026-08-30T10:58:47+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094016041886134746": {
+      "autor": "MachadoDarlon",
+      "texto": "🇧🇷🐎🤠 BARRETÃO 2026: 🎶✨️ Leonardo cantou o sucesso para o estádio! https://t.co/l1h3wpeA60",
+      "url": "https://x.com/MachadoDarlon/status/2094016041886134746",
+      "criado": "2026-08-30T10:55:03+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094015450979934641": {
+      "autor": "NewsLiberdade",
+      "texto": "🚨GRAVE - Brasil bate recorde de R$ 180 bilhões em dívidas em recuperação judicial e extrajudicial https://t.co/5EaXa7t8bz",
+      "url": "https://x.com/NewsLiberdade/status/2094015450979934641",
+      "criado": "2026-08-30T10:52:43+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094014808467046819": {
+      "autor": "MachadoDarlon",
+      "texto": "Mais do que justo, demorou e foi muito para que esta regra seja aplicada ! 👊👍 https://t.co/TSuAVbcsqR",
+      "url": "https://x.com/MachadoDarlon/status/2094014808467046819",
+      "criado": "2026-08-30T10:50:09+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094014768013090984": {
+      "autor": "MarioNawfal",
+      "texto": "🇳🇵 This has to be one of the luckiest escapes from the flooding in Nepal Writers: Mhedi, Ian https://t.co/cWppA3FXqI",
+      "url": "https://x.com/MarioNawfal/status/2094014768013090984",
+      "criado": "2026-08-30T10:50:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094013104107421742": {
+      "autor": "MachadoDarlon",
+      "texto": "🔥🚨👀 Lula voltou a ser alvo de protestos neste sábado (29), com um coro de “Ei, Lula, vai tomar no c*” em meio à programação da Festa do Peão de Barretos, em São Paulo. A manifestação já havia ocorrido no sábado anterior, dia 22, durante o primeiro show de Gusttavo Lima nesta edição. Na ocasião, os gritos foram captados durante a transmissão ao vivo da TV Globo. O cantor não reagiu e seguiu normalm...",
+      "url": "https://x.com/MachadoDarlon/status/2094013104107421742",
+      "criado": "2026-08-30T10:43:23+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094013066413297963": {
+      "autor": "nexta_tv",
+      "texto": "🤮 A Russian woman showed off a bank card featuring Putin riding a bear “I love my president. To me, he is a symbol of resilience, courage, wisdom and power — everything best a man can be,” she says with a satisfied smirk. Propaganda doesn’t turn people into idiots. It is designed for them in the first place.",
+      "url": "https://x.com/nexta_tv/status/2094013066413297963",
+      "criado": "2026-08-30T10:43:14+00:00",
       "medicoes": {},
       "alertado": false
     }
@@ -1160,11 +1228,6 @@
     },
     "MarioNawfal": {
       "60": [
-        54270,
-        20467,
-        21791,
-        32522,
-        50518,
         51580,
         26650,
         27092,
@@ -1199,14 +1262,14 @@
         30377,
         20876,
         27466,
-        20330
+        20330,
+        22004,
+        17472,
+        29639,
+        20491,
+        20409
       ],
       "120": [
-        89389,
-        23428,
-        24821,
-        51217,
-        83376,
         78682,
         33988,
         32079,
@@ -1241,14 +1304,14 @@
         37209,
         25260,
         36685,
-        25021
+        25021,
+        26716,
+        19024,
+        39395,
+        23816,
+        23988
       ],
       "180": [
-        124640,
-        29665,
-        32047,
-        61203,
-        117195,
         96234,
         39391,
         35008,
@@ -1283,14 +1346,14 @@
         41159,
         30439,
         44521,
-        35836
+        35836,
+        29683,
+        20126,
+        45318,
+        28775,
+        30376
       ],
       "240": [
-        162433,
-        34211,
-        38898,
-        68458,
-        155993,
         108229,
         42658,
         43639,
@@ -1325,14 +1388,14 @@
         43733,
         36110,
         50697,
-        40755
+        40755,
+        34493,
+        20928,
+        50967,
+        33388,
+        34092
       ],
       "360": [
-        198155,
-        38212,
-        43320,
-        78644,
-        194710,
         136401,
         48624,
         49260,
@@ -1367,7 +1430,12 @@
         50903,
         44215,
         58843,
-        57428
+        57428,
+        42461,
+        22237,
+        58740,
+        40900,
+        40148
       ]
     },
     "MachadoDarlon": {
@@ -2219,6 +2287,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-08-30T10:40:17+00:00",
+  "ultima_busca": "2026-08-30T11:10:19+00:00",
   "alertas_enviados": 0
 }
