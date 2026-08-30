@@ -1,75 +1,5 @@
 {
   "posts": {
-    "2093905376341016689": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 Why does no one seem to be concerned that all the refrigerators in military commissaries at several U.S. bases decided to stop working at the same time? DCA Official: “The Department is aware of a possible refrigeration disruption at some Defense Commissary Agency commissaries”… “Commissaries remain open, and all possible measures are being taken to ensure food safety. Beyond this we have nothi...",
-      "url": "https://x.com/MarioNawfal/status/2093905376341016689",
-      "criado": "2026-08-30T03:35:19+00:00",
-      "medicoes": {
-        "60": 17633,
-        "120": 21635,
-        "180": 28948,
-        "240": 35078,
-        "360": 42127
-      },
-      "alertado": false
-    },
-    "2093905296708055483": {
-      "autor": "MarioNawfal",
-      "texto": "🇮🇱🇱🇧 Six months of strikes on southern Lebanon have never counted as breaking the ceasefire Lebanon reports regular Israeli strikes, artillery shelling and demolition of civilian buildings inside the roughly six-mile security zone Israel declared for itself. More than 4,300 killed since March. Whatever gets called a violation and whatever gets called routine is decided by whoever holds the ground....",
-      "url": "https://x.com/MarioNawfal/status/2093905296708055483",
-      "criado": "2026-08-30T03:35:00+00:00",
-      "medicoes": {
-        "60": 22471,
-        "120": 26460,
-        "180": 29192,
-        "240": 33185,
-        "360": 38266
-      },
-      "alertado": false
-    },
-    "2093904259792130434": {
-      "autor": "MarioNawfal",
-      "texto": "🚨🇷🇺 Russia-linked grey zone attacks across Europe have jumped 50% since April Ukraine's Sahaidachnyi Security Center counted a maximum of about 10 incidents a month since 2024, and roughly 15 a month since April. Three explosive drones turned up at or near a German airport, one beneath a Ukrainian cargo plane. Dutch intelligence says Russian state actors are systematically hacking web-linked camer...",
-      "url": "https://x.com/MarioNawfal/status/2093904259792130434",
-      "criado": "2026-08-30T03:30:53+00:00",
-      "medicoes": {
-        "60": 23314,
-        "120": 40124,
-        "180": 51751,
-        "240": 58854,
-        "360": 70872
-      },
-      "alertado": false
-    },
-    "2093904039196926214": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 Hold on to your trucker hats! Tom Cruise and a very pregnant Anne Hathaway just announced they will be starring in a sequel to the 1990 blockbuster ‘Days of Thunder’. For those of you too young to remember, it’s a NASCAR movie that led to Cruise’s relationship with co-star and later ex-wife Nicole Kidman while he was still married to Mimi Rogers. I’m guessing Nicole turned down the chance to re...",
-      "url": "https://x.com/MarioNawfal/status/2093904039196926214",
-      "criado": "2026-08-30T03:30:00+00:00",
-      "medicoes": {
-        "60": 28158,
-        "120": 44714,
-        "180": 55120,
-        "240": 63775,
-        "360": 75647
-      },
-      "alertado": false
-    },
-    "2093900263484502078": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸🇮🇷 The plot against Air Force One was built on intelligence the CIA reportedly doubted The threat that moved Trump to switch planes in Ankara came through Israeli channels, and American analysts were not convinced by it. Threat reporting nobody can check still does its work. It narrows what a president can say yes to, and every hour spent chasing an unverified plot is an hour diplomacy doesn't g...",
-      "url": "https://x.com/MarioNawfal/status/2093900263484502078",
-      "criado": "2026-08-30T03:15:00+00:00",
-      "medicoes": {
-        "60": 36266,
-        "120": 42527,
-        "180": 46705,
-        "240": 51853,
-        "360": 58603
-      },
-      "alertado": false
-    },
     "2093914104612229280": {
       "autor": "MarioNawfal",
       "texto": "🇺🇸 Early wins convinced this administration it can bend markets, and the markets are answering back. Mohamed El-Erian says the confidence has crossed into territory no policy can hold: \"There is a tendency to think now that policies can impose outcomes on markets that are inconsistent with fundamentals. And the market is saying, hey, wait a minute, it's not that simple.\" Announcements can move a p...",
@@ -79,7 +9,8 @@
         "60": 27822,
         "120": 37412,
         "180": 42604,
-        "240": 47782
+        "240": 47782,
+        "360": 57939
       },
       "alertado": false
     },
@@ -92,7 +23,8 @@
         "60": 21979,
         "120": 29611,
         "180": 34885,
-        "240": 40202
+        "240": 40202,
+        "360": 56931
       },
       "alertado": false
     },
@@ -105,7 +37,8 @@
         "60": 17623,
         "120": 21946,
         "180": 31907,
-        "240": 41313
+        "240": 41313,
+        "360": 53897
       },
       "alertado": false
     },
@@ -118,7 +51,8 @@
         "60": 32670,
         "120": 44946,
         "180": 56076,
-        "240": 64824
+        "240": 64824,
+        "360": 77101
       },
       "alertado": false
     },
@@ -131,7 +65,8 @@
         "60": 30377,
         "120": 37209,
         "180": 41159,
-        "240": 43733
+        "240": 43733,
+        "360": 50903
       },
       "alertado": false
     },
@@ -144,7 +79,8 @@
         "60": 20876,
         "120": 25260,
         "180": 30439,
-        "240": 36110
+        "240": 36110,
+        "360": 44215
       },
       "alertado": false
     },
@@ -157,7 +93,8 @@
         "60": 27466,
         "120": 36685,
         "180": 44521,
-        "240": 50697
+        "240": 50697,
+        "360": 58843
       },
       "alertado": false
     },
@@ -170,7 +107,8 @@
         "60": 20330,
         "120": 25021,
         "180": 35836,
-        "240": 40755
+        "240": 40755,
+        "360": 57428
       },
       "alertado": false
     },
@@ -385,7 +323,8 @@
       "medicoes": {
         "60": 23087,
         "120": 33440,
-        "180": 41419
+        "180": 41419,
+        "240": 48005
       },
       "alertado": false
     },
@@ -397,7 +336,8 @@
       "medicoes": {
         "60": 19519,
         "120": 24012,
-        "180": 29203
+        "180": 29203,
+        "240": 34575
       },
       "alertado": false
     },
@@ -409,7 +349,8 @@
       "medicoes": {
         "60": 24893,
         "120": 32141,
-        "180": 37299
+        "180": 37299,
+        "240": 42850
       },
       "alertado": false
     },
@@ -480,7 +421,8 @@
       "criado": "2026-08-30T07:10:00+00:00",
       "medicoes": {
         "60": 21662,
-        "120": 27032
+        "120": 27032,
+        "180": 31587
       },
       "alertado": false
     },
@@ -491,7 +433,8 @@
       "criado": "2026-08-30T07:10:00+00:00",
       "medicoes": {
         "60": 14892,
-        "120": 20589
+        "120": 20589,
+        "180": 24425
       },
       "alertado": false
     },
@@ -502,7 +445,8 @@
       "criado": "2026-08-30T07:07:43+00:00",
       "medicoes": {
         "60": 5858,
-        "120": 7588
+        "120": 7588,
+        "180": 8660
       },
       "alertado": false
     },
@@ -513,7 +457,8 @@
       "criado": "2026-08-30T07:01:41+00:00",
       "medicoes": {
         "60": 8195,
-        "120": 11614
+        "120": 11614,
+        "180": 14284
       },
       "alertado": false
     },
@@ -524,7 +469,8 @@
       "criado": "2026-08-30T07:00:01+00:00",
       "medicoes": {
         "60": 21750,
-        "120": 28079
+        "120": 28079,
+        "180": 32593
       },
       "alertado": false
     },
@@ -535,7 +481,8 @@
       "criado": "2026-08-30T06:59:16+00:00",
       "medicoes": {
         "60": 10072,
-        "120": 14372
+        "120": 14372,
+        "180": 17336
       },
       "alertado": false
     },
@@ -546,7 +493,8 @@
       "criado": "2026-08-30T06:53:14+00:00",
       "medicoes": {
         "60": 6897,
-        "120": 8676
+        "120": 8676,
+        "180": 9949
       },
       "alertado": false
     },
@@ -557,7 +505,8 @@
       "criado": "2026-08-30T06:50:00+00:00",
       "medicoes": {
         "60": 32018,
-        "120": 41978
+        "120": 41978,
+        "180": 51485
       },
       "alertado": false
     },
@@ -568,7 +517,8 @@
       "criado": "2026-08-30T06:49:18+00:00",
       "medicoes": {
         "60": 16394,
-        "120": 20812
+        "120": 20812,
+        "180": 23738
       },
       "alertado": false
     },
@@ -579,7 +529,8 @@
       "criado": "2026-08-30T06:41:26+00:00",
       "medicoes": {
         "60": 7162,
-        "120": 8608
+        "120": 8608,
+        "180": 9678
       },
       "alertado": false
     },
@@ -677,7 +628,8 @@
       "url": "https://x.com/MarioNawfal/status/2093974502539739614",
       "criado": "2026-08-30T08:10:00+00:00",
       "medicoes": {
-        "60": 18101
+        "60": 18101,
+        "120": 24347
       },
       "alertado": false
     },
@@ -687,7 +639,8 @@
       "url": "https://x.com/MarioNawfal/status/2093971991111815328",
       "criado": "2026-08-30T08:00:01+00:00",
       "medicoes": {
-        "60": 26070
+        "60": 26070,
+        "120": 37060
       },
       "alertado": false
     },
@@ -697,7 +650,8 @@
       "url": "https://x.com/nexta_tv/status/2093971990331699519",
       "criado": "2026-08-30T08:00:01+00:00",
       "medicoes": {
-        "60": 11765
+        "60": 11765,
+        "120": 15606
       },
       "alertado": false
     },
@@ -707,7 +661,8 @@
       "url": "https://x.com/MarioNawfal/status/2093969469416898614",
       "criado": "2026-08-30T07:50:00+00:00",
       "medicoes": {
-        "60": 25458
+        "60": 25458,
+        "120": 33657
       },
       "alertado": false
     },
@@ -786,7 +741,9 @@
       "texto": "At least 1 person killed, 5 others injured after shooting at event in Aarau, Switzerland.",
       "url": "https://x.com/Osint613/status/2093987795438067733",
       "criado": "2026-08-30T09:02:49+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 24377
+      },
       "alertado": false
     },
     "2093987589585862814": {
@@ -794,7 +751,9 @@
       "texto": "8 people were shot near Washington Park in Chicago, Illinois, Citizen reports.",
       "url": "https://x.com/Osint613/status/2093987589585862814",
       "criado": "2026-08-30T09:02:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 18575
+      },
       "alertado": false
     },
     "2093987203420402013": {
@@ -802,7 +761,9 @@
       "texto": "🇮🇸 Iceland has voted AGAINST reopening negotiations to join the EU, rejecting the government’s push to restart an accession process abandoned more than a decade ago. The government called it a “now or never” moment, but voters chose to keep control over their sovereignty and valuable fishing waters. With Ceuta having just been overrun by tens of thousands of illegals while the EU continues to make...",
       "url": "https://x.com/MarioNawfal/status/2093987203420402013",
       "criado": "2026-08-30T09:00:28+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 29859
+      },
       "alertado": false
     },
     "2093985231560745226": {
@@ -810,7 +771,9 @@
       "texto": "Israeli National Security Minister Itamar Ben-Gvir publishes a video saying: \"The \"whining\" of the terrorists about the conditions in the prisons doesn't work on me.\" Palestinian prisoner describes severe conditions in Israeli detention, including no showers or clean underwear for three days and lack of medical treatment. Ben-Gvir says the days of \"summer camps\" in Israeli prisons are over.",
       "url": "https://x.com/clashreport/status/2093985231560745226",
       "criado": "2026-08-30T08:52:38+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 14552
+      },
       "alertado": false
     },
     "2093984569049461010": {
@@ -818,7 +781,9 @@
       "texto": "✈️ Planes stage a dangerous show over a Cape Town stadium, terrifying spectators Two passenger jets came extremely close to the stadium roof. According to local media, the distance may have been around 12–14 meters. Different camera angles, however, can make the gap look much smaller than it actually was. The spectacular flyover has raised questions about the organizers’ safety planning.",
       "url": "https://x.com/nexta_tv/status/2093984569049461010",
       "criado": "2026-08-30T08:50:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 18159
+      },
       "alertado": false
     },
     "2093984568781279606": {
@@ -826,7 +791,9 @@
       "texto": "🇿🇦 This is a WILD angle showing just how low the Airlink E-Jets were on their flyby over the DHL Stadium in Cape Town ahead of the South Africa vs. New Zealand match That one was definitely WAY too low One slip and this would be making headlines for all the wrong reasons 😬 Writer: Ian https://t.co/L5Vbb8bO56",
       "url": "https://x.com/MarioNawfal/status/2093984568781279606",
       "criado": "2026-08-30T08:50:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 32175
+      },
       "alertado": false
     },
     "2093984175481045276": {
@@ -834,7 +801,9 @@
       "texto": "WATCH: Last night in Zvornik, crowds chanting Ratko Mladić's name escalated to shouting \"Knife, barbed wire, Srebrenica,\" a slogan celebrating the 1995 genocide in which over 8,000 Bosniak men and boys were executed. The marchers, many of them young men born after the war, passed the local mosque carrying Mladić's portrait and Serbian flags. This was the third consecutive night of processions sinc...",
       "url": "https://x.com/clashreport/status/2093984175481045276",
       "criado": "2026-08-30T08:48:26+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 9582
+      },
       "alertado": false
     },
     "2093983181414265005": {
@@ -842,7 +811,9 @@
       "texto": "Türkiye's first HÜRJET aircraft destined for the Air Force completed its maiden flight on Victory Day, marking the transition from prototype testing to production aircraft. HÜRJET is a supersonic advanced jet trainer designed to replace aging T-38s and F-5s, capable of Mach 1.4 with a 45,000 ft ceiling. Spain has ordered 30 units, making it Türkiye's first jet trainer export to a NATO country. Fir...",
       "url": "https://x.com/clashreport/status/2093983181414265005",
       "criado": "2026-08-30T08:44:29+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 17073
+      },
       "alertado": false
     },
     "2093997151697174997": {
@@ -906,6 +877,62 @@
       "texto": "🇮🇷 Iran's reclusive Supreme Leader, Mojtaba Khamenei, has released another written statement, this time to mark 'Unity Week' Ironically, there's not much unity in it for the U.S and Israel, whom he calls enemies of all Muslims: \"The criminal rulers of the United States and the illegitimate Zionist regime are sworn enemies of this unity and friendship. They are not merely enemies of the Islamic Rep...",
       "url": "https://x.com/MarioNawfal/status/2093989730538889486",
       "criado": "2026-08-30T09:10:30+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094004701549253012": {
+      "autor": "MarioNawfal",
+      "texto": "🇳🇵🇨🇳 Heartbreaking footage of an old man doing his best to get away from the flood that left more than 700 people dead in Nepal and Tibet on Wednesday. Writer: Mhedi https://t.co/G4noHEsvP2",
+      "url": "https://x.com/MarioNawfal/status/2094004701549253012",
+      "criado": "2026-08-30T10:10:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094004561681789216": {
+      "autor": "clashreport",
+      "texto": "Ukraine was hit by approximately 1,500 jet-powered Shaheds last month. This month, the number has already exceeded 2,500. The jet-powered Shaheds are being launched at Ukraine practically straight from the factory. Source: Ukrainian MoD advisor and EW expert Serhii \"Flash\" Beskrestnov",
+      "url": "https://x.com/clashreport/status/2094004561681789216",
+      "criado": "2026-08-30T10:09:26+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094004064132469238": {
+      "autor": "clashreport",
+      "texto": "Croatian General Rahim Ademi on Ratko Mladić: He was not a soldier at all. He showed \"courage\" only against innocent, unarmed civilians. Ademi and his units defeated Serbian forces under Mladić's command near Šibenik in September 1991. https://t.co/5Vy4hzLpvy",
+      "url": "https://x.com/clashreport/status/2094004064132469238",
+      "criado": "2026-08-30T10:07:28+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094003443883258348": {
+      "autor": "nexta_tv",
+      "texto": "🇩🇪 A mug reading “Russian Army” was found in the office of one of AfD’s most pro-Russian politicians The politician in question is Hans-Thomas Tillschneider, deputy leader of Alternative for Germany in Saxony-Anhalt. During filming in his office, a journalist spotted a black mug with a red star and the words “Russian Army.” “I don’t associate anything special with it. It’s just a mug that was give...",
+      "url": "https://x.com/nexta_tv/status/2094003443883258348",
+      "criado": "2026-08-30T10:05:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094002187865297324": {
+      "autor": "MarioNawfal",
+      "texto": "Google Maps inside the U.S vs. outside the U.S A rose by any other name... Writer: Ian https://t.co/1b7FWkQnTD",
+      "url": "https://x.com/MarioNawfal/status/2094002187865297324",
+      "criado": "2026-08-30T10:00:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094001105365520468": {
+      "autor": "clashreport",
+      "texto": "German MP Maximilian Krah visited the Turkish Cypriot Football Federation (KTFF) in Northern Cyprus and criticized the international sporting restrictions imposed on Turkish Cypriots. During the visit, Krah met KTFF President Hasan Sertoğlu and wore a Northern Cyprus national team jersey presented to him as a gift.",
+      "url": "https://x.com/clashreport/status/2094001105365520468",
+      "criado": "2026-08-30T09:55:42+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2093999668497895580": {
+      "autor": "MarioNawfal",
+      "texto": "🇷🇺🇺🇦 Russia's getting locked and loaded for another massive attack on Ukraine According to the Russian Ministry of Defense, preparations are underway to launch extensive strikes against Ukraine’s energy infrastructure Days ago, Putin promised significant retaliation for Ukraine's continued attacks on e-commerce warehouses and oil facilities; it looks like the countdown has already begun Source: Wa...",
+      "url": "https://x.com/MarioNawfal/status/2093999668497895580",
+      "criado": "2026-08-30T09:50:00+00:00",
       "medicoes": {},
       "alertado": false
     }
@@ -1125,11 +1152,6 @@
     },
     "MarioNawfal": {
       "60": [
-        21513,
-        62376,
-        22330,
-        88621,
-        21135,
         24755,
         85616,
         22967,
@@ -1164,14 +1186,14 @@
         22365,
         27089,
         33604,
-        26598
+        26598,
+        17633,
+        22471,
+        23314,
+        28158,
+        36266
       ],
       "120": [
-        29001,
-        70581,
-        26705,
-        135934,
-        25623,
         29248,
         135998,
         28190,
@@ -1206,14 +1228,14 @@
         30386,
         34712,
         40574,
-        30004
+        30004,
+        21635,
+        26460,
+        40124,
+        44714,
+        42527
       ],
       "180": [
-        34111,
-        74885,
-        29839,
-        164977,
-        29436,
         31820,
         186258,
         31474,
@@ -1248,14 +1270,14 @@
         36825,
         40871,
         44839,
-        32799
+        32799,
+        28948,
+        29192,
+        51751,
+        55120,
+        46705
       ],
       "240": [
-        38525,
-        80566,
-        37241,
-        183738,
-        39838,
         38041,
         222773,
         41377,
@@ -1290,14 +1312,14 @@
         43185,
         45786,
         47654,
-        40268
+        40268,
+        35078,
+        33185,
+        58854,
+        63775,
+        51853
       ],
       "360": [
-        50817,
-        91117,
-        44725,
-        199374,
-        50650,
         44563,
         228348,
         48333,
@@ -1332,7 +1354,12 @@
         55449,
         56860,
         53215,
-        53471
+        53471,
+        42127,
+        38266,
+        70872,
+        75647,
+        58603
       ]
     },
     "MachadoDarlon": {
@@ -2184,6 +2211,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-08-30T09:40:16+00:00",
+  "ultima_busca": "2026-08-30T10:10:17+00:00",
   "alertas_enviados": 0
 }
