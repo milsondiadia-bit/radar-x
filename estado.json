@@ -1,117 +1,5 @@
 {
   "posts": {
-    "2094027350983733708": {
-      "autor": "MarioNawfal",
-      "texto": "🇨🇳 Holy crap, China's already begun reconstruction work in the area of Tibet affected by massive flooding One look at this footage and you quickly realise why China's leaps and bounds ahead of everyone else in engineering and construction Writer: Ian https://t.co/7VAYZXElQk",
-      "url": "https://x.com/MarioNawfal/status/2094027350983733708",
-      "criado": "2026-08-30T11:40:00+00:00",
-      "medicoes": {
-        "60": 53541,
-        "120": 134319,
-        "180": 277100,
-        "240": 414615,
-        "360": 608933
-      },
-      "alertado": false
-    },
-    "2094025930779832388": {
-      "autor": "NewsLiberdade",
-      "texto": "🚨AGORA - Ministério do Trabalho proíbe catadores de lixo de usar o estribo do caminhão, fazendo com que eles precisem andar todo o percurso “Além de ferrar com a empresa, eles ferram com o trabalhador” https://t.co/kdFG60H1WV",
-      "url": "https://x.com/NewsLiberdade/status/2094025930779832388",
-      "criado": "2026-08-30T11:34:21+00:00",
-      "medicoes": {
-        "60": 21678,
-        "120": 46204,
-        "180": 79605,
-        "240": 105820,
-        "360": 154449
-      },
-      "alertado": false
-    },
-    "2094025309171462595": {
-      "autor": "Osint613",
-      "texto": "The first meeting of the Mecca Defense Agreement will be held in Istanbul on Monday, bringing together Turkey, Saudi Arabia and Pakistan. Attending will be the three countries' foreign ministers, defense ministers and armed forces chiefs of staff, per a Turkish Foreign Ministry source.",
-      "url": "https://x.com/Osint613/status/2094025309171462595",
-      "criado": "2026-08-30T11:31:53+00:00",
-      "medicoes": {
-        "60": 25480,
-        "120": 31889,
-        "180": 35824,
-        "240": 38420,
-        "360": 41691
-      },
-      "alertado": false
-    },
-    "2094024916748112274": {
-      "autor": "Osint613",
-      "texto": "Iranian President Pezeshkian, targeting the conservative state broadcaster that censored him and other deal supporters while pushing a hardline line: \"These days I don't even watch [their] television anymore. They aren't creating unity [in the country].\"",
-      "url": "https://x.com/Osint613/status/2094024916748112274",
-      "criado": "2026-08-30T11:30:19+00:00",
-      "medicoes": {
-        "60": 44386,
-        "120": 77925,
-        "180": 96980,
-        "240": 108549,
-        "360": 123849
-      },
-      "alertado": false
-    },
-    "2094024834246181056": {
-      "autor": "MarioNawfal",
-      "texto": "🇨🇾 More than 250 passengers are awaiting rescue after a ship capsized just 2–3 km off the coast of Cyprus shortly after leaving Girne Port. Coast Guard boats, civilian ships and helicopters are racing to reach them. Writer: Mhedi https://t.co/tWaG202qjL",
-      "url": "https://x.com/MarioNawfal/status/2094024834246181056",
-      "criado": "2026-08-30T11:30:00+00:00",
-      "medicoes": {
-        "60": 36836,
-        "120": 60766,
-        "180": 74286,
-        "240": 87258,
-        "360": 114143
-      },
-      "alertado": false
-    },
-    "2094023728560537604": {
-      "autor": "nexta_tv",
-      "texto": "🚨 BREAKING: Passenger ferry sinking off the coast of Northern Cyprus There are 279 people on board. Turkish media report that some passengers have been injured. People are awaiting rescue on the overturned ferry, which was heading to the Turkish port of Taşucu 🇹🇷 Coast guard boats are attempting to evacuate the passengers.",
-      "url": "https://x.com/nexta_tv/status/2094023728560537604",
-      "criado": "2026-08-30T11:25:36+00:00",
-      "medicoes": {
-        "60": 55217,
-        "120": 93725,
-        "180": 123325,
-        "240": 138158,
-        "360": 154886
-      },
-      "alertado": false
-    },
-    "2094022317890539718": {
-      "autor": "MarioNawfal",
-      "texto": "🇳🇪 Niger says it crushed a mutiny after hundreds of soldiers attacked a key airbase Gunfire and explosions erupted across Niamey as mutinous soldiers reportedly attacked the capital’s main military airbase and fighting broke out near the presidency. This wasn’t some random outpost: the base houses Nigerien aircraft and drones, an Alliance of Sahel States counter-terrorism unit, and Russian and Ita...",
-      "url": "https://x.com/MarioNawfal/status/2094022317890539718",
-      "criado": "2026-08-30T11:20:00+00:00",
-      "medicoes": {
-        "60": 24524,
-        "120": 28476,
-        "180": 33046,
-        "240": 40699,
-        "360": 48546
-      },
-      "alertado": false
-    },
-    "2094022303499575686": {
-      "autor": "NewsLiberdade",
-      "texto": "🚨GRAVE - PIB do agronegócio deve recuar quase 8% em 2026 https://t.co/uOqd9f4HTU",
-      "url": "https://x.com/NewsLiberdade/status/2094022303499575686",
-      "criado": "2026-08-30T11:19:56+00:00",
-      "medicoes": {
-        "60": 5614,
-        "120": 7065,
-        "180": 8164,
-        "240": 9083,
-        "360": 11205
-      },
-      "alertado": false
-    },
     "2094034900563165340": {
       "autor": "MarioNawfal",
       "texto": "I'm amazed this guy kept his cool and didn't get into a fight Some balls, livestreaming from the center of Glasgow Writer: Ian https://t.co/h0mXNBmuyR",
@@ -121,7 +9,8 @@
         "60": 23148,
         "120": 28389,
         "180": 32217,
-        "240": 41642
+        "240": 41642,
+        "360": 53946
       },
       "alertado": false
     },
@@ -134,7 +23,8 @@
         "60": 20991,
         "120": 26893,
         "180": 30271,
-        "240": 32531
+        "240": 32531,
+        "360": 35139
       },
       "alertado": false
     },
@@ -147,7 +37,8 @@
         "60": 30245,
         "120": 111957,
         "180": 189788,
-        "240": 265041
+        "240": 265041,
+        "360": 412170
       },
       "alertado": false
     },
@@ -160,7 +51,8 @@
         "60": 24291,
         "120": 30301,
         "180": 33778,
-        "240": 35942
+        "240": 35942,
+        "360": 38431
       },
       "alertado": false
     },
@@ -173,7 +65,8 @@
         "60": 138481,
         "120": 157375,
         "180": 170933,
-        "240": 183074
+        "240": 183074,
+        "360": 199098
       },
       "alertado": false
     },
@@ -186,7 +79,8 @@
         "60": 27129,
         "120": 33852,
         "180": 38526,
-        "240": 42046
+        "240": 42046,
+        "360": 54097
       },
       "alertado": false
     },
@@ -199,7 +93,8 @@
         "60": 26268,
         "120": 34093,
         "180": 40272,
-        "240": 44216
+        "240": 44216,
+        "360": 49946
       },
       "alertado": false
     },
@@ -212,7 +107,8 @@
         "60": 49761,
         "120": 125690,
         "180": 216605,
-        "240": 272201
+        "240": 272201,
+        "360": 287472
       },
       "alertado": false
     },
@@ -225,7 +121,8 @@
         "60": 70428,
         "120": 106682,
         "180": 126955,
-        "240": 140243
+        "240": 140243,
+        "360": 158959
       },
       "alertado": false
     },
@@ -238,7 +135,8 @@
         "60": 56205,
         "120": 71603,
         "180": 80603,
-        "240": 87162
+        "240": 87162,
+        "360": 95053
       },
       "alertado": false
     },
@@ -251,7 +149,8 @@
         "60": 62707,
         "120": 95699,
         "180": 122658,
-        "240": 146536
+        "240": 146536,
+        "360": 177132
       },
       "alertado": false
     },
@@ -264,7 +163,8 @@
         "60": 27355,
         "120": 35363,
         "180": 39272,
-        "240": 41676
+        "240": 41676,
+        "360": 45050
       },
       "alertado": false
     },
@@ -692,7 +592,8 @@
       "medicoes": {
         "60": 50839,
         "120": 87331,
-        "180": 112533
+        "180": 112533,
+        "240": 132738
       },
       "alertado": false
     },
@@ -704,7 +605,8 @@
       "medicoes": {
         "60": 24039,
         "120": 27590,
-        "180": 30978
+        "180": 30978,
+        "240": 39371
       },
       "alertado": false
     },
@@ -716,7 +618,8 @@
       "medicoes": {
         "60": 14272,
         "120": 23612,
-        "180": 30485
+        "180": 30485,
+        "240": 34745
       },
       "alertado": false
     },
@@ -728,7 +631,8 @@
       "medicoes": {
         "60": 39477,
         "120": 50956,
-        "180": 58185
+        "180": 58185,
+        "240": 64243
       },
       "alertado": false
     },
@@ -756,7 +660,8 @@
       "medicoes": {
         "60": 10519,
         "120": 12509,
-        "180": 13625
+        "180": 13625,
+        "240": 14281
       },
       "alertado": false
     },
@@ -768,7 +673,8 @@
       "medicoes": {
         "60": 21141,
         "120": 27012,
-        "180": 31408
+        "180": 31408,
+        "240": 34651
       },
       "alertado": false
     },
@@ -780,7 +686,8 @@
       "medicoes": {
         "60": 32900,
         "120": 41231,
-        "180": 46115
+        "180": 46115,
+        "240": 49914
       },
       "alertado": false
     },
@@ -792,7 +699,8 @@
       "medicoes": {
         "60": 77823,
         "120": 106442,
-        "180": 122983
+        "180": 122983,
+        "240": 134313
       },
       "alertado": false
     },
@@ -979,7 +887,8 @@
       "criado": "2026-08-30T15:10:00+00:00",
       "medicoes": {
         "60": 24064,
-        "120": 28195
+        "120": 28195,
+        "180": 31275
       },
       "alertado": false
     },
@@ -990,7 +899,8 @@
       "criado": "2026-08-30T15:06:58+00:00",
       "medicoes": {
         "60": 25293,
-        "120": 31557
+        "120": 31557,
+        "180": 35041
       },
       "alertado": false
     },
@@ -1001,7 +911,8 @@
       "criado": "2026-08-30T15:05:56+00:00",
       "medicoes": {
         "60": 23335,
-        "120": 28110
+        "120": 28110,
+        "180": 32133
       },
       "alertado": false
     },
@@ -1012,7 +923,8 @@
       "criado": "2026-08-30T15:05:32+00:00",
       "medicoes": {
         "60": 36649,
-        "120": 48950
+        "120": 48950,
+        "180": 55034
       },
       "alertado": false
     },
@@ -1023,7 +935,8 @@
       "criado": "2026-08-30T15:05:13+00:00",
       "medicoes": {
         "60": 16324,
-        "120": 22548
+        "120": 22548,
+        "180": 26845
       },
       "alertado": false
     },
@@ -1034,7 +947,8 @@
       "criado": "2026-08-30T15:01:16+00:00",
       "medicoes": {
         "60": 11242,
-        "120": 14144
+        "120": 14144,
+        "180": 16425
       },
       "alertado": false
     },
@@ -1045,7 +959,8 @@
       "criado": "2026-08-30T15:00:02+00:00",
       "medicoes": {
         "60": 24429,
-        "120": 36986
+        "120": 36986,
+        "180": 44494
       },
       "alertado": false
     },
@@ -1056,7 +971,8 @@
       "criado": "2026-08-30T14:53:52+00:00",
       "medicoes": {
         "60": 29971,
-        "120": 36733
+        "120": 36733,
+        "180": 40713
       },
       "alertado": false
     },
@@ -1067,7 +983,8 @@
       "criado": "2026-08-30T14:53:49+00:00",
       "medicoes": {
         "60": 14574,
-        "120": 17660
+        "120": 17660,
+        "180": 19826
       },
       "alertado": false
     },
@@ -1078,7 +995,8 @@
       "criado": "2026-08-30T14:50:48+00:00",
       "medicoes": {
         "60": 69679,
-        "120": 160329
+        "120": 160329,
+        "180": 215169
       },
       "alertado": false
     },
@@ -1089,7 +1007,8 @@
       "criado": "2026-08-30T14:50:27+00:00",
       "medicoes": {
         "60": 12356,
-        "120": 14456
+        "120": 14456,
+        "180": 15755
       },
       "alertado": false
     },
@@ -1100,7 +1019,8 @@
       "criado": "2026-08-30T14:50:00+00:00",
       "medicoes": {
         "60": 24565,
-        "120": 27832
+        "120": 27832,
+        "180": 31785
       },
       "alertado": false
     },
@@ -1111,7 +1031,8 @@
       "criado": "2026-08-30T14:50:00+00:00",
       "medicoes": {
         "60": 19573,
-        "120": 26960
+        "120": 26960,
+        "180": 32032
       },
       "alertado": false
     },
@@ -1231,7 +1152,8 @@
       "url": "https://x.com/MarioNawfal/status/2094095299186745406",
       "criado": "2026-08-30T16:10:00+00:00",
       "medicoes": {
-        "60": 22368
+        "60": 22368,
+        "120": 26133
       },
       "alertado": false
     },
@@ -1241,7 +1163,8 @@
       "url": "https://x.com/Osint613/status/2094094557914828856",
       "criado": "2026-08-30T16:07:03+00:00",
       "medicoes": {
-        "60": 23933
+        "60": 23933,
+        "120": 29024
       },
       "alertado": false
     },
@@ -1251,7 +1174,8 @@
       "url": "https://x.com/NewsLiberdade/status/2094094116640473418",
       "criado": "2026-08-30T16:05:18+00:00",
       "medicoes": {
-        "60": 10647
+        "60": 10647,
+        "120": 16485
       },
       "alertado": false
     },
@@ -1261,7 +1185,8 @@
       "url": "https://x.com/clashreport/status/2094093909135634815",
       "criado": "2026-08-30T16:04:28+00:00",
       "medicoes": {
-        "60": 16791
+        "60": 16791,
+        "120": 25642
       },
       "alertado": false
     },
@@ -1271,7 +1196,8 @@
       "url": "https://x.com/clashreport/status/2094093816097587214",
       "criado": "2026-08-30T16:04:06+00:00",
       "medicoes": {
-        "60": 11427
+        "60": 11427,
+        "120": 15054
       },
       "alertado": false
     },
@@ -1281,7 +1207,8 @@
       "url": "https://x.com/MachadoDarlon/status/2094093009499402383",
       "criado": "2026-08-30T16:00:54+00:00",
       "medicoes": {
-        "60": 436
+        "60": 436,
+        "120": 664
       },
       "alertado": false
     },
@@ -1291,7 +1218,8 @@
       "url": "https://x.com/nexta_tv/status/2094092817060471162",
       "criado": "2026-08-30T16:00:08+00:00",
       "medicoes": {
-        "60": 25056
+        "60": 25056,
+        "120": 42401
       },
       "alertado": false
     },
@@ -1301,7 +1229,8 @@
       "url": "https://x.com/MarioNawfal/status/2094092787293593900",
       "criado": "2026-08-30T16:00:01+00:00",
       "medicoes": {
-        "60": 33922
+        "60": 33922,
+        "120": 50268
       },
       "alertado": false
     },
@@ -1311,7 +1240,8 @@
       "url": "https://x.com/Osint613/status/2094091899212615945",
       "criado": "2026-08-30T15:56:29+00:00",
       "medicoes": {
-        "60": 36261
+        "60": 36261,
+        "120": 51183
       },
       "alertado": false
     },
@@ -1321,7 +1251,8 @@
       "url": "https://x.com/clashreport/status/2094090863311827416",
       "criado": "2026-08-30T15:52:22+00:00",
       "medicoes": {
-        "60": 20894
+        "60": 20894,
+        "120": 28895
       },
       "alertado": false
     },
@@ -1331,7 +1262,8 @@
       "url": "https://x.com/MarioNawfal/status/2094090265405554884",
       "criado": "2026-08-30T15:50:00+00:00",
       "medicoes": {
-        "60": 27811
+        "60": 27811,
+        "120": 33561
       },
       "alertado": false
     },
@@ -1341,7 +1273,8 @@
       "url": "https://x.com/Osint613/status/2094090163064320305",
       "criado": "2026-08-30T15:49:35+00:00",
       "medicoes": {
-        "60": 30852
+        "60": 30852,
+        "120": 39522
       },
       "alertado": false
     },
@@ -1351,7 +1284,8 @@
       "url": "https://x.com/MarioNawfal/status/2094088516099535138",
       "criado": "2026-08-30T15:43:03+00:00",
       "medicoes": {
-        "60": 31758
+        "60": 31758,
+        "120": 36279
       },
       "alertado": false
     },
@@ -1510,7 +1444,9 @@
       "texto": "🇺🇸 A CNN panel RIPPED Target over a kids' “Glows Under Blacklight Circus Clown” costume… The costume was pulled after backlash for looking like 19th-century minstrel caricatures. Target apologized, yanked it, and is reviewing its approval process. Panelists blamed the 2025 DEI rollback after Trump’s return, saying fewer diverse voices let it get through, but even the white staff should have spotte...",
       "url": "https://x.com/MarioNawfal/status/2094110398400061535",
       "criado": "2026-08-30T17:10:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 24102
+      },
       "alertado": false
     },
     "2094110054962069700": {
@@ -1518,7 +1454,9 @@
       "texto": "NEW: Syrian President Ahmad al-Sharaa made a surprise, unannounced visit to Daraa today, including Daraa al-Balad, the birthplace of the 2011 uprising. Local reports say he visited his grandfather and aunt’s home in the Hayy al-Badu neighborhood. Videos show al-Sharaa walking among residents through heavily war-damaged streets with little visible security.",
       "url": "https://x.com/clashreport/status/2094110054962069700",
       "criado": "2026-08-30T17:08:38+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 20948
+      },
       "alertado": false
     },
     "2094109808945156105": {
@@ -1526,7 +1464,9 @@
       "texto": "Marjorie Taylor Greene: Even if I stay in, even if Thomas Massie had won, no one’s fixing anything. It’s all a lie. And so to say that we are launching a, \"Here, we have an organized third party\" no, we need a lot of people on board with us. That takes a massive movement of Americans, and a lot of that is Americans need to get up off their ass and also take their blinders off, and it’s not going t...",
       "url": "https://x.com/clashreport/status/2094109808945156105",
       "criado": "2026-08-30T17:07:39+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 10802
+      },
       "alertado": false
     },
     "2094108624599585095": {
@@ -1534,7 +1474,9 @@
       "texto": "Marjorie Taylor Greene on Trump: When Trump called me a traitor, I got very direct death threats on my own son, to which when I told the president and texted him about it explicitly and sent him pictures of these death threats that were coming in on my own son, he told me, \"It’s your fault. You deserve it.\" And I have those text messages saved. I will save them forever. I have shown them to many p...",
       "url": "https://x.com/clashreport/status/2094108624599585095",
       "criado": "2026-08-30T17:02:57+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 18372
+      },
       "alertado": false
     },
     "2094108068313186806": {
@@ -1542,7 +1484,9 @@
       "texto": "Marjorie Taylor Greene: I don’t think women are respected in the Republican Party. It’s a boys’ club. It literally is. And that comes from the top down, and it’s really a shame. And then you have the president demeaning women constantly. He’s constantly attacking women. And it’s something that I think women are so tired of.",
       "url": "https://x.com/clashreport/status/2094108068313186806",
       "criado": "2026-08-30T17:00:44+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 10587
+      },
       "alertado": false
     },
     "2094107884808540444": {
@@ -1550,7 +1494,9 @@
       "texto": "🇺🇲🇨🇦 Messi wasn’t messin’ around when the Inter Miami CF forward dropped 4 goals and an assist on CF Montreal yesterday. It was a definitive win for the U.S. over Canada. I think America just found its next envoy. Writer: Marie https://t.co/RP69lpS6hY",
       "url": "https://x.com/MarioNawfal/status/2094107884808540444",
       "criado": "2026-08-30T17:00:01+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 28228
+      },
       "alertado": false
     },
     "2094107599658496372": {
@@ -1558,7 +1504,9 @@
       "texto": "Kremlin: A Putin-Trump-Zelensky summit may only be held to formalize agreements that have already been reached.",
       "url": "https://x.com/Osint613/status/2094107599658496372",
       "criado": "2026-08-30T16:58:53+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 28130
+      },
       "alertado": false
     },
     "2094107580989661344": {
@@ -1566,7 +1514,9 @@
       "texto": "Marjorie Taylor Greene on Trump: Trump absolutely should apologize to me. He should apologize to many people. He should apologize to the woman in the press that he called Piggy. He should apologize to countless people. He should apologize to America for betraying his campaign promises. He should apologize to the parents of the children that he dropped bombs on in the school in Iran. There’s a lot...",
       "url": "https://x.com/clashreport/status/2094107580989661344",
       "criado": "2026-08-30T16:58:48+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 17119
+      },
       "alertado": false
     },
     "2094107105028358301": {
@@ -1574,7 +1524,9 @@
       "texto": "Turkish and Syrian forces have built a pontoon bridge across the Euphrates near Al-Mayadeen, east of Deir ez-Zor, linking both banks of the river. https://t.co/mGPCnYB531",
       "url": "https://x.com/Osint613/status/2094107105028358301",
       "criado": "2026-08-30T16:56:55+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 28962
+      },
       "alertado": false
     },
     "2094106623052791834": {
@@ -1582,7 +1534,9 @@
       "texto": "💊 Russians’ idol Shaman showed up to a rehearsal in Kazan without... underwear Did he decide to demonstrate firsthand just how “free” life in Russia really is?",
       "url": "https://x.com/nexta_tv/status/2094106623052791834",
       "criado": "2026-08-30T16:55:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 21272
+      },
       "alertado": false
     },
     "2094106116514894318": {
@@ -1590,7 +1544,9 @@
       "texto": "Senator Ted Cruz on Iran: It’s not our business to determine who the government of Iran is, but it is our business to say, the government of Iran should not be a radical theocrat who hates America and is trying to kill Americans. Trump is acting as a strong commander in chief to keep the American people safe.",
       "url": "https://x.com/clashreport/status/2094106116514894318",
       "criado": "2026-08-30T16:52:59+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 12787
+      },
       "alertado": false
     },
     "2094105564422733923": {
@@ -1598,7 +1554,9 @@
       "texto": "Senator Ted Cruz on Iran: What I’ve been urging is for Trump and the Trump administration to arm the protesters, so the people of Iran, arm the Kurds and let the protesters remove this regime from power. Not American boots on the ground, but the Iranian people. https://t.co/1vKq7vQ2lD",
       "url": "https://x.com/clashreport/status/2094105564422733923",
       "criado": "2026-08-30T16:50:47+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 13712
+      },
       "alertado": false
     },
     "2094105364967153986": {
@@ -1606,7 +1564,9 @@
       "texto": "🇺🇲 A cyclospora outbreak this summer left many Americans praying for relief on the porcelain throne... But more unfortunate souls are probably headed to the toilet now that the Trump admin is SHUTTERING crucial research projects aimed at eliminating the parasite. The CDC says that over 17,000 people have been sickened by cyclospora over the summer. Research of the outbreak, while unable to stop th...",
       "url": "https://x.com/MarioNawfal/status/2094105364967153986",
       "criado": "2026-08-30T16:50:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 24124
+      },
       "alertado": false
     },
     "2094104197834637564": {
@@ -1614,7 +1574,9 @@
       "texto": "A tanker was struck by an unknown projectile in the Strait of Hormuz, about 12NM north of Khasab, Oman, the UKMTO reports. No casualties or environmental impact. The vessel was on the U.S.-established route through Omani waters. https://t.co/ehl1L3lGuj",
       "url": "https://x.com/Osint613/status/2094104197834637564",
       "criado": "2026-08-30T16:45:21+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 28312
+      },
       "alertado": false
     },
     "2094103896943628491": {
@@ -1622,7 +1584,9 @@
       "texto": "Israeli Minister of Energy Eli Cohen on Iran: If Iran makes the mistake of trying to revive its nuclear program or ballistic missile program, even if there is an agreement with the United States, we will be there to attack.",
       "url": "https://x.com/Osint613/status/2094103896943628491",
       "criado": "2026-08-30T16:44:10+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 28489
+      },
       "alertado": false
     },
     "2094117948071833864": {
@@ -1704,13 +1668,147 @@
       "criado": "2026-08-30T17:16:35+00:00",
       "medicoes": {},
       "alertado": false
+    },
+    "2094125497554817177": {
+      "autor": "MarioNawfal",
+      "texto": "🇷🇺🇺🇦 90% of Ukraine's modern storage facilities have been destroyed, per Ukraine's Agricultural Minister. Taras Vysotskyi made the statement a few days ago, during a press briefing at Interfax-Ukraine. As Kyiv has intensified strikes deep inside Russia, on logistics facilities like Wildberries warehouses, so too have Russian strikes targeted Ukraine's logistics. He said it could ultimately impact...",
+      "url": "https://x.com/MarioNawfal/status/2094125497554817177",
+      "criado": "2026-08-30T18:10:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094124799333113893": {
+      "autor": "MachadoDarlon",
+      "texto": "🛵🤝 🚛👊 😁 Uma cena inusitada na estrada deu o que falar na internet ao mostrar uma verdadeira aula de parceria entre o volante e o guidão. No registro, um motociclista carregado de caixas virou o guia oficial de um caminhão, ditando o ritmo da rodovia com muito bom humor. ‍ O que mais chamou atenção foi a descontração do caminhoneiro, que fez questão de entrar na brincadeira e respeitar o comando do...",
+      "url": "https://x.com/MachadoDarlon/status/2094124799333113893",
+      "criado": "2026-08-30T18:07:13+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094124239859409218": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸 MTG on chances of a third party influencing mid-terms: “Part of my resignation, leaving, was to help people wake up and see that, look, no one is in there fighting for you. Even if I stay in, even if Thomas Massie had won, no one’s fixing anything. It’s all a lie.” “So, to say that we are launching a- here, we have an organized third party. No, we need a lot of people on board with us. That tak...",
+      "url": "https://x.com/MarioNawfal/status/2094124239859409218",
+      "criado": "2026-08-30T18:05:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094124043108601943": {
+      "autor": "clashreport",
+      "texto": "Germany’s Chancellor Merz on his low approval ratings: I have to make decisions that we in Germany really should have made years ago — if not decades ago. Just look at our social security systems. The pension system, for example, is no longer sustainable in its current form given demographic trends. And someone who asks a country to accept change is naturally not popular at the beginning. Of cours...",
+      "url": "https://x.com/clashreport/status/2094124043108601943",
+      "criado": "2026-08-30T18:04:13+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094123093727805707": {
+      "autor": "clashreport",
+      "texto": "Germany’s Chancellor Merz on migration: In 2018, there were still a number of things we could have corrected — for example, in relation to the migration crisis. We have now initiated a change of course in migration policy. The government at the time could already have done that. It should never have allowed things to get this far in the first place. There were decisions made in 2017 that, from tod...",
+      "url": "https://x.com/clashreport/status/2094123093727805707",
+      "criado": "2026-08-30T18:00:27+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094122986865635585": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸 Marjorie Taylor Greene thinks the GOP has a SERIOUS problem with women... \"I don’t think women are respected in the Republican Party. It’s a boys’ club. It literally is. And that comes from the top down, and it’s really a shame. And then you have the president demeaning women constantly. He’s constantly attacking women. And it’s something that I think women are so tired of.\" To be fair, he's co...",
+      "url": "https://x.com/MarioNawfal/status/2094122986865635585",
+      "criado": "2026-08-30T18:00:01+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094122984026030443": {
+      "autor": "nexta_tv",
+      "texto": "💊 Back to the past! Stalin returns to a medical university facade in Volgograd after 65 years The bas-relief was removed during de-Stalinization back in 1961 — and now it is hanging once again alongside Marx, Engels and Lenin. What will they bring back next from the era of terror and the cult of personality — and where?",
+      "url": "https://x.com/nexta_tv/status/2094122984026030443",
+      "criado": "2026-08-30T18:00:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094122939054764251": {
+      "autor": "MachadoDarlon",
+      "texto": "🫡 QUE MOMENTO! 🇧🇷🏛️ @gusttavo_lima #Barretão #Brasil https://t.co/u2ueTzgAga",
+      "url": "https://x.com/MachadoDarlon/status/2094122939054764251",
+      "criado": "2026-08-30T17:59:50+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094122402590458336": {
+      "autor": "MachadoDarlon",
+      "texto": "💪🇧🇷🔥 Vamos resgatar o nosso Brasil! Precisamos de @FlavioBolsonaro 22 🔰 na presidência! Que Deus abençoe a nossa Nação. 🙏🏻🇧🇷 ➡️ @Mi_Bolsonaro 222 🔰 ➡️ @Biakicis 223 🔰 https://t.co/F1xvsyVCtN",
+      "url": "https://x.com/MachadoDarlon/status/2094122402590458336",
+      "criado": "2026-08-30T17:57:42+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094122080094634488": {
+      "autor": "clashreport",
+      "texto": "Germany’s Chancellor Merz on military spending: For now, we jointly agreed last year at the NATO summit in The Hague on 3.5 percent, plus another 1.5 percent for infrastructure, which also benefits civilian use. And as soon as the threat situation changes again, we can reduce that spending again. But at the moment, I do not see that happening.",
+      "url": "https://x.com/clashreport/status/2094122080094634488",
+      "criado": "2026-08-30T17:56:25+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094121677806338153": {
+      "autor": "clashreport",
+      "texto": "Germany’s Chancellor Merz on military spending: We have to correct the deficiencies of the last 15 years. The Bundeswehr is not where it needs to be. Germany has to be capable of defending itself. The necessity is obvious. And what good is the nicest parental allowance if we lose our freedom and peace in Europe is endangered?",
+      "url": "https://x.com/clashreport/status/2094121677806338153",
+      "criado": "2026-08-30T17:54:49+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094121249790136730": {
+      "autor": "MachadoDarlon",
+      "texto": "👀😈🔥 Segundo o colunista Lauro Jardim, do jornal O Globo, o presidente Luiz Inácio Lula da Silva teria afirmado a um aliado que a campanha fará todos os esforços para vencer a eleição no primeiro turno: “Vamos fazer o diabo para ganhar no primeiro turno”. De acordo com a publicação, Lula teria demonstrado preocupação com a possibilidade de uma segunda etapa da disputa, avaliando que um segundo turn...",
+      "url": "https://x.com/MachadoDarlon/status/2094121249790136730",
+      "criado": "2026-08-30T17:53:07+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094121182798741720": {
+      "autor": "NewsLiberdade",
+      "texto": "🚨AGORA - Flávio Bolsonaro lança jogo de campanha eleitoral https://t.co/AeGcW2Xn8D",
+      "url": "https://x.com/NewsLiberdade/status/2094121182798741720",
+      "criado": "2026-08-30T17:52:51+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094121150729142488": {
+      "autor": "clashreport",
+      "texto": "Reporter: Germany will definitely not become a country with cheap energy again in the foreseeable future. Merz: None of us knows that. https://t.co/PkHHlxtp2O",
+      "url": "https://x.com/clashreport/status/2094121150729142488",
+      "criado": "2026-08-30T17:52:43+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094120805307191414": {
+      "autor": "clashreport",
+      "texto": "Germany’s Chancellor Merz on Iran: You cannot subsidize away an oil price of 100 dollars in Germany. Politics has to be honest enough to say that to the population. We cannot do that. But what we can do, for example, is make every effort — together with our European partners — to help bring the war in Iran to an end and to ensure that the Strait of Hormuz is reopened. That is what we are working t...",
+      "url": "https://x.com/clashreport/status/2094120805307191414",
+      "criado": "2026-08-30T17:51:21+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094120464381530471": {
+      "autor": "MarioNawfal",
+      "texto": "🇮🇱🇮🇷🇺🇸 Israel’s Energy Minister Eli Cohen: “If Iran makes the mistake of trying to revive its nuclear program or ballistic missile program, even if there is an agreement with the United States, we will be there to attack.” Somebody already used that one. Maybe try some new talking points… that one is very played out! Writer: Jamie https://t.co/5M8LYBoOYs",
+      "url": "https://x.com/MarioNawfal/status/2094120464381530471",
+      "criado": "2026-08-30T17:50:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094120119970521547": {
+      "autor": "clashreport",
+      "texto": "Germany’s Chancellor Merz admits: I am not responsible for shutting down Germany’s nuclear power plants. I would not have done that. In Germany, we shut them down before we had built the alternatives, and now we have to make up for that with great difficulty. I also did not legally guarantee feed-in tariffs for 15 years. I cannot reverse that. Those decisions have been made. So now we are trying,...",
+      "url": "https://x.com/clashreport/status/2094120119970521547",
+      "criado": "2026-08-30T17:48:38+00:00",
+      "medicoes": {},
+      "alertado": false
     }
   },
   "baseline": {
     "NewsLiberdade": {
       "60": [
-        26257,
-        106883,
         37790,
         54860,
         12016,
@@ -1748,11 +1846,11 @@
         33379,
         7154,
         4897,
-        5554
+        5554,
+        21678,
+        5614
       ],
       "120": [
-        28674,
-        122419,
         42743,
         68602,
         13622,
@@ -1790,11 +1888,11 @@
         52567,
         9109,
         7139,
-        7213
+        7213,
+        46204,
+        7065
       ],
       "180": [
-        29663,
-        128755,
         45583,
         77219,
         14307,
@@ -1832,11 +1930,11 @@
         61956,
         10349,
         8918,
-        9049
+        9049,
+        79605,
+        8164
       ],
       "240": [
-        30097,
-        132964,
         46851,
         82142,
         14680,
@@ -1874,11 +1972,11 @@
         67420,
         10960,
         10845,
-        11032
+        11032,
+        105820,
+        9083
       ],
       "360": [
-        30553,
-        136630,
         48249,
         86001,
         15059,
@@ -1916,14 +2014,13 @@
         73012,
         11548,
         13605,
-        15079
+        15079,
+        154449,
+        11205
       ]
     },
     "MarioNawfal": {
       "60": [
-        18041,
-        20630,
-        19532,
         38186,
         23131,
         21521,
@@ -1960,12 +2057,12 @@
         29760,
         29025,
         26786,
-        40723
+        40723,
+        53541,
+        36836,
+        24524
       ],
       "120": [
-        21940,
-        24124,
-        23745,
         58092,
         28122,
         25151,
@@ -2002,12 +2099,12 @@
         46096,
         46087,
         34956,
-        62768
+        62768,
+        134319,
+        60766,
+        28476
       ],
       "180": [
-        36201,
-        25557,
-        31962,
         29838,
         73131,
         31633,
@@ -2044,12 +2141,12 @@
         62464,
         57797,
         40873,
-        79986
+        79986,
+        277100,
+        74286,
+        33046
       ],
       "240": [
-        40287,
-        41710,
-        27763,
         38229,
         33098,
         84550,
@@ -2086,12 +2183,12 @@
         76116,
         66013,
         44782,
-        97666
+        97666,
+        414615,
+        87258,
+        40699
       ],
       "360": [
-        55607,
-        60370,
-        31478,
         50255,
         39240,
         104091,
@@ -2128,7 +2225,10 @@
         93039,
         78229,
         56931,
-        141575
+        141575,
+        608933,
+        114143,
+        48546
       ]
     },
     "MachadoDarlon": {
@@ -2557,8 +2657,6 @@
     },
     "Osint613": {
       "60": [
-        27057,
-        27171,
         19082,
         36906,
         26290,
@@ -2596,11 +2694,11 @@
         26889,
         47460,
         24377,
-        18575
+        18575,
+        25480,
+        44386
       ],
       "120": [
-        32338,
-        37280,
         23494,
         52041,
         32846,
@@ -2638,11 +2736,11 @@
         33583,
         74889,
         33845,
-        25382
+        25382,
+        31889,
+        77925
       ],
       "180": [
-        36076,
-        43735,
         26377,
         63471,
         36669,
@@ -2680,11 +2778,11 @@
         38466,
         96071,
         41607,
-        31323
+        31323,
+        35824,
+        96980
       ],
       "240": [
-        38963,
-        48447,
         28429,
         70929,
         38839,
@@ -2722,11 +2820,11 @@
         42213,
         124039,
         47127,
-        36374
+        36374,
+        38420,
+        108549
       ],
       "360": [
-        42531,
-        54271,
         31207,
         82544,
         43514,
@@ -2764,12 +2862,13 @@
         47433,
         162226,
         54215,
-        44620
+        44620,
+        41691,
+        123849
       ]
     },
     "nexta_tv": {
       "60": [
-        10800,
         10898,
         15440,
         13283,
@@ -2808,10 +2907,10 @@
         16280,
         17684,
         14016,
-        29281
+        29281,
+        55217
       ],
       "120": [
-        13547,
         14989,
         23542,
         17526,
@@ -2850,10 +2949,10 @@
         20759,
         26878,
         20424,
-        40994
+        40994,
+        93725
       ],
       "180": [
-        23022,
         15188,
         17662,
         28884,
@@ -2892,10 +2991,10 @@
         23948,
         35969,
         25678,
-        50402
+        50402,
+        123325
       ],
       "240": [
-        24890,
         16462,
         20033,
         33125,
@@ -2934,10 +3033,10 @@
         26287,
         50921,
         29513,
-        58140
+        58140,
+        138158
       ],
       "360": [
-        27424,
         18442,
         22549,
         39666,
@@ -2976,10 +3075,11 @@
         30012,
         96306,
         34885,
-        70457
+        70457,
+        154886
       ]
     }
   },
-  "ultima_busca": "2026-08-30T17:40:18+00:00",
+  "ultima_busca": "2026-08-30T18:10:20+00:00",
   "alertas_enviados": 0
 }
