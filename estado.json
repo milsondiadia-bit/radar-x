@@ -1,75 +1,5 @@
 {
   "posts": {
-    "2094598617051095411": {
-      "autor": "MarioNawfal",
-      "texto": "🇳🇵 They thought it was a cat... Rescuers in Nepal were picking through the mud in Rasuwa when they heard a faint sound under the rubble. They started digging, and 2 hours later, they pulled out a 6-year-old girl. Manisha Magar had been buried for two days after the floods tore through her village. She could barely move. They gave her water, then rice water, and waited through bad weather until a h...",
-      "url": "https://x.com/MarioNawfal/status/2094598617051095411",
-      "criado": "2026-09-01T01:30:00+00:00",
-      "medicoes": {
-        "60": 24345,
-        "120": 32122,
-        "180": 38438,
-        "240": 44892,
-        "360": 55907
-      },
-      "alertado": false
-    },
-    "2094596415053807867": {
-      "autor": "MarioNawfal",
-      "texto": "🚨🇺🇸 They waited 30 YEARS for this: A Las Vegas jury finally found Duane “Keffe D” Davis guilty of murder with a deadly weapon for his role in the 1996 drive-by that killed Tupac Shakur. Just last week, a judge FINALLY put the 9/11 defendants on the calendar for 2028. The cases people argue about for a lifetime have a habit of moving suspiciously slow, and sometimes, the messiest cases don’t get re...",
-      "url": "https://x.com/MarioNawfal/status/2094596415053807867",
-      "criado": "2026-09-01T01:21:15+00:00",
-      "medicoes": {
-        "60": 26442,
-        "120": 31504,
-        "180": 34856,
-        "240": 41075,
-        "360": 52902
-      },
-      "alertado": false
-    },
-    "2094595954754122011": {
-      "autor": "NewsLiberdade",
-      "texto": "🚨URGENTE - Sâmia Bomfim NÃO declarou o Twitter e nem o TikTok para o TSE https://t.co/UuvVjYr6eH",
-      "url": "https://x.com/NewsLiberdade/status/2094595954754122011",
-      "criado": "2026-09-01T01:19:25+00:00",
-      "medicoes": {
-        "60": 36371,
-        "120": 47687,
-        "180": 52302,
-        "240": 55180,
-        "360": 58841
-      },
-      "alertado": false
-    },
-    "2094594840285851945": {
-      "autor": "MarioNawfal",
-      "texto": "🇬🇧 August 31, 1997, Paris. Princess Diana was only 36 when she left this world. Her son William was 15, and Harry was 12... Twenty-nine years later and people still miss her to this day. That is how long a life can last after it ends. Writer: Val https://t.co/uDsA3D0EfW https://t.co/YgDijgUayS",
-      "url": "https://x.com/MarioNawfal/status/2094594840285851945",
-      "criado": "2026-09-01T01:15:00+00:00",
-      "medicoes": {
-        "60": 22615,
-        "120": 25968,
-        "180": 34244,
-        "240": 41347,
-        "360": 49499
-      },
-      "alertado": false
-    },
-    "2094594785503834305": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 The commodity boom everyone blames on the Iran war started four months before the first bomb fell Michael Oliver joined with a chart that breaks the story most people are telling. The broad commodity index bottomed last October and has climbed roughly 30 percent since, and oil was a latecomer to that party. Sugar, cotton, wheat, corn, soybeans and base metals were all rising for a full quarter...",
-      "url": "https://x.com/MarioNawfal/status/2094594785503834305",
-      "criado": "2026-09-01T01:14:47+00:00",
-      "medicoes": {
-        "60": 66886,
-        "120": 103163,
-        "180": 140281,
-        "240": 176517,
-        "360": 199349
-      },
-      "alertado": false
-    },
     "2094607937503105214": {
       "autor": "MarioNawfal",
       "texto": "🇵🇰 Pakistan demonstrated the future of autonomous driving by remotely crashing into the police Writer: Sol https://t.co/201abnt8TB",
@@ -79,7 +9,8 @@
         "60": 31853,
         "120": 71731,
         "180": 116319,
-        "240": 131556
+        "240": 131556,
+        "360": 184364
       },
       "alertado": false
     },
@@ -92,7 +23,8 @@
         "60": 22553,
         "120": 26695,
         "180": 31480,
-        "240": 33097
+        "240": 33097,
+        "360": 37558
       },
       "alertado": false
     },
@@ -105,7 +37,8 @@
         "60": 23896,
         "120": 29145,
         "180": 31887,
-        "240": 32361
+        "240": 32361,
+        "360": 34067
       },
       "alertado": false
     },
@@ -118,7 +51,8 @@
         "60": 40961,
         "120": 55808,
         "180": 67257,
-        "240": 69677
+        "240": 69677,
+        "360": 74987
       },
       "alertado": false
     },
@@ -131,7 +65,8 @@
         "60": 42224,
         "120": 60998,
         "180": 73846,
-        "240": 76193
+        "240": 76193,
+        "360": 82893
       },
       "alertado": false
     },
@@ -403,7 +338,8 @@
       "medicoes": {
         "60": 49448,
         "120": 59274,
-        "180": 73818
+        "180": 73818,
+        "240": 85784
       },
       "alertado": false
     },
@@ -415,7 +351,8 @@
       "medicoes": {
         "60": 20050,
         "120": 21708,
-        "180": 27621
+        "180": 27621,
+        "240": 31445
       },
       "alertado": false
     },
@@ -427,7 +364,8 @@
       "medicoes": {
         "60": 36174,
         "120": 39567,
-        "180": 44298
+        "180": 44298,
+        "240": 49803
       },
       "alertado": false
     },
@@ -439,7 +377,8 @@
       "medicoes": {
         "60": 24497,
         "120": 26333,
-        "180": 29548
+        "180": 29548,
+        "240": 32653
       },
       "alertado": false
     },
@@ -451,7 +390,8 @@
       "medicoes": {
         "60": 22314,
         "120": 24510,
-        "180": 30123
+        "180": 30123,
+        "240": 35312
       },
       "alertado": false
     },
@@ -463,7 +403,8 @@
       "medicoes": {
         "60": 22204,
         "120": 24900,
-        "180": 33853
+        "180": 33853,
+        "240": 40404
       },
       "alertado": false
     },
@@ -475,7 +416,8 @@
       "medicoes": {
         "60": 37960,
         "120": 40797,
-        "180": 44566
+        "180": 44566,
+        "240": 47011
       },
       "alertado": false
     },
@@ -487,7 +429,8 @@
       "medicoes": {
         "60": 20540,
         "120": 22289,
-        "180": 25540
+        "180": 25540,
+        "240": 27948
       },
       "alertado": false
     },
@@ -499,7 +442,8 @@
       "medicoes": {
         "60": 28171,
         "120": 31102,
-        "180": 36084
+        "180": 36084,
+        "240": 42655
       },
       "alertado": false
     },
@@ -592,7 +536,8 @@
       "criado": "2026-09-01T05:06:44+00:00",
       "medicoes": {
         "60": 20754,
-        "120": 24598
+        "120": 24598,
+        "180": 28092
       },
       "alertado": false
     },
@@ -603,7 +548,8 @@
       "criado": "2026-09-01T05:00:00+00:00",
       "medicoes": {
         "60": 20743,
-        "120": 24600
+        "120": 24600,
+        "180": 28316
       },
       "alertado": false
     },
@@ -614,7 +560,8 @@
       "criado": "2026-09-01T04:55:30+00:00",
       "medicoes": {
         "60": 21136,
-        "120": 24726
+        "120": 24726,
+        "180": 30153
       },
       "alertado": false
     },
@@ -625,7 +572,8 @@
       "criado": "2026-09-01T04:45:00+00:00",
       "medicoes": {
         "60": 23778,
-        "120": 28785
+        "120": 28785,
+        "180": 33840
       },
       "alertado": false
     },
@@ -635,7 +583,8 @@
       "url": "https://x.com/MarioNawfal/status/2094669079185346925",
       "criado": "2026-09-01T06:10:00+00:00",
       "medicoes": {
-        "60": 22997
+        "60": 22997,
+        "120": 29944
       },
       "alertado": false
     },
@@ -645,7 +594,8 @@
       "url": "https://x.com/MarioNawfal/status/2094667789411684420",
       "criado": "2026-09-01T06:04:52+00:00",
       "medicoes": {
-        "60": 19648
+        "60": 19648,
+        "120": 23359
       },
       "alertado": false
     },
@@ -655,7 +605,8 @@
       "url": "https://x.com/MarioNawfal/status/2094666564922696101",
       "criado": "2026-09-01T06:00:00+00:00",
       "medicoes": {
-        "60": 21471
+        "60": 21471,
+        "120": 25113
       },
       "alertado": false
     },
@@ -665,7 +616,8 @@
       "url": "https://x.com/clashreport/status/2094663053505659072",
       "criado": "2026-09-01T05:46:03+00:00",
       "medicoes": {
-        "60": 10190
+        "60": 10190,
+        "120": 13060
       },
       "alertado": false
     },
@@ -675,7 +627,8 @@
       "url": "https://x.com/MarioNawfal/status/2094662787708731396",
       "criado": "2026-09-01T05:45:00+00:00",
       "medicoes": {
-        "60": 22971
+        "60": 22971,
+        "120": 27734
       },
       "alertado": false
     },
@@ -685,7 +638,8 @@
       "url": "https://x.com/clashreport/status/2094662389090148733",
       "criado": "2026-09-01T05:43:25+00:00",
       "medicoes": {
-        "60": 14694
+        "60": 14694,
+        "120": 28403
       },
       "alertado": false
     },
@@ -695,7 +649,8 @@
       "url": "https://x.com/clashreport/status/2094661701102633123",
       "criado": "2026-09-01T05:40:41+00:00",
       "medicoes": {
-        "60": 7569
+        "60": 7569,
+        "120": 9204
       },
       "alertado": false
     },
@@ -814,7 +769,9 @@
       "texto": "No wonder people didn't buy these Zero chance I'd be climbing inside a steel coffin while a tornado approaches 😬 Writer: Ian https://t.co/nNcNiOpbt3",
       "url": "https://x.com/MarioNawfal/status/2094684178709401956",
       "criado": "2026-09-01T07:10:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 24741
+      },
       "alertado": false
     },
     "2094681668535656802": {
@@ -822,7 +779,9 @@
       "texto": "You really notice how loud trucking is after 38 years of it wrecking your hearing. Then this driver got into a Tesla Semi. The turning radius sold him, the quiet surprised him, and after nearly four decades in diesel cabs, he says he’d choose it over a Peterbilt. No engine roaring beside your head all day. Sometimes the upgrade is what you stop hearing. @Tesla / Writer: Annette, Grok Imagine Desig...",
       "url": "https://x.com/MarioNawfal/status/2094681668535656802",
       "criado": "2026-09-01T07:00:01+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 22371
+      },
       "alertado": false
     },
     "2094681541578224038": {
@@ -830,7 +789,9 @@
       "texto": "📸 First-ever mid-air refueling of an Egyptian Rafale jet by a Chinese YY-20 tanker at \"Eagles of Civilization 2026\" exercise in Egypt. First time a Chinese tanker has refueled a Western-designed fighter. China deployed J-16s, KJ-500 AEW&C, and electronic warfare aircraft ~6,000 km to Egypt. Only the second foreign fighter type known to have refueled from a Chinese tanker.",
       "url": "https://x.com/clashreport/status/2094681541578224038",
       "criado": "2026-09-01T06:59:31+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 8926
+      },
       "alertado": false
     },
     "2094680403873526131": {
@@ -838,7 +799,9 @@
       "texto": "⚡️US delivers ultimatum to Russia: no economic relief until the war is over This happened during a meeting between Bessent and Siluanov on the sidelines of the G20 summit. When Siluanov tried to shift the discussion toward mutual interests, Bessent interrupted him and said that as long as the war continues, nothing else can be discussed. The main topic of the talks was Trump’s peace plan.",
       "url": "https://x.com/nexta_tv/status/2094680403873526131",
       "criado": "2026-09-01T06:55:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 25485
+      },
       "alertado": false
     },
     "2094679693479854468": {
@@ -846,7 +809,9 @@
       "texto": "The U.S. State Department has approved a possible $800 million arms sale to Iraq, including Bell 412EPX and Bell 407M helicopters, GAU-19 machine guns, rocket systems, sensors, and training. -Reuters.",
       "url": "https://x.com/Osint613/status/2094679693479854468",
       "criado": "2026-09-01T06:52:10+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 19118
+      },
       "alertado": false
     },
     "2094679608113176823": {
@@ -854,7 +819,9 @@
       "texto": "Syria: Heavy fighting erupted on Sweida's western outskirts last night. Israel-backed Druze National Guard forces attacked government/Internal Security positions along multiple axes. This is the largest such attack in months. Casualties: 4-10+ security forces wounded, a 14-year-old hit by shrapnel, two civilians killed by a shell. Israel was simultaneously running separate incursions in nearby Dar...",
       "url": "https://x.com/clashreport/status/2094679608113176823",
       "criado": "2026-09-01T06:51:50+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 18092
+      },
       "alertado": false
     },
     "2094679145662099748": {
@@ -862,7 +829,9 @@
       "texto": "🇺🇸 Los Angeles authorities are cracking down on street takeovers after several escalated into stores being ransacked over the weekend. The LA County Sheriff’s Department says it is now deploying new tools to identify and track down people involved, after takeovers also hit Gardena and Westmont. Just a suggestion, but maybe instead of 'new tools' you deploy cops to shut them down. Source: Fox / Wri...",
       "url": "https://x.com/MarioNawfal/status/2094679145662099748",
       "criado": "2026-09-01T06:50:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 19518
+      },
       "alertado": false
     },
     "2094678231806878063": {
@@ -870,7 +839,9 @@
       "texto": "A drone briefly crossed into southeastern Estonia during Ukrainian strikes on western Russia, prompting air-threat alerts. Turkish Air Force fighter jets stationed at Ämari under NATO’s air-defense mission were scrambled. No drones or missiles fell in Estonia, and the alert was lifted by 5:30 a.m.",
       "url": "https://x.com/clashreport/status/2094678231806878063",
       "criado": "2026-09-01T06:46:22+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 18018
+      },
       "alertado": false
     },
     "2094691728494371208": {
@@ -968,12 +939,83 @@
       "criado": "2026-09-01T07:11:35+00:00",
       "medicoes": {},
       "alertado": false
+    },
+    "2094699278748795041": {
+      "autor": "MarioNawfal",
+      "texto": "🇷🇺🇺🇦 Russia struck Kyiv Boryspil International Airport, Ukraine’s main international airport, allegedly with cluster munitions. If true, unexploded submunitions will have turned parts of the site into a minefield in what seems like an escalatory move from Russia as both sides trade strikes on one another's logistics infrastructure. Writer: Mhedi https://t.co/coJrosPYP9",
+      "url": "https://x.com/MarioNawfal/status/2094699278748795041",
+      "criado": "2026-09-01T08:10:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094696762850062782": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸 An Instagram bodybuilder got mad because other gym users got in his shot after he put his camera in the most inconvenient spot. And there was me thinking gyms were for working out rather than chasing clout Writers: Mhedi, Ian https://t.co/KdouNrsOpb",
+      "url": "https://x.com/MarioNawfal/status/2094696762850062782",
+      "criado": "2026-09-01T08:00:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094696761743069396": {
+      "autor": "nexta_tv",
+      "texto": "Russian man carries out mass shooting in Montenegro 30-year-old Perm native Mikhail Shabunin came to a shooting club near Danilovgrad as an ordinary visitor. He was given a firearm and suddenly opened fire. Three instructors were killed at the scene. They were 20, 24 and 67 years old. The man then stole one of the victims’ cars and fled. Police launched a large-scale operation involving special fo...",
+      "url": "https://x.com/nexta_tv/status/2094696761743069396",
+      "criado": "2026-09-01T08:00:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094696506716541250": {
+      "autor": "clashreport",
+      "texto": "Greek Minister: Israel Alliance Guards Greece Against Türkiye Greek Health Minister Adonis Georgiadis said in Greek parliament that Greece's alliance with Israel guards against the \"Turkish threat,\" defending a new €3-3.5 billion Israeli-built air defense system signed the same day in Tel Aviv. https://t.co/nDxrMogFop",
+      "url": "https://x.com/clashreport/status/2094696506716541250",
+      "criado": "2026-09-01T07:58:59+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094696139664527672": {
+      "autor": "Osint613",
+      "texto": "IDF striking western Gaza City. At least 12 intense explosions reported in the last few minutes. https://t.co/asTnSOdesg",
+      "url": "https://x.com/Osint613/status/2094696139664527672",
+      "criado": "2026-09-01T07:57:31+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094695503753535833": {
+      "autor": "MarioNawfal",
+      "texto": "🇷🇺 Putin wants a new SCO bank that Washington can't touch. The SCO is the China and Russia-led group spanning India, Pakistan, Iran and much of Central Asia, pitched as a counterweight to the West. Speaking to SCO leaders, he called for a Development Bank that would operate outside systems he says are increasingly being used as political weapons, an obvious reference to sanctions hitting members l...",
+      "url": "https://x.com/MarioNawfal/status/2094695503753535833",
+      "criado": "2026-09-01T07:55:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094694433220358439": {
+      "autor": "clashreport",
+      "texto": "Poland is boosting domestic and regional defense production as it builds Europe’s largest army, aiming to reduce reliance on distant suppliers. Defense procurement from Polish companies has nearly quadrupled since 2022, while Warsaw is expanding production of drones, ammunition and other equipment with Central European partners. Source: Reuters",
+      "url": "https://x.com/clashreport/status/2094694433220358439",
+      "criado": "2026-09-01T07:50:45+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094694245193896002": {
+      "autor": "MarioNawfal",
+      "texto": "🇱🇧🇮🇱 Bint Jbeil in southern Lebanon, where entire rows of homes have been reduced to rubble by the Israeli army. This is what's left of the town. Streets of flattened buildings and civilian infrastructure wiped out. And somehow the world is ok with ethnic cleansing as long as it's Israel doing it? Writers: Julie, Ian https://t.co/hMUeVzgoyn",
+      "url": "https://x.com/MarioNawfal/status/2094694245193896002",
+      "criado": "2026-09-01T07:50:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094692986806477309": {
+      "autor": "MarioNawfal",
+      "texto": "🇷🇺 Putin is touting the SCO as the biggest regional bloc on the planet. The Shanghai Cooperation Organisation is a China and Russia-led political, economic and security group that has grown to include India, Pakistan, Iran and much of Central Asia, widely seen as a counterweight to Western alliances. \"SCO started as an organization of just a few countries, but now it is the largest regional group...",
+      "url": "https://x.com/MarioNawfal/status/2094692986806477309",
+      "criado": "2026-09-01T07:45:00+00:00",
+      "medicoes": {},
+      "alertado": false
     }
   },
   "baseline": {
     "NewsLiberdade": {
       "60": [
-        27434,
         40328,
         6201,
         39509,
@@ -1012,10 +1054,10 @@
         25323,
         17091,
         42198,
-        20597
+        20597,
+        36371
       ],
       "120": [
-        47566,
         53711,
         7421,
         101450,
@@ -1054,10 +1096,10 @@
         36204,
         21466,
         62843,
-        24503
+        24503,
+        47687
       ],
       "180": [
-        57600,
         59889,
         7946,
         159792,
@@ -1096,10 +1138,10 @@
         41802,
         23722,
         73133,
-        26034
+        26034,
+        52302
       ],
       "240": [
-        24219,
         63134,
         63330,
         8312,
@@ -1138,10 +1180,10 @@
         44532,
         24921,
         79162,
-        26926
+        26926,
+        55180
       ],
       "360": [
-        25722,
         70883,
         70802,
         9286,
@@ -1180,15 +1222,12 @@
         46660,
         26052,
         81876,
-        27366
+        27366,
+        58841
       ]
     },
     "MarioNawfal": {
       "60": [
-        28291,
-        45035,
-        70982,
-        34861,
         22113,
         22093,
         25697,
@@ -1224,13 +1263,13 @@
         20820,
         25636,
         33081,
-        21202
+        21202,
+        24345,
+        26442,
+        22615,
+        66886
       ],
       "120": [
-        33895,
-        52524,
-        108032,
-        40376,
         34299,
         25528,
         28759,
@@ -1266,13 +1305,13 @@
         24929,
         34610,
         47692,
-        24513
+        24513,
+        32122,
+        31504,
+        25968,
+        103163
       ],
       "180": [
-        38238,
-        56997,
-        137207,
-        43853,
         44080,
         33838,
         32304,
@@ -1308,13 +1347,13 @@
         29115,
         40790,
         58628,
-        33369
+        33369,
+        38438,
+        34856,
+        34244,
+        140281
       ],
       "240": [
-        42104,
-        60046,
-        157308,
-        46215,
         51718,
         39335,
         36890,
@@ -1350,13 +1389,13 @@
         37276,
         46290,
         69592,
-        43225
+        43225,
+        44892,
+        41075,
+        41347,
+        176517
       ],
       "360": [
-        55983,
-        63211,
-        172644,
-        49191,
         56897,
         43327,
         39381,
@@ -1392,7 +1431,11 @@
         41218,
         54635,
         75853,
-        47072
+        47072,
+        55907,
+        52902,
+        49499,
+        199349
       ]
     },
     "MachadoDarlon": {
@@ -2244,6 +2287,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-09-01T07:40:18+00:00",
+  "ultima_busca": "2026-09-01T08:10:18+00:00",
   "alertas_enviados": 0
 }
