@@ -1,75 +1,5 @@
 {
   "posts": {
-    "2094607937503105214": {
-      "autor": "MarioNawfal",
-      "texto": "🇵🇰 Pakistan demonstrated the future of autonomous driving by remotely crashing into the police Writer: Sol https://t.co/201abnt8TB",
-      "url": "https://x.com/MarioNawfal/status/2094607937503105214",
-      "criado": "2026-09-01T02:07:02+00:00",
-      "medicoes": {
-        "60": 31853,
-        "120": 71731,
-        "180": 116319,
-        "240": 131556,
-        "360": 184364
-      },
-      "alertado": false
-    },
-    "2094606166986719319": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 Congress already passed a law to release the Epstein files, but Thomas Massie says the Justice Department still hasn’t fully complied. Starting today, members of Congress can sign a discharge petition to force a vote on Epstein Files Transparency Act II. What it actually does: State attorneys general would get the files they need to prosecute under state law, and survivors would have a clearer...",
-      "url": "https://x.com/MarioNawfal/status/2094606166986719319",
-      "criado": "2026-09-01T02:00:00+00:00",
-      "medicoes": {
-        "60": 22553,
-        "120": 26695,
-        "180": 31480,
-        "240": 33097,
-        "360": 37558
-      },
-      "alertado": false
-    },
-    "2094605093865677008": {
-      "autor": "NewsLiberdade",
-      "texto": "🚨URGENTE - Instagram de Renan Santos acaba de ser derrubado após decisão de Toffoli https://t.co/RjNYKGYUYh",
-      "url": "https://x.com/NewsLiberdade/status/2094605093865677008",
-      "criado": "2026-09-01T01:55:44+00:00",
-      "medicoes": {
-        "60": 23896,
-        "120": 29145,
-        "180": 31887,
-        "240": 32361,
-        "360": 34067
-      },
-      "alertado": false
-    },
-    "2094602390301217077": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 Every time Americans drive across town, something is logging it. This app maps more than 137,000 license plate readers across the U.S., and not solely where they are, but the direction they’re pointing too. Flock cameras, Motorola, and the rest of them: Dropped onto one map like a net over the country. People can zoom into your own street and see which ones have been watching the cars on it......",
-      "url": "https://x.com/MarioNawfal/status/2094602390301217077",
-      "criado": "2026-09-01T01:45:00+00:00",
-      "medicoes": {
-        "60": 40961,
-        "120": 55808,
-        "180": 67257,
-        "240": 69677,
-        "360": 74987
-      },
-      "alertado": false
-    },
-    "2094602336186364231": {
-      "autor": "NewsLiberdade",
-      "texto": "🚨URGENTE - Canal de WhatsApp de Lula não foi informado ao TSE https://t.co/OmlDUMq0G0",
-      "url": "https://x.com/NewsLiberdade/status/2094602336186364231",
-      "criado": "2026-09-01T01:44:47+00:00",
-      "medicoes": {
-        "60": 42224,
-        "120": 60998,
-        "180": 73846,
-        "240": 76193,
-        "360": 82893
-      },
-      "alertado": false
-    },
     "2094615973785477233": {
       "autor": "MarioNawfal",
       "texto": "🇮🇷🇪🇺 Iran's Foreign Ministry accuses the EU of enabling Washington's economic war: \"The European Union cannot endorse Washington's economic terrorism against Iran while simultaneously claiming to be working toward de-escalation and the establishment of regional stability.\" In 2018, Brussels answered American secondary sanctions with a blocking statute and a special payment channel built to keep Ir...",
@@ -79,7 +9,8 @@
         "60": 20669,
         "120": 23965,
         "180": 26626,
-        "240": 29196
+        "240": 29196,
+        "360": 31715
       },
       "alertado": false
     },
@@ -92,7 +23,8 @@
         "60": 10292,
         "120": 11966,
         "180": 12678,
-        "240": 13075
+        "240": 13075,
+        "360": 13740
       },
       "alertado": false
     },
@@ -105,7 +37,8 @@
         "60": 22007,
         "120": 26880,
         "180": 30915,
-        "240": 36980
+        "240": 36980,
+        "360": 43542
       },
       "alertado": false
     },
@@ -118,7 +51,8 @@
         "60": 22483,
         "120": 26214,
         "180": 31370,
-        "240": 40453
+        "240": 40453,
+        "360": 50207
       },
       "alertado": false
     },
@@ -131,7 +65,8 @@
         "60": 23006,
         "120": 26539,
         "180": 32526,
-        "240": 39880
+        "240": 39880,
+        "360": 49536
       },
       "alertado": false
     },
@@ -144,7 +79,8 @@
         "60": 40071,
         "120": 48667,
         "180": 54800,
-        "240": 59716
+        "240": 59716,
+        "360": 65326
       },
       "alertado": false
     },
@@ -157,7 +93,8 @@
         "60": 20401,
         "120": 23575,
         "180": 24977,
-        "240": 25794
+        "240": 25794,
+        "360": 27210
       },
       "alertado": false
     },
@@ -455,7 +392,8 @@
       "medicoes": {
         "60": 21909,
         "120": 28322,
-        "180": 32796
+        "180": 32796,
+        "240": 44129
       },
       "alertado": false
     },
@@ -467,7 +405,8 @@
       "medicoes": {
         "60": 26311,
         "120": 34609,
-        "180": 40989
+        "180": 40989,
+        "240": 45160
       },
       "alertado": false
     },
@@ -479,7 +418,8 @@
       "medicoes": {
         "60": 21412,
         "120": 25285,
-        "180": 33090
+        "180": 33090,
+        "240": 37761
       },
       "alertado": false
     },
@@ -491,7 +431,8 @@
       "medicoes": {
         "60": 19599,
         "120": 23338,
-        "180": 27719
+        "180": 27719,
+        "240": 30443
       },
       "alertado": false
     },
@@ -503,7 +444,8 @@
       "medicoes": {
         "60": 23265,
         "120": 27249,
-        "180": 30861
+        "180": 30861,
+        "240": 34373
       },
       "alertado": false
     },
@@ -514,7 +456,8 @@
       "criado": "2026-09-01T05:30:00+00:00",
       "medicoes": {
         "60": 20227,
-        "120": 24310
+        "120": 24310,
+        "180": 28946
       },
       "alertado": false
     },
@@ -525,7 +468,8 @@
       "criado": "2026-09-01T05:15:00+00:00",
       "medicoes": {
         "60": 26458,
-        "120": 33986
+        "120": 33986,
+        "180": 39360
       },
       "alertado": false
     },
@@ -660,7 +604,8 @@
       "url": "https://x.com/clashreport/status/2094676671777382496",
       "criado": "2026-09-01T06:40:10+00:00",
       "medicoes": {
-        "60": 6785
+        "60": 6785,
+        "120": 9188
       },
       "alertado": false
     },
@@ -670,7 +615,8 @@
       "url": "https://x.com/MarioNawfal/status/2094676629369102705",
       "criado": "2026-09-01T06:40:00+00:00",
       "medicoes": {
-        "60": 22661
+        "60": 22661,
+        "120": 29810
       },
       "alertado": false
     },
@@ -680,7 +626,8 @@
       "url": "https://x.com/Osint613/status/2094675600933843100",
       "criado": "2026-09-01T06:35:55+00:00",
       "medicoes": {
-        "60": 21949
+        "60": 21949,
+        "120": 28858
       },
       "alertado": false
     },
@@ -690,7 +637,8 @@
       "url": "https://x.com/nexta_tv/status/2094675371052388649",
       "criado": "2026-09-01T06:35:00+00:00",
       "medicoes": {
-        "60": 23391
+        "60": 23391,
+        "120": 34785
       },
       "alertado": false
     },
@@ -700,7 +648,8 @@
       "url": "https://x.com/MarioNawfal/status/2094674112199418232",
       "criado": "2026-09-01T06:30:00+00:00",
       "medicoes": {
-        "60": 48244
+        "60": 48244,
+        "120": 89435
       },
       "alertado": false
     },
@@ -710,7 +659,8 @@
       "url": "https://x.com/clashreport/status/2094673754223714548",
       "criado": "2026-09-01T06:28:34+00:00",
       "medicoes": {
-        "60": 8037
+        "60": 8037,
+        "120": 13499
       },
       "alertado": false
     },
@@ -720,7 +670,8 @@
       "url": "https://x.com/Osint613/status/2094672279468744985",
       "criado": "2026-09-01T06:22:43+00:00",
       "medicoes": {
-        "60": 18563
+        "60": 18563,
+        "120": 22208
       },
       "alertado": false
     },
@@ -730,7 +681,8 @@
       "url": "https://x.com/Osint613/status/2094672035431461013",
       "criado": "2026-09-01T06:21:45+00:00",
       "medicoes": {
-        "60": 22067
+        "60": 22067,
+        "120": 27013
       },
       "alertado": false
     },
@@ -740,7 +692,8 @@
       "url": "https://x.com/MarioNawfal/status/2094671595843506341",
       "criado": "2026-09-01T06:20:00+00:00",
       "medicoes": {
-        "60": 23793
+        "60": 23793,
+        "120": 28481
       },
       "alertado": false
     },
@@ -750,7 +703,8 @@
       "url": "https://x.com/nexta_tv/status/2094671416700367220",
       "criado": "2026-09-01T06:19:17+00:00",
       "medicoes": {
-        "60": 40762
+        "60": 40762,
+        "120": 42995
       },
       "alertado": false
     },
@@ -760,7 +714,8 @@
       "url": "https://x.com/Osint613/status/2094669291698168012",
       "criado": "2026-09-01T06:10:50+00:00",
       "medicoes": {
-        "60": 25783
+        "60": 25783,
+        "120": 30162
       },
       "alertado": false
     },
@@ -849,7 +804,9 @@
       "texto": "🇷🇺🇺🇦 This is the moment Russian missiles and drones hit a power plant in Odesa, causing widespread power outages It comes days after Putin warned he was going to launch retaliatory attacks on Ukraine for Kyiv targeting Russian infrastructure Writer: Ian https://t.co/Yxggdwxz6j",
       "url": "https://x.com/MarioNawfal/status/2094691728494371208",
       "criado": "2026-09-01T07:40:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 17736
+      },
       "alertado": false
     },
     "2094691616963313789": {
@@ -857,7 +814,9 @@
       "texto": "Mashhad city, northeastern Iran The economic situation is getting dire. The fuel shortages are deepening. The regime fears its people will rise up again. https://t.co/bYqEatwCIy",
       "url": "https://x.com/Osint613/status/2094691616963313789",
       "criado": "2026-09-01T07:39:33+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 18949
+      },
       "alertado": false
     },
     "2094691571669123310": {
@@ -865,7 +824,9 @@
       "texto": "Trump Rules Out Nuclear Strike On Iran, Calling Question In Oval Office \"Stupid\" U.S. President Donald Trump has responded to the question of whether he ruled out using nuclear weapons on Iran with a firm rejection, insisting conventional military operations have already dismantled Tehran's defenses. https://t.co/zEbBT9qzqm",
       "url": "https://x.com/clashreport/status/2094691571669123310",
       "criado": "2026-09-01T07:39:22+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 6829
+      },
       "alertado": false
     },
     "2094691142998594036": {
@@ -873,7 +834,9 @@
       "texto": "“If you want the whole world to speak Russian, learn how to use a Kalashnikov” Today, Russian schools invite “veterans” to speak to students at school assemblies. And it seems to be having an effect, because the level of aggression in Russian schools is rising exponentially. In 2025 alone, Russia’s Investigative Committee counted six attacks on schools and 18 more cases where such attacks were bei...",
       "url": "https://x.com/nexta_tv/status/2094691142998594036",
       "criado": "2026-09-01T07:37:40+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 14630
+      },
       "alertado": false
     },
     "2094690607490900232": {
@@ -881,7 +844,9 @@
       "texto": "🇷🇺 On the 87th anniversary of the start of World War II, Putin says the goal now is to keep new conflicts from being sparked. \"We need to make sure there are no global provocations that would instigate new conflicts. Our work will help us achieve that.\" How he kept a straight face is beyond me Writer: Julie https://t.co/qbJLN5VqLJ",
       "url": "https://x.com/MarioNawfal/status/2094690607490900232",
       "criado": "2026-09-01T07:35:32+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 22065
+      },
       "alertado": false
     },
     "2094689214004932844": {
@@ -889,7 +854,9 @@
       "texto": "🇺🇸🇻🇪 America’s emergency oil reserve just hit its lowest level since 1982. The Strategic Petroleum Reserve fell another 3.1 million barrels last week, according to Energy Department data released today. It’s been drained under multiple administrations, most recently in March after the U.S. struck Iran and Persian Gulf supplies were disrupted. Trump says Venezuela will help refill it: \"One of the t...",
       "url": "https://x.com/MarioNawfal/status/2094689214004932844",
       "criado": "2026-09-01T07:30:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 19133
+      },
       "alertado": false
     },
     "2094687907097293172": {
@@ -897,7 +864,9 @@
       "texto": "Following the announcement of the Syrian Democratic Forces' dissolution, Syrian government forces have begun entering the city of Hasakah. https://t.co/pTX16KVPZU",
       "url": "https://x.com/Osint613/status/2094687907097293172",
       "criado": "2026-09-01T07:24:49+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 21752
+      },
       "alertado": false
     },
     "2094687758547669084": {
@@ -905,7 +874,9 @@
       "texto": "Footage shows the NYPD tasing a woman armed with a knife yesterday. NYPD officers repeatedly tased a woman armed with 2 knives after police say she randomly stabbed 2 people, killing a 32 year old woman and seriously wounding a 68 year old man. The Tasers failed to stop her. She then advanced toward officers with the knives before police opened fire, killing her. https://t.co/rYHMo5zVOA",
       "url": "https://x.com/Osint613/status/2094687758547669084",
       "criado": "2026-09-01T07:24:13+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 39667
+      },
       "alertado": false
     },
     "2094686695748956458": {
@@ -913,7 +884,9 @@
       "texto": "🇺🇸 Scientists say a 66,000-mile “space elevator” connecting Earth directly to space may have just moved closer to reality. The idea is to stretch an ultra-strong cable from Earth’s equator far beyond geostationary orbit, allowing electrically powered vehicles to climb into space without rockets. The breakthrough could be polycrystalline graphene: researchers have already produced sheets up to 1,00...",
       "url": "https://x.com/MarioNawfal/status/2094686695748956458",
       "criado": "2026-09-01T07:20:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 19645
+      },
       "alertado": false
     },
     "2094685437176807563": {
@@ -921,7 +894,9 @@
       "texto": "Russian strikes have destroyed 12 million books and textbooks in Ukraine A missile hit a printing facility near Kyiv where 1.3 million school textbooks were being prepared for the new school year. That is around 10% of the entire print run. According to the BBC, recent strikes on printing houses and publishing companies have destroyed around 12 million books and affected more than 35 publishers. R...",
       "url": "https://x.com/nexta_tv/status/2094685437176807563",
       "criado": "2026-09-01T07:15:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 11583
+      },
       "alertado": false
     },
     "2094684883360641331": {
@@ -929,7 +904,9 @@
       "texto": "Syria: Government forces and allied tribal militias shelled western neighborhoods of Suwayda with mortars and 23mm machine guns on August 31. The strike breaches the ceasefire. The escalation followed an internal armed dispute inside Suwayda city on August 29 between National Guard units and rival local factions. Suwayda, Syria's Druze heartland, remains under partial control of local National Gua...",
       "url": "https://x.com/Osint613/status/2094684883360641331",
       "criado": "2026-09-01T07:12:48+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 21932
+      },
       "alertado": false
     },
     "2094684578019459370": {
@@ -937,7 +914,9 @@
       "texto": "Hegseth posted a photo of Canadian Army Cadets (a youth program, ages 12-18) captioned \"🇨🇦 (this is real)\", implying it showed Canada's actual military. Treasury's Bessent also joked about \"two submarines from the Edmonton Mall.\" Canada has 70,000 regular troops, leads a NATO brigade in Latvia, and lost 158 soldiers in Afghanistan.",
       "url": "https://x.com/clashreport/status/2094684578019459370",
       "criado": "2026-09-01T07:11:35+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 18008
+      },
       "alertado": false
     },
     "2094699278748795041": {
@@ -1011,13 +990,99 @@
       "criado": "2026-09-01T07:45:00+00:00",
       "medicoes": {},
       "alertado": false
+    },
+    "2094706828185637151": {
+      "autor": "nexta_tv",
+      "texto": "Former Russian finance minister: “A wartime economy will destroy the country” The Russian economy is already operating under enormous pressure from military spending. Turning it into a full-scale wartime economy, according to former Finance Minister Mikhail Zadornov, is an extremely dangerous idea. A full-scale wartime economy requires new institutions, rules, legislation and mechanisms of coercio...",
+      "url": "https://x.com/nexta_tv/status/2094706828185637151",
+      "criado": "2026-09-01T08:40:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094706828097749407": {
+      "autor": "MarioNawfal",
+      "texto": "🇸🇾🇮🇱 Heavy fighting broke out on the western edge of Syria's Sweida province overnight, the largest attack there in months. Israel-backed Druze National Guard forces hit Syrian government and Internal Security positions along multiple fronts. Reports put security casualties at 4 to 10+ wounded, a 14-year-old struck by shrapnel, and 2 civilians killed by a shell. Israel was running its own separate...",
+      "url": "https://x.com/MarioNawfal/status/2094706828097749407",
+      "criado": "2026-09-01T08:40:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094706538501837192": {
+      "autor": "Osint613",
+      "texto": "Gaza Reports: Near the American hospital in Gaza City, an anti-Hamas militia attempted to kidnap a senior Hamas commander during several Israeli airstrikes, according to sources close to Hamas. https://t.co/Gi8K7wQx1i",
+      "url": "https://x.com/Osint613/status/2094706538501837192",
+      "criado": "2026-09-01T08:38:51+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094706520592122286": {
+      "autor": "clashreport",
+      "texto": "Netanyahu: They Should Have Woken Me on October 7 Prime Minister Netanyahu said that had security chiefs woken him before October 7 attack, \"it would not have happened,\" blaming former IDF, Shin Bet and intelligence leaders for the delayed intervention. https://t.co/A4CbeeDJeN",
+      "url": "https://x.com/clashreport/status/2094706520592122286",
+      "criado": "2026-09-01T08:38:46+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094705569861157211": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸 Trump is floating the idea of putting National Guardsmen on the ground in Chicago again. Hard to make the case that everything’s under control when 41 people get shot in a single weekend. Writer: Mhedi https://t.co/8Htjzxri7A",
+      "url": "https://x.com/MarioNawfal/status/2094705569861157211",
+      "criado": "2026-09-01T08:35:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094705070994595939": {
+      "autor": "Osint613",
+      "texto": "Palestinian media: A \"special Israeli unit\" infiltrated western Gaza City this morning. After it was discovered, the IDF carried out shelling and airstrikes to secure it, killing at least one and wounding others. The IDF declines to comment. Palestinian media has at times labeled Israeli-backed anti-Hamas militias as \"Israeli forces.\" @manniefabian",
+      "url": "https://x.com/Osint613/status/2094705070994595939",
+      "criado": "2026-09-01T08:33:01+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094704315663323357": {
+      "autor": "MarioNawfal",
+      "texto": "Neuralink wants to take someone from zero vision to eventually seeing things humans normally can’t. The first step is a vision chip that writes directly to the visual cortex, potentially giving sight to someone who was born completely blind. Then things get very sci-fi very quickly. Infrared. Ultraviolet. Radar. Ultra-HD vision. Start with sight. End somewhere around superhero mode. @neuralink / W...",
+      "url": "https://x.com/MarioNawfal/status/2094704315663323357",
+      "criado": "2026-09-01T08:30:01+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094703053291266062": {
+      "autor": "MarioNawfal",
+      "texto": "🇮🇱🇵🇸 Israel has launched fresh attacks across the Gaza Strip. Israeli drones dropped a large number of munitions on the al-Kateeba area west of Gaza City, followed by machine-gun fire and clashes. A quadcopter drone has been circling overhead, and local reports say many families are trapped inside their homes and in displacement tents nearby. Staff at al-Shifa Hospital say casualties are already a...",
+      "url": "https://x.com/MarioNawfal/status/2094703053291266062",
+      "criado": "2026-09-01T08:25:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094701909957398552": {
+      "autor": "Osint613",
+      "texto": "Israeli special forces are exchanging fire with gunmen in Gaza City, with fighter jets providing air support. The IDF has not addressed the strikes in western Gaza City. @ItayBlumental https://t.co/QXdSb0gSzq",
+      "url": "https://x.com/Osint613/status/2094701909957398552",
+      "criado": "2026-09-01T08:20:27+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094701795062710700": {
+      "autor": "MarioNawfal",
+      "texto": "Global borrowing costs just hit their highest level since 2008, pushed higher by rising oil prices. Bond yields are climbing around the world. Japan’s 10-year yield hit 3% for the first time since 1996, while global government bond yields reached levels last seen in mid-2008. Markets moved after Fed Chair Kevin Warsh said Friday he’s determined to bring inflation under control, raising expectation...",
+      "url": "https://x.com/MarioNawfal/status/2094701795062710700",
+      "criado": "2026-09-01T08:20:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094701795025011004": {
+      "autor": "nexta_tv",
+      "texto": "Putin responded to the Indian leader’s call to end the war — Russians struck a residential building in Kyiv A total of 12 civilians were killed in the overnight Russian attack.",
+      "url": "https://x.com/nexta_tv/status/2094701795025011004",
+      "criado": "2026-09-01T08:20:00+00:00",
+      "medicoes": {},
+      "alertado": false
     }
   },
   "baseline": {
     "NewsLiberdade": {
       "60": [
-        40328,
-        6201,
         39509,
         11550,
         10565,
@@ -1055,11 +1120,11 @@
         17091,
         42198,
         20597,
-        36371
+        36371,
+        23896,
+        42224
       ],
       "120": [
-        53711,
-        7421,
         101450,
         15123,
         14166,
@@ -1097,11 +1162,11 @@
         21466,
         62843,
         24503,
-        47687
+        47687,
+        29145,
+        60998
       ],
       "180": [
-        59889,
-        7946,
         159792,
         16921,
         16048,
@@ -1139,11 +1204,11 @@
         23722,
         73133,
         26034,
-        52302
+        52302,
+        31887,
+        73846
       ],
       "240": [
-        63134,
-        63330,
         8312,
         210786,
         18375,
@@ -1181,11 +1246,11 @@
         24921,
         79162,
         26926,
-        55180
+        55180,
+        32361,
+        76193
       ],
       "360": [
-        70883,
-        70802,
         9286,
         275504,
         20446,
@@ -1223,14 +1288,13 @@
         26052,
         81876,
         27366,
-        58841
+        58841,
+        34067,
+        82893
       ]
     },
     "MarioNawfal": {
       "60": [
-        22113,
-        22093,
-        25697,
         23487,
         79753,
         26096,
@@ -1267,12 +1331,12 @@
         24345,
         26442,
         22615,
-        66886
+        66886,
+        31853,
+        22553,
+        40961
       ],
       "120": [
-        34299,
-        25528,
-        28759,
         26488,
         124967,
         31102,
@@ -1309,12 +1373,12 @@
         32122,
         31504,
         25968,
-        103163
+        103163,
+        71731,
+        26695,
+        55808
       ],
       "180": [
-        44080,
-        33838,
-        32304,
         32853,
         169457,
         35921,
@@ -1351,12 +1415,12 @@
         38438,
         34856,
         34244,
-        140281
+        140281,
+        116319,
+        31480,
+        67257
       ],
       "240": [
-        51718,
-        39335,
-        36890,
         38244,
         224357,
         44124,
@@ -1393,12 +1457,12 @@
         44892,
         41075,
         41347,
-        176517
+        176517,
+        131556,
+        33097,
+        69677
       ],
       "360": [
-        56897,
-        43327,
-        39381,
         42122,
         265036,
         48605,
@@ -1435,7 +1499,10 @@
         55907,
         52902,
         49499,
-        199349
+        199349,
+        184364,
+        37558,
+        74987
       ]
     },
     "MachadoDarlon": {
@@ -2287,6 +2354,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-09-01T08:10:18+00:00",
+  "ultima_busca": "2026-09-01T08:40:17+00:00",
   "alertas_enviados": 0
 }
