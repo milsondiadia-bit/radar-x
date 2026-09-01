@@ -14,20 +14,6 @@
       },
       "alertado": false
     },
-    "2094655238141861894": {
-      "autor": "MarioNawfal",
-      "texto": "🇹🇷 When the law starts talking from the sky, do you still feel like a citizen, or a target? In Istanbul, Turkey, at the historic walls in Fatih, people were drinking outside. Then a police drone drops over them and says: “This is a police drone. Drinking alcohol in this area is prohibited. Leave this area immediately.” They got up and walked away. Writer: Val https://t.co/wwwxLGyDES",
-      "url": "https://x.com/MarioNawfal/status/2094655238141861894",
-      "criado": "2026-09-01T05:15:00+00:00",
-      "medicoes": {
-        "60": 26458,
-        "120": 33986,
-        "180": 39360,
-        "240": 42884,
-        "360": 56944
-      },
-      "alertado": false
-    },
     "2094669079185346925": {
       "autor": "MarioNawfal",
       "texto": "🇬🇧 This is Adults' Day at Notting Hill Carnival in London Yeah, adults Writer: Ian https://t.co/4jiKgRMZNX",
@@ -76,7 +62,8 @@
         "60": 10190,
         "120": 13060,
         "180": 15135,
-        "240": 16655
+        "240": 16655,
+        "360": 18582
       },
       "alertado": false
     },
@@ -89,7 +76,8 @@
         "60": 22971,
         "120": 27734,
         "180": 33396,
-        "240": 42556
+        "240": 42556,
+        "360": 53730
       },
       "alertado": false
     },
@@ -102,9 +90,10 @@
         "60": 14694,
         "120": 28403,
         "180": 41389,
-        "240": 53040
+        "240": 53040,
+        "360": 66736
       },
-      "alertado": false
+      "alertado": true
     },
     "2094661701102633123": {
       "autor": "clashreport",
@@ -115,7 +104,8 @@
         "60": 7569,
         "120": 9204,
         "180": 10329,
-        "240": 11096
+        "240": 11096,
+        "360": 12858
       },
       "alertado": false
     },
@@ -626,7 +616,8 @@
       "medicoes": {
         "60": 21693,
         "120": 25469,
-        "180": 31536
+        "180": 31536,
+        "240": 35550
       },
       "alertado": false
     },
@@ -846,7 +837,8 @@
       "criado": "2026-09-01T08:48:39+00:00",
       "medicoes": {
         "60": 23534,
-        "120": 30717
+        "120": 30717,
+        "180": 34255
       },
       "alertado": false
     },
@@ -857,7 +849,8 @@
       "criado": "2026-09-01T08:47:04+00:00",
       "medicoes": {
         "60": 18474,
-        "120": 23388
+        "120": 23388,
+        "180": 25949
       },
       "alertado": false
     },
@@ -868,7 +861,8 @@
       "criado": "2026-09-01T08:45:00+00:00",
       "medicoes": {
         "60": 24514,
-        "120": 30617
+        "120": 30617,
+        "180": 34711
       },
       "alertado": false
     },
@@ -879,7 +873,8 @@
       "criado": "2026-09-01T08:44:14+00:00",
       "medicoes": {
         "60": 25283,
-        "120": 32521
+        "120": 32521,
+        "180": 36478
       },
       "alertado": false
     },
@@ -1141,7 +1136,8 @@
       "url": "https://x.com/Osint613/status/2094723196385636764",
       "criado": "2026-09-01T09:45:02+00:00",
       "medicoes": {
-        "60": 26414
+        "60": 26414,
+        "120": 33426
       },
       "alertado": false
     },
@@ -1151,7 +1147,8 @@
       "url": "https://x.com/MarioNawfal/status/2094723186671632549",
       "criado": "2026-09-01T09:45:00+00:00",
       "medicoes": {
-        "60": 31578
+        "60": 31578,
+        "120": 37305
       },
       "alertado": false
     },
@@ -1404,7 +1401,9 @@
       "texto": "UAE Offers Influencers Thousands to Campaign Against Hamas Leaked direct messages expose a $1,500 pitch by Abraham Accords activist Loay Alshareef offering supplied talking points on the Muslim Brotherhood to a U.S. influencer. https://t.co/GTDdMgVNlT",
       "url": "https://x.com/clashreport/status/2094739292383772867",
       "criado": "2026-09-01T10:49:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 11044
+      },
       "alertado": false
     },
     "2094737684468031572": {
@@ -1412,7 +1411,9 @@
       "texto": "🚨URGENTE - Pesquisa Real Time Big Data coloca Flávio Bolsonaro empatado com Lula no segundo turno 🟢 Flávio Bolsonaro (PL): 44% (+2) 🔴 Lula (PT): 44% (-1) https://t.co/b1M9WrXzch",
       "url": "https://x.com/NewsLiberdade/status/2094737684468031572",
       "criado": "2026-09-01T10:42:36+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 8481
+      },
       "alertado": false
     },
     "2094752126589391067": {
@@ -1588,6 +1589,46 @@
       "texto": "Two supertankers carrying Saudi crude were struck by unknown projectiles while exiting the Strait of Hormuz near Oman, according to Marisks and Kpler. All crew members were reported safe.",
       "url": "https://x.com/clashreport/status/2094745972781781321",
       "criado": "2026-09-01T11:15:33+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094753650719527379": {
+      "autor": "clashreport",
+      "texto": "Iran's FM Spox. Esmail Baghaei on the US: They are accustomed to making excessive demands and have mistaken negotiation for dictating terms. https://t.co/LRoQtRuLzb",
+      "url": "https://x.com/clashreport/status/2094753650719527379",
+      "criado": "2026-09-01T11:46:03+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094752843345391982": {
+      "autor": "MachadoDarlon",
+      "texto": "🤷🤦‍♂️ Nikolas Ferreira criticou, a situação de Breno de Souza Castro, acusado de matar as próprias filhas, de 3 e 5 anos. O deputado questionou a proporcionalidade das penas da Justiça brasileira e comparou o caso às condenações relacionadas ao 8 de Janeiro. Breno havia recebido livramento condicional em 2025 e voltou a ser preso após confessar o crime.😡😤",
+      "url": "https://x.com/MachadoDarlon/status/2094752843345391982",
+      "criado": "2026-09-01T11:42:51+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094752739402146058": {
+      "autor": "clashreport",
+      "texto": "NEW: Syrian military police entered Hasakah city to complete absorption of former SDF structures. Displaced Arab families returned to Gweiran and Aziziyah neighborhoods for the first time in 10-13 years with celebrations. This follows the SDF's formal dissolution in late August.",
+      "url": "https://x.com/clashreport/status/2094752739402146058",
+      "criado": "2026-09-01T11:42:26+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094752591171264799": {
+      "autor": "clashreport",
+      "texto": "Trump Suggests US is Reviewing Its Falklands Position Trump's remarks come as U.S. officials pressure Britain to increase defense spending, raising the prospect that the Falklands dispute could become leverage in broader NATO negotiations. https://t.co/IFrMG9SUL3",
+      "url": "https://x.com/clashreport/status/2094752591171264799",
+      "criado": "2026-09-01T11:41:51+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2094752566558998739": {
+      "autor": "Osint613",
+      "texto": "Overnight, 2 out of 2 sorties of PLA aircraft, 5 PLAN vessels, and 5 official ships crossed the median line and entered Taiwan’s northern and eastern ADIZ. -Taiwan’s Ministry of National Defense https://t.co/9bpQSuNYJr",
+      "url": "https://x.com/Osint613/status/2094752566558998739",
+      "criado": "2026-09-01T11:41:45+00:00",
       "medicoes": {},
       "alertado": false
     }
@@ -1807,7 +1848,6 @@
     },
     "MarioNawfal": {
       "60": [
-        22615,
         66886,
         31853,
         22553,
@@ -1846,10 +1886,10 @@
         20754,
         20743,
         21136,
-        23778
+        23778,
+        26458
       ],
       "120": [
-        25968,
         103163,
         71731,
         26695,
@@ -1888,10 +1928,10 @@
         24598,
         24600,
         24726,
-        28785
+        28785,
+        33986
       ],
       "180": [
-        34244,
         140281,
         116319,
         31480,
@@ -1930,10 +1970,10 @@
         28092,
         28316,
         30153,
-        33840
+        33840,
+        39360
       ],
       "240": [
-        41347,
         176517,
         131556,
         33097,
@@ -1972,10 +2012,10 @@
         32535,
         32036,
         36839,
-        43301
+        43301,
+        42884
       ],
       "360": [
-        49499,
         199349,
         184364,
         37558,
@@ -2014,7 +2054,8 @@
         39525,
         38322,
         50086,
-        56211
+        56211,
+        56944
       ]
     },
     "MachadoDarlon": {
@@ -2866,6 +2907,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-09-01T11:40:18+00:00",
-  "alertas_enviados": 2
+  "ultima_busca": "2026-09-01T11:49:20+00:00",
+  "alertas_enviados": 3
 }
