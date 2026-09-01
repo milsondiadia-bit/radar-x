@@ -23,6 +23,8 @@ ARQ_ESTADO = "estado.json"
 API_KEY = os.environ.get("TWITTERAPI_KEY", "").strip()
 TG_TOKEN = os.environ.get("TELEGRAM_TOKEN", "").strip()
 TG_CHAT = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
+GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
+MODELO_IA = os.environ.get("GEMINI_MODELO", "gemini-3-flash-preview").strip()
 
 if not API_KEY or not TG_TOKEN or not TG_CHAT:
     print("ERRO: faltam variaveis de ambiente (TWITTERAPI_KEY, TELEGRAM_TOKEN, TELEGRAM_CHAT_ID)")
@@ -149,6 +151,56 @@ def atualizar_views(ids):
     return resultado
 
 
+
+# ---------------------------------------------------------------- traducao
+
+def traduzir(texto):
+    """Traduz para portugues via Gemini. Se falhar, devolve o original."""
+    if not texto or not texto.strip():
+        return texto
+    if not GEMINI_KEY:
+        return texto
+
+    pedido = (
+        "Traduza o texto abaixo para portugues do Brasil. "
+        "Responda SOMENTE com a traducao, sem aspas, sem comentarios, "
+        "sem explicacao. Mantenha nomes proprios, siglas, @perfis e hashtags "
+        "como estao. Se o texto ja estiver em portugues, devolva-o inalterado.\n\n"
+        + texto
+    )
+
+    url = (
+        "https://generativelanguage.googleapis.com/v1beta/models/"
+        f"{MODELO_IA}:generateContent"
+    )
+    corpo = {
+        "contents": [{"parts": [{"text": pedido}]}],
+        "generationConfig": {"temperature": 0, "maxOutputTokens": 800},
+    }
+
+    for tentativa in range(2):
+        try:
+            r = requests.post(
+                url,
+                headers={"x-goog-api-key": GEMINI_KEY,
+                         "Content-Type": "application/json"},
+                json=corpo,
+                timeout=25,
+            )
+            if r.status_code != 200:
+                print(f"  traducao HTTP {r.status_code}: {r.text[:160]}")
+                time.sleep(2)
+                continue
+            dados = r.json()
+            saida = dados["candidates"][0]["content"]["parts"][0]["text"].strip()
+            return saida if saida else texto
+        except Exception as e:
+            print(f"  traducao falhou: {e}")
+            time.sleep(2)
+
+    return texto
+
+
 # ---------------------------------------------------------------- Telegram
 
 def telegram(texto):
@@ -177,7 +229,7 @@ def montar_alerta(post, views, checkpoint, mediana, mult_real):
         f"🔥 <b>@{post['autor']}</b> — {mult_real:.1f}x a média\n"
         f"{idade} · {fmt_num(views)} views "
         f"(normal: {fmt_num(int(mediana))})\n\n"
-        f"{encurtar(post['texto'], CFG['tamanho_texto_alerta'])}\n\n"
+        f"{traduzir(encurtar(post['texto'], CFG['tamanho_texto_alerta']))}\n\n"
         f"🔗 {post['url']}"
     )
 
