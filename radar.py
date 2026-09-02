@@ -33,7 +33,7 @@ GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 MODELOS = [
     "gemini-3.1-flash-lite",
     "gemini-3-flash-preview",
-    "gemini-2.0-flash",
+    "gemini-2.5-flash-lite",
 ]
 
 # Ligar/desligar a medicao gratuita. Deixe True.
@@ -57,6 +57,9 @@ NAVEGADOR = (
 
 SESSAO_FX = requests.Session()
 SESSAO_FX.headers.update({"User-Agent": NAVEGADOR})
+
+# Aviso no alerta quando o texto nao pode ser traduzido.
+MARCA_SEM_TRADUCAO = "\u26a0\ufe0f (sem traducao) "
 
 # Modelos que ja falharam nesta execucao - nao adianta insistir neles.
 _MODELOS_QUEIMADOS = set()
@@ -303,6 +306,16 @@ def _chamar_modelo(modelo, pedido):
             "maxOutputTokens": 4000,
             "thinkingConfig": {"thinkingLevel": "low"},
         },
+        # Noticia de guerra e conflito e o pao de cada dia destes perfis.
+        # Sem isso, o modelo recusa traduzir metade do que interessa.
+        # Nao afeta o filtro de protecao infantil, que nao e ajustavel.
+        "safetySettings": [
+            {"category": c, "threshold": "BLOCK_NONE"}
+            for c in ("HARM_CATEGORY_HARASSMENT",
+                      "HARM_CATEGORY_HATE_SPEECH",
+                      "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+                      "HARM_CATEGORY_DANGEROUS_CONTENT")
+        ],
     }
 
     try:
@@ -366,7 +379,7 @@ def traduzir(texto):
             time.sleep(2)
 
     print("    traducao indisponivel - mantendo texto original")
-    return texto
+    return MARCA_SEM_TRADUCAO + texto
 
 
 # ---------------------------------------------------------------- Telegram
