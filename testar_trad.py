@@ -1,51 +1,33 @@
 # -*- coding: utf-8 -*-
-"""Descobre quais modelos existem na chave e testa um tradutor de reserva."""
-import json
-import os
-import requests
-from urllib.parse import quote
+"""Confere a traducao com textos reais dos perfis monitorados."""
+import radar
 
-CHAVE = os.environ["GEMINI_API_KEY"]
-
-TEXTO = ("\U0001F4AB Russian women massively showed up at school assemblies "
-         "in revealing, sexual outfits\n\nAt the ceremonial events packed with "
-         "little (and not-so-little) children, the moms were flaunting "
-         "themselves in stockings, mini-skirts...")
+EXEMPLOS = [
+    ("nexta_tv (bloqueio infantil - deve continuar sem traducao)",
+     "Russian women massively showed up at school assemblies in revealing, "
+     "sexual outfits. At the ceremonial events packed with little children, "
+     "the moms were flaunting themselves in stockings, mini-skirts..."),
+    ("guerra - antes podia ser bloqueado",
+     "Reports from Mashhad, Iran, say a vehicle drove into a pro IRGC "
+     "gathering in the Eghbal Lahouri area, with a very large number of "
+     "casualties reported. Emergency services are on site."),
+    ("missil / conflito armado",
+     "Russia has secretly helped Iran develop advanced supersonic cruise "
+     "missiles able to threaten US aircraft carriers and warships in the "
+     "Middle East, an investigation found."),
+    ("politica",
+     "Zelenskyy said that Ukraine is launching a campaign to block Russia's "
+     "airspace. We want to warn every airline that uses Russian airspace, "
+     "every insurer, and everyone who still uses key Russian airports."),
+]
 
 print("=" * 60)
-print("MODELOS DISPONIVEIS NESTA CHAVE")
-print("=" * 60)
-r = requests.get("https://generativelanguage.googleapis.com/v1beta/models",
-                 headers={"x-goog-api-key": CHAVE}, timeout=30)
-if r.status_code == 200:
-    for m in r.json().get("models", []):
-        nome = m["name"].replace("models/", "")
-        if "generateContent" in (m.get("supportedGenerationMethods") or []):
-            if "flash" in nome or "lite" in nome:
-                print("  ", nome)
-else:
-    print("  HTTP", r.status_code, r.text[:200])
-
-print()
-print("=" * 60)
-print("TRADUTOR DE RESERVA (Google Translate publico, sem chave)")
+print("Modelos:", ", ".join(radar.MODELOS))
 print("=" * 60)
 
-
-def traduzir_google(texto, destino="pt"):
-    url = "https://translate.googleapis.com/translate_a/single"
-    params = {"client": "gtx", "sl": "auto", "tl": destino,
-              "dt": "t", "q": texto}
-    r = requests.get(url, params=params, timeout=25,
-                     headers={"User-Agent": "Mozilla/5.0"})
-    if r.status_code != 200:
-        print("  HTTP", r.status_code)
-        return None
-    dados = r.json()
-    return "".join(p[0] for p in dados[0] if p and p[0])
-
-
-saida = traduzir_google(TEXTO)
-print("SAIDA:", saida)
-print()
-print("MUDOU?", "sim" if saida and saida.strip() != TEXTO.strip() else "NAO")
+for rotulo, texto in EXEMPLOS:
+    print("\n--- " + rotulo)
+    saida = radar.traduzir(texto)
+    ok = saida.strip() != texto.strip() and not saida.startswith("\u26a0")
+    print("   ", ("TRADUZIU" if ok else "NAO TRADUZIU"))
+    print("   ", saida[:200])
