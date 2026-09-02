@@ -14,7 +14,7 @@ import json
 import os
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from statistics import median
 
 import requests
@@ -38,6 +38,10 @@ MODELOS = [
 
 # Ligar/desligar a medicao gratuita. Deixe True.
 USAR_FXTWITTER = True
+
+# Se o bot ficar parado, a busca nao volta mais que isso.
+# Evita que a primeira rodada depois de uma pausa longa custe uma fortuna.
+JANELA_MAXIMA_HORAS = 3
 
 if not API_KEY or not TG_TOKEN or not TG_CHAT:
     print("ERRO: faltam variaveis de ambiente (TWITTERAPI_KEY, TELEGRAM_TOKEN, TELEGRAM_CHAT_ID)")
@@ -127,11 +131,33 @@ def api_get(caminho, params, tentativas=3):
 
 
 def buscar_novos(perfis, desde_iso, max_paginas=4):
-    """Busca posts recentes dos perfis via advanced_search (1 chamada cobre todos)."""
-    consulta = " OR ".join(f"from:{p}" for p in perfis)
+    """
+    Busca posts recentes dos perfis via advanced_search (1 chamada cobre todos).
+
+    ECONOMIA: a consulta leva since_time:, entao a API devolve SO o que foi
+    publicado depois da ultima rodada - e voce paga so por esses. Antes ela
+    devolvia sempre os 20 mais recentes e cobrava pelos 20.
+    """
     corte = datetime.fromisoformat(desde_iso)
 
-    achados, cursor, pagina = [], None, 0
+    # Teto de seguranca: se o bot ficou dias parado, nao puxar a historia toda.
+    mais_antigo = agora() - timedelta(hours=JANELA_MAXIMA_HORAS)
+    if corte < mais_antigo:
+        print(f"  janela muito larga, limitando a {JANELA_MAXIMA_HORAS}h")
+        corte = mais_antigo
+
+    # Folga de 2 min para nao perder post que caiu bem na virada da rodada.
+    desde_ts = int((corte - timedelta(minutes=2)).timestamp())
+
+    partes = [" OR ".join(f"from:{p}" for p in perfis)]
+    partes.append(f"since_time:{desde_ts}")
+    if CFG.get("ignorar_respostas", True):
+        # nao paga por resposta que seria descartada depois
+        partes.append("-filter:replies")
+
+    consulta = " ".join(partes)
+
+    achados, cursor, pagina, cobrados = [], None, 0, 0
     while pagina < max_paginas:
         params = {"query": consulta, "queryType": "Latest"}
         if cursor:
@@ -142,6 +168,7 @@ def buscar_novos(perfis, desde_iso, max_paginas=4):
             break
 
         lote = dados.get("tweets") or []
+        cobrados += len(lote)
         if not lote:
             break
 
@@ -160,6 +187,7 @@ def buscar_novos(perfis, desde_iso, max_paginas=4):
             break
         pagina += 1
 
+    print(f"  busca: {cobrados} posts cobrados (~{cobrados * 15} creditos)")
     return achados
 
 
