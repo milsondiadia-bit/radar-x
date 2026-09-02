@@ -1,0 +1,20 @@
+============================================================
+MEDICAO DO FILTRO DE ENGAJAMENTO - janela de 1 hora
+============================================================
+
+[SEM FILTRO]
+  posts: 28  (~420 creditos)
+  curtidas: minimo=3 mediana=37 maximo=517
+
+  quantos sobrariam com cada piso de curtidas:
+    min_faves:10   ->  26 posts (7% de corte, ~390 creditos)
+    min_faves:25   ->  20 posts (29% de corte, ~300 creditos)
+    min_faves:50   ->  13 posts (54% de corte, ~195 creditos)
+    min_faves:100  ->   6 posts (79% de corte, ~90 creditos)
+    min_faves:200  ->   2 posts (93% de corte, ~30 creditos)
+    min_faves:500  ->   1 posts (96% de corte, ~15 creditos)
+
+[COM min_faves:50 - conferindo na pratica]
+  posts: 13  (~195 creditos)
+
+CUSTO DESTA MEDICAO: ~615 creditos
