@@ -1,8 +1,10 @@
-  consulta: (from:MarioNawfal OR from:Osint613 OR from:clashreport OR from:nexta_tv OR from:NewsLiberdade OR from:MachadoDarlon) since_time:1788368898 -filter:replies
-  busca: 13 posts cobrados (~195 creditos)
+  consulta: (from:MarioNawfal OR from:Osint613 OR from:clashreport OR from:nexta_tv OR from:NewsLiberdade OR from:MachadoDarlon) since_time:1788370702 -filter:replies
+  busca: 12 posts cobrados (~180 creditos)
 Posts novos guardados: 11
-Posts para medir: 89
-  medidos de graca: 89 | sobraram para a API paga: 0
-Alertas enviados: 0
+Posts para medir: 95
+  1 nao responderam - tentando de novo em 15s
+  medidos de graca: 94 | sobraram para a API paga: 1
+    [gemini-3.1-flash-lite] erro de rede: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=30)
+Alertas enviados: 2
 Posts aposentados: 13
 Amostras por perfil: MarioNawfal:40 | Osint613:40 | clashreport:40 | nexta_tv:40 | NewsLiberdade:40 | MachadoDarlon:40
