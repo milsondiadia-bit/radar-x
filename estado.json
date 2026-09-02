@@ -474,7 +474,8 @@
       "medicoes": {
         "60": 21127,
         "120": 24386,
-        "180": 31361
+        "180": 31361,
+        "240": 32243
       },
       "alertado": false
     },
@@ -486,7 +487,8 @@
       "medicoes": {
         "60": 16969,
         "120": 21225,
-        "180": 25110
+        "180": 25110,
+        "240": 25582
       },
       "alertado": false
     },
@@ -664,7 +666,8 @@
       "criado": "2026-09-02T07:24:56+00:00",
       "medicoes": {
         "60": 14755,
-        "120": 22548
+        "120": 22548,
+        "180": 23469
       },
       "alertado": false
     },
@@ -675,7 +678,8 @@
       "criado": "2026-09-02T07:24:17+00:00",
       "medicoes": {
         "60": 20660,
-        "120": 26884
+        "120": 26884,
+        "180": 27446
       },
       "alertado": false
     },
@@ -963,7 +967,8 @@
       "url": "https://x.com/MarioNawfal/status/2095065441316254093",
       "criado": "2026-09-02T08:25:00+00:00",
       "medicoes": {
-        "60": 22682
+        "60": 22682,
+        "120": 23295
       },
       "alertado": false
     },
@@ -1496,7 +1501,9 @@
       "texto": "NEW: Canada recruited 64 professors with $541 million in research funding — three-quarters from U.S. schools. Each gets $500K-$1M annually for 8 years. It's part of a $1.7 billion talent initiative launched as Trump cuts billions from U.S. science. Industry Minister Joly: While certain countries are cutting research and turning their back on academic freedom, we're doubling down on science. Asked...",
       "url": "https://x.com/clashreport/status/2095080580475965543",
       "criado": "2026-09-02T09:25:09+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 6486
+      },
       "alertado": false
     },
     "2095079946842472880": {
@@ -1542,6 +1549,22 @@
       "texto": "New homicide defense strategy just dropped: I wasn't wearing my glasses 🤓 Writer: Michael https://t.co/PSlHurHgNS",
       "url": "https://x.com/MarioNawfal/status/2095094381636440464",
       "criado": "2026-09-02T10:20:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2095095659799970181": {
+      "autor": "nexta_tv",
+      "texto": "🍌 Russian women massively showed up at school assemblies in revealing, sexual outfits At the ceremonial events packed with little (and not-so-little) children, the moms were flaunting themselves in stockings, mini-skirts, and lace corsets with deep cleavage.",
+      "url": "https://x.com/nexta_tv/status/2095095659799970181",
+      "criado": "2026-09-02T10:25:04+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2095095640183144810": {
+      "autor": "MarioNawfal",
+      "texto": "🚨🇮🇷🇮🇶 Satellite data from NASA FIRMS reveals fires at Erbil Int'l Airport after Iranian strikes overnight. The IRGC claimed direct hits on a U.S. maintenance facility, equipment storage warehouses, fuel tanks, and the guidance framework of a U.S. surveillance balloon. These signatures appear to align with those claims... Source: WF Witness (TG) / Writer: Samuel",
+      "url": "https://x.com/MarioNawfal/status/2095095640183144810",
+      "criado": "2026-09-02T10:25:00+00:00",
       "medicoes": {},
       "alertado": false
     }
@@ -2820,6 +2843,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-09-02T10:23:26+00:00",
+  "ultima_busca": "2026-09-02T10:25:34+00:00",
   "alertas_enviados": 81
 }
