@@ -5,6 +5,9 @@ Radar X - monitora perfis e avisa quando um post foge da media do autor.
 Roda a cada 30 min pelo GitHub Actions.
 Nao julga pelo total de views, e sim por views-para-a-idade-do-post,
 comparando com a curva historica daquele mesmo perfil.
+
+ECONOMIA: a medicao de views usa primeiro o fxtwitter (gratis, sem chave).
+So o que falhar la vai para a twitterapi.io, que e paga.
 """
 
 import json
@@ -24,13 +27,35 @@ API_KEY = os.environ.get("TWITTERAPI_KEY", "").strip()
 TG_TOKEN = os.environ.get("TELEGRAM_TOKEN", "").strip()
 TG_CHAT = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
 GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
-MODELO_IA = os.environ.get("GEMINI_MODELO", "gemini-3-flash-preview").strip()
+
+# Modelos de traducao, na ordem de tentativa.
+# O primeiro e o mais leve e com maior cota gratuita.
+MODELOS = [
+    "gemini-3.1-flash-lite",
+    "gemini-3-flash-preview",
+    "gemini-2.0-flash",
+]
+
+# Ligar/desligar a medicao gratuita. Deixe True.
+USAR_FXTWITTER = True
 
 if not API_KEY or not TG_TOKEN or not TG_CHAT:
     print("ERRO: faltam variaveis de ambiente (TWITTERAPI_KEY, TELEGRAM_TOKEN, TELEGRAM_CHAT_ID)")
     sys.exit(1)
 
 HEADERS = {"X-API-Key": API_KEY}
+
+NAVEGADOR = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/126.0.0.0 Safari/537.36"
+)
+
+SESSAO_FX = requests.Session()
+SESSAO_FX.headers.update({"User-Agent": NAVEGADOR})
+
+# Modelos que ja falharam nesta execucao - nao adianta insistir neles.
+_MODELOS_QUEIMADOS = set()
 
 
 # ---------------------------------------------------------------- utilidades
@@ -138,21 +163,124 @@ def buscar_novos(perfis, desde_iso, max_paginas=4):
     return achados
 
 
+# ------------------------------------------------- medicao de views (gratis)
+
+def views_fxtwitter(tid):
+    """
+    Le as views de um post pelo fxtwitter: gratuito, sem chave, sem login.
+    Devolve int, ou None se nao conseguir.
+    """
+    try:
+        r = SESSAO_FX.get(f"https://api.fxtwitter.com/i/status/{tid}", timeout=20)
+        if r.status_code != 200:
+            return None
+        dados = r.json()
+        if dados.get("code") != 200:
+            return None
+        tweet = dados.get("tweet") or {}
+        views = tweet.get("views")
+        if views is None:
+            return None
+        return int(views)
+    except Exception:
+        return None
+
+
 def atualizar_views(ids):
-    """Batch lookup: ate 100 ids por chamada."""
+    """
+    Primeiro tenta de graca no fxtwitter. O que sobrar vai para a API paga,
+    em lotes de 50 ids (o maximo aceito).
+    """
     resultado = {}
-    for i in range(0, len(ids), 50):
-        bloco = ids[i:i + 50]
+    faltaram = list(ids)
+
+    if USAR_FXTWITTER and ids:
+        faltaram = []
+        for tid in ids:
+            v = views_fxtwitter(tid)
+            if v is None:
+                faltaram.append(tid)
+            else:
+                resultado[str(tid)] = v
+            time.sleep(0.4)  # respiro para nao irritar o servico gratuito
+        print(f"  medidos de graca: {len(resultado)} | sobraram para a API paga: {len(faltaram)}")
+
+    for i in range(0, len(faltaram), 50):
+        bloco = faltaram[i:i + 50]
         dados = api_get("/twitter/tweets", {"tweet_ids": ",".join(bloco)})
         if not dados:
             continue
         for tw in dados.get("tweets") or []:
             resultado[str(tw.get("id"))] = tw.get("viewCount") or 0
+
     return resultado
 
 
-
 # ---------------------------------------------------------------- traducao
+
+def _extrair_texto(resposta):
+    """Le o texto da resposta do Gemini sem quebrar se vier vazia."""
+    candidatos = resposta.get("candidates") or []
+    if not candidatos:
+        motivo = resposta.get("promptFeedback", {}).get("blockReason", "?")
+        print(f"    traducao sem candidatos (motivo: {motivo})")
+        return ""
+
+    cand = candidatos[0]
+    partes = (cand.get("content") or {}).get("parts") or []
+    texto = "".join(p.get("text", "") for p in partes).strip()
+
+    if not texto:
+        print(f"    traducao vazia (finishReason: {cand.get('finishReason', '?')})")
+
+    return texto
+
+
+def _chamar_modelo(modelo, pedido):
+    """Uma tentativa em um modelo. Devolve (texto, trocar_de_modelo)."""
+    url = (
+        "https://generativelanguage.googleapis.com/v1beta/models/"
+        f"{modelo}:generateContent"
+    )
+
+    # thinkingLevel low + teto alto: os tokens de raciocinio do Gemini 3 sao
+    # descontados do maxOutputTokens. Com teto baixo a traducao vem cortada
+    # no meio da frase - foi o que acontecia aqui.
+    corpo = {
+        "contents": [{"parts": [{"text": pedido}]}],
+        "generationConfig": {
+            "temperature": 1,
+            "maxOutputTokens": 4000,
+            "thinkingConfig": {"thinkingLevel": "low"},
+        },
+    }
+
+    try:
+        r = requests.post(
+            url,
+            headers={"x-goog-api-key": GEMINI_KEY,
+                     "Content-Type": "application/json"},
+            json=corpo,
+            timeout=30,
+        )
+    except Exception as e:
+        print(f"    [{modelo}] erro de rede: {e}")
+        return "", False
+
+    if r.status_code == 200:
+        return _extrair_texto(r.json()), False
+
+    if r.status_code in (429, 503):
+        print(f"    [{modelo}] HTTP {r.status_code} - cota ou sobrecarga, trocando de modelo")
+        return "", True
+
+    if r.status_code == 404:
+        print(f"    [{modelo}] HTTP 404 - modelo indisponivel nesta conta")
+        return "", True
+
+    print(f"    [{modelo}] HTTP {r.status_code}: {r.text[:160]}")
+    return "", False
+
 
 def traduzir(texto):
     """Traduz para portugues via Gemini. Se falhar, devolve o original."""
@@ -163,41 +291,31 @@ def traduzir(texto):
 
     pedido = (
         "Traduza o texto abaixo para portugues do Brasil. "
+        "Traduza o texto INTEIRO, do inicio ao fim, sem cortar. "
         "Responda SOMENTE com a traducao, sem aspas, sem comentarios, "
         "sem explicacao. Mantenha nomes proprios, siglas, @perfis e hashtags "
         "como estao. Se o texto ja estiver em portugues, devolva-o inalterado.\n\n"
         + texto
     )
 
-    url = (
-        "https://generativelanguage.googleapis.com/v1beta/models/"
-        f"{MODELO_IA}:generateContent"
-    )
-    corpo = {
-        "contents": [{"parts": [{"text": pedido}]}],
-        "generationConfig": {"temperature": 0, "maxOutputTokens": 800},
-    }
+    for modelo in MODELOS:
+        if modelo in _MODELOS_QUEIMADOS:
+            continue
 
-    for tentativa in range(2):
-        try:
-            r = requests.post(
-                url,
-                headers={"x-goog-api-key": GEMINI_KEY,
-                         "Content-Type": "application/json"},
-                json=corpo,
-                timeout=25,
-            )
-            if r.status_code != 200:
-                print(f"  traducao HTTP {r.status_code}: {r.text[:160]}")
+        for _ in range(2):
+            saida, trocar = _chamar_modelo(modelo, pedido)
+
+            if saida:
+                return saida
+
+            if trocar:
+                _MODELOS_QUEIMADOS.add(modelo)
                 time.sleep(2)
-                continue
-            dados = r.json()
-            saida = dados["candidates"][0]["content"]["parts"][0]["text"].strip()
-            return saida if saida else texto
-        except Exception as e:
-            print(f"  traducao falhou: {e}")
+                break
+
             time.sleep(2)
 
+    print("    traducao indisponivel - mantendo texto original")
     return texto
 
 
@@ -291,8 +409,12 @@ def main():
     print(f"Posts novos guardados: {incluidos}")
 
     # 2) quem precisa de medicao agora ---------------------------------------
+    # Post ja alertado nao e medido de novo: gasta a toa e ainda contamina
+    # a media do perfil com o proprio pico.
     a_medir = []
     for tid, p in estado["posts"].items():
+        if p.get("alertado"):
+            continue
         idade = idade_min(p["criado"])
         for cp in checkpoints:
             if idade >= cp and str(cp) not in p["medicoes"]:
@@ -351,11 +473,14 @@ def main():
         if idade_min(p["criado"]) < limite_vida + 30:
             continue
 
-        base = estado["baseline"].setdefault(p["autor"], {})
-        for cp, v in p["medicoes"].items():
-            lista = base.setdefault(cp, [])
-            lista.append(v)
-            del lista[:-40]  # guarda so as 40 amostras mais recentes
+        # post que estourou a media nao entra na baseline: ele e a excecao,
+        # nao o normal daquele perfil.
+        if not p.get("alertado"):
+            base = estado["baseline"].setdefault(p["autor"], {})
+            for cp, v in p["medicoes"].items():
+                lista = base.setdefault(cp, [])
+                lista.append(v)
+                del lista[:-40]  # guarda so as 40 amostras mais recentes
 
         del estado["posts"][tid]
         aposentados += 1
