@@ -1,0 +1,16 @@
+============================================================
+Chave Gemini presente: True
+Modelos: gemini-3.1-flash-lite, gemini-3-flash-preview, gemini-2.0-flash
+============================================================
+
+ORIGINAL  (321 caracteres): The Iran war has turned from a fight about Tehran's nuclear program into a battle for cont
+TRADUZIDO (391 caracteres): A guerra do Irã deixou de ser uma luta sobre o programa nuclear de Teerã e tornou-se uma batalha pelo controle do Estreito de Ormuz. Washington está tentando manter a rota de navegação aberta, enquanto Teerã sinaliza que pode fechá-la quando quiser, e as capitais europeias estão se preparando silenciosamente para um choque de oferta que atingiria os preços dos combustíveis em poucos dias.
+CORTADO?   nao
+
+ORIGINAL  (218 caracteres): Putin on Germany: Chancellor Merz is facing dire times. He doesn't enjoy the trust of his 
+TRADUZIDO (240 caracteres): Putin sobre a Alemanha: O chanceler Merz está enfrentando tempos difíceis. Ele não desfruta da confiança de seu povo porque não protege os interesses nacionais. Ele está vendendo os interesses nacionais alemães. Eles cometeram erros óbvios.
+CORTADO?   nao
+
+ORIGINAL  (111 caracteres): URGENTE - Alexandre de Moraes e Andre Mendonca batem boca e quase chegam as vias de fato n
+TRADUZIDO (111 caracteres): URGENTE - Alexandre de Moraes e Andre Mendonca batem boca e quase chegam as vias de fato no STF, diz Metropoles
+CORTADO?   nao
