@@ -1,0 +1,31 @@
+name: Teste Descoberta Gratuita
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  teste:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests
+
+      - name: Testar fontes gratuitas
+        run: |
+          set -o pipefail
+          python -u testar_gratis.py 2>&1 | tee log_gratis.txt
+
+      - name: Salvar log
+        if: always()
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar@users.noreply.github.com"
+          git add -f log_gratis.txt
+          git diff --staged --quiet || git commit -m "teste descoberta gratuita"
+          git push
