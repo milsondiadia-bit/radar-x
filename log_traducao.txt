@@ -1,16 +1,36 @@
 ============================================================
-Chave Gemini presente: True
 Modelos: gemini-3.1-flash-lite, gemini-3-flash-preview, gemini-2.0-flash
 ============================================================
 
-ORIGINAL  (321 caracteres): The Iran war has turned from a fight about Tehran's nuclear program into a battle for cont
-TRADUZIDO (391 caracteres): A guerra do Irã deixou de ser uma luta sobre o programa nuclear de Teerã e tornou-se uma batalha pelo controle do Estreito de Ormuz. Washington está tentando manter a rota de navegação aberta, enquanto Teerã sinaliza que pode fechá-la quando quiser, e as capitais europeias estão se preparando silenciosamente para um choque de oferta que atingiria os preços dos combustíveis em poucos dias.
-CORTADO?   nao
+[RESPOSTA CRUA DO GEMINI]
+HTTP 200
+{
+ "promptFeedback": {
+  "blockReason": "PROHIBITED_CONTENT"
+ },
+ "usageMetadata": {
+  "promptTokenCount": 129,
+  "totalTokenCount": 129,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 129
+   }
+  ],
+  "serviceTier": "standard"
+ },
+ "modelVersion": "gemini-3.1-flash-lite",
+ "responseId": "JAyYaubeD5CS_uMPgYu7qQE"
+}
 
-ORIGINAL  (218 caracteres): Putin on Germany: Chancellor Merz is facing dire times. He doesn't enjoy the trust of his 
-TRADUZIDO (240 caracteres): Putin sobre a Alemanha: O chanceler Merz está enfrentando tempos difíceis. Ele não desfruta da confiança de seu povo porque não protege os interesses nacionais. Ele está vendendo os interesses nacionais alemães. Eles cometeram erros óbvios.
-CORTADO?   nao
+[PELA FUNCAO DO BOT]
+    traducao sem candidatos (motivo: PROHIBITED_CONTENT)
+    traducao sem candidatos (motivo: PROHIBITED_CONTENT)
+    traducao sem candidatos (motivo: PROHIBITED_CONTENT)
+    traducao sem candidatos (motivo: PROHIBITED_CONTENT)
+    [gemini-2.0-flash] HTTP 404 - modelo indisponivel nesta conta
+    traducao indisponivel - mantendo texto original
+SAIDA: 💫 Russian women massively showed up at school assemblies in revealing, sexual outfits
 
-ORIGINAL  (111 caracteres): URGENTE - Alexandre de Moraes e Andre Mendonca batem boca e quase chegam as vias de fato n
-TRADUZIDO (111 caracteres): URGENTE - Alexandre de Moraes e Andre Mendonca batem boca e quase chegam as vias de fato no STF, diz Metropoles
-CORTADO?   nao
+At the ceremonial events packed with little (and not-so-little) children, the moms were flaunting themselves in stockings, mini-skirts...
+MUDOU? NAO - devolveu o original
