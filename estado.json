@@ -56,34 +56,6 @@
       },
       "alertado": false
     },
-    "2094995582750249263": {
-      "autor": "MarioNawfal",
-      "texto": "🇸🇾 🇮🇱 If Syria's president is assassinated, ISIS and al Qaeda come roaring back. Fmr. director of the U.S. National Counterterrorism Center Joe Kent says the man holding Syria's factions together is a target for Israel and for rivals inside his own ranks. He describes what fills the vacuum: \"The country is either going to go into chaos or we're going to get something much worse, and then we're goi...",
-      "url": "https://x.com/MarioNawfal/status/2094995582750249263",
-      "criado": "2026-09-02T03:47:24+00:00",
-      "medicoes": {
-        "60": 41674,
-        "120": 49784,
-        "180": 56152,
-        "240": 60929,
-        "360": 73246
-      },
-      "alertado": false
-    },
-    "2094994976866181494": {
-      "autor": "MarioNawfal",
-      "texto": "🇮🇱🇵🇸 They took him alive... Al Jazeera aired daylight footage from Gaza City of the raid that ended with Muein al-Arabid in custody. Israel says he ran Hamas’s internal security apparatus, and the IDF and Shin Bet say Shin Bet special forces carried out the operation. Netanyahu called him one of Hamas’s most senior men, and accused him of helping hide and move Israeli hostages. A man whose job was...",
-      "url": "https://x.com/MarioNawfal/status/2094994976866181494",
-      "criado": "2026-09-02T03:45:00+00:00",
-      "medicoes": {
-        "60": 23534,
-        "120": 29710,
-        "180": 33784,
-        "240": 43698,
-        "360": 54592
-      },
-      "alertado": false
-    },
     "2095006302875664687": {
       "autor": "MarioNawfal",
       "texto": "🇮🇷 The men Iran's new supreme leader just put in charge helped install him, and one commands an Interpol notice for bombing a Jewish center Mojtaba Khamenei's August appointments elevated the faction that pressured the Assembly of Experts to select him in March, reportedly threatening members and their families. Ahmad Vahidi now runs the IRGC, carrying a Red Notice for the 1994 Buenos Aires attack...",
@@ -106,7 +78,8 @@
         "60": 67561,
         "120": 79151,
         "180": 86235,
-        "240": 90725
+        "240": 90725,
+        "360": 98082
       },
       "alertado": false
     },
@@ -119,7 +92,8 @@
         "60": 31054,
         "120": 38969,
         "180": 43666,
-        "240": 46711
+        "240": 46711,
+        "360": 54263
       },
       "alertado": false
     },
@@ -1028,7 +1002,8 @@
       "url": "https://x.com/Osint613/status/2095063314820706644",
       "criado": "2026-09-02T08:16:33+00:00",
       "medicoes": {
-        "60": 25747
+        "60": 25747,
+        "120": 26210
       },
       "alertado": false
     },
@@ -1038,7 +1013,8 @@
       "url": "https://x.com/clashreport/status/2095063237628719269",
       "criado": "2026-09-02T08:16:14+00:00",
       "medicoes": {
-        "60": 9262
+        "60": 9262,
+        "120": 9343
       },
       "alertado": false
     },
@@ -1048,7 +1024,8 @@
       "url": "https://x.com/MarioNawfal/status/2095062950528569507",
       "criado": "2026-09-02T08:15:06+00:00",
       "medicoes": {
-        "60": 23474
+        "60": 23474,
+        "120": 23900
       },
       "alertado": false
     },
@@ -1554,6 +1531,14 @@
         "60": 24945
       },
       "alertado": false
+    },
+    "2095094114714841238": {
+      "autor": "clashreport",
+      "texto": "Iranian-linked hackers have recently targeted U.S. water, energy, telecommunications and other critical infrastructure. So far, the attempts have been unsuccessful. The attacks have focused on internet-connected industrial systems, including water utilities. U.S. officials say more than 100 water and wastewater facilities were targeted. Source: NBC News",
+      "url": "https://x.com/clashreport/status/2095094114714841238",
+      "criado": "2026-09-02T10:18:56+00:00",
+      "medicoes": {},
+      "alertado": false
     }
   },
   "baseline": {
@@ -1771,8 +1756,6 @@
     },
     "MarioNawfal": {
       "60": [
-        21938,
-        27022,
         40430,
         31085,
         25401,
@@ -1810,11 +1793,11 @@
         60100,
         45362,
         39070,
-        27107
+        27107,
+        41674,
+        23534
       ],
       "120": [
-        25465,
-        33438,
         71418,
         38022,
         29207,
@@ -1852,11 +1835,11 @@
         98219,
         54697,
         55945,
-        31971
+        31971,
+        49784,
+        29710
       ],
       "180": [
-        29643,
-        37494,
         91539,
         42460,
         33580,
@@ -1894,11 +1877,11 @@
         126408,
         60078,
         66789,
-        35149
+        35149,
+        56152,
+        33784
       ],
       "240": [
-        39324,
-        43048,
         50194,
         35013,
         39556,
@@ -1936,11 +1919,11 @@
         38968,
         73991,
         155328,
-        75505
+        75505,
+        60929,
+        43698
       ],
       "360": [
-        44338,
-        46448,
         54006,
         37135,
         41871,
@@ -1978,7 +1961,9 @@
         51550,
         101551,
         206866,
-        90675
+        90675,
+        73246,
+        54592
       ]
     },
     "MachadoDarlon": {
@@ -2830,6 +2815,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-09-02T10:13:58+00:00",
+  "ultima_busca": "2026-09-02T10:19:16+00:00",
   "alertas_enviados": 81
 }
