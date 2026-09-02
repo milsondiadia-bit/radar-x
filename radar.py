@@ -149,13 +149,18 @@ def buscar_novos(perfis, desde_iso, max_paginas=4):
     # Folga de 2 min para nao perder post que caiu bem na virada da rodada.
     desde_ts = int((corte - timedelta(minutes=2)).timestamp())
 
-    partes = [" OR ".join(f"from:{p}" for p in perfis)]
-    partes.append(f"since_time:{desde_ts}")
+    # Os parenteses sao obrigatorios: sem eles o OR tem precedencia mais
+    # frouxa que o E implicito, e o filtro de tempo valeria so para o
+    # ultimo perfil da lista.
+    grupo = "(" + " OR ".join(f"from:{p}" for p in perfis) + ")"
+
+    partes = [grupo, f"since_time:{desde_ts}"]
     if CFG.get("ignorar_respostas", True):
         # nao paga por resposta que seria descartada depois
         partes.append("-filter:replies")
 
     consulta = " ".join(partes)
+    print(f"  consulta: {consulta}")
 
     achados, cursor, pagina, cobrados = [], None, 0, 0
     while pagina < max_paginas:
