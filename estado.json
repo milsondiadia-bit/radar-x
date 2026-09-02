@@ -42,20 +42,6 @@
       },
       "alertado": false
     },
-    "2094996223149109415": {
-      "autor": "MarioNawfal",
-      "texto": "🚨🇧🇭 Bahrain sent its people to shelter a third time in six hours The Interior Ministry issued another potential threat alert on X, again urging citizens and residents to stay calm, move to the nearest safe location and follow official channels. The first came at as Iran claimed a large Arash-2 drone attack on Sheikh Isa air base. Bahrain hosts the Fifth Fleet and is where Iranian drones wrecked th...",
-      "url": "https://x.com/MarioNawfal/status/2094996223149109415",
-      "criado": "2026-09-02T03:49:57+00:00",
-      "medicoes": {
-        "60": 74114,
-        "120": 78269,
-        "180": 82207,
-        "240": 88589,
-        "360": 97290
-      },
-      "alertado": false
-    },
     "2095006302875664687": {
       "autor": "MarioNawfal",
       "texto": "🇮🇷 The men Iran's new supreme leader just put in charge helped install him, and one commands an Interpol notice for bombing a Jewish center Mojtaba Khamenei's August appointments elevated the faction that pressured the Assembly of Experts to select him in March, reportedly threatening members and their families. Ahmad Vahidi now runs the IRGC, carrying a Red Notice for the 1994 Buenos Aires attack...",
@@ -512,7 +498,8 @@
       "medicoes": {
         "60": 11069,
         "120": 17408,
-        "180": 22056
+        "180": 22056,
+        "240": 22463
       },
       "alertado": false
     },
@@ -524,7 +511,8 @@
       "medicoes": {
         "60": 31660,
         "120": 38865,
-        "180": 45764
+        "180": 45764,
+        "240": 46406
       },
       "alertado": false
     },
@@ -536,7 +524,8 @@
       "medicoes": {
         "60": 22530,
         "120": 26637,
-        "180": 38502
+        "180": 38502,
+        "240": 39811
       },
       "alertado": false
     },
@@ -697,7 +686,8 @@
       "criado": "2026-09-02T07:20:32+00:00",
       "medicoes": {
         "60": 20780,
-        "120": 26622
+        "120": 26622,
+        "180": 27080
       },
       "alertado": false
     },
@@ -708,7 +698,8 @@
       "criado": "2026-09-02T07:20:00+00:00",
       "medicoes": {
         "60": 32511,
-        "120": 91941
+        "120": 91941,
+        "180": 94417
       },
       "alertado": false
     },
@@ -982,7 +973,8 @@
       "url": "https://x.com/clashreport/status/2095064610491576698",
       "criado": "2026-09-02T08:21:42+00:00",
       "medicoes": {
-        "60": 9145
+        "60": 9145,
+        "120": 9303
       },
       "alertado": false
     },
@@ -992,7 +984,8 @@
       "url": "https://x.com/MarioNawfal/status/2095064182798569713",
       "criado": "2026-09-02T08:20:00+00:00",
       "medicoes": {
-        "60": 29005
+        "60": 29005,
+        "120": 30131
       },
       "alertado": false
     },
@@ -1511,7 +1504,9 @@
       "texto": "🇮🇱🇵🇸 Israeli Defense Minister Katz says the only \"solution\" to Gaza is to remove Palestinians, and justifies it by saying 80% of them NOW want to migrate: \"There is no real solution for Gaza in the end without this migration. By the way, 80% want to migrate; it’s checked constantly in surveys. Hamas doesn’t allow them, and there are no countries in the world that will take them. We are fully prepa...",
       "url": "https://x.com/MarioNawfal/status/2095079946842472880",
       "criado": "2026-09-02T09:22:38+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 21997
+      },
       "alertado": false
     },
     "2095079282653413482": {
@@ -1519,7 +1514,9 @@
       "texto": "🇬🇧 A “revolutionary” new procedure at London’s St Thomas’ Hospital can identify the cause of an infection with a single test, potentially within hours instead of days. Using an Oxford Nanopore GridION, it sequences genetic material in a patient sample and searches simultaneously for bacteria, viruses and fungi. For critically ill patients, that could mean finding the infection and choosing the rig...",
       "url": "https://x.com/MarioNawfal/status/2095079282653413482",
       "criado": "2026-09-02T09:20:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 20184
+      },
       "alertado": false
     },
     "2095077611907006817": {
@@ -1537,6 +1534,14 @@
       "texto": "Iranian-linked hackers have recently targeted U.S. water, energy, telecommunications and other critical infrastructure. So far, the attempts have been unsuccessful. The attacks have focused on internet-connected industrial systems, including water utilities. U.S. officials say more than 100 water and wastewater facilities were targeted. Source: NBC News",
       "url": "https://x.com/clashreport/status/2095094114714841238",
       "criado": "2026-09-02T10:18:56+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2095094381636440464": {
+      "autor": "MarioNawfal",
+      "texto": "New homicide defense strategy just dropped: I wasn't wearing my glasses 🤓 Writer: Michael https://t.co/PSlHurHgNS",
+      "url": "https://x.com/MarioNawfal/status/2095094381636440464",
+      "criado": "2026-09-02T10:20:00+00:00",
       "medicoes": {},
       "alertado": false
     }
@@ -1756,7 +1761,6 @@
     },
     "MarioNawfal": {
       "60": [
-        40430,
         31085,
         25401,
         29115,
@@ -1795,10 +1799,10 @@
         39070,
         27107,
         41674,
-        23534
+        23534,
+        74114
       ],
       "120": [
-        71418,
         38022,
         29207,
         37508,
@@ -1837,10 +1841,10 @@
         55945,
         31971,
         49784,
-        29710
+        29710,
+        78269
       ],
       "180": [
-        91539,
         42460,
         33580,
         41888,
@@ -1879,10 +1883,10 @@
         66789,
         35149,
         56152,
-        33784
+        33784,
+        82207
       ],
       "240": [
-        50194,
         35013,
         39556,
         111322,
@@ -1921,10 +1925,10 @@
         155328,
         75505,
         60929,
-        43698
+        43698,
+        88589
       ],
       "360": [
-        54006,
         37135,
         41871,
         217565,
@@ -1963,7 +1967,8 @@
         206866,
         90675,
         73246,
-        54592
+        54592,
+        97290
       ]
     },
     "MachadoDarlon": {
@@ -2815,6 +2820,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-09-02T10:19:16+00:00",
+  "ultima_busca": "2026-09-02T10:23:26+00:00",
   "alertas_enviados": 81
 }
