@@ -1,0 +1,34 @@
+
+============================================================
+@MarioNawfal - metodo 1: syndication timeline-profile
+============================================================
+  HTTP 429 | 20 bytes
+
+============================================================
+@MarioNawfal - metodo 2: cdn.syndication timeline/profile
+============================================================
+  HTTP 200 | 0 bytes
+
+============================================================
+@MarioNawfal - metodo 3: fxtwitter perfil
+============================================================
+  HTTP 200
+  chaves em user: ['avatar_url', 'banner_url', 'description', 'followers', 'following', 'id', 'joined', 'likes', 'location', 'media_count', 'name', 'protected', 'raw_description', 'screen_name', 'tweets', 'url', 'verification', 'website']
+  >>> tem 'tweets'
+
+============================================================
+@clashreport - metodo 1: syndication timeline-profile
+============================================================
+  HTTP 429 | 20 bytes
+
+============================================================
+@clashreport - metodo 2: cdn.syndication timeline/profile
+============================================================
+  HTTP 200 | 0 bytes
+
+============================================================
+@clashreport - metodo 3: fxtwitter perfil
+============================================================
+  HTTP 200
+  chaves em user: ['avatar_url', 'banner_url', 'description', 'followers', 'following', 'id', 'joined', 'likes', 'location', 'media_count', 'name', 'protected', 'raw_description', 'screen_name', 'tweets', 'url', 'verification', 'website']
+  >>> tem 'tweets'
