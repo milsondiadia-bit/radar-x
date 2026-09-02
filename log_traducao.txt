@@ -1,30 +1,25 @@
 ============================================================
-MODELOS DISPONIVEIS NESTA CHAVE
+Modelos: gemini-3.1-flash-lite, gemini-3-flash-preview, gemini-2.5-flash-lite
 ============================================================
-   gemini-2.5-flash
-   gemini-2.5-flash-preview-tts
-   gemini-flash-latest
-   gemini-flash-lite-latest
-   gemini-2.5-flash-lite
-   gemini-2.5-flash-image
-   gemini-3-flash-preview
-   gemini-3.1-flash-lite-preview
-   gemini-3.1-flash-lite
-   gemini-3.1-flash-image-preview
-   gemini-3.1-flash-image
-   gemini-3.1-flash-lite-image
-   gemini-3.5-flash
-   gemini-3.5-flash-lite
-   gemini-omni-flash-preview
-   gemini-omni-1.1-flash
-   gemini-3.6-flash
-   gemini-3.7-flash
-   gemini-3.1-flash-tts-preview
 
-============================================================
-TRADUTOR DE RESERVA (Google Translate publico, sem chave)
-============================================================
-  HTTP 429
-SAIDA: None
+--- nexta_tv (bloqueio infantil - deve continuar sem traducao)
+    traducao sem candidatos (motivo: PROHIBITED_CONTENT)
+    traducao sem candidatos (motivo: PROHIBITED_CONTENT)
+    traducao sem candidatos (motivo: PROHIBITED_CONTENT)
+    traducao sem candidatos (motivo: PROHIBITED_CONTENT)
+    [gemini-2.5-flash-lite] HTTP 404 - modelo indisponivel nesta conta
+    traducao indisponivel - mantendo texto original
+    NAO TRADUZIU
+    ⚠️ (sem traducao) Russian women massively showed up at school assemblies in revealing, sexual outfits. At the ceremonial events packed with little children, the moms were flaunting themselves in stock
 
-MUDOU? NAO
+--- guerra - antes podia ser bloqueado
+    TRADUZIU
+    Relatos de Mashhad, no Irã, informam que um veículo avançou sobre uma manifestação pró-IRGC na área de Eghbal Lahouri, com um número muito grande de vítimas relatado. Serviços de emergência estão no l
+
+--- missil / conflito armado
+    TRADUZIU
+    A Rússia ajudou secretamente o Irã a desenvolver mísseis de cruzeiro supersônicos avançados capazes de ameaçar porta-aviões e navios de guerra dos EUA no Oriente Médio, descobriu uma investigação.
+
+--- politica
+    TRADUZIU
+    Zelenskyy disse que a Ucrânia está lançando uma campanha para bloquear o espaço aéreo da Rússia. Queremos alertar cada companhia aérea que utiliza o espaço aéreo russo, cada seguradora e todos que ain
