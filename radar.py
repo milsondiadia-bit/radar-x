@@ -236,6 +236,23 @@ def atualizar_views(ids):
             else:
                 resultado[str(tid)] = v
             time.sleep(0.4)  # respiro para nao irritar o servico gratuito
+
+        # Segunda tentativa: quem falhou costuma ser post recem-publicado que
+        # o fxtwitter ainda nao indexou. Alguns segundos depois ele responde,
+        # e cada um que responde aqui e um que nao vai para a API paga.
+        if faltaram:
+            print(f"  {len(faltaram)} nao responderam - tentando de novo em 15s")
+            time.sleep(15)
+            ainda_faltam = []
+            for tid in faltaram:
+                v = views_fxtwitter(tid)
+                if v is None:
+                    ainda_faltam.append(tid)
+                else:
+                    resultado[str(tid)] = v
+                time.sleep(0.4)
+            faltaram = ainda_faltam
+
         print(f"  medidos de graca: {len(resultado)} | sobraram para a API paga: {len(faltaram)}")
 
     for i in range(0, len(faltaram), 50):
