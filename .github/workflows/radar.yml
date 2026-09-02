@@ -39,5 +39,15 @@ jobs:
           git config user.email "radar@users.noreply.github.com"
           git add estado.json
           git add -f log.txt
-          git diff --staged --quiet || git commit -m "estado $(date -u '+%Y-%m-%d %H:%M')"
-          git push
+          git diff --staged --quiet && exit 0
+          git commit -m "estado $(date -u '+%Y-%m-%d %H:%M')"
+          # Outro workflow pode ter gravado neste repositorio no mesmo minuto.
+          # Sincroniza e tenta de novo antes de desistir.
+          for tentativa in 1 2 3 4 5; do
+            if git push; then exit 0; fi
+            echo "push recusado (tentativa $tentativa) - sincronizando"
+            git pull --rebase --autostash origin main || true
+            sleep $((tentativa * 5))
+          done
+          echo "nao consegui salvar o log, mas o bot rodou normalmente"
+          exit 0
