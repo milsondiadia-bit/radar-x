@@ -1,0 +1,58 @@
+name: Teste Traducao
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  teste:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests
+
+      - name: Testar traducao
+        env:
+          TWITTERAPI_KEY: ${{ secrets.TWITTERAPI_KEY }}
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          set -o pipefail
+          python -u - 2>&1 <<'PY' | tee log_traducao.txt
+          import radar
+
+          exemplos = [
+              "The Iran war has turned from a fight about Tehran's nuclear program into a battle for control over the Strait of Hormuz. Washington is trying to keep the shipping lane open while Tehran signals it can close it at will, and European capitals are quietly preparing for a supply shock that would hit fuel prices within days.",
+              "Putin on Germany: Chancellor Merz is facing dire times. He doesn't enjoy the trust of his people because he does not protect national interests. He is selling German national interests. They have made obvious mistakes.",
+              "URGENTE - Alexandre de Moraes e Andre Mendonca batem boca e quase chegam as vias de fato no STF, diz Metropoles",
+          ]
+
+          print("=" * 60)
+          print("Chave Gemini presente:", bool(radar.GEMINI_KEY))
+          print("Modelos:", ", ".join(radar.MODELOS))
+          print("=" * 60)
+
+          for texto in exemplos:
+              print("")
+              print("ORIGINAL  (%d caracteres): %s" % (len(texto), texto[:90]))
+              saida = radar.traduzir(texto)
+              print("TRADUZIDO (%d caracteres): %s" % (len(saida), saida))
+              print("CORTADO?  ", "SIM - texto truncado" if len(saida) < len(texto) * 0.5 else "nao")
+          PY
+
+      - name: Salvar log
+        if: always()
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar@users.noreply.github.com"
+          git add -f log_traducao.txt
+          git diff --staged --quiet || git commit -m "teste traducao"
+          git push
