@@ -1,17 +1,8 @@
-  consulta: (from:MarioNawfal OR from:Osint613 OR from:clashreport OR from:nexta_tv OR from:NewsLiberdade OR from:MachadoDarlon) since_time:1788464301 -filter:replies
-  busca: 22 posts cobrados (~330 creditos)
-Posts novos guardados: 20
-Posts para medir: 101
-  medidos de graca: 101 | sobraram para a API paga: 0
-    [gemini-3.1-flash-lite] erro de rede: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=30)
-    [gemini-3.1-flash-lite] HTTP 503 - cota ou sobrecarga, trocando de modelo
-    [gemini-3-flash-preview] erro de rede: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=30)
-    [gemini-3-flash-preview] HTTP 503 - cota ou sobrecarga, trocando de modelo
-    [gemini-2.5-flash-lite] HTTP 404 - modelo indisponivel nesta conta
-    traducao indisponivel - mantendo texto original
-    traducao indisponivel - mantendo texto original
-    traducao indisponivel - mantendo texto original
-    traducao indisponivel - mantendo texto original
-Alertas enviados: 6
-Posts aposentados: 24
+  consulta: (from:MarioNawfal OR from:Osint613 OR from:clashreport OR from:nexta_tv OR from:NewsLiberdade OR from:MachadoDarlon) since_time:1788466102 -filter:replies
+  busca: 26 posts cobrados (~390 creditos)
+Posts novos guardados: 24
+Posts para medir: 83
+  medidos de graca: 83 | sobraram para a API paga: 0
+Alertas enviados: 4
+Posts aposentados: 12
 Amostras por perfil: MarioNawfal:40 | Osint613:40 | clashreport:40 | nexta_tv:40 | NewsLiberdade:40 | MachadoDarlon:40
