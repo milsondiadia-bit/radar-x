@@ -1,89 +1,5 @@
 {
   "posts": {
-    "2096156379614691508": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 An American Airlines passenger was duct-taped to his seat and zip-tied after a mid-air meltdown forced a flight from Dallas to Newark to divert to Baltimore. The man allegedly hurled racist and anti-gay slurs, struck his seatmate, smashed his computer and pushed another passenger before three passengers and crew helped restrain him. The FAA says there have already been more than 1,160 unruly pa...",
-      "url": "https://x.com/MarioNawfal/status/2096156379614691508",
-      "criado": "2026-09-05T08:40:00+00:00",
-      "medicoes": {
-        "60": 30631,
-        "120": 54058,
-        "180": 76479,
-        "240": 95898,
-        "360": 131837
-      },
-      "alertado": false
-    },
-    "2096155198225834142": {
-      "autor": "clashreport",
-      "texto": "NEW: Witkoff and Kushner arrive in Moscow for another round of talks. https://t.co/PJG0fUAoQw",
-      "url": "https://x.com/clashreport/status/2096155198225834142",
-      "criado": "2026-09-05T08:35:18+00:00",
-      "medicoes": {
-        "60": 16136,
-        "120": 31627,
-        "180": 44465,
-        "240": 54466,
-        "360": 67729
-      },
-      "alertado": true
-    },
-    "2096153865351798812": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 Multiple jurors reacted viscerally when the judge declared a mistrial in the Lindsey Clancy case. One reportedly shook their head \"no,\" another clenched their hands into fists, and a third had her eyes shut as the decision was announced. Writer: Mhedi https://t.co/LdHaPIOzLq",
-      "url": "https://x.com/MarioNawfal/status/2096153865351798812",
-      "criado": "2026-09-05T08:30:00+00:00",
-      "medicoes": {
-        "60": 21721,
-        "120": 26479,
-        "180": 31483,
-        "240": 41702,
-        "360": 55803
-      },
-      "alertado": false
-    },
-    "2096153106044072232": {
-      "autor": "clashreport",
-      "texto": "Iran’s Tasnim reports that an Iranian oil tanker about six miles off Kharg Island was struck by four U.S. missiles this morning. Tasnim says there were no casualties and that the crew is evacuating the vessel. The extent of the damage is still being assessed.",
-      "url": "https://x.com/clashreport/status/2096153106044072232",
-      "criado": "2026-09-05T08:26:59+00:00",
-      "medicoes": {
-        "60": 8334,
-        "120": 10414,
-        "180": 11504,
-        "240": 12264,
-        "360": 13321
-      },
-      "alertado": false
-    },
-    "2096152604782862773": {
-      "autor": "nexta_tv",
-      "texto": "People killed in an explosion at a military facility in Bolivia An explosion occurred at a military equipment maintenance center in the city of Viacha in southwestern Bolivia. Two people were killed, 59 were injured, and seven others remain missing. Rescue crews are still working at the site. The cause of the explosion is not yet known. According to authorities, pyrotechnic materials were stored a...",
-      "url": "https://x.com/nexta_tv/status/2096152604782862773",
-      "criado": "2026-09-05T08:25:00+00:00",
-      "medicoes": {
-        "60": 10921,
-        "120": 13374,
-        "180": 15059,
-        "240": 16347,
-        "360": 20107
-      },
-      "alertado": false
-    },
-    "2096151346424725514": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 Fetterman's ex-staffers are pissed, and they’re about to blow the lid off what was really happening behind closed doors A recent WSJ report slammed Fetterman for skipping funerals and dodging meetings with constituents, including three paralyzed veterans, so he could appear on Fox to defend Israel Now, his former aides have set up an X account and are on the warpath, saying that's just \"the tip...",
-      "url": "https://x.com/MarioNawfal/status/2096151346424725514",
-      "criado": "2026-09-05T08:20:00+00:00",
-      "medicoes": {
-        "60": 28173,
-        "120": 41520,
-        "180": 58443,
-        "240": 74006,
-        "360": 95757
-      },
-      "alertado": false
-    },
     "2096163929550680489": {
       "autor": "MarioNawfal",
       "texto": "🇮🇷 Iranian state media says a U.S. strike hit an Iranian oil tanker near Kharg Island. Tasnim reports the ship was struck by four missiles about six miles from the anchorage. It says there were no casualties and that the crew is being evacuated. Washington has not confirmed the attack yet. Source: RT News / Writer: Lynn",
@@ -93,7 +9,8 @@
         "60": 29935,
         "120": 43739,
         "180": 53654,
-        "240": 60108
+        "240": 60108,
+        "360": 69059
       },
       "alertado": false
     },
@@ -106,7 +23,8 @@
         "60": 6155,
         "120": 8785,
         "180": 9989,
-        "240": 10817
+        "240": 10817,
+        "360": 12396
       },
       "alertado": false
     },
@@ -119,7 +37,8 @@
         "60": 12103,
         "120": 16409,
         "180": 20358,
-        "240": 23765
+        "240": 23765,
+        "360": 34850
       },
       "alertado": false
     },
@@ -132,7 +51,8 @@
         "60": 7233,
         "120": 10003,
         "180": 11627,
-        "240": 12598
+        "240": 12598,
+        "360": 13955
       },
       "alertado": false
     },
@@ -145,7 +65,8 @@
         "60": 27711,
         "120": 41522,
         "180": 53151,
-        "240": 64592
+        "240": 64592,
+        "360": 83519
       },
       "alertado": false
     },
@@ -158,7 +79,8 @@
         "60": 9642,
         "120": 15925,
         "180": 26587,
-        "240": 35862
+        "240": 35862,
+        "360": 47308
       },
       "alertado": false
     },
@@ -171,7 +93,8 @@
         "60": 8910,
         "120": 13154,
         "180": 16210,
-        "240": 19077
+        "240": 19077,
+        "360": 23320
       },
       "alertado": false
     },
@@ -184,7 +107,8 @@
         "60": 8144,
         "120": 11537,
         "180": 13791,
-        "240": 15646
+        "240": 15646,
+        "360": 18758
       },
       "alertado": false
     },
@@ -197,7 +121,8 @@
         "60": 28949,
         "120": 40415,
         "180": 50726,
-        "240": 58745
+        "240": 58745,
+        "360": 74450
       },
       "alertado": false
     },
@@ -221,7 +146,8 @@
         "60": 11072,
         "120": 14736,
         "180": 17003,
-        "240": 18818
+        "240": 18818,
+        "360": 21431
       },
       "alertado": false
     },
@@ -234,7 +160,8 @@
         "60": 22461,
         "120": 30818,
         "180": 38877,
-        "240": 43745
+        "240": 43745,
+        "360": 49842
       },
       "alertado": false
     },
@@ -691,7 +618,8 @@
       "medicoes": {
         "60": 25718,
         "120": 37377,
-        "180": 44837
+        "180": 44837,
+        "240": 49572
       },
       "alertado": false
     },
@@ -714,7 +642,8 @@
       "medicoes": {
         "60": 11844,
         "120": 17683,
-        "180": 21811
+        "180": 21811,
+        "240": 25136
       },
       "alertado": false
     },
@@ -726,7 +655,8 @@
       "medicoes": {
         "60": 10995,
         "120": 14838,
-        "180": 17469
+        "180": 17469,
+        "240": 19024
       },
       "alertado": false
     },
@@ -738,7 +668,8 @@
       "medicoes": {
         "60": 13092,
         "120": 18577,
-        "180": 21890
+        "180": 21890,
+        "240": 24471
       },
       "alertado": false
     },
@@ -762,7 +693,8 @@
       "medicoes": {
         "60": 28591,
         "120": 40791,
-        "180": 49746
+        "180": 49746,
+        "240": 55766
       },
       "alertado": false
     },
@@ -774,7 +706,8 @@
       "medicoes": {
         "60": 8147,
         "120": 13453,
-        "180": 19004
+        "180": 19004,
+        "240": 21864
       },
       "alertado": false
     },
@@ -786,7 +719,8 @@
       "medicoes": {
         "60": 29160,
         "120": 36674,
-        "180": 42205
+        "180": 42205,
+        "240": 45778
       },
       "alertado": false
     },
@@ -798,7 +732,8 @@
       "medicoes": {
         "60": 13290,
         "120": 18093,
-        "180": 22847
+        "180": 22847,
+        "240": 28788
       },
       "alertado": false
     },
@@ -810,7 +745,8 @@
       "medicoes": {
         "60": 1348,
         "120": 2754,
-        "180": 3439
+        "180": 3439,
+        "240": 4129
       },
       "alertado": false
     },
@@ -834,7 +770,8 @@
       "medicoes": {
         "60": 15973,
         "120": 25266,
-        "180": 35280
+        "180": 35280,
+        "240": 42550
       },
       "alertado": false
     },
@@ -846,9 +783,10 @@
       "medicoes": {
         "60": 23246,
         "120": 36989,
-        "180": 50893
+        "180": 50893,
+        "240": 62940
       },
-      "alertado": false
+      "alertado": true
     },
     "2096201678257037462": {
       "autor": "MarioNawfal",
@@ -976,7 +914,8 @@
       "criado": "2026-09-05T12:10:00+00:00",
       "medicoes": {
         "60": 35887,
-        "120": 60541
+        "120": 60541,
+        "180": 81655
       },
       "alertado": false
     },
@@ -987,7 +926,8 @@
       "criado": "2026-09-05T12:04:34+00:00",
       "medicoes": {
         "60": 10937,
-        "120": 14539
+        "120": 14539,
+        "180": 16716
       },
       "alertado": false
     },
@@ -998,7 +938,8 @@
       "criado": "2026-09-05T12:00:03+00:00",
       "medicoes": {
         "60": 24919,
-        "120": 33071
+        "120": 33071,
+        "180": 39775
       },
       "alertado": false
     },
@@ -1009,7 +950,8 @@
       "criado": "2026-09-05T12:00:03+00:00",
       "medicoes": {
         "60": 16187,
-        "120": 29510
+        "120": 29510,
+        "180": 44599
       },
       "alertado": false
     },
@@ -1020,7 +962,8 @@
       "criado": "2026-09-05T11:57:16+00:00",
       "medicoes": {
         "60": 13040,
-        "120": 17581
+        "120": 17581,
+        "180": 20219
       },
       "alertado": false
     },
@@ -1031,7 +974,8 @@
       "criado": "2026-09-05T11:57:15+00:00",
       "medicoes": {
         "60": 14026,
-        "120": 21084
+        "120": 21084,
+        "180": 26638
       },
       "alertado": false
     },
@@ -1053,7 +997,8 @@
       "criado": "2026-09-05T11:50:21+00:00",
       "medicoes": {
         "60": 22202,
-        "120": 36846
+        "120": 36846,
+        "180": 45342
       },
       "alertado": false
     },
@@ -1064,7 +1009,8 @@
       "criado": "2026-09-05T11:50:00+00:00",
       "medicoes": {
         "60": 41456,
-        "120": 58747
+        "120": 58747,
+        "180": 70604
       },
       "alertado": false
     },
@@ -1161,7 +1107,8 @@
       "url": "https://x.com/MarioNawfal/status/2096224327280775337",
       "criado": "2026-09-05T13:10:00+00:00",
       "medicoes": {
-        "60": 32726
+        "60": 32726,
+        "120": 47759
       },
       "alertado": false
     },
@@ -1171,9 +1118,10 @@
       "url": "https://x.com/MachadoDarlon/status/2096224104365867013",
       "criado": "2026-09-05T13:09:07+00:00",
       "medicoes": {
-        "60": 1155
+        "60": 1155,
+        "120": 3933
       },
-      "alertado": false
+      "alertado": true
     },
     "2096223960975233262": {
       "autor": "NewsLiberdade",
@@ -1181,7 +1129,8 @@
       "url": "https://x.com/NewsLiberdade/status/2096223960975233262",
       "criado": "2026-09-05T13:08:32+00:00",
       "medicoes": {
-        "60": 17707
+        "60": 17707,
+        "120": 25368
       },
       "alertado": false
     },
@@ -1191,7 +1140,8 @@
       "url": "https://x.com/MarioNawfal/status/2096221812451615096",
       "criado": "2026-09-05T13:00:00+00:00",
       "medicoes": {
-        "60": 25009
+        "60": 25009,
+        "120": 32021
       },
       "alertado": false
     },
@@ -1201,7 +1151,8 @@
       "url": "https://x.com/MachadoDarlon/status/2096221478878380513",
       "criado": "2026-09-05T12:58:41+00:00",
       "medicoes": {
-        "60": 465
+        "60": 465,
+        "120": 712
       },
       "alertado": false
     },
@@ -1211,7 +1162,8 @@
       "url": "https://x.com/MarioNawfal/status/2096220552658841992",
       "criado": "2026-09-05T12:55:00+00:00",
       "medicoes": {
-        "60": 26130
+        "60": 26130,
+        "120": 30746
       },
       "alertado": false
     },
@@ -1221,7 +1173,8 @@
       "url": "https://x.com/MarioNawfal/status/2096219294531039643",
       "criado": "2026-09-05T12:50:00+00:00",
       "medicoes": {
-        "60": 29387
+        "60": 29387,
+        "120": 36210
       },
       "alertado": false
     },
@@ -1231,7 +1184,8 @@
       "url": "https://x.com/MarioNawfal/status/2096218036164263982",
       "criado": "2026-09-05T12:45:00+00:00",
       "medicoes": {
-        "60": 34611
+        "60": 34611,
+        "120": 42032
       },
       "alertado": false
     },
@@ -1241,7 +1195,8 @@
       "url": "https://x.com/nexta_tv/status/2096218036013355220",
       "criado": "2026-09-05T12:45:00+00:00",
       "medicoes": {
-        "60": 16972
+        "60": 16972,
+        "120": 28338
       },
       "alertado": false
     },
@@ -1341,7 +1296,8 @@
       "url": "https://x.com/MarioNawfal/status/2096224412991148273",
       "criado": "2026-09-05T13:10:20+00:00",
       "medicoes": {
-        "60": 29695
+        "60": 29695,
+        "120": 32640
       },
       "alertado": false
     },
@@ -1350,7 +1306,9 @@
       "texto": "🇺🇸🇮🇷 CENTCOM says it struck 3 Iranian crude tankers today after the IRGC fired ballistic missiles at a U.S. carrier and destroyer. Both warships escaped, and no Americans were hurt. The ships hit were Downy off Kharg, Stark 1 near Jask, and Kylo, also known as Noxen, in the Gulf of Oman after its crew was ordered to leave. Downy and Stark 1 belong to the National Iranian Tanker Company. Kylo has c...",
       "url": "https://x.com/MarioNawfal/status/2096239426859131252",
       "criado": "2026-09-05T14:10:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 33717
+      },
       "alertado": false
     },
     "2096237900979372477": {
@@ -1358,7 +1316,9 @@
       "texto": "Japan’s Prime Minister Sanae Takaichi: On September 4, in the city of Khabarovsk, Russia, an unveiling ceremony was held for a bronze statue of the Victory over Japan Memorial, depicting a Soviet soldier destroying a boundary marker imprinted with the Chrysanthemum Crest. In particular, the Chrysanthemum Crest is widely recognized as a crest symbolizing Japan, and the installation of a memorial de...",
       "url": "https://x.com/clashreport/status/2096237900979372477",
       "criado": "2026-09-05T14:03:56+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 11424
+      },
       "alertado": false
     },
     "2096236915641253987": {
@@ -1366,7 +1326,9 @@
       "texto": "🇹🇷 Tragic footage of the last moments in the life of a father of 3 in Türkiye who thought diving off a pier in Antalya was harmless enough fun. Unfortunately, the water was unexpectedly shallow and he broke his neck. Writer: Mhedi https://t.co/VL26uskycV",
       "url": "https://x.com/MarioNawfal/status/2096236915641253987",
       "criado": "2026-09-05T14:00:01+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 51542
+      },
       "alertado": false
     },
     "2096235928469622964": {
@@ -1374,7 +1336,9 @@
       "texto": "CENTCOM confirms that US forces destroyed three Iranian crude oil tankers: - M/T DOWNY (IMO 9218480) - M/T STARK 1 (IMO 9171450) - M/T KYLO (IMO 9189146) This in response to IRGC forces launching ballistic missiles yesterday towards two US Navy warships patrolling the region. https://t.co/79zXKc46RY",
       "url": "https://x.com/Osint613/status/2096235928469622964",
       "criado": "2026-09-05T13:56:06+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 93812
+      },
       "alertado": false
     },
     "2096235652253683736": {
@@ -1382,7 +1346,9 @@
       "texto": "🇮🇱🇵🇸 ISRAEL’S GAZA SEWAGE PROBLEM JUST CAME SWIMMING BACK Five of Israel’s six desalination plants were knocked offline after a massive algae bloom clogged their intake systems. The bloom originated near Egypt’s Nile Delta, but experts say 40,000 cubic meters of untreated sewage pouring out of Gaza every day may be helping feed it after the war wrecked much of the enclave’s sanitation infrastructu...",
       "url": "https://x.com/MarioNawfal/status/2096235652253683736",
       "criado": "2026-09-05T13:55:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 29118
+      },
       "alertado": false
     },
     "2096235652161438043": {
@@ -1390,7 +1356,9 @@
       "texto": "US presidential envoys Witkoff and Kushner were taken to a Moscow restaurant for lunch ahead of their meeting with Putin. https://t.co/v1ouF3hbva",
       "url": "https://x.com/nexta_tv/status/2096235652161438043",
       "criado": "2026-09-05T13:55:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 19574
+      },
       "alertado": false
     },
     "2096235367154270687": {
@@ -1398,7 +1366,9 @@
       "texto": "US Embassy in Bahrain: “Due to tensions in the Middle East, the security environment remains complex with the potential for unforeseen escalation. The U.S. Embassy reminds American citizens that Iran has previously targeted civilian infrastructure in Bahrain, including hotels in Manama. Americans currently in the Middle East should exercise heightened vigilance and be aware of potential flight can...",
       "url": "https://x.com/Osint613/status/2096235367154270687",
       "criado": "2026-09-05T13:53:52+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 23678
+      },
       "alertado": false
     },
     "2096235021967273999": {
@@ -1406,7 +1376,9 @@
       "texto": "🚨URGENTE - Fachin indica intenção de levar ao plenário crise envolvendo Moraes e Mendonça, diz CNN https://t.co/c80fi0SUid",
       "url": "https://x.com/NewsLiberdade/status/2096235021967273999",
       "criado": "2026-09-05T13:52:30+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 17627
+      },
       "alertado": false
     },
     "2096234393723674868": {
@@ -1414,7 +1386,9 @@
       "texto": "🇩🇪 Hackers have dumped around 1.4 million files stolen from Berlin’s state administration onto the dark web after authorities refused to pay a roughly €2 million ransom. The leak includes personnel files, performance reviews, job applications and internal documents, with some material potentially containing sensitive information on hospitals, fuel depots, emergency power systems and arms manufactu...",
       "url": "https://x.com/MarioNawfal/status/2096234393723674868",
       "criado": "2026-09-05T13:50:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 34489
+      },
       "alertado": false
     },
     "2096233891329630239": {
@@ -1422,7 +1396,9 @@
       "texto": "NEW: U.S. Central Command said it struck three Iranian oil tankers after the IRGC launched ballistic missiles at two U.S. Navy warships. CENTCOM said the American vessels avoided the attacks and no U.S. personnel were injured. In response, U.S. forces disabled the M/T Downy and M/T Stark 1 and destroyed the M/T Kylo, also known as Noxen, after its crew abandoned ship.",
       "url": "https://x.com/clashreport/status/2096233891329630239",
       "criado": "2026-09-05T13:48:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 24175
+      },
       "alertado": false
     },
     "2096244460359200998": {
@@ -1462,6 +1438,46 @@
       "texto": "🚨URGENTE - Anvisa autoriza uso de remédio experimental para Lito https://t.co/qWzmlc3SY5",
       "url": "https://x.com/NewsLiberdade/status/2096241800851648876",
       "criado": "2026-09-05T14:19:26+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096252893460357534": {
+      "autor": "MarioNawfal",
+      "texto": "🇸🇩 A Middle Eastern intel dossier obtained by the NY Times reportedly contains nearly 150 documents, images, videos and recordings, plus thousands of messages detailing a secret Sudanese military chemical weapons program. The material alleges officers developed bombs containing roughly 15kg of chlorine each, tested them in the desert and manufactured nearly 300 chemical weapons by October 2024. An...",
+      "url": "https://x.com/MarioNawfal/status/2096252893460357534",
+      "criado": "2026-09-05T15:03:30+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096252670533099741": {
+      "autor": "NewsLiberdade",
+      "texto": "🚨AGORA - Flávio Bolsonaro foca no endividamento das famílias na propaganda eleitoral da TV e rádio https://t.co/y4qxgvP5zN",
+      "url": "https://x.com/NewsLiberdade/status/2096252670533099741",
+      "criado": "2026-09-05T15:02:37+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096252016280682507": {
+      "autor": "MarioNawfal",
+      "texto": "🇰🇷 Seoul is reportedly shopping a tiny package for Hormuz and hoping that’s enough. They’re looking at a patrol plane, a supply ship, and a mine team, but parliament hasn’t voted and the government still says nothing is locked. Today’s leak is they may drop the ship altogether and send about 50 people. Trump already linked a cut in Korea U.S. drills to Seoul sitting out the Iran war, President Lee...",
+      "url": "https://x.com/MarioNawfal/status/2096252016280682507",
+      "criado": "2026-09-05T15:00:01+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096248738151010758": {
+      "autor": "nexta_tv",
+      "texto": "Moment the fighter jet crashed in Greece",
+      "url": "https://x.com/nexta_tv/status/2096248738151010758",
+      "criado": "2026-09-05T14:47:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096248234935263525": {
+      "autor": "MarioNawfal",
+      "texto": "🇸🇩 SECRET DOSSIER POINTS TO SUDAN USING CHEMICAL WEAPONS A Middle Eastern intelligence dossier obtained by the New York Times reportedly provides new evidence that Sudan’s military developed and used chlorine-based chemical weapons against the UAE-backed Rapid Support Forces. The cache includes nearly 150 documents, videos, images and recordings, plus thousands of messages. It describes a secret 2...",
+      "url": "https://x.com/MarioNawfal/status/2096248234935263525",
+      "criado": "2026-09-05T14:45:00+00:00",
       "medicoes": {},
       "alertado": false
     }
@@ -1681,9 +1697,6 @@
     },
     "MarioNawfal": {
       "60": [
-        22697,
-        19762,
-        19598,
         21555,
         21668,
         26712,
@@ -1720,12 +1733,12 @@
         25726,
         24487,
         22523,
-        26831
+        26831,
+        30631,
+        21721,
+        28173
       ],
       "120": [
-        33554,
-        27038,
-        23124,
         23112,
         28939,
         24871,
@@ -1762,12 +1775,12 @@
         36122,
         33624,
         27563,
-        34287
+        34287,
+        54058,
+        26479,
+        41520
       ],
       "180": [
-        44139,
-        29706,
-        39416,
         34641,
         26953,
         34018,
@@ -1804,12 +1817,12 @@
         43200,
         40028,
         31856,
-        41551
+        41551,
+        76479,
+        31483,
+        58443
       ],
       "240": [
-        50328,
-        36172,
-        44675,
         41596,
         31794,
         40789,
@@ -1846,12 +1859,12 @@
         49831,
         45158,
         39378,
-        48229
+        48229,
+        95898,
+        41702,
+        74006
       ],
       "360": [
-        58674,
-        44095,
-        56581,
         57019,
         37249,
         55755,
@@ -1888,7 +1901,10 @@
         60386,
         53503,
         51600,
-        60317
+        60317,
+        131837,
+        55803,
+        95757
       ]
     },
     "MachadoDarlon": {
@@ -2105,7 +2121,6 @@
     },
     "clashreport": {
       "60": [
-        8614,
         18304,
         9022,
         14304,
@@ -2144,10 +2159,10 @@
         7155,
         7988,
         11242,
-        8187
+        8187,
+        8334
       ],
       "120": [
-        9602,
         22617,
         9918,
         16367,
@@ -2186,10 +2201,10 @@
         9642,
         10284,
         15295,
-        10333
+        10333,
+        10414
       ],
       "180": [
-        10243,
         25519,
         10432,
         17593,
@@ -2228,10 +2243,10 @@
         11596,
         11685,
         18956,
-        15250
+        15250,
+        11504
       ],
       "240": [
-        10718,
         27378,
         10782,
         18343,
@@ -2270,10 +2285,10 @@
         19895,
         12625,
         21699,
-        18710
+        18710,
+        12264
       ],
       "360": [
-        12471,
         29954,
         13193,
         19268,
@@ -2312,7 +2327,8 @@
         51704,
         14580,
         26505,
-        23126
+        23126,
+        13321
       ]
     },
     "Osint613": {
@@ -2529,7 +2545,6 @@
     },
     "nexta_tv": {
       "60": [
-        14688,
         11859,
         14213,
         12645,
@@ -2568,10 +2583,10 @@
         17641,
         14959,
         15610,
-        13480
+        13480,
+        10921
       ],
       "120": [
-        18458,
         15243,
         20282,
         15423,
@@ -2610,10 +2625,10 @@
         22368,
         19822,
         24347,
-        16672
+        16672,
+        13374
       ],
       "180": [
-        21466,
         17963,
         25379,
         17449,
@@ -2652,10 +2667,10 @@
         25877,
         23128,
         33523,
-        19572
+        19572,
+        15059
       ],
       "240": [
-        24287,
         20589,
         28959,
         18994,
@@ -2694,10 +2709,10 @@
         29155,
         25638,
         54186,
-        22207
+        22207,
+        16347
       ],
       "360": [
-        28797,
         24824,
         34680,
         21213,
@@ -2736,10 +2751,11 @@
         33522,
         29893,
         82114,
-        25672
+        25672,
+        20107
       ]
     }
   },
-  "ultima_busca": "2026-09-05T14:40:17+00:00",
-  "alertas_enviados": 289
+  "ultima_busca": "2026-09-05T15:10:20+00:00",
+  "alertas_enviados": 291
 }
