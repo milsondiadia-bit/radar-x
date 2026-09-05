@@ -1,61 +1,5 @@
 {
   "posts": {
-    "2096063269962215829": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 L.A. finally gets George Lucas’s giant story museum on September 22. The Lucas Museum of Narrative Art opens in Exposition Park beside the Coliseum, with 300,000 square feet, 35 galleries, and 2 theaters. Press got early walk-throughs this week. The cost is reportedly over $1B, funded by Lucas after Chicago and San Francisco passed, and the project was delayed for years. A private fortune built...",
-      "url": "https://x.com/MarioNawfal/status/2096063269962215829",
-      "criado": "2026-09-05T02:30:01+00:00",
-      "medicoes": {
-        "60": 20904,
-        "120": 24931,
-        "180": 29706,
-        "240": 36172,
-        "360": 44095
-      },
-      "alertado": false
-    },
-    "2096062895863828528": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸🇮🇷 20 empty Iranian tankers are sitting off Sri Lanka like a fleet that ran out of road. That should scare people more than another missile video. Hormuz is now a contest over who can take more pain. U.S. strikes have been aimed at the steering gear on Iranian tankers: cripple the ship, keep the oil in the tanks, avoid a catastrophe, meanwhile Iran is still hitting commercial traffic. Since mid-...",
-      "url": "https://x.com/MarioNawfal/status/2096062895863828528",
-      "criado": "2026-09-05T02:28:31+00:00",
-      "medicoes": {
-        "60": 25360,
-        "120": 33554,
-        "180": 39416,
-        "240": 44675,
-        "360": 56581
-      },
-      "alertado": false
-    },
-    "2096060238428336415": {
-      "autor": "NewsLiberdade",
-      "texto": "🚨AGORA - Lula diz que Bolsonaro falou que o povo iria virar jacaré ou gay por causa da vacina “O adversário usa fake news e mentira para enganar o povo, como fez seu pai. Negaram vacina, disseram que o povo viraria jacaré ou gay” https://t.co/rxraExwS1c",
-      "url": "https://x.com/NewsLiberdade/status/2096060238428336415",
-      "criado": "2026-09-05T02:17:58+00:00",
-      "medicoes": {
-        "60": 15955,
-        "120": 19220,
-        "180": 20841,
-        "240": 22087,
-        "360": 24957
-      },
-      "alertado": false
-    },
-    "2096059491150385596": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 Logan Paul’s review of Nick Shirley: “F’in legend.” Would you agree? 🤣 Writer: Val https://t.co/WtHz6ReLYO",
-      "url": "https://x.com/MarioNawfal/status/2096059491150385596",
-      "criado": "2026-09-05T02:15:00+00:00",
-      "medicoes": {
-        "60": 22697,
-        "120": 27038,
-        "180": 34641,
-        "240": 41596,
-        "360": 57019
-      },
-      "alertado": false
-    },
     "2096072498664112538": {
       "autor": "MarioNawfal",
       "texto": "🇮🇱 Most leaders face one crisis, but Netanyahu is walking into an election with two legal systems on his back. Israel votes October 27. At home, he is still on trial for bribery, fraud, and breach of trust, plus he finished 98 days on the stand and calls it a political hunt. There is still no verdict. Abroad, the ICC has had an arrest warrant out since 2024 alleging war crimes and crimes against h...",
@@ -65,7 +9,8 @@
         "60": 19762,
         "120": 23124,
         "180": 26953,
-        "240": 31794
+        "240": 31794,
+        "360": 37249
       },
       "alertado": false
     },
@@ -89,7 +34,8 @@
         "60": 21555,
         "120": 28939,
         "180": 34018,
-        "240": 40789
+        "240": 40789,
+        "360": 55755
       },
       "alertado": false
     },
@@ -102,7 +48,8 @@
         "60": 21668,
         "120": 24871,
         "180": 31157,
-        "240": 35525
+        "240": 35525,
+        "360": 40305
       },
       "alertado": false
     },
@@ -115,7 +62,8 @@
         "60": 26712,
         "120": 34351,
         "180": 39904,
-        "240": 47036
+        "240": 47036,
+        "360": 58036
       },
       "alertado": false
     },
@@ -301,7 +249,8 @@
       "medicoes": {
         "60": 27538,
         "120": 33101,
-        "180": 36401
+        "180": 36401,
+        "240": 39415
       },
       "alertado": false
     },
@@ -313,7 +262,8 @@
       "medicoes": {
         "60": 19467,
         "120": 24325,
-        "180": 31091
+        "180": 31091,
+        "240": 39647
       },
       "alertado": false
     },
@@ -325,7 +275,8 @@
       "medicoes": {
         "60": 25512,
         "120": 31237,
-        "180": 35114
+        "180": 35114,
+        "240": 41122
       },
       "alertado": false
     },
@@ -371,7 +322,8 @@
       "criado": "2026-09-05T06:05:49+00:00",
       "medicoes": {
         "60": 21230,
-        "120": 25813
+        "120": 25813,
+        "180": 29058
       },
       "alertado": false
     },
@@ -382,7 +334,8 @@
       "criado": "2026-09-05T06:00:00+00:00",
       "medicoes": {
         "60": 18086,
-        "120": 20949
+        "120": 20949,
+        "180": 23930
       },
       "alertado": false
     },
@@ -393,7 +346,8 @@
       "criado": "2026-09-05T05:45:00+00:00",
       "medicoes": {
         "60": 21218,
-        "120": 23844
+        "120": 23844,
+        "180": 27258
       },
       "alertado": false
     },
@@ -458,7 +412,8 @@
       "url": "https://x.com/MarioNawfal/status/2096133730314412355",
       "criado": "2026-09-05T07:10:00+00:00",
       "medicoes": {
-        "60": 21553
+        "60": 21553,
+        "120": 28551
       },
       "alertado": false
     },
@@ -468,7 +423,8 @@
       "url": "https://x.com/nexta_tv/status/2096132472253919541",
       "criado": "2026-09-05T07:05:00+00:00",
       "medicoes": {
-        "60": 14055
+        "60": 14055,
+        "120": 18334
       },
       "alertado": false
     },
@@ -478,7 +434,8 @@
       "url": "https://x.com/clashreport/status/2096132318918267297",
       "criado": "2026-09-05T07:04:23+00:00",
       "medicoes": {
-        "60": 12099
+        "60": 12099,
+        "120": 16258
       },
       "alertado": false
     },
@@ -488,7 +445,8 @@
       "url": "https://x.com/clashreport/status/2096131954043150740",
       "criado": "2026-09-05T07:02:56+00:00",
       "medicoes": {
-        "60": 6175
+        "60": 6175,
+        "120": 8163
       },
       "alertado": false
     },
@@ -498,7 +456,8 @@
       "url": "https://x.com/MarioNawfal/status/2096131217003315588",
       "criado": "2026-09-05T07:00:01+00:00",
       "medicoes": {
-        "60": 21893
+        "60": 21893,
+        "120": 25893
       },
       "alertado": false
     },
@@ -508,7 +467,8 @@
       "url": "https://x.com/clashreport/status/2096131189073379683",
       "criado": "2026-09-05T06:59:54+00:00",
       "medicoes": {
-        "60": 6569
+        "60": 6569,
+        "120": 8318
       },
       "alertado": false
     },
@@ -518,7 +478,8 @@
       "url": "https://x.com/MarioNawfal/status/2096128697187311749",
       "criado": "2026-09-05T06:50:00+00:00",
       "medicoes": {
-        "60": 28153
+        "60": 28153,
+        "120": 40181
       },
       "alertado": false
     },
@@ -528,7 +489,8 @@
       "url": "https://x.com/clashreport/status/2096128038203281721",
       "criado": "2026-09-05T06:47:23+00:00",
       "medicoes": {
-        "60": 6405
+        "60": 6405,
+        "120": 7713
       },
       "alertado": false
     },
@@ -538,7 +500,8 @@
       "url": "https://x.com/clashreport/status/2096127633687761187",
       "criado": "2026-09-05T06:45:46+00:00",
       "medicoes": {
-        "60": 7272
+        "60": 7272,
+        "120": 8765
       },
       "alertado": false
     },
@@ -548,7 +511,8 @@
       "url": "https://x.com/clashreport/status/2096127054987116794",
       "criado": "2026-09-05T06:43:28+00:00",
       "medicoes": {
-        "60": 10497
+        "60": 10497,
+        "120": 14400
       },
       "alertado": false
     },
@@ -558,7 +522,8 @@
       "url": "https://x.com/nexta_tv/status/2096127030353883266",
       "criado": "2026-09-05T06:43:22+00:00",
       "medicoes": {
-        "60": 17641
+        "60": 17641,
+        "120": 22368
       },
       "alertado": false
     },
@@ -657,7 +622,9 @@
       "texto": "🇸🇦🇾🇪 Looks like Saudi is prepping to bomb the crap out of the Houthis again While the Houthis are trying to recapture Mokha, to give them more control over the Bab el Mandeb strait, a Saudi refueling tanker is airborne and headed toward the border with Yemen Having to refuel fighter jets midair indicates this could be a sustained attack Source: @MenchOsint / Writer: Ian",
       "url": "https://x.com/MarioNawfal/status/2096148830005743806",
       "criado": "2026-09-05T08:10:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 24487
+      },
       "alertado": false
     },
     "2096147571928715551": {
@@ -665,7 +632,9 @@
       "texto": "In Ecuador, police stopped a man who was under the influence of alcohol He tried to “call his lawyer” using a bank card instead of a phone.",
       "url": "https://x.com/nexta_tv/status/2096147571928715551",
       "criado": "2026-09-05T08:05:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 15610
+      },
       "alertado": false
     },
     "2096146322235506863": {
@@ -673,7 +642,9 @@
       "texto": "4 billion FSD miles in four months is a lot of real-world homework. Tesla’s supervised FSD just crossed 14 billion miles, up from 10 billion in early May. Tesla’s Safety Hub says those miles are also coming with 7x fewer major crashes. But the bigger advantage is the road data itself. Every weird merge, bad driver, and awkward intersection becomes another lesson. You can’t fake that kind of practi...",
       "url": "https://x.com/MarioNawfal/status/2096146322235506863",
       "criado": "2026-09-05T08:00:02+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 22523
+      },
       "alertado": false
     },
     "2096143796589453688": {
@@ -681,7 +652,9 @@
       "texto": "🇳🇴 The world's largest wealth fund may dump $80 BILLION of U.S Treasuries Norway's fund has proposed slashing U.S government bond exposure from 34% to 22% of its bond portfolio. The official reasoning is \"diversification.\" Truthfully, decade-high yields and a $40 trillion debt pile doesn’t scream \"safe haven\" like it used to. Norway’s wealth fund owns on average 1.5% of all listed companies global...",
       "url": "https://x.com/MarioNawfal/status/2096143796589453688",
       "criado": "2026-09-05T07:50:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 26831
+      },
       "alertado": false
     },
     "2096142538281472358": {
@@ -689,7 +662,9 @@
       "texto": "Milei: $200 billion in investment will help Argentina advance its claims over the Falklands The president of Argentina said that $200 billion will be invested in the country’s economy over the coming years. According to Milei, the investment will help boost exports and strengthen Argentina’s geopolitical position, allowing it to more actively advance its claims to sovereignty over the Falkland Isl...",
       "url": "https://x.com/nexta_tv/status/2096142538281472358",
       "criado": "2026-09-05T07:45:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 13480
+      },
       "alertado": false
     },
     "2096156379614691508": {
@@ -739,12 +714,107 @@
       "criado": "2026-09-05T08:20:00+00:00",
       "medicoes": {},
       "alertado": false
+    },
+    "2096163929550680489": {
+      "autor": "MarioNawfal",
+      "texto": "🇮🇷 Iranian state media says a U.S. strike hit an Iranian oil tanker near Kharg Island. Tasnim reports the ship was struck by four missiles about six miles from the anchorage. It says there were no casualties and that the crew is being evacuated. Washington has not confirmed the attack yet. Source: RT News / Writer: Lynn",
+      "url": "https://x.com/MarioNawfal/status/2096163929550680489",
+      "criado": "2026-09-05T09:10:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096163546002313364": {
+      "autor": "clashreport",
+      "texto": "Niger formally accused \"Macron's French regime\" of masterminding last week's failed mutiny in Niamey. Mutinous soldiers attacked the presidential palace, an air base, and state TV before being crushed by loyalist forces backed by Russia's Africa Corps. At least three guards were killed, dozens of mutineers arrested. Niger thanked Russia, Algeria, and its Sahel allies for support. France called the...",
+      "url": "https://x.com/clashreport/status/2096163546002313364",
+      "criado": "2026-09-05T09:08:28+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096162672123297942": {
+      "autor": "nexta_tv",
+      "texto": "Far-right protesters took to the streets against migration in Madrid Members of the Núcleo Nacional movement performed Nazi salutes and sang the Falangist anthem \"Cara al Sol\". When confronted about it, they claimed it was a \"Roman salute\". Núcleo Nacional brings together supporters of local far-right organizations and has around 2,000 members. Clashes with police broke out during the protest.",
+      "url": "https://x.com/nexta_tv/status/2096162672123297942",
+      "criado": "2026-09-05T09:05:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096162281675505770": {
+      "autor": "clashreport",
+      "texto": "Zelensky: It is clear that these Russian strikes on airports are a reaction to discussions and preparations regarding the possibility of the American side using an aircraft to arrive in Ukraine and land at either \"Kyiv\" or \"Boryspil\" airport. These Russian-Iranian \"Shahed\" drones are a response to American diplomacy. We have recorded this Russian move and will adjust our operations regarding Russi...",
+      "url": "https://x.com/clashreport/status/2096162281675505770",
+      "criado": "2026-09-05T09:03:27+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096161429233541328": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸🇹🇭 What do you do with a drunken sailor? Two sailors from the USS Abraham Lincoln were taken back to the ship after a drunken brawl in Pattaya. They will remain aboard for the rest of the port stop. After being deployed for 286 days, their sea legs finally gave way to a land scuffle. I think that was on everyone's 2026 bingo card Source: The Independent / Writer: Bri",
+      "url": "https://x.com/MarioNawfal/status/2096161429233541328",
+      "criado": "2026-09-05T09:00:04+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096161402066985163": {
+      "autor": "clashreport",
+      "texto": "NEW: Russia hit near both Kyiv airports as Witkoff and Kushner were reportedly about to fly in from Moscow. A drone hit two old Soviet planes at Zhulyany, the in-city airport. A Ukrainian MP said the envoys had been close to agreeing to land at Boryspil but would likely take a train instead. The envoys landed in Moscow on September 5 and are still expected in Kyiv tomorrow.",
+      "url": "https://x.com/clashreport/status/2096161402066985163",
+      "criado": "2026-09-05T08:59:57+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096160360336154931": {
+      "autor": "clashreport",
+      "texto": "Russia hit the Kamet-Steel plant in Kamenske, Dnipropetrovsk region, reportedly using North Korean KN-23 ballistic missiles. After Ukraine lost the Azovstal and Ilyich plants in Mariupol, Kamet-Steel became the country's second-largest steel producer. Zaporizhstal and ArcelorMittal Kryvyi Rih were also hit recently, meaning Russia has struck all three of Ukraine's remaining major steel plants with...",
+      "url": "https://x.com/clashreport/status/2096160360336154931",
+      "criado": "2026-09-05T08:55:49+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096160103275573649": {
+      "autor": "clashreport",
+      "texto": "Ukraine's new Magura MV11 is a 12-meter unmanned boat that stays at sea for up to 7 days and carries 18 vertical-launch interceptor drones. New footage shows it firing Wild Hornets Sting quadcopters from box launchers while underway. Each interceptor costs about $2,100, is 3D-printed, and can reach 7,000 meters altitude. Earlier smaller Magura drones sank Russian warships and shot down helicopters...",
+      "url": "https://x.com/clashreport/status/2096160103275573649",
+      "criado": "2026-09-05T08:54:48+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096158896255652343": {
+      "autor": "MarioNawfal",
+      "texto": "Since most of the stuff you see on Instagram and TikTok is fake, it only makes sense that some of the views are fake too 😂 Writer: Ian https://t.co/I0jMHAQIj4",
+      "url": "https://x.com/MarioNawfal/status/2096158896255652343",
+      "criado": "2026-09-05T08:50:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096157638233133076": {
+      "autor": "nexta_tv",
+      "texto": "Witkoff and Kushner appear to have arrived in Moscow Convoy vehicles expected to pick up the Americans arrived at Vnukovo Airport. Trump’s special envoys are flying to Moscow today and will travel to Kyiv tomorrow to meet with Zelenskyy. But the Russian side has extremely low expectations for the trip, according to Bloomberg sources in the Kremlin. Nobody in Russia intends to pursue a peace deal o...",
+      "url": "https://x.com/nexta_tv/status/2096157638233133076",
+      "criado": "2026-09-05T08:45:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096157633019355294": {
+      "autor": "clashreport",
+      "texto": "Iran's Supreme Leader Mojtaba Khamenei has personally written to Parliament Speaker Ghalibaf twice asking \"what are your plans for China?\" — according to the head of the Iran-China Chamber of Commerce. Ghalibaf was appointed as Iran's special envoy for China affairs in May 2026. Meanwhile, his office denied claims that Beijing set preconditions for a visit, including reopening the Strait of Hormuz...",
+      "url": "https://x.com/clashreport/status/2096157633019355294",
+      "criado": "2026-09-05T08:44:59+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096156712751255614": {
+      "autor": "clashreport",
+      "texto": "NEW: Ukraine reportedly ordered a temporary ceasefire along the entire front from September 5–8, timed for the Witkoff-Kushner visits to Moscow and Kyiv. Multiple brigades confirmed receiving \"respond only\" orders. But Russia never agreed to match it — overnight Russian drones and missiles hit Kyiv, Kharkiv, and destroyed a hypermarket in Mykolaiv. By morning the General Staff said defensive opera...",
+      "url": "https://x.com/clashreport/status/2096156712751255614",
+      "criado": "2026-09-05T08:41:19+00:00",
+      "medicoes": {},
+      "alertado": false
     }
   },
   "baseline": {
     "NewsLiberdade": {
       "60": [
-        46829,
         27290,
         35305,
         21709,
@@ -783,10 +853,10 @@
         22194,
         23128,
         23372,
-        16274
+        16274,
+        15955
       ],
       "120": [
-        52853,
         30582,
         37840,
         26330,
@@ -825,10 +895,10 @@
         31964,
         26727,
         35603,
-        19649
+        19649,
+        19220
       ],
       "180": [
-        55126,
         31755,
         39046,
         28034,
@@ -867,10 +937,10 @@
         38866,
         28311,
         43604,
-        21721
+        21721,
+        20841
       ],
       "240": [
-        56519,
         32446,
         39820,
         29091,
@@ -909,10 +979,10 @@
         44611,
         29353,
         49206,
-        22885
+        22885,
+        22087
       ],
       "360": [
-        58495,
         33648,
         41790,
         32990,
@@ -951,14 +1021,12 @@
         49104,
         30626,
         57956,
-        24553
+        24553,
+        24957
       ]
     },
     "MarioNawfal": {
       "60": [
-        50336,
-        24827,
-        26761,
         20754,
         21463,
         36661,
@@ -995,12 +1063,12 @@
         37148,
         21240,
         24088,
-        29144
+        29144,
+        20904,
+        25360,
+        22697
       ],
       "120": [
-        78829,
-        28433,
-        30976,
         22644,
         26114,
         49199,
@@ -1037,12 +1105,12 @@
         56691,
         25626,
         28711,
-        38370
+        38370,
+        24931,
+        33554,
+        27038
       ],
       "180": [
-        96021,
-        33049,
-        33774,
         23698,
         29603,
         57024,
@@ -1079,12 +1147,12 @@
         68354,
         31513,
         32685,
-        44139
+        44139,
+        29706,
+        39416,
+        34641
       ],
       "240": [
-        52171,
-        107523,
-        40424,
         43876,
         24478,
         39991,
@@ -1121,12 +1189,12 @@
         78248,
         40008,
         38621,
-        50328
+        50328,
+        36172,
+        44675,
+        41596
       ],
       "360": [
-        57222,
-        124497,
-        50364,
         55446,
         25597,
         51279,
@@ -1163,7 +1231,10 @@
         98246,
         53849,
         47570,
-        58674
+        58674,
+        44095,
+        56581,
+        57019
       ]
     },
     "MachadoDarlon": {
@@ -2015,6 +2086,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-09-05T08:40:18+00:00",
+  "ultima_busca": "2026-09-05T09:10:15+00:00",
   "alertas_enviados": 275
 }
