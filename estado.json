@@ -1,33 +1,5 @@
 {
   "posts": {
-    "2096108564431483310": {
-      "autor": "MarioNawfal",
-      "texto": "🇩🇪 IFA 2026 feels like the animals escaped the lab: A panda robot posing for phones, a dinosaur machine in the aisle, and humanoids cutting through the crowd like they belong there. People came for TVs, now they’re side-stepping machines. We used to wait for the future, but in Berlin, it’s already in the way. Writer: Val https://t.co/tS4aUWkbcZ",
-      "url": "https://x.com/MarioNawfal/status/2096108564431483310",
-      "criado": "2026-09-05T05:30:00+00:00",
-      "medicoes": {
-        "60": 20093,
-        "120": 23618,
-        "180": 28153,
-        "240": 31348,
-        "360": 36897
-      },
-      "alertado": false
-    },
-    "2096104789662892133": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 Elon knows a thing or 2 about the future of robotics. What comes next the “triple exponential”: the models get smarter, the bodies get better at moving through rooms that were built for people, and factories learn how to stamp the things out by the tens of thousands. A smarter brain makes a clumsier machine useful, a useful machine justifies a factory, and a factory dumps enough units into the...",
-      "url": "https://x.com/MarioNawfal/status/2096104789662892133",
-      "criado": "2026-09-05T05:15:00+00:00",
-      "medicoes": {
-        "60": 21854,
-        "120": 24911,
-        "180": 27861,
-        "240": 30675,
-        "360": 35016
-      },
-      "alertado": false
-    },
     "2096118630949724524": {
       "autor": "MarioNawfal",
       "texto": "BYD's going hard with Shark 7, their first-ever pickup truck It's a hybrid PHEV with 430 hp and a 0-60 of 5.7 seconds No chance of getting one in the U.S due to the tariffs on Chinese-built vehicles, but in Mexico it starts at around $50,000 Writer: Ian https://t.co/FOKZxD5xlR",
@@ -48,7 +20,8 @@
         "60": 21230,
         "120": 25813,
         "180": 29058,
-        "240": 34218
+        "240": 34218,
+        "360": 53947
       },
       "alertado": false
     },
@@ -61,7 +34,8 @@
         "60": 18086,
         "120": 20949,
         "180": 23930,
-        "240": 26020
+        "240": 26020,
+        "360": 30191
       },
       "alertado": false
     },
@@ -74,7 +48,8 @@
         "60": 21218,
         "120": 23844,
         "180": 27258,
-        "240": 29772
+        "240": 29772,
+        "360": 36756
       },
       "alertado": false
     },
@@ -411,7 +386,8 @@
       "medicoes": {
         "60": 24487,
         "120": 33624,
-        "180": 40028
+        "180": 40028,
+        "240": 45158
       },
       "alertado": false
     },
@@ -423,7 +399,8 @@
       "medicoes": {
         "60": 15610,
         "120": 24347,
-        "180": 33523
+        "180": 33523,
+        "240": 54186
       },
       "alertado": false
     },
@@ -435,7 +412,8 @@
       "medicoes": {
         "60": 22523,
         "120": 27563,
-        "180": 31856
+        "180": 31856,
+        "240": 39378
       },
       "alertado": false
     },
@@ -447,7 +425,8 @@
       "medicoes": {
         "60": 26831,
         "120": 34287,
-        "180": 41551
+        "180": 41551,
+        "240": 48229
       },
       "alertado": false
     },
@@ -459,7 +438,8 @@
       "medicoes": {
         "60": 13480,
         "120": 16672,
-        "180": 19572
+        "180": 19572,
+        "240": 22207
       },
       "alertado": false
     },
@@ -542,7 +522,8 @@
       "criado": "2026-09-05T09:10:00+00:00",
       "medicoes": {
         "60": 29935,
-        "120": 43739
+        "120": 43739,
+        "180": 53654
       },
       "alertado": false
     },
@@ -553,7 +534,8 @@
       "criado": "2026-09-05T09:08:28+00:00",
       "medicoes": {
         "60": 6155,
-        "120": 8785
+        "120": 8785,
+        "180": 9989
       },
       "alertado": false
     },
@@ -564,7 +546,8 @@
       "criado": "2026-09-05T09:05:00+00:00",
       "medicoes": {
         "60": 12103,
-        "120": 16409
+        "120": 16409,
+        "180": 20358
       },
       "alertado": false
     },
@@ -575,7 +558,8 @@
       "criado": "2026-09-05T09:03:27+00:00",
       "medicoes": {
         "60": 7233,
-        "120": 10003
+        "120": 10003,
+        "180": 11627
       },
       "alertado": false
     },
@@ -586,7 +570,8 @@
       "criado": "2026-09-05T09:00:04+00:00",
       "medicoes": {
         "60": 27711,
-        "120": 41522
+        "120": 41522,
+        "180": 53151
       },
       "alertado": false
     },
@@ -597,7 +582,8 @@
       "criado": "2026-09-05T08:59:57+00:00",
       "medicoes": {
         "60": 9642,
-        "120": 15925
+        "120": 15925,
+        "180": 26587
       },
       "alertado": false
     },
@@ -608,7 +594,8 @@
       "criado": "2026-09-05T08:55:49+00:00",
       "medicoes": {
         "60": 8910,
-        "120": 13154
+        "120": 13154,
+        "180": 16210
       },
       "alertado": false
     },
@@ -619,7 +606,8 @@
       "criado": "2026-09-05T08:54:48+00:00",
       "medicoes": {
         "60": 8144,
-        "120": 11537
+        "120": 11537,
+        "180": 13791
       },
       "alertado": false
     },
@@ -630,7 +618,8 @@
       "criado": "2026-09-05T08:50:00+00:00",
       "medicoes": {
         "60": 28949,
-        "120": 40415
+        "120": 40415,
+        "180": 50726
       },
       "alertado": false
     },
@@ -652,7 +641,8 @@
       "criado": "2026-09-05T08:44:59+00:00",
       "medicoes": {
         "60": 11072,
-        "120": 14736
+        "120": 14736,
+        "180": 17003
       },
       "alertado": false
     },
@@ -663,7 +653,8 @@
       "criado": "2026-09-05T08:41:19+00:00",
       "medicoes": {
         "60": 22461,
-        "120": 30818
+        "120": 30818,
+        "180": 38877
       },
       "alertado": false
     },
@@ -783,7 +774,8 @@
       "url": "https://x.com/MarioNawfal/status/2096179028676026774",
       "criado": "2026-09-05T10:10:00+00:00",
       "medicoes": {
-        "60": 22893
+        "60": 22893,
+        "120": 29071
       },
       "alertado": false
     },
@@ -793,7 +785,8 @@
       "url": "https://x.com/clashreport/status/2096178984954261917",
       "criado": "2026-09-05T10:09:49+00:00",
       "medicoes": {
-        "60": 13762
+        "60": 13762,
+        "120": 20467
       },
       "alertado": false
     },
@@ -803,7 +796,8 @@
       "url": "https://x.com/MachadoDarlon/status/2096178627939291388",
       "criado": "2026-09-05T10:08:24+00:00",
       "medicoes": {
-        "60": 566
+        "60": 566,
+        "120": 1154
       },
       "alertado": false
     },
@@ -813,7 +807,8 @@
       "url": "https://x.com/MachadoDarlon/status/2096177848184689028",
       "criado": "2026-09-05T10:05:18+00:00",
       "medicoes": {
-        "60": 1016
+        "60": 1016,
+        "120": 2938
       },
       "alertado": false
     },
@@ -823,7 +818,8 @@
       "url": "https://x.com/nexta_tv/status/2096177770929791102",
       "criado": "2026-09-05T10:05:00+00:00",
       "medicoes": {
-        "60": 15385
+        "60": 15385,
+        "120": 23620
       },
       "alertado": false
     },
@@ -833,7 +829,8 @@
       "url": "https://x.com/clashreport/status/2096176976767623423",
       "criado": "2026-09-05T10:01:51+00:00",
       "medicoes": {
-        "60": 11481
+        "60": 11481,
+        "120": 20411
       },
       "alertado": false
     },
@@ -843,9 +840,10 @@
       "url": "https://x.com/MachadoDarlon/status/2096176851873935716",
       "criado": "2026-09-05T10:01:21+00:00",
       "medicoes": {
-        "60": 993
+        "60": 993,
+        "120": 3434
       },
-      "alertado": false
+      "alertado": true
     },
     "2096176514446573645": {
       "autor": "MarioNawfal",
@@ -853,7 +851,8 @@
       "url": "https://x.com/MarioNawfal/status/2096176514446573645",
       "criado": "2026-09-05T10:00:00+00:00",
       "medicoes": {
-        "60": 22333
+        "60": 22333,
+        "120": 32659
       },
       "alertado": false
     },
@@ -863,7 +862,8 @@
       "url": "https://x.com/clashreport/status/2096176272623706570",
       "criado": "2026-09-05T09:59:03+00:00",
       "medicoes": {
-        "60": 12299
+        "60": 12299,
+        "120": 22797
       },
       "alertado": false
     },
@@ -873,7 +873,8 @@
       "url": "https://x.com/NewsLiberdade/status/2096174874905526709",
       "criado": "2026-09-05T09:53:29+00:00",
       "medicoes": {
-        "60": 11483
+        "60": 11483,
+        "120": 18394
       },
       "alertado": false
     },
@@ -883,7 +884,8 @@
       "url": "https://x.com/MarioNawfal/status/2096173995993530857",
       "criado": "2026-09-05T09:50:00+00:00",
       "medicoes": {
-        "60": 25555
+        "60": 25555,
+        "120": 31185
       },
       "alertado": false
     },
@@ -893,7 +895,8 @@
       "url": "https://x.com/nexta_tv/status/2096172923346194710",
       "criado": "2026-09-05T09:45:44+00:00",
       "medicoes": {
-        "60": 23611
+        "60": 23611,
+        "120": 34541
       },
       "alertado": false
     },
@@ -1032,7 +1035,9 @@
       "texto": "🇷🇺🇺🇦 Putin struck Zhulyany airport near Kyiv as Steve Witkoff and Jared Kushner arrived in Moscow for peace talks. Ukraine had proposed a temporary ceasefire during the envoys’ visits to Moscow and Kyiv, but Russia had other plans. Not exactly a reassuring sign. Fears are growing in the West that Putin could attack a NATO member. The CIA director recently travelled to Moscow to warn Putin against...",
       "url": "https://x.com/MarioNawfal/status/2096194128736391326",
       "criado": "2026-09-05T11:10:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 25718
+      },
       "alertado": false
     },
     "2096193718193700957": {
@@ -1040,7 +1045,9 @@
       "texto": "Netanyahu on the Qatar ties affair: I attacked Qatar — I also bombed it and attacked them during the war, and they attacked me. This whole Qatar thing is one big bluff. Qatar is a hostile state, but Qatar is not a state that dictated anything here. https://t.co/pDNIZ21q5v",
       "url": "https://x.com/clashreport/status/2096193718193700957",
       "criado": "2026-09-05T11:08:22+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 20954
+      },
       "alertado": false
     },
     "2096193017593971189": {
@@ -1048,7 +1055,9 @@
       "texto": "Netanyahu: The central question in these elections is: Who will finish what has to be finished? Who will finally finish off this regime in Iran? Who will finally finish off Hezbollah? Who will finally finish off Hamas? My political opponents give in to every pressure. America tells them \"no,\" and they immediately tremble. Will they do it? No. They won’t do it. We do it.",
       "url": "https://x.com/clashreport/status/2096193017593971189",
       "criado": "2026-09-05T11:05:35+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 11844
+      },
       "alertado": false
     },
     "2096192870596083808": {
@@ -1056,7 +1065,9 @@
       "texto": "US Mint sells out of “gold” Trump coins The coins were issued to mark the 250th anniversary of US independence. Despite their gold-like color, they contain no gold — they are mainly made of copper with zinc, manganese and nickel. The coins quickly sold out after going on sale. Each has a face value of $1, but they were sold for considerably more: a roll of 25 coins cost $61.",
       "url": "https://x.com/nexta_tv/status/2096192870596083808",
       "criado": "2026-09-05T11:05:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 10995
+      },
       "alertado": false
     },
     "2096192389958267217": {
@@ -1064,7 +1075,9 @@
       "texto": "Netanyahu on Iran: If Iran attacks us, they will absorb such a blow that I do not want to detail it. https://t.co/BIwy76h0UU",
       "url": "https://x.com/clashreport/status/2096192389958267217",
       "criado": "2026-09-05T11:03:05+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 13092
+      },
       "alertado": false
     },
     "2096191860213514356": {
@@ -1072,7 +1085,9 @@
       "texto": "Netanyahu on Iran: Who would have believed on October 7 that we would change the face of the Middle East? I did. My intention was that eventually we would clash with Iran. https://t.co/ybrNY01WoQ",
       "url": "https://x.com/clashreport/status/2096191860213514356",
       "criado": "2026-09-05T11:00:59+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 14414
+      },
       "alertado": false
     },
     "2096191620119187910": {
@@ -1080,7 +1095,9 @@
       "texto": "🇨🇳 New photos confirm China’s huge WZ-X stealth drone has a stepped wing: wide inner sections that taper into extremely narrow outer wings. •⁠ ⁠The wingspan is about 170 feet, in the same class as a B-2. •⁠ ⁠Analysts put its cruise altitude above 59,000 feet and its range past 12,000 miles. •⁠ ⁠It is a twin-engine flying wing, likely built for high-altitude surveillance over airspace where ordinar...",
       "url": "https://x.com/MarioNawfal/status/2096191620119187910",
       "criado": "2026-09-05T11:00:02+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 28591
+      },
       "alertado": false
     },
     "2096191092282556727": {
@@ -1088,7 +1105,9 @@
       "texto": "Netanyahu on Gaza: There will be no reconstruction in Gaza unless there is, first of all, demilitarization. I can’t tell you what kind of reconstruction there will be; we are discussing this with our American friends. Sometimes we see eye to eye, sometimes we don’t. And when we don’t see eye to eye, they raise their interests, and I raise Israel’s interests — and I stand by them.",
       "url": "https://x.com/clashreport/status/2096191092282556727",
       "criado": "2026-09-05T10:57:56+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 8147
+      },
       "alertado": false
     },
     "2096189095181418773": {
@@ -1096,7 +1115,9 @@
       "texto": "🇷🇺🇺🇦 Putin's getting his revenge for Ukraine striking Russia's largest e-commerce warehouses Early this morning, Russian drones struck the Chayky logistics center west of Kyiv, causing a massive fire No doubt Russia will also claim these are dual-use facilities that handle drone parts to justify the attack Writer: Ian https://t.co/98MR2Tp7KU",
       "url": "https://x.com/MarioNawfal/status/2096189095181418773",
       "criado": "2026-09-05T10:50:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 29160
+      },
       "alertado": false
     },
     "2096188849344938406": {
@@ -1104,7 +1125,9 @@
       "texto": "🚨URGENTE - Jornal Nacional expõe Alexandre de Moraes pelo segundo dia seguido https://t.co/BXwEYHRozn",
       "url": "https://x.com/NewsLiberdade/status/2096188849344938406",
       "criado": "2026-09-05T10:49:01+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 13290
+      },
       "alertado": false
     },
     "2096188803740320191": {
@@ -1112,7 +1135,9 @@
       "texto": "🚨⚠️🇧🇷 ELEIÇÕES 2026: Coordenador da campanha de Flávio Bolsonaro (PL-RJ), o senador Rogério Marinho (PL-RN) decidiu procurar ministros do STF para sinalizar que o presidenciável, se eleito, quer ter interlocução institucional com a Corte. Na quarta-feira (2/9), Marinho teve uma reunião com o ministro Gilmar Mendes, atual decano do Supremo. O encontro foi revelado inicialmente pelo jornal O Globo e...",
       "url": "https://x.com/MachadoDarlon/status/2096188803740320191",
       "criado": "2026-09-05T10:48:50+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 1348
+      },
       "alertado": false
     },
     "2096188056717951103": {
@@ -1120,7 +1145,9 @@
       "texto": "🤔🤭🤦‍♂️ MOMENTOS DE TERROR | O deputado federal 🦌 Dudu Salabert (Psol) relatou, nesta sexta-feira (4), as agressões sofridas por ele e pelo assessor Felipe Gomes durante a apuração de uma denúncia de extração de minério irregular, na divisa entre Belo Horizonte e Nova Lima, na Região Metropolitana. Segundo o parlamentar, os dois foram perseguidos, cercados e agredidos por homens que estavam no loca...",
       "url": "https://x.com/MachadoDarlon/status/2096188056717951103",
       "criado": "2026-09-05T10:45:52+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 796
+      },
       "alertado": false
     },
     "2096187836903133265": {
@@ -1128,7 +1155,9 @@
       "texto": "Chinese man makes around $15,000 a month scratching people An entrepreneur from Shenzhen opened two salons where employees wearing special artificial nails scratch customers’ backs and other parts of their bodies. The one-hour treatment costs around $40. The business has become so popular that the man plans to expand the network to 100 salons.",
       "url": "https://x.com/nexta_tv/status/2096187836903133265",
       "criado": "2026-09-05T10:45:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 15973
+      },
       "alertado": false
     },
     "2096186887308251592": {
@@ -1136,7 +1165,9 @@
       "texto": "In Al Jazeera's defense documentary, an ASELSAN engineer says Türkiye’s domestically built ALP-300G radar — part of the SİPER long-range air defense system — outperforms Russia’s S-400 air defence system’s search radar \"in several aspects.\" Asked whether any foreign components were used, he replied: This radar was developed entirely inside Türkiye — from the most minute components like electronic...",
       "url": "https://x.com/clashreport/status/2096186887308251592",
       "criado": "2026-09-05T10:41:13+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 23246
+      },
       "alertado": false
     },
     "2096201678257037462": {
@@ -1216,6 +1247,86 @@
       "texto": "Netanyahu: Eisenkot cannot form a government, and he knows it. He is trying to hide that. He cannot form a government without the Arab parties, and they reject the very existence of the State of Israel. It is ridiculous and shameful to try to give legitimacy to something that is not legitimate. Maybe it is legal, but it is not legitimate.",
       "url": "https://x.com/clashreport/status/2096194410924937628",
       "criado": "2026-09-05T11:11:07+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096209228218122341": {
+      "autor": "MarioNawfal",
+      "texto": "🇳🇵 A 60-year-old woman was pulled out alive in Nepal 10 days after the floods. She had reportedly been trapped on the top floor of a four-story building and survived against the odds. Rescue teams are still finding people more than a week after the disaster. Writer: Lynn https://t.co/EUJcAol7Uz",
+      "url": "https://x.com/MarioNawfal/status/2096209228218122341",
+      "criado": "2026-09-05T12:10:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096207863374827621": {
+      "autor": "clashreport",
+      "texto": "Putin: With the citizens of the country, we will overcome any difficulties and any challenges. All the problems are temporary. But Moscow, Russia — they are eternal. https://t.co/9rHoNLZdRd",
+      "url": "https://x.com/clashreport/status/2096207863374827621",
+      "criado": "2026-09-05T12:04:34+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096206724138979605": {
+      "autor": "MarioNawfal",
+      "texto": "🇮🇳 While you think you're saving the world by recycling your trash, this is how India cleans up its trains Enjoy your paper straw and compostable coffee cup Writers: Mhedi, Ian https://t.co/aF0JHegfYT",
+      "url": "https://x.com/MarioNawfal/status/2096206724138979605",
+      "criado": "2026-09-05T12:00:03+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096206723056836618": {
+      "autor": "nexta_tv",
+      "texto": "⚡️ Peskov said Putin ordered that no strikes be carried out on Kyiv for three days — starting at midnight today The Russian dictator will meet Witkoff and Kushner on Saturday.",
+      "url": "https://x.com/nexta_tv/status/2096206723056836618",
+      "criado": "2026-09-05T12:00:03+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096206026345234493": {
+      "autor": "NewsLiberdade",
+      "texto": "🚨URGENTE - Fachin tem o poder de encerrar o inquérito das fake news a qualquer momento https://t.co/v7pB43lYMS",
+      "url": "https://x.com/NewsLiberdade/status/2096206026345234493",
+      "criado": "2026-09-05T11:57:16+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096206019068104872": {
+      "autor": "clashreport",
+      "texto": "Putin’s envoy Kirill Dmitriev meets Witkoff and Kushner. https://t.co/EGXsqiGTwf",
+      "url": "https://x.com/clashreport/status/2096206019068104872",
+      "criado": "2026-09-05T11:57:15+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096206008720802193": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸 These are the photos that got Wheel of Fortune announcer Jim Thornton sacked He was on a flight viewing LifeLine, a support forum explicitly for people attracted to children One user posted: \"Went to the Golden Corral for the first time with my dad and his wife yesterday. A nice hangout for kids. Saw a couple of cute boys and a hot little girl.\" Source: @IntCyberDigest / Writer: Ian",
+      "url": "https://x.com/MarioNawfal/status/2096206008720802193",
+      "criado": "2026-09-05T11:57:12+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096204284115235134": {
+      "autor": "clashreport",
+      "texto": "Kremlin: Putin has ordered that no strikes be carried out on Kyiv for the next three days, starting at midnight tonight.",
+      "url": "https://x.com/clashreport/status/2096204284115235134",
+      "criado": "2026-09-05T11:50:21+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096204194667442400": {
+      "autor": "MarioNawfal",
+      "texto": "🇬🇧 Around 300 men have just blocked every entrance and exit to the Port of Dover, the main port through which illegals enter the UK. People are fed up of seeing migrants endlessly come into the country and get treated better than Brits. Writer: Mhedi https://t.co/YTeq6vJAOo",
+      "url": "https://x.com/MarioNawfal/status/2096204194667442400",
+      "criado": "2026-09-05T11:50:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096202936514691465": {
+      "autor": "nexta_tv",
+      "texto": "👅 \"Welcome to Moscow, peacemakers Witkoff and Kushner,\" Kirill Dmitriev wrote on Twitter, posting footage from Vnukovo. Finally, real Americans have arrived again. https://t.co/hYC7kLo7nM",
+      "url": "https://x.com/nexta_tv/status/2096202936514691465",
+      "criado": "2026-09-05T11:45:00+00:00",
       "medicoes": {},
       "alertado": false
     }
@@ -1435,8 +1546,6 @@
     },
     "MarioNawfal": {
       "60": [
-        53630,
-        20506,
         69109,
         32826,
         21892,
@@ -1474,11 +1583,11 @@
         21508,
         27538,
         19467,
-        25512
+        25512,
+        20093,
+        21854
       ],
       "120": [
-        57807,
-        87778,
         23505,
         106141,
         49195,
@@ -1516,11 +1625,11 @@
         25408,
         33101,
         24325,
-        31237
+        31237,
+        23618,
+        24911
       ],
       "180": [
-        44580,
-        68965,
         114439,
         27994,
         144783,
@@ -1558,11 +1667,11 @@
         29799,
         36401,
         31091,
-        35114
+        35114,
+        28153,
+        27861
       ],
       "240": [
-        44172,
-        49452,
         79197,
         139335,
         31277,
@@ -1600,11 +1709,11 @@
         33696,
         39415,
         39647,
-        41122
+        41122,
+        31348,
+        30675
       ],
       "360": [
-        56869,
-        60724,
         97109,
         193186,
         36069,
@@ -1642,7 +1751,9 @@
         40369,
         48830,
         52491,
-        51890
+        51890,
+        36897,
+        35016
       ]
     },
     "MachadoDarlon": {
@@ -2494,6 +2605,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-09-05T11:40:15+00:00",
-  "alertas_enviados": 278
+  "ultima_busca": "2026-09-05T12:10:17+00:00",
+  "alertas_enviados": 279
 }
