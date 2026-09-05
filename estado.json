@@ -1,75 +1,5 @@
 {
   "posts": {
-    "2096244460359200998": {
-      "autor": "MarioNawfal",
-      "texto": "🇵🇭 Philippine Vice President Sara Duterte posted $5,740 bail after a court ordered her arrest over alleged threats to have President Ferdinand Marcos Jr. and two others killed. Duterte denies the charge and says she was talking about her own safety. The two ran as allies in 2022 and later turned on each other. A conviction could block her from running for president in 2028. This is a succession fi...",
-      "url": "https://x.com/MarioNawfal/status/2096244460359200998",
-      "criado": "2026-09-05T14:30:00+00:00",
-      "medicoes": {
-        "60": 23477,
-        "120": 28166,
-        "180": 30936,
-        "240": 36887,
-        "360": 42310
-      },
-      "alertado": false
-    },
-    "2096243569233170548": {
-      "autor": "nexta_tv",
-      "texto": "Woman rescued in Nepal on the 11th day after the flood The victim was found alive on the fourth floor of a flooded house in Betravati. Rescuers had to break through a wall, after which she was evacuated and taken to hospital. According to the latest figures, 1,344 people have died in the disaster in Nepal, while around 4,887 remain missing.",
-      "url": "https://x.com/nexta_tv/status/2096243569233170548",
-      "criado": "2026-09-05T14:26:27+00:00",
-      "medicoes": {
-        "60": 17414,
-        "120": 27123,
-        "180": 34142,
-        "240": 39670,
-        "360": 48724
-      },
-      "alertado": false
-    },
-    "2096242847657738283": {
-      "autor": "clashreport",
-      "texto": "Zelensky: From now until the end of today, Saturday, as well as on Sunday and Monday, Ukraine is ready to refrain from strikes on Moscow, and we expect the Russians to refrain from strikes on Kyiv.",
-      "url": "https://x.com/clashreport/status/2096242847657738283",
-      "criado": "2026-09-05T14:23:35+00:00",
-      "medicoes": {
-        "60": 10757,
-        "120": 13499,
-        "180": 14932,
-        "240": 16043,
-        "360": 17410
-      },
-      "alertado": false
-    },
-    "2096241943349284893": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸🇮🇱 A reporter asked Mike Huckabee why Washington is not using its leverage with Israel to stop settler violence. Huckabee shot back: “How do you know I’m not?” When the reporter said the attacks are continuing, he answered that he has taken as strong and public a stand as anyone. If the best defense is “how do you know I’m not,” the leverage is doing more work in the press conference than on the...",
-      "url": "https://x.com/MarioNawfal/status/2096241943349284893",
-      "criado": "2026-09-05T14:20:00+00:00",
-      "medicoes": {
-        "60": 34495,
-        "120": 46955,
-        "180": 56231,
-        "240": 62020,
-        "360": 71652
-      },
-      "alertado": false
-    },
-    "2096241800851648876": {
-      "autor": "NewsLiberdade",
-      "texto": "🚨URGENTE - Anvisa autoriza uso de remédio experimental para Lito https://t.co/qWzmlc3SY5",
-      "url": "https://x.com/NewsLiberdade/status/2096241800851648876",
-      "criado": "2026-09-05T14:19:26+00:00",
-      "medicoes": {
-        "60": 20358,
-        "120": 29150,
-        "180": 34976,
-        "240": 39530,
-        "360": 46648
-      },
-      "alertado": false
-    },
     "2096252893460357534": {
       "autor": "MarioNawfal",
       "texto": "🇸🇩 A Middle Eastern intel dossier obtained by the NY Times reportedly contains nearly 150 documents, images, videos and recordings, plus thousands of messages detailing a secret Sudanese military chemical weapons program. The material alleges officers developed bombs containing roughly 15kg of chlorine each, tested them in the desert and manufactured nearly 300 chemical weapons by October 2024. An...",
@@ -79,7 +9,8 @@
         "60": 28621,
         "120": 35596,
         "180": 40230,
-        "240": 43548
+        "240": 43548,
+        "360": 50117
       },
       "alertado": false
     },
@@ -92,7 +23,8 @@
         "60": 12708,
         "120": 18154,
         "180": 22968,
-        "240": 25852
+        "240": 25852,
+        "360": 40422
       },
       "alertado": false
     },
@@ -105,7 +37,8 @@
         "60": 24043,
         "120": 28401,
         "180": 31199,
-        "240": 38343
+        "240": 38343,
+        "360": 45278
       },
       "alertado": false
     },
@@ -118,7 +51,8 @@
         "60": 24796,
         "120": 36045,
         "180": 43279,
-        "240": 47310
+        "240": 47310,
+        "360": 53140
       },
       "alertado": false
     },
@@ -131,7 +65,8 @@
         "60": 28915,
         "120": 33389,
         "180": 36777,
-        "240": 42722
+        "240": 42722,
+        "360": 51376
       },
       "alertado": false
     },
@@ -360,7 +295,8 @@
       "medicoes": {
         "60": 40732,
         "120": 77138,
-        "180": 105113
+        "180": 105113,
+        "240": 121544
       },
       "alertado": false
     },
@@ -372,7 +308,8 @@
       "medicoes": {
         "60": 23217,
         "120": 27181,
-        "180": 29827
+        "180": 29827,
+        "240": 36445
       },
       "alertado": false
     },
@@ -394,7 +331,8 @@
       "medicoes": {
         "60": 23730,
         "120": 27374,
-        "180": 30266
+        "180": 30266,
+        "240": 38562
       },
       "alertado": false
     },
@@ -406,7 +344,8 @@
       "medicoes": {
         "60": 21985,
         "120": 31538,
-        "180": 38212
+        "180": 38212,
+        "240": 43816
       },
       "alertado": false
     },
@@ -418,7 +357,8 @@
       "medicoes": {
         "60": 24577,
         "120": 37948,
-        "180": 45491
+        "180": 45491,
+        "240": 49618
       },
       "alertado": false
     },
@@ -440,7 +380,8 @@
       "medicoes": {
         "60": 28844,
         "120": 32928,
-        "180": 36247
+        "180": 36247,
+        "240": 39842
       },
       "alertado": false
     },
@@ -452,7 +393,8 @@
       "medicoes": {
         "60": 26281,
         "120": 29118,
-        "180": 33757
+        "180": 33757,
+        "240": 39847
       },
       "alertado": false
     },
@@ -666,7 +608,8 @@
       "criado": "2026-09-05T18:10:00+00:00",
       "medicoes": {
         "60": 22590,
-        "120": 27791
+        "120": 27791,
+        "180": 30679
       },
       "alertado": false
     },
@@ -677,7 +620,8 @@
       "criado": "2026-09-05T18:09:46+00:00",
       "medicoes": {
         "60": 83569,
-        "120": 134906
+        "120": 134906,
+        "180": 158999
       },
       "alertado": false
     },
@@ -688,7 +632,8 @@
       "criado": "2026-09-05T18:07:29+00:00",
       "medicoes": {
         "60": 48214,
-        "120": 66845
+        "120": 66845,
+        "180": 77235
       },
       "alertado": false
     },
@@ -699,7 +644,8 @@
       "criado": "2026-09-05T18:01:07+00:00",
       "medicoes": {
         "60": 22304,
-        "120": 25797
+        "120": 25797,
+        "180": 30097
       },
       "alertado": false
     },
@@ -721,7 +667,8 @@
       "criado": "2026-09-05T18:00:01+00:00",
       "medicoes": {
         "60": 21640,
-        "120": 25848
+        "120": 25848,
+        "180": 30411
       },
       "alertado": false
     },
@@ -732,7 +679,8 @@
       "criado": "2026-09-05T17:56:06+00:00",
       "medicoes": {
         "60": 33928,
-        "120": 42870
+        "120": 42870,
+        "180": 47596
       },
       "alertado": false
     },
@@ -743,7 +691,8 @@
       "criado": "2026-09-05T17:55:12+00:00",
       "medicoes": {
         "60": 12334,
-        "120": 14632
+        "120": 14632,
+        "180": 15714
       },
       "alertado": false
     },
@@ -754,7 +703,8 @@
       "criado": "2026-09-05T17:53:18+00:00",
       "medicoes": {
         "60": 33450,
-        "120": 41544
+        "120": 41544,
+        "180": 46288
       },
       "alertado": false
     },
@@ -765,9 +715,10 @@
       "criado": "2026-09-05T17:53:13+00:00",
       "medicoes": {
         "60": 35058,
-        "120": 56795
+        "120": 56795,
+        "180": 90627
       },
-      "alertado": false
+      "alertado": true
     },
     "2096295510738915392": {
       "autor": "nexta_tv",
@@ -786,7 +737,8 @@
       "criado": "2026-09-05T17:52:10+00:00",
       "medicoes": {
         "60": 30870,
-        "120": 37762
+        "120": 37762,
+        "180": 41717
       },
       "alertado": false
     },
@@ -797,7 +749,8 @@
       "criado": "2026-09-05T17:51:51+00:00",
       "medicoes": {
         "60": 15697,
-        "120": 18598
+        "120": 18598,
+        "180": 19943
       },
       "alertado": false
     },
@@ -808,7 +761,8 @@
       "criado": "2026-09-05T17:50:47+00:00",
       "medicoes": {
         "60": 43734,
-        "120": 53241
+        "120": 53241,
+        "180": 58577
       },
       "alertado": false
     },
@@ -819,7 +773,8 @@
       "criado": "2026-09-05T17:50:00+00:00",
       "medicoes": {
         "60": 27404,
-        "120": 31610
+        "120": 31610,
+        "180": 34931
       },
       "alertado": false
     },
@@ -830,7 +785,8 @@
       "criado": "2026-09-05T17:48:55+00:00",
       "medicoes": {
         "60": 38806,
-        "120": 48453
+        "120": 48453,
+        "180": 53690
       },
       "alertado": false
     },
@@ -841,7 +797,8 @@
       "criado": "2026-09-05T17:45:29+00:00",
       "medicoes": {
         "60": 38240,
-        "120": 47695
+        "120": 47695,
+        "180": 54035
       },
       "alertado": false
     },
@@ -1034,7 +991,8 @@
       "url": "https://x.com/clashreport/status/2096314392308859118",
       "criado": "2026-09-05T19:07:53+00:00",
       "medicoes": {
-        "60": 11065
+        "60": 11065,
+        "120": 13355
       },
       "alertado": false
     },
@@ -1044,7 +1002,8 @@
       "url": "https://x.com/MarioNawfal/status/2096314169436033342",
       "criado": "2026-09-05T19:07:00+00:00",
       "medicoes": {
-        "60": 26812
+        "60": 26812,
+        "120": 31342
       },
       "alertado": false
     },
@@ -1054,7 +1013,8 @@
       "url": "https://x.com/clashreport/status/2096313547659874363",
       "criado": "2026-09-05T19:04:32+00:00",
       "medicoes": {
-        "60": 10843
+        "60": 10843,
+        "120": 13929
       },
       "alertado": false
     },
@@ -1064,7 +1024,8 @@
       "url": "https://x.com/MarioNawfal/status/2096312407639400566",
       "criado": "2026-09-05T19:00:00+00:00",
       "medicoes": {
-        "60": 24774
+        "60": 24774,
+        "120": 28494
       },
       "alertado": false
     },
@@ -1084,7 +1045,8 @@
       "url": "https://x.com/nexta_tv/status/2096311149281288633",
       "criado": "2026-09-05T18:55:00+00:00",
       "medicoes": {
-        "60": 21202
+        "60": 21202,
+        "120": 29766
       },
       "alertado": false
     },
@@ -1104,7 +1066,8 @@
       "url": "https://x.com/MarioNawfal/status/2096309891145089364",
       "criado": "2026-09-05T18:50:00+00:00",
       "medicoes": {
-        "60": 27254
+        "60": 27254,
+        "120": 31488
       },
       "alertado": false
     },
@@ -1114,7 +1077,8 @@
       "url": "https://x.com/MachadoDarlon/status/2096309864792543598",
       "criado": "2026-09-05T18:49:53+00:00",
       "medicoes": {
-        "60": 534
+        "60": 534,
+        "120": 1024
       },
       "alertado": false
     },
@@ -1124,7 +1088,8 @@
       "url": "https://x.com/NewsLiberdade/status/2096308712507953260",
       "criado": "2026-09-05T18:45:19+00:00",
       "medicoes": {
-        "60": 22313
+        "60": 22313,
+        "120": 29115
       },
       "alertado": false
     },
@@ -1134,7 +1099,8 @@
       "url": "https://x.com/MachadoDarlon/status/2096307782421004673",
       "criado": "2026-09-05T18:41:37+00:00",
       "medicoes": {
-        "60": 785
+        "60": 785,
+        "120": 1121
       },
       "alertado": false
     },
@@ -1303,7 +1269,9 @@
       "texto": "U.S. Ambassador to Israel Mike Huckabee: The reason I use the terms Judea and Samaria is because they’re the ancient biblical terms of this land. 80% of the Bible happened in the area, Judea, Samaria. The West Bank is a nebulous term to me. It is one I know that many people use, but it’s not well defined. It’s not considered something that is ancient and historical.",
       "url": "https://x.com/clashreport/status/2096330074391740820",
       "criado": "2026-09-05T20:10:12+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 16610
+      },
       "alertado": false
     },
     "2096330023804526665": {
@@ -1311,7 +1279,9 @@
       "texto": "🇺🇸 The Supreme Court is about to decide how far states can go to keep noncitizens off their voter rolls. Arizona wants proof of U.S. citizenship when people register and the ability to remove noncitizens it finds on the rolls, even within 90 days of an election. But a lower court ruled that federal law blocks certain systematic removals during that 90-day window. Arizona’s side says that creates a...",
       "url": "https://x.com/MarioNawfal/status/2096330023804526665",
       "criado": "2026-09-05T20:10:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 22853
+      },
       "alertado": false
     },
     "2096329330712301656": {
@@ -1319,7 +1289,9 @@
       "texto": "IRGC Navy warns all vessels in the Persian Gulf and near the Strait of Hormuz against suspicious activity.",
       "url": "https://x.com/Osint613/status/2096329330712301656",
       "criado": "2026-09-05T20:07:15+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 33117
+      },
       "alertado": false
     },
     "2096328993771266438": {
@@ -1327,7 +1299,9 @@
       "texto": "Former CIA Director David Petraeus: \"The Russians have now sustained well over 1.4 million killed and wounded, which is more than the U.S. sustained in all of World War II.\" Petraeus said Russia is losing over 1,000 killed and wounded per day, a rate he called unsustainable.",
       "url": "https://x.com/Osint613/status/2096328993771266438",
       "criado": "2026-09-05T20:05:54+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 51999
+      },
       "alertado": false
     },
     "2096328765639147693": {
@@ -1335,7 +1309,9 @@
       "texto": "🇺🇸 Wild footage from Laguna Seca this morning. A Porsche Sprint Challenge car apparently lost its brakes heading into the newly named Zanardi Corkscrew. The car went airborne, tore through the catch fence and eventually came to a stop in the trees. Driver Manuel Gil Del Real was conscious when crews reached him. He was taken by helicopter to a hospital in Salinas, where Porsche says he’s awake and...",
       "url": "https://x.com/MarioNawfal/status/2096328765639147693",
       "criado": "2026-09-05T20:05:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 43232
+      },
       "alertado": false
     },
     "2096327779415715859": {
@@ -1343,7 +1319,9 @@
       "texto": "🇺🇸🇺🇦 Former CIA Director David Petraeus on Ukraine: “Ukraine is not simply the largest land war in Europe since the Second World War. It is the defining military laboratory of the 21st century. Future historians, I suspect, will study it as earlier generations studied the American Civil War and the two world wars.” A grim distinction. Ukraine is where the future of war arrived early, and found mil...",
       "url": "https://x.com/MarioNawfal/status/2096327779415715859",
       "criado": "2026-09-05T20:01:05+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 28974
+      },
       "alertado": false
     },
     "2096327622599053570": {
@@ -1351,7 +1329,9 @@
       "texto": "Former CIA Director David Petraeus on Ukraine: The casualties the Russians are sustaining are just, I don’t think, sustainable. Over 1,000 killed and wounded per day. The Russians have now sustained well over 1.4 million killed and wounded, which is more than the U.S. sustained in all of World War II.",
       "url": "https://x.com/clashreport/status/2096327622599053570",
       "criado": "2026-09-05T20:00:27+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 16617
+      },
       "alertado": false
     },
     "2096327509205758271": {
@@ -1359,7 +1339,9 @@
       "texto": "🇺🇸 A 71-year-old woman walked into a Florida police station, fired a round in the lobby, and ended up dead in the parking lot. Linda Jean Croteau did it at Port Orange at breakfast time; she stepped outside. Officers ordered her to drop the gun, but she didn’t. They shot her. She reached for the pistol, and they shot again. She died the next day. Her family says her husband was gone and she was st...",
       "url": "https://x.com/MarioNawfal/status/2096327509205758271",
       "criado": "2026-09-05T20:00:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 49210
+      },
       "alertado": false
     },
     "2096327036583235592": {
@@ -1367,7 +1349,9 @@
       "texto": "Former CIA Director David Petraeus on Ukraine: Ukrainians have hit all these oil storage and refinery capabilities. They’ve hit every single refinery within 3,000 kilometers of Ukraine. They haven’t destroyed them. Some are still functioning, but a number are completely offline. The damage inflicted is enormous, and it is continuing — and it’s going to get worse.",
       "url": "https://x.com/clashreport/status/2096327036583235592",
       "criado": "2026-09-05T19:58:08+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 12102
+      },
       "alertado": false
     },
     "2096326692629324171": {
@@ -1383,15 +1367,19 @@
       "texto": "IRIB claims Iran targeted three vessels in the Strait of Hormuz and three American ships. Tehran says the strike is retaliation for U.S. attacks on three Iranian tankers. https://t.co/jeFAGZZvKk",
       "url": "https://x.com/Osint613/status/2096326399673921625",
       "criado": "2026-09-05T19:55:36+00:00",
-      "medicoes": {},
-      "alertado": false
+      "medicoes": {
+        "60": 107262
+      },
+      "alertado": true
     },
     "2096326255779992037": {
       "autor": "clashreport",
       "texto": "Former CIA Director David Petraeus on Iran: We’ve used perhaps half of our missile interceptors in this particular conflict. We need to learn from the Ukrainians, who are using 10,000 cheap drones per day. And the exchange that they’re getting for those is absolutely massive. Our exchange when we shoot an expensive missile interceptor to take down a $50,000 Iranian drone is obviously not one that...",
       "url": "https://x.com/clashreport/status/2096326255779992037",
       "criado": "2026-09-05T19:55:01+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 13813
+      },
       "alertado": false
     },
     "2096326248574464100": {
@@ -1399,7 +1387,9 @@
       "texto": "— Are you glad that Kolya died? — Yes. A Tarantino-esque conversation between the widow of an occupier and his mother. The mother is the one most happy about her son’s death. https://t.co/uJtqK7PLNI",
       "url": "https://x.com/nexta_tv/status/2096326248574464100",
       "criado": "2026-09-05T19:55:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 14954
+      },
       "alertado": false
     },
     "2096325997184585762": {
@@ -1407,7 +1397,9 @@
       "texto": "🇵🇸🇺🇸 Huckabee spent the day in a West Bank town where most Palestinians reportedly hold U.S. passports. He met families of Americans killed by settlers in Turmus Ayya, called the attackers “marauders,” and said Israel should treat it as terrorism. The mayor says 80% of the town is American. Locals say the attackers numbered in the thousands. During the visit, settlers rode an ATV past a home. Huck...",
       "url": "https://x.com/MarioNawfal/status/2096325997184585762",
       "criado": "2026-09-05T19:54:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 27024
+      },
       "alertado": false
     },
     "2096325413093994575": {
@@ -1415,7 +1407,9 @@
       "texto": "Former CIA Director David Petraeus says U.S. bases in the eastern Gulf states are “no longer viable.” https://t.co/2Mn3QoFJOv",
       "url": "https://x.com/clashreport/status/2096325413093994575",
       "criado": "2026-09-05T19:51:40+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 26492
+      },
       "alertado": false
     },
     "2096324797890462198": {
@@ -1423,7 +1417,9 @@
       "texto": "🇮🇷 The IRGC Navy says it targeted three oil tankers in the Persian Gulf after the U.S. disabled three Iranian tankers earlier today. Three for three. The Persian Gulf is acquiring the logic of a bar fight, except the bottles are oil tankers. Source: Middle East Spectator on TG / Writer: Oliver",
       "url": "https://x.com/MarioNawfal/status/2096324797890462198",
       "criado": "2026-09-05T19:49:14+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 47784
+      },
       "alertado": false
     },
     "2096324647180443760": {
@@ -1431,7 +1427,9 @@
       "texto": "🚨AGORA - Flávio Bolsonaro visita Filipe Martins e diz que Moraes não tem condição de ser ministro “Hoje o Alexandre de Moraes é uma laranja podre no Supremo [...] Ele não tem a menor condição de ser ministro do Supremo.” https://t.co/V9grk9gskE",
       "url": "https://x.com/NewsLiberdade/status/2096324647180443760",
       "criado": "2026-09-05T19:48:38+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 24024
+      },
       "alertado": false
     },
     "2096324383551656399": {
@@ -1439,7 +1437,9 @@
       "texto": "Former CIA Director David Petraeus on Ukraine: Ukraine is not simply the largest land war in Europe since the Second World War. It is the defining military laboratory of the 21st century. Future historians, I suspect, will study it as earlier generations studied the American Civil War and the two world wars.",
       "url": "https://x.com/clashreport/status/2096324383551656399",
       "criado": "2026-09-05T19:47:35+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 24615
+      },
       "alertado": false
     },
     "2096323732247892129": {
@@ -1447,7 +1447,9 @@
       "texto": "🇮🇱🇮🇷 Netanyahu on Iran: “If we had not acted against Iran, Iran would today have atomic bombs intended to destroy us. Now they will try again. They are trying again, and they will try again to rebuild the axis that we broke.” There’s the whole Iran problem in 3 words: “They’ll try again.” Writer: Oliver https://t.co/JsuCZ63Ah8",
       "url": "https://x.com/MarioNawfal/status/2096323732247892129",
       "criado": "2026-09-05T19:45:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 33572
+      },
       "alertado": false
     },
     "2096322751787331715": {
@@ -1455,7 +1457,9 @@
       "texto": "Italian PM Meloni: Italy and Türkiye are bound by historical ties and shared interests that make it important to continue developing dialogue and cooperation between our Nations. In recent years, we have consolidated relations between Rome and Ankara, working on dossiers of common interest and on the main challenges concerning the Mediterranean, security, and regional stability.",
       "url": "https://x.com/clashreport/status/2096322751787331715",
       "criado": "2026-09-05T19:41:06+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 13719
+      },
       "alertado": false
     },
     "2096337573379473706": {
@@ -1585,12 +1589,139 @@
       "criado": "2026-09-05T20:11:32+00:00",
       "medicoes": {},
       "alertado": false
+    },
+    "2096345111382622508": {
+      "autor": "NewsLiberdade",
+      "texto": "🚨URGENTE - TRE-PR dá 24 horas para Dallagnol se explicar sobre vazamento de sigilo de Cristiano Zanin https://t.co/WuaX0E1Wnu",
+      "url": "https://x.com/NewsLiberdade/status/2096345111382622508",
+      "criado": "2026-09-05T21:09:57+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096343911421641107": {
+      "autor": "clashreport",
+      "texto": "Residents of Bezmer, a Bulgarian village beside a military airbase, have felt relief after two U.S. Air Force refuelling planes left the country. Their deployment had sparked weeks of anxiety because Iran had warned Bulgaria against allowing its territory to support U.S. and Israeli military operations, raising fears that the base could become a potential target. More than 3,000 people from Bezmer...",
+      "url": "https://x.com/clashreport/status/2096343911421641107",
+      "criado": "2026-09-05T21:05:11+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096343110234087561": {
+      "autor": "MarioNawfal",
+      "texto": "🇮🇷 IRGC: “Suspicious activity” in the Strait of Hormuz will be targeted The IRGC has released footage it says shows Iranian forces monitoring and intercepting vessels involved in “violations” in the Strait of Hormuz. It warned that any “suspicious activity” will be targeted, while dismissing U.S. protection and escorts for vessels as “nothing but a deception.” The message from Tehran: an American...",
+      "url": "https://x.com/MarioNawfal/status/2096343110234087561",
+      "criado": "2026-09-05T21:02:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096343008010756166": {
+      "autor": "MachadoDarlon",
+      "texto": "E na Expo Cláudio 😱🔥🇧🇷 Gusttavo Lima https://t.co/MfsKaFgLKm",
+      "url": "https://x.com/MachadoDarlon/status/2096343008010756166",
+      "criado": "2026-09-05T21:01:35+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096342610562458044": {
+      "autor": "MarioNawfal",
+      "texto": "🇮🇱 A fmr Israeli ambassador toured South America and came home saying the map flipped in their favor. Michael Oren’s read is that Petro is out in Colombia, Kast replaced Boric in Chile, and both are bringing Jerusalem ties back. With Maduro gone and Milei already aligned, Brazil is the last big piece. If Lula loses to Flávio Bolsonaro, Oren says the continent becomes Israel’s friendliest bloc. It...",
+      "url": "https://x.com/MarioNawfal/status/2096342610562458044",
+      "criado": "2026-09-05T21:00:01+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096341840651800605": {
+      "autor": "clashreport",
+      "texto": "WATCH: IRGC releases footage showing the \"monitoring and interception of vessels involved in violations\" in the Strait of Hormuz. The IRGC says any \"suspicious activity\" will be targeted. The IRGC says U.S. protection and escort are \"nothing but a deception.\" https://t.co/Mili6WUliV",
+      "url": "https://x.com/clashreport/status/2096341840651800605",
+      "criado": "2026-09-05T20:56:57+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096341348794155284": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸 Fmr CIA director David Petraeus says the old U.S. bases on the Gulf’s east side are finished. The general says much of the kit is already gone, Iran can still hit energy plants, and Qatar’s LNG took a 15-17% hit lasting 3-5 years. That is the new leverage. America built those bases for old wars. They now sit inside Iran’s strike range. Moving west is the quiet admission, but the map is being re...",
+      "url": "https://x.com/MarioNawfal/status/2096341348794155284",
+      "criado": "2026-09-05T20:55:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096341348425384280": {
+      "autor": "nexta_tv",
+      "texto": "Telling a porn actress apart by her moans is certainly a niche skill. https://t.co/qOBDhwD9Vg",
+      "url": "https://x.com/nexta_tv/status/2096341348425384280",
+      "criado": "2026-09-05T20:55:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096340944647815254": {
+      "autor": "clashreport",
+      "texto": "Russia’s Dmitriev calls U.S. envoys’ trip to Moscow an “important peacemaking visit.” https://t.co/8ITZpxL4a4",
+      "url": "https://x.com/clashreport/status/2096340944647815254",
+      "criado": "2026-09-05T20:53:23+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096340228902645945": {
+      "autor": "MachadoDarlon",
+      "texto": "🚨⚠️ Flávio Bolsonaro visita Filipe Martins na cadeia em Ponta Grossa O candidato à Presidência Flávio Bolsonaro (PL) visita neste sábado (5) Filipe Martins, ex-assessor especial para Assuntos Internacionais do ex-presidente Jair Bolsonaro, na Cadeia Pública de Ponta Grossa, nos Campos Gerais do Paraná. A visita foi autorizada pelo ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF). Fi...",
+      "url": "https://x.com/MachadoDarlon/status/2096340228902645945",
+      "criado": "2026-09-05T20:50:33+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096340179040502066": {
+      "autor": "clashreport",
+      "texto": "Two Hellenic Air Force pilots, Ioannis Blesias, 40, and Dimitrios Petrou, 37, were killed after their F-4E Phantom II crashed earlier today. https://t.co/7OhEOvMGrS",
+      "url": "https://x.com/clashreport/status/2096340179040502066",
+      "criado": "2026-09-05T20:50:21+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096340090075406348": {
+      "autor": "MarioNawfal",
+      "texto": "🇷🇺 A Russian icebreaker caught fire today at the Kronstadt yard outside St. Petersburg, the same hull that burned in 2024. The 1975-built Admiral Makarov was in the shop when its hold caught fire. Crews contained about 80 square meters and extinguished it within two hours. No injuries were reported. You cannot keep the Northern Route open if the icebreaker spends its life in a smoke-filled dock. W...",
+      "url": "https://x.com/MarioNawfal/status/2096340090075406348",
+      "criado": "2026-09-05T20:50:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096339419141709890": {
+      "autor": "Osint613",
+      "texto": "Russia's Kirill Dmitriev called the U.S. envoys' trip to Moscow an important peace mission. https://t.co/RVfJTHoXww",
+      "url": "https://x.com/Osint613/status/2096339419141709890",
+      "criado": "2026-09-05T20:47:20+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096338831687496165": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸 Kids left class across Colorado on Friday to protest ICE, and the Denver park protest ended with bottles in the air. Students from 200+ schools walked out against ICE. At La Alma-Lincoln Park, they threw water at a man holding an I love ICE sign, chased him, and called the agency Nazis, with police logging 5 assaults and 3 hospital trips. Writer: Lucas https://t.co/Fp1IVda7re",
+      "url": "https://x.com/MarioNawfal/status/2096338831687496165",
+      "criado": "2026-09-05T20:45:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096338076997931491": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇦🇷🇺 Ukraine may be running out of time to make a deal. The new U.S.-Russia talks may look like another diplomatic ritual. Glenn Diesen thinks there is one important difference this time: the battlefield is moving faster than the negotiations. He argues Washington has a stronger incentive to seek a settlement because Ukraine is facing simultaneous pressure from depleted air defenses, manpower shor...",
+      "url": "https://x.com/MarioNawfal/status/2096338076997931491",
+      "criado": "2026-09-05T20:42:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096337944311484536": {
+      "autor": "MarioNawfal",
+      "texto": "🇷🇺🇺🇸 Witkoff and Kushner have left the Kremlin after roughly 3.5 hours with Putin. No statements. No readout. Now they’re heading to Kyiv to meet Ukrainian officials. Whatever was said in that room is traveling with them. Source: @TabzLIVE on TG / Writer: Oliver https://t.co/bgknNnfkeH",
+      "url": "https://x.com/MarioNawfal/status/2096337944311484536",
+      "criado": "2026-09-05T20:41:28+00:00",
+      "medicoes": {},
+      "alertado": false
     }
   },
   "baseline": {
     "NewsLiberdade": {
       "60": [
-        23160,
         16933,
         18611,
         20839,
@@ -1629,10 +1760,10 @@
         11823,
         13040,
         17707,
-        17627
+        17627,
+        20358
       ],
       "120": [
-        39762,
         20567,
         23210,
         26570,
@@ -1671,10 +1802,10 @@
         16031,
         17581,
         25368,
-        21627
+        21627,
+        29150
       ],
       "180": [
-        48850,
         22923,
         25761,
         29747,
@@ -1713,10 +1844,10 @@
         19414,
         20219,
         30105,
-        23736
+        23736,
+        34976
       ],
       "240": [
-        55305,
         24507,
         27540,
         32006,
@@ -1755,10 +1886,10 @@
         23403,
         22305,
         33829,
-        25537
+        25537,
+        39530
       ],
       "360": [
-        63625,
         26736,
         29613,
         34255,
@@ -1797,13 +1928,12 @@
         32607,
         26079,
         39223,
-        28313
+        28313,
+        46648
       ]
     },
     "MarioNawfal": {
       "60": [
-        29935,
-        27711,
         28949,
         21118,
         25514,
@@ -1841,11 +1971,11 @@
         33717,
         51542,
         29118,
-        34489
+        34489,
+        23477,
+        34495
       ],
       "120": [
-        43739,
-        41522,
         40415,
         28575,
         31662,
@@ -1883,11 +2013,11 @@
         48571,
         86706,
         39503,
-        46636
+        46636,
+        28166,
+        46955
       ],
       "180": [
-        53654,
-        53151,
         50726,
         34055,
         36445,
@@ -1925,11 +2055,11 @@
         56094,
         110596,
         46889,
-        53437
+        53437,
+        30936,
+        56231
       ],
       "240": [
-        60108,
-        64592,
         58745,
         38984,
         40316,
@@ -1967,11 +2097,11 @@
         60353,
         132046,
         51802,
-        57822
+        57822,
+        36887,
+        62020
       ],
       "360": [
-        69059,
-        83519,
         74450,
         54672,
         52716,
@@ -2009,7 +2139,9 @@
         64738,
         160319,
         57056,
-        62961
+        62961,
+        42310,
+        71652
       ]
     },
     "MachadoDarlon": {
@@ -2226,7 +2358,6 @@
     },
     "clashreport": {
       "60": [
-        6175,
         6569,
         6405,
         7272,
@@ -2265,10 +2396,10 @@
         8200,
         9839,
         11424,
-        24175
+        24175,
+        10757
       ],
       "120": [
-        8163,
         8318,
         7713,
         8765,
@@ -2307,10 +2438,10 @@
         10855,
         12177,
         15740,
-        33101
+        33101,
+        13499
       ],
       "180": [
-        9037,
         9229,
         8415,
         9551,
@@ -2349,10 +2480,10 @@
         12495,
         13624,
         18404,
-        38693
+        38693,
+        14932
       ],
       "240": [
-        9821,
         9968,
         9470,
         10239,
@@ -2391,10 +2522,10 @@
         13992,
         14518,
         20626,
-        44641
+        44641,
+        16043
       ],
       "360": [
-        12680,
         12707,
         12910,
         12816,
@@ -2433,7 +2564,8 @@
         16245,
         15748,
         23178,
-        52234
+        52234,
+        17410
       ]
     },
     "Osint613": {
@@ -2650,7 +2782,6 @@
     },
     "nexta_tv": {
       "60": [
-        17303,
         15746,
         15209,
         33099,
@@ -2689,10 +2820,10 @@
         16972,
         13975,
         12632,
-        19574
+        19574,
+        17414
       ],
       "120": [
-        23690,
         23673,
         18114,
         48939,
@@ -2731,10 +2862,10 @@
         28338,
         18455,
         14851,
-        25150
+        25150,
+        27123
       ],
       "180": [
-        27252,
         29327,
         19959,
         61155,
@@ -2773,10 +2904,10 @@
         43339,
         21023,
         16416,
-        29353
+        29353,
+        34142
       ],
       "240": [
-        30631,
         34381,
         21229,
         70558,
@@ -2815,10 +2946,10 @@
         53744,
         22893,
         17433,
-        64281
+        64281,
+        39670
       ],
       "360": [
-        35483,
         41779,
         23835,
         83626,
@@ -2857,10 +2988,11 @@
         67711,
         25713,
         19988,
-        85902
+        85902,
+        48724
       ]
     }
   },
-  "ultima_busca": "2026-09-05T20:40:53+00:00",
-  "alertas_enviados": 309
+  "ultima_busca": "2026-09-05T21:10:21+00:00",
+  "alertas_enviados": 311
 }
