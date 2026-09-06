@@ -1,10 +1,9 @@
-  consulta: (from:MarioNawfal OR from:Osint613 OR from:clashreport OR from:nexta_tv OR from:NewsLiberdade OR from:MachadoDarlon) since_time:1788730699 -filter:replies
-  busca: 9 posts cobrados (~135 creditos)
-Posts novos guardados: 8
-Posts para medir: 105
-  2 nao responderam - tentando de novo em 15s
-  medidos de graca: 103 | sobraram para a API paga: 2
-    [gemini-3.1-flash-lite] HTTP 503 - cota ou sobrecarga, trocando de modelo
+  consulta: (from:MarioNawfal OR from:Osint613 OR from:clashreport OR from:nexta_tv OR from:NewsLiberdade OR from:MachadoDarlon) since_time:1788732499 -filter:replies
+  busca: 15 posts cobrados (~225 creditos)
+Posts novos guardados: 14
+Posts para medir: 84
+  1 nao responderam - tentando de novo em 15s
+  medidos de graca: 83 | sobraram para a API paga: 1
 Alertas enviados: 1
-Posts aposentados: 21
+Posts aposentados: 22
 Amostras por perfil: MarioNawfal:40 | Osint613:40 | clashreport:40 | nexta_tv:40 | NewsLiberdade:40 | MachadoDarlon:40
