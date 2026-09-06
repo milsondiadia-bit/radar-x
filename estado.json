@@ -1,97 +1,5 @@
 {
   "posts": {
-    "2096465919140921519": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 The University of Tennessee marching band paid tribute to a QUEEN! We will always love you, Dolly, and we will forever remember you through music! Writer: Jamie https://t.co/ClaIWNGL8d",
-      "url": "https://x.com/MarioNawfal/status/2096465919140921519",
-      "criado": "2026-09-06T05:10:00+00:00",
-      "medicoes": {},
-      "alertado": false
-    },
-    "2096463683505266753": {
-      "autor": "clashreport",
-      "texto": "Acting U.S. sanctions czar Gene Lange joined Trump envoys Steve Witkoff and Jared Kushner in Moscow, signaling that sanctions relief was part of discussions with Russia. Lange took part in preparatory talks with Putin envoy Kirill Dmitriev but did not attend the meeting with Putin. Source: Axios",
-      "url": "https://x.com/clashreport/status/2096463683505266753",
-      "criado": "2026-09-06T05:01:07+00:00",
-      "medicoes": {
-        "60": 7738,
-        "120": 10980,
-        "180": 13851,
-        "240": 15623,
-        "360": 19450
-      },
-      "alertado": false
-    },
-    "2096463403770315094": {
-      "autor": "MarioNawfal",
-      "texto": "🇮🇱 A woman was filmed spitting outside the Monastery of St. James in Jerusalem. Once again, we are seeing this kind of offensive behavior by an Israeli toward a Christian symbol in Israel... Writer: Samuel https://t.co/GlcQLT0xK7",
-      "url": "https://x.com/MarioNawfal/status/2096463403770315094",
-      "criado": "2026-09-06T05:00:00+00:00",
-      "medicoes": {
-        "60": 35598,
-        "120": 65271,
-        "180": 89289,
-        "240": 111697,
-        "360": 148848
-      },
-      "alertado": false
-    },
-    "2096463196500484306": {
-      "autor": "clashreport",
-      "texto": "CENTCOM: Thanks to the precision and professionalism of American service members, the M/T Kylo sank in the Gulf of Oman today and joined Iran’s navy at the bottom of the sea. https://t.co/sNflnoFYWd",
-      "url": "https://x.com/clashreport/status/2096463196500484306",
-      "criado": "2026-09-06T04:59:11+00:00",
-      "medicoes": {
-        "60": 7711,
-        "120": 10557,
-        "180": 13418,
-        "240": 16343,
-        "360": 18888
-      },
-      "alertado": false
-    },
-    "2096462867172147504": {
-      "autor": "clashreport",
-      "texto": "U.S. forces near Ecuador destroyed several vessels allegedly used to refuel drug-smuggling boats, with no casualties reported. https://t.co/X48N9Qf2lG",
-      "url": "https://x.com/clashreport/status/2096462867172147504",
-      "criado": "2026-09-06T04:57:52+00:00",
-      "medicoes": {
-        "60": 6126,
-        "120": 8312,
-        "180": 10084,
-        "240": 11699,
-        "360": 13464
-      },
-      "alertado": false
-    },
-    "2096460164433883382": {
-      "autor": "clashreport",
-      "texto": "Trump: So sad what is happening in Spain, a country with ZERO control of its Border. WOW! https://t.co/QNP0V6jYbR",
-      "url": "https://x.com/clashreport/status/2096460164433883382",
-      "criado": "2026-09-06T04:47:08+00:00",
-      "medicoes": {
-        "60": 6949,
-        "120": 9110,
-        "180": 11234,
-        "240": 12775,
-        "360": 14302
-      },
-      "alertado": false
-    },
-    "2096459627789697128": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 Cybercab’s seats sit at wheelchair height on purpose. The door goes up, the chair lines up, and you slide in instead of climbing. A wheelchair user already rode one and said 10/10. It's a small detail, but huge if you’ve spent years fighting cars that were never made for you. @Tesla / Writer: Val https://t.co/RsGFwWwAto",
-      "url": "https://x.com/MarioNawfal/status/2096459627789697128",
-      "criado": "2026-09-06T04:45:00+00:00",
-      "medicoes": {
-        "60": 23439,
-        "120": 27675,
-        "180": 33360,
-        "240": 40390,
-        "360": 50376
-      },
-      "alertado": false
-    },
     "2096473468963524969": {
       "autor": "MarioNawfal",
       "texto": "🚨💺 I’m sorry… but is no one going to freak out about that INSANE HEADREST?! You’re telling me this technology exists and the mainstream isn’t adopting it? We, the people, demand every airline start doing this shit immediately! Thank you for your attention to this matter! Writer: Jamie https://t.co/l50c5rXmNs",
@@ -101,7 +9,8 @@
         "60": 23653,
         "120": 42708,
         "180": 62925,
-        "240": 76690
+        "240": 76690,
+        "360": 99513
       },
       "alertado": false
     },
@@ -114,7 +23,8 @@
         "60": 6425,
         "120": 9418,
         "180": 11615,
-        "240": 13221
+        "240": 13221,
+        "360": 15743
       },
       "alertado": false
     },
@@ -127,7 +37,8 @@
         "60": 25984,
         "120": 33648,
         "180": 39080,
-        "240": 43339
+        "240": 43339,
+        "360": 56664
       },
       "alertado": false
     },
@@ -140,7 +51,8 @@
         "60": 7809,
         "120": 11599,
         "180": 14072,
-        "240": 15959
+        "240": 15959,
+        "360": 18986
       },
       "alertado": false
     },
@@ -153,7 +65,8 @@
         "60": 20241,
         "120": 23739,
         "180": 28570,
-        "240": 32972
+        "240": 32972,
+        "360": 40217
       },
       "alertado": false
     },
@@ -166,7 +79,8 @@
         "60": 5572,
         "120": 7644,
         "180": 9052,
-        "240": 9972
+        "240": 9972,
+        "360": 12924
       },
       "alertado": false
     },
@@ -179,7 +93,8 @@
         "60": 7718,
         "120": 10573,
         "180": 12352,
-        "240": 13582
+        "240": 13582,
+        "360": 16296
       },
       "alertado": false
     },
@@ -192,7 +107,8 @@
         "60": 8569,
         "120": 20375,
         "180": 30938,
-        "240": 39584
+        "240": 39584,
+        "360": 57551
       },
       "alertado": false
     },
@@ -205,7 +121,8 @@
         "60": 22697,
         "120": 26542,
         "180": 30992,
-        "240": 35678
+        "240": 35678,
+        "360": 45548
       },
       "alertado": false
     },
@@ -218,7 +135,8 @@
         "60": 8509,
         "120": 11187,
         "180": 12870,
-        "240": 13884
+        "240": 13884,
+        "360": 15289
       },
       "alertado": false
     },
@@ -516,7 +434,8 @@
       "medicoes": {
         "60": 19873,
         "120": 23590,
-        "180": 27041
+        "180": 27041,
+        "240": 31100
       },
       "alertado": false
     },
@@ -528,7 +447,8 @@
       "medicoes": {
         "60": 25036,
         "120": 35392,
-        "180": 45963
+        "180": 45963,
+        "240": 60830
       },
       "alertado": false
     },
@@ -540,7 +460,8 @@
       "medicoes": {
         "60": 26454,
         "120": 50016,
-        "180": 70240
+        "180": 70240,
+        "240": 81909
       },
       "alertado": false
     },
@@ -552,7 +473,8 @@
       "medicoes": {
         "60": 25265,
         "120": 30310,
-        "180": 35414
+        "180": 35414,
+        "240": 41581
       },
       "alertado": false
     },
@@ -635,7 +557,8 @@
       "criado": "2026-09-06T08:40:00+00:00",
       "medicoes": {
         "60": 19726,
-        "120": 24490
+        "120": 24490,
+        "180": 29084
       },
       "alertado": false
     },
@@ -646,7 +569,8 @@
       "criado": "2026-09-06T08:30:23+00:00",
       "medicoes": {
         "60": 15497,
-        "120": 24089
+        "120": 24089,
+        "180": 30898
       },
       "alertado": false
     },
@@ -657,7 +581,8 @@
       "criado": "2026-09-06T08:30:00+00:00",
       "medicoes": {
         "60": 18991,
-        "120": 24212
+        "120": 24212,
+        "180": 34057
       },
       "alertado": false
     },
@@ -668,7 +593,8 @@
       "criado": "2026-09-06T08:24:31+00:00",
       "medicoes": {
         "60": 8052,
-        "120": 10212
+        "120": 10212,
+        "180": 12475
       },
       "alertado": false
     },
@@ -854,7 +780,8 @@
       "url": "https://x.com/MarioNawfal/status/2096533867322634560",
       "criado": "2026-09-06T09:40:00+00:00",
       "medicoes": {
-        "60": 24546
+        "60": 24546,
+        "120": 34247
       },
       "alertado": false
     },
@@ -864,7 +791,8 @@
       "url": "https://x.com/MarioNawfal/status/2096531352136946082",
       "criado": "2026-09-06T09:30:00+00:00",
       "medicoes": {
-        "60": 20181
+        "60": 20181,
+        "120": 24144
       },
       "alertado": false
     },
@@ -874,7 +802,8 @@
       "url": "https://x.com/clashreport/status/2096530016725041591",
       "criado": "2026-09-06T09:24:42+00:00",
       "medicoes": {
-        "60": 9409
+        "60": 9409,
+        "120": 12972
       },
       "alertado": false
     },
@@ -884,7 +813,8 @@
       "url": "https://x.com/clashreport/status/2096529200073031945",
       "criado": "2026-09-06T09:21:27+00:00",
       "medicoes": {
-        "60": 7897
+        "60": 7897,
+        "120": 10653
       },
       "alertado": false
     },
@@ -894,7 +824,8 @@
       "url": "https://x.com/MarioNawfal/status/2096528833646067772",
       "criado": "2026-09-06T09:20:00+00:00",
       "medicoes": {
-        "60": 48583
+        "60": 48583,
+        "120": 69953
       },
       "alertado": false
     },
@@ -904,7 +835,8 @@
       "url": "https://x.com/clashreport/status/2096528618079805466",
       "criado": "2026-09-06T09:19:08+00:00",
       "medicoes": {
-        "60": 11564
+        "60": 11564,
+        "120": 20049
       },
       "alertado": false
     },
@@ -914,7 +846,8 @@
       "url": "https://x.com/clashreport/status/2096528338550440239",
       "criado": "2026-09-06T09:18:02+00:00",
       "medicoes": {
-        "60": 7645
+        "60": 7645,
+        "120": 9801
       },
       "alertado": false
     },
@@ -924,7 +857,8 @@
       "url": "https://x.com/clashreport/status/2096527170617082264",
       "criado": "2026-09-06T09:13:23+00:00",
       "medicoes": {
-        "60": 9009
+        "60": 9009,
+        "120": 11929
       },
       "alertado": false
     },
@@ -934,7 +868,8 @@
       "url": "https://x.com/clashreport/status/2096526586325373292",
       "criado": "2026-09-06T09:11:04+00:00",
       "medicoes": {
-        "60": 7562
+        "60": 7562,
+        "120": 9617
       },
       "alertado": false
     },
@@ -1023,7 +958,9 @@
       "texto": "🇩🇪 A German mother was severely beaten after asking a group to turn down their music so her children could sleep, and the main suspect received just one year of probation and 80 hours of community service. Denise Kreppel says her attacker repeatedly smashed her head against a curb, while another woman was also beaten when she tried to intervene. The man was already facing three separate assault ca...",
       "url": "https://x.com/MarioNawfal/status/2096548966548808078",
       "criado": "2026-09-06T10:40:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 28678
+      },
       "alertado": false
     },
     "2096548558027518304": {
@@ -1031,7 +968,9 @@
       "texto": "Zelensky: The Russians didn't allow the American delegation to arrive by plane, even though our airports were ready. https://t.co/GF8ST1iR7V",
       "url": "https://x.com/clashreport/status/2096548558027518304",
       "criado": "2026-09-06T10:38:22+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 19269
+      },
       "alertado": false
     },
     "2096547962440593828": {
@@ -1039,7 +978,9 @@
       "texto": "⚡️ Zelensky met with Witkoff and Kushner The US envoys are expected to brief Kyiv on Moscow’s position and discuss American proposals for a possible end to the war.",
       "url": "https://x.com/nexta_tv/status/2096547962440593828",
       "criado": "2026-09-06T10:36:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 35418
+      },
       "alertado": false
     },
     "2096547594738569448": {
@@ -1047,7 +988,9 @@
       "texto": "Ukrainian President Zelensky receives U.S. envoys Steve Witkoff and Jared Kushner in Kyiv for peace talks. https://t.co/DGUbbrbsES",
       "url": "https://x.com/Osint613/status/2096547594738569448",
       "criado": "2026-09-06T10:34:33+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 37914
+      },
       "alertado": false
     },
     "2096547238101033139": {
@@ -1055,7 +998,9 @@
       "texto": "Steve Witkoff and Jared Kushner arrived in Ukraine by train. They were greeted by senior Ukrainian officials. https://t.co/KLRk9796Zf",
       "url": "https://x.com/clashreport/status/2096547238101033139",
       "criado": "2026-09-06T10:33:08+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 16339
+      },
       "alertado": false
     },
     "2096546784151482768": {
@@ -1063,7 +1008,9 @@
       "texto": "Zelensky meets with Witkoff and Kushner in Kyiv. https://t.co/tBUCfe9mLO",
       "url": "https://x.com/clashreport/status/2096546784151482768",
       "criado": "2026-09-06T10:31:19+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 13184
+      },
       "alertado": false
     },
     "2096546451740635595": {
@@ -1071,7 +1018,9 @@
       "texto": "🇰🇷 Not gonna lie… I’d smash some Chipotle. Definitely wouldn’t wait 11 hours, though! Give it a few weeks until the newness wears off. Source: KoreaNow (YouTube) / Writer: Jamie https://t.co/UxLSeu1awN",
       "url": "https://x.com/MarioNawfal/status/2096546451740635595",
       "criado": "2026-09-06T10:30:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 22102
+      },
       "alertado": false
     },
     "2096545189233836281": {
@@ -1079,7 +1028,9 @@
       "texto": "The IRGC says its Aerospace Force destroyed a U.S. military surveillance balloon over Erbil in northern Iraq. According to the IRGC, the balloon was about 35 meters long, could carry up to 500 kg of equipment, and was capable of operating as a stationary airborne surveillance platform for weeks. The IRGC also says the system could carry electronic intelligence, communications relay, and electronic...",
       "url": "https://x.com/clashreport/status/2096545189233836281",
       "criado": "2026-09-06T10:24:59+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 11285
+      },
       "alertado": false
     },
     "2096543933870260541": {
@@ -1087,7 +1038,9 @@
       "texto": "🇮🇷 Iran: Nice tanker you've got there; shame if something happened to it The IRGC released footage showcasing its attacks on ships transiting the Strait of Hormuz without its permission Despite Trump claiming that the U.S has full control over the Strait, this tells a different story Writer: Ian https://t.co/9VMA9GUxLY",
       "url": "https://x.com/MarioNawfal/status/2096543933870260541",
       "criado": "2026-09-06T10:20:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 34446
+      },
       "alertado": false
     },
     "2096543687480053943": {
@@ -1095,15 +1048,19 @@
       "texto": "‼️ Steve Witkoff and Jared Kushner are already in Kyiv Earlier, their plane landed in Rzeszów, Poland, from where the delegation continued its journey to Ukraine by train.",
       "url": "https://x.com/nexta_tv/status/2096543687480053943",
       "criado": "2026-09-06T10:19:01+00:00",
-      "medicoes": {},
-      "alertado": false
+      "medicoes": {
+        "60": 60683
+      },
+      "alertado": true
     },
     "2096543291302969791": {
       "autor": "Osint613",
       "texto": "U.S. envoys Steve Witkoff and Jared Kushner have arrived in Kyiv to negotiate a peace deal between Ukraine and Russia. https://t.co/M4Dkm2M4Gr",
       "url": "https://x.com/Osint613/status/2096543291302969791",
       "criado": "2026-09-06T10:17:27+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 63417
+      },
       "alertado": false
     },
     "2096542279733305624": {
@@ -1111,7 +1068,9 @@
       "texto": "NOW: U.S. envoys Jared Kushner and Steve Witkoff have arrived in Kyiv for the first time. https://t.co/qOlynlYk6F",
       "url": "https://x.com/clashreport/status/2096542279733305624",
       "criado": "2026-09-06T10:13:26+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 18252
+      },
       "alertado": false
     },
     "2096556516694179982": {
@@ -1167,6 +1126,118 @@
       "texto": "🇺🇸 RECORD LOW ratings for Trump A new FT poll shows ONLY 33% of voters approve of his performance, and with the midterms nearly two months away, the clock is ticking. Even his own base is cracking. Republican approval has dropped to an ALL TIME LOW of 72%. It seems many Americans have finally had enough of Trump’s promises not matching the reality they are living in with endless wars driving up TH...",
       "url": "https://x.com/MarioNawfal/status/2096551483235799406",
       "criado": "2026-09-06T10:50:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096564066252636325": {
+      "autor": "MarioNawfal",
+      "texto": "🇮🇱🇵🇸 A mass funeral was held in Gaza City, honouring 100 Palestinian victims recovered from buildings that were hit soon after October 7 In one of the strikes, 41 members of a single extended family died. Still, Israeli National Security Minister Ben Gvir says at least 30 or 40 people should die per night in Gaza. Writer: Mhedi https://t.co/rIz4W1izMi",
+      "url": "https://x.com/MarioNawfal/status/2096564066252636325",
+      "criado": "2026-09-06T11:40:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096563033300505036": {
+      "autor": "MachadoDarlon",
+      "texto": "😬 VICHI FELIPÃO VAI TER QUE PASSAR O FERIADO EM CASA 😁😂😂😂😆 https://t.co/dbPusZt0Gn",
+      "url": "https://x.com/MachadoDarlon/status/2096563033300505036",
+      "criado": "2026-09-06T11:35:54+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096562807852425611": {
+      "autor": "nexta_tv",
+      "texto": "🚆 The train that brought Kushner and Witkoff to Kyiv was labeled Peace Express Now the only question is whether the Peace Express brought anything besides a nice name.",
+      "url": "https://x.com/nexta_tv/status/2096562807852425611",
+      "criado": "2026-09-06T11:35:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096561816579056096": {
+      "autor": "MachadoDarlon",
+      "texto": "🇩🇪🗳 ELEIÇÃO – A Alemanha se prepara para uma eleição regional que pode levar a extrema-direita ao poder pela primeira vez desde a Segunda Guerra Mundial. Moradores da Saxônia-Anhalt vão às urnas neste domingo (6) com candidato da AfD como favorito. Na véspera da votação, moradores da região foram às ruas para protestar contra o avanço da extrema-direita e em defesa da democracia. Saiba mais com @p...",
+      "url": "https://x.com/MachadoDarlon/status/2096561816579056096",
+      "criado": "2026-09-06T11:31:03+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096561621514543506": {
+      "autor": "NewsLiberdade",
+      "texto": "🚨URGENTE - Lula diz que vai ampliar o pé-de-meia para todos os alunos da escola pública, não só estudantes do ensino médio https://t.co/EYv9hRYsQu",
+      "url": "https://x.com/NewsLiberdade/status/2096561621514543506",
+      "criado": "2026-09-06T11:30:17+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096561550870155648": {
+      "autor": "MarioNawfal",
+      "texto": "🇸🇾 Syria’s Health Minister is going viral for handling a pistol like a Bond villain Musab al Ali was filmed firing a gun at the 63rd Damascus International Fair. Visiting with the Culture Minister and senior Interior Ministry officials, he showed off a remarkably steady hand. Turns out he has NO military experience. But after years as a neurosurgeon, steady hands are second nature, whether holding...",
+      "url": "https://x.com/MarioNawfal/status/2096561550870155648",
+      "criado": "2026-09-06T11:30:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096560416906203214": {
+      "autor": "MachadoDarlon",
+      "texto": "O militante petralha é mais ou menos isso e o povo que se lasque. . . 🥵😡😤",
+      "url": "https://x.com/MachadoDarlon/status/2096560416906203214",
+      "criado": "2026-09-06T11:25:30+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096560290938880313": {
+      "autor": "MarioNawfal",
+      "texto": "Nothing to see here... 😱 Writer: Ian https://t.co/qEJzlJMFzQ",
+      "url": "https://x.com/MarioNawfal/status/2096560290938880313",
+      "criado": "2026-09-06T11:25:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096559630583259315": {
+      "autor": "MachadoDarlon",
+      "texto": "🚨👀🔥 APÓCRIFO USADO POR MORAES PARA RETALIAR MENDONÇA REVELA 'FÁBRICA DE DOSSIÊS' NA PF, DIZEM SERVIDORES Para tentar retaliar André Mendonça, Alexandre de Moraes usou um documento apócrifo da PF — prática que se tornou rotina na corporação sob Andrei Rodrigues. Servidores da PF e do STF confirmam a produção de dezenas — alguns falam em centenas — de dossiês contra autoridades dos Três Poderes e jo...",
+      "url": "https://x.com/MachadoDarlon/status/2096559630583259315",
+      "criado": "2026-09-06T11:22:22+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096559332577931336": {
+      "autor": "nexta_tv",
+      "texto": "👀 Zelensky: “We’ve started the talks” What are your predictions?",
+      "url": "https://x.com/nexta_tv/status/2096559332577931336",
+      "criado": "2026-09-06T11:21:11+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096559032802984441": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸🇮🇷 Iran to U.S: Get ready, 'cause this shit's about to get heavy Parliament Speaker Mohammad Ghalibaf: \"The Americans must have understood that the era of \"proportional responses\" is over. Our strikes on the aggressors’ bases in recent operations were only the beginning. If they have not understood this by now, they must do so before it is too late: the rules of the game have changed. From now o...",
+      "url": "https://x.com/MarioNawfal/status/2096559032802984441",
+      "criado": "2026-09-06T11:20:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096558384870797316": {
+      "autor": "clashreport",
+      "texto": "Zelensky: Negotiations have begun. https://t.co/ENAYmmjxzK",
+      "url": "https://x.com/clashreport/status/2096558384870797316",
+      "criado": "2026-09-06T11:17:25+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096557711869493677": {
+      "autor": "MachadoDarlon",
+      "texto": "👀🧐😳 VAI VENDO PATRIOTAS 🔰 PEGUEM A PIPOCA 🍿🍿🍿 PORQUE A COISA TÁ FICANDO FÊIA ! 🔥🔥🔥 https://t.co/wjzgLmnhsP",
+      "url": "https://x.com/MachadoDarlon/status/2096557711869493677",
+      "criado": "2026-09-06T11:14:45+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096557638372798747": {
+      "autor": "NewsLiberdade",
+      "texto": "🚨URGENTE - Alcolumbre quer pautar o impeachment de Alexandre de Moraes e André Mendonça caso a pressão aumente, diz O Globo https://t.co/D9ITYEAvHA",
+      "url": "https://x.com/NewsLiberdade/status/2096557638372798747",
+      "criado": "2026-09-06T11:14:27+00:00",
       "medicoes": {},
       "alertado": false
     }
@@ -1386,8 +1457,6 @@
     },
     "MarioNawfal": {
       "60": [
-        27106,
-        43226,
         26005,
         21112,
         20562,
@@ -1425,11 +1494,11 @@
         21517,
         22827,
         22555,
-        30343
+        30343,
+        35598,
+        23439
       ],
       "120": [
-        34383,
-        50053,
         29469,
         23686,
         25564,
@@ -1467,11 +1536,11 @@
         25686,
         26398,
         27201,
-        36758
+        36758,
+        65271,
+        27675
       ],
       "180": [
-        39074,
-        54020,
         33209,
         30274,
         30766,
@@ -1509,11 +1578,11 @@
         30874,
         30167,
         30483,
-        41413
+        41413,
+        89289,
+        33360
       ],
       "240": [
-        42898,
-        57589,
         37821,
         34244,
         38759,
@@ -1551,11 +1620,11 @@
         36710,
         33158,
         37543,
-        44919
+        44919,
+        111697,
+        40390
       ],
       "360": [
-        55479,
-        63238,
         42687,
         38418,
         54274,
@@ -1593,7 +1662,9 @@
         42783,
         37380,
         48556,
-        57764
+        57764,
+        148848,
+        50376
       ]
     },
     "MachadoDarlon": {
@@ -1810,10 +1881,6 @@
     },
     "clashreport": {
       "60": [
-        11424,
-        24175,
-        10757,
-        21718,
         8765,
         8614,
         14726,
@@ -1849,13 +1916,13 @@
         16112,
         9934,
         13617,
-        14847
+        14847,
+        7738,
+        7711,
+        6126,
+        6949
       ],
       "120": [
-        15740,
-        33101,
-        13499,
-        27690,
         10657,
         10447,
         17643,
@@ -1891,13 +1958,13 @@
         20001,
         11449,
         17081,
-        18754
+        18754,
+        10980,
+        10557,
+        8312,
+        9110
       ],
       "180": [
-        18404,
-        38693,
-        14932,
-        32364,
         11723,
         11540,
         19203,
@@ -1933,13 +2000,13 @@
         22226,
         12339,
         19847,
-        21490
+        21490,
+        13851,
+        13418,
+        10084,
+        11234
       ],
       "240": [
-        20626,
-        44641,
-        16043,
-        35565,
         12363,
         12178,
         24245,
@@ -1975,13 +2042,13 @@
         23730,
         12963,
         21103,
-        23912
+        23912,
+        15623,
+        16343,
+        11699,
+        12775
       ],
       "360": [
-        23178,
-        52234,
-        17410,
-        39676,
         13044,
         12826,
         26170,
@@ -2017,7 +2084,11 @@
         26720,
         14191,
         23374,
-        28423
+        28423,
+        19450,
+        18888,
+        13464,
+        14302
       ]
     },
     "Osint613": {
@@ -2445,6 +2516,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-09-06T11:10:17+00:00",
-  "alertas_enviados": 332
+  "ultima_busca": "2026-09-06T11:40:17+00:00",
+  "alertas_enviados": 333
 }
