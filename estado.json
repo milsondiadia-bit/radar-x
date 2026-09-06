@@ -1,61 +1,5 @@
 {
   "posts": {
-    "2096440754512277564": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 Students from well over 100 Colorado schools left Friday to protest ICE, but in Denver’s La Alma-Lincoln Park, the rally stopped being just a walkout. Denver police counted five assaults, and 3 people went to the hospital. Video from the scene shows a woman grabbed by the hair and punched, and independent reporters say they were jumped for filming it... one left with a black eye. A protest is a...",
-      "url": "https://x.com/MarioNawfal/status/2096440754512277564",
-      "criado": "2026-09-06T03:30:00+00:00",
-      "medicoes": {
-        "60": 22210,
-        "120": 27047,
-        "180": 30720,
-        "240": 35682,
-        "360": 42140
-      },
-      "alertado": false
-    },
-    "2096438872427085968": {
-      "autor": "Osint613",
-      "texto": "Pentagon chief Pete Hegseth: https://t.co/t8kw6ULhMU",
-      "url": "https://x.com/Osint613/status/2096438872427085968",
-      "criado": "2026-09-06T03:22:31+00:00",
-      "medicoes": {
-        "60": 36094,
-        "120": 47874,
-        "180": 56112,
-        "240": 62989,
-        "360": 72943
-      },
-      "alertado": false
-    },
-    "2096437733522632855": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 The most dangerous mistake in a war may be believing you’ve already won. Counterterrorism intelligence expert Malcolm Nance argues that the administration is convincing itself that Iran’s economy has been broken after just three weeks, despite decades of sanctions failing to achieve that. “They are so focused on this crazy Scott Besson idea that he somehow broke the Iranian economy in three wee...",
-      "url": "https://x.com/MarioNawfal/status/2096437733522632855",
-      "criado": "2026-09-06T03:18:00+00:00",
-      "medicoes": {
-        "60": 28092,
-        "120": 33034,
-        "180": 36646,
-        "240": 39931,
-        "360": 46359
-      },
-      "alertado": false
-    },
-    "2096436978556576251": {
-      "autor": "MarioNawfal",
-      "texto": "🇨🇳 Most countries build a ship, but China builds a line of them. 399.99 meters, 24,000 TEU, with several under construction at once. The same industry also turning out aircraft carriers, large cruise ships, and LNG carriers together; a combination no one else currently matches. Writer: Val https://t.co/7wMBP53zDp",
-      "url": "https://x.com/MarioNawfal/status/2096436978556576251",
-      "criado": "2026-09-06T03:15:00+00:00",
-      "medicoes": {
-        "60": 28088,
-        "120": 36190,
-        "180": 41704,
-        "240": 46191,
-        "360": 58646
-      },
-      "alertado": false
-    },
     "2096448306880663656": {
       "autor": "MarioNawfal",
       "texto": "🇺🇸 AAA: Prepare for higher gas, airfare, and lodging costs this Labor Day weekend. Americans: Ya’ll honestly think we didn’t notice? GTFO! Writer: Jamie https://t.co/1c6A8UfhDe",
@@ -65,7 +9,8 @@
         "60": 21517,
         "120": 25686,
         "180": 30874,
-        "240": 36710
+        "240": 36710,
+        "360": 42783
       },
       "alertado": false
     },
@@ -78,7 +23,8 @@
         "60": 22827,
         "120": 26398,
         "180": 30167,
-        "240": 33158
+        "240": 33158,
+        "360": 37380
       },
       "alertado": false
     },
@@ -345,7 +291,8 @@
       "medicoes": {
         "60": 21550,
         "120": 28202,
-        "180": 33136
+        "180": 33136,
+        "240": 38975
       },
       "alertado": false
     },
@@ -357,7 +304,8 @@
       "medicoes": {
         "60": 19689,
         "120": 23856,
-        "180": 32637
+        "180": 32637,
+        "240": 39957
       },
       "alertado": false
     },
@@ -369,7 +317,8 @@
       "medicoes": {
         "60": 16621,
         "120": 32306,
-        "180": 44004
+        "180": 44004,
+        "240": 53981
       },
       "alertado": false
     },
@@ -381,7 +330,8 @@
       "medicoes": {
         "60": 16596,
         "120": 27653,
-        "180": 36684
+        "180": 36684,
+        "240": 43831
       },
       "alertado": false
     },
@@ -393,7 +343,8 @@
       "medicoes": {
         "60": 21936,
         "120": 25125,
-        "180": 28045
+        "180": 28045,
+        "240": 31001
       },
       "alertado": false
     },
@@ -405,7 +356,8 @@
       "medicoes": {
         "60": 10891,
         "120": 16380,
-        "180": 21494
+        "180": 21494,
+        "240": 24951
       },
       "alertado": false
     },
@@ -417,9 +369,10 @@
       "medicoes": {
         "60": 21145,
         "120": 38733,
-        "180": 50529
+        "180": 50529,
+        "240": 59803
       },
-      "alertado": false
+      "alertado": true
     },
     "2096473642641002801": {
       "autor": "clashreport",
@@ -429,7 +382,8 @@
       "medicoes": {
         "60": 6939,
         "120": 8891,
-        "180": 10153
+        "180": 10153,
+        "240": 10784
       },
       "alertado": false
     },
@@ -524,7 +478,8 @@
       "criado": "2026-09-06T07:10:00+00:00",
       "medicoes": {
         "60": 19684,
-        "120": 23755
+        "120": 23755,
+        "180": 27375
       },
       "alertado": false
     },
@@ -535,7 +490,8 @@
       "criado": "2026-09-06T07:00:00+00:00",
       "medicoes": {
         "60": 20919,
-        "120": 27116
+        "120": 27116,
+        "180": 31476
       },
       "alertado": false
     },
@@ -546,7 +502,8 @@
       "criado": "2026-09-06T06:59:24+00:00",
       "medicoes": {
         "60": 14739,
-        "120": 18855
+        "120": 18855,
+        "180": 21771
       },
       "alertado": false
     },
@@ -557,7 +514,8 @@
       "criado": "2026-09-06T06:58:35+00:00",
       "medicoes": {
         "60": 7190,
-        "120": 9348
+        "120": 9348,
+        "180": 10334
       },
       "alertado": false
     },
@@ -568,7 +526,8 @@
       "criado": "2026-09-06T06:50:00+00:00",
       "medicoes": {
         "60": 24571,
-        "120": 29565
+        "120": 29565,
+        "180": 33781
       },
       "alertado": false
     },
@@ -579,7 +538,8 @@
       "criado": "2026-09-06T06:45:00+00:00",
       "medicoes": {
         "60": 23238,
-        "120": 28690
+        "120": 28690,
+        "180": 33096
       },
       "alertado": false
     },
@@ -633,7 +593,8 @@
       "url": "https://x.com/MarioNawfal/status/2096511217611497678",
       "criado": "2026-09-06T08:10:00+00:00",
       "medicoes": {
-        "60": 20750
+        "60": 20750,
+        "120": 26951
       },
       "alertado": false
     },
@@ -643,7 +604,8 @@
       "url": "https://x.com/clashreport/status/2096510904330289175",
       "criado": "2026-09-06T08:08:45+00:00",
       "medicoes": {
-        "60": 7093
+        "60": 7093,
+        "120": 8633
       },
       "alertado": false
     },
@@ -653,7 +615,8 @@
       "url": "https://x.com/nexta_tv/status/2096509547330339193",
       "criado": "2026-09-06T08:03:22+00:00",
       "medicoes": {
-        "60": 27754
+        "60": 27754,
+        "120": 47021
       },
       "alertado": false
     },
@@ -663,7 +626,8 @@
       "url": "https://x.com/clashreport/status/2096509038397698430",
       "criado": "2026-09-06T08:01:20+00:00",
       "medicoes": {
-        "60": 8059
+        "60": 8059,
+        "120": 9948
       },
       "alertado": false
     },
@@ -673,7 +637,8 @@
       "url": "https://x.com/MarioNawfal/status/2096508702354186456",
       "criado": "2026-09-06T08:00:00+00:00",
       "medicoes": {
-        "60": 25588
+        "60": 25588,
+        "120": 39630
       },
       "alertado": false
     },
@@ -683,7 +648,8 @@
       "url": "https://x.com/MarioNawfal/status/2096506184740045052",
       "criado": "2026-09-06T07:50:00+00:00",
       "medicoes": {
-        "60": 26297
+        "60": 26297,
+        "120": 33266
       },
       "alertado": false
     },
@@ -732,7 +698,9 @@
       "texto": "🇺🇸 Marines and sailors from the docked USS Abraham Lincoln were spotted unwinding in a Pattaya club in Thailand. Good luck convincing these guys that continuing to bomb Iran makes any sense. 🤣 Writer: Mhedi https://t.co/kJVoV6E0Pj",
       "url": "https://x.com/MarioNawfal/status/2096526317365658096",
       "criado": "2026-09-06T09:10:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 43035
+      },
       "alertado": false
     },
     "2096526316388458978": {
@@ -740,7 +708,9 @@
       "texto": "Germany’s Chancellor Merz: We are seeing people come to Germany from many countries around the world, including many Americans who now say that Germany is, for us, at least as interesting a location for science and research as the United States of America. And above all, there is now a different climate here than at universities in the United States. Open universities, freedom of science, research...",
       "url": "https://x.com/clashreport/status/2096526316388458978",
       "criado": "2026-09-06T09:10:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 5881
+      },
       "alertado": false
     },
     "2096525777059631421": {
@@ -748,7 +718,9 @@
       "texto": "Pardoned January 6 defendant Jake Lang tore up a Quran at a Harlem church, calling it \"a book that a demon translated through a warlord\" and telling Muslims to \"get out of our city.\" https://t.co/kCASgxhLrp",
       "url": "https://x.com/clashreport/status/2096525777059631421",
       "criado": "2026-09-06T09:07:51+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 8774
+      },
       "alertado": false
     },
     "2096525680544473547": {
@@ -756,7 +728,9 @@
       "texto": "Germany’s Chancellor Merz: We are building data centers like never before in the history of our country. Yes, that is associated with considerable electricity consumption. And yes, that naturally places a burden on some locations, especially when it comes to energy generation. But I can only urge all of us to use every possibility and every opportunity to enable and build this digital infrastructu...",
       "url": "https://x.com/clashreport/status/2096525680544473547",
       "criado": "2026-09-06T09:07:28+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 6965
+      },
       "alertado": false
     },
     "2096525326163599746": {
@@ -764,7 +738,9 @@
       "texto": "Iran's Ghalibaf: The Americans must have understood that the era of 'proportional responses' is over. Our strikes on aggressor bases were only a beginning. The rules of the game have changed. From now on, any aggression against Iran's interests will receive a faster, heavier, and more painful response.",
       "url": "https://x.com/clashreport/status/2096525326163599746",
       "criado": "2026-09-06T09:06:03+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 11234
+      },
       "alertado": false
     },
     "2096525077034467763": {
@@ -772,7 +748,9 @@
       "texto": "Germany’s Chancellor Friedrich Merz says Germany has “left nationalism behind” and that he will “never again allow ethnic nationalism in Germany.” https://t.co/QOaMYOOJ3T",
       "url": "https://x.com/clashreport/status/2096525077034467763",
       "criado": "2026-09-06T09:05:04+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 9241
+      },
       "alertado": false
     },
     "2096524776328011781": {
@@ -780,7 +758,9 @@
       "texto": "✈️ Witkoff and Kushner headed to Kyiv via Poland The US delegation’s plane landed in Rzeszów, Poland, overnight after the talks in Moscow. From there, Trump’s envoys most likely continued to Kyiv by train — the usual route for most foreign visitors to Ukraine. Just a day earlier, Kyiv had been discussing a much more unusual option: a direct flight from Moscow to Ukraine. MP Oleksiy Honcharenko sug...",
       "url": "https://x.com/nexta_tv/status/2096524776328011781",
       "criado": "2026-09-06T09:03:52+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 21162
+      },
       "alertado": false
     },
     "2096523839408681002": {
@@ -788,7 +768,9 @@
       "texto": "Germany’s Chancellor Merz admits: At the moment, we are losing industrial jobs on a large scale, and we must stop this trend. Germany must remain an industrial country. If we do not remain an industrial country, then large parts of our prosperity are at risk. https://t.co/h8mMVZI5GZ",
       "url": "https://x.com/clashreport/status/2096523839408681002",
       "criado": "2026-09-06T09:00:09+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 6764
+      },
       "alertado": false
     },
     "2096523801395712366": {
@@ -796,7 +778,9 @@
       "texto": "🇺🇸 Bessent’s message ahead of the midterms: “As I said, wages are up… core inflation is very close to the Fed's 2 percent target, and we have an energy supply shock, and that is going to end. I actually think on the other side of this, we’re actually gonna, could see oil prices at $40 or $50 dollars. Because there is so much supply coming on… It’s just constricted right now.” I call bullshit! This...",
       "url": "https://x.com/MarioNawfal/status/2096523801395712366",
       "criado": "2026-09-06T09:00:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 23996
+      },
       "alertado": false
     },
     "2096523247139332599": {
@@ -804,7 +788,9 @@
       "texto": "German AfD Leader Alice Weidel: Extremist politics is when you keep our borders open and turn us into foreigners in our own country. Extremist is when you deliberately destroy our energy infrastructure, blow up nuclear power plants. Extremist is when you pay social benefits to people who are clan members, have 32 children, and are welfare fraudsters. We will put an end to this extremist politics,...",
       "url": "https://x.com/clashreport/status/2096523247139332599",
       "criado": "2026-09-06T08:57:48+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 10060
+      },
       "alertado": false
     },
     "2096523230672523706": {
@@ -812,7 +798,9 @@
       "texto": "Macklemore opened for Ed Sheeran at MetLife Stadium wearing a keffiyeh, performed \"Hind's Hall\" with Gaza footage on the screens, and told 80,000 people he wanted those in Gaza and the West Bank to know \"they have not been forgotten.\" He said every human being deserves \"the exact same freedom, to know safety and peace before knowing the sounds of violence.\" He called ICE a \"terrorist organization\"...",
       "url": "https://x.com/clashreport/status/2096523230672523706",
       "criado": "2026-09-06T08:57:44+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 7308
+      },
       "alertado": false
     },
     "2096522732330533240": {
@@ -820,7 +808,9 @@
       "texto": "A gas station in Kharkiv hangs plastic strip curtains from the pump canopy as anti-drone protection. Cars drive through them like a warehouse entrance. The idea is to detangle or prematurely detonate low-flying FPV drones before they hit the pumps. Russian FPVs have been systematically destroying Ukrainian petrol stations through summer 2026.",
       "url": "https://x.com/clashreport/status/2096522732330533240",
       "criado": "2026-09-06T08:55:45+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 9844
+      },
       "alertado": false
     },
     "2096521284205039690": {
@@ -828,7 +818,9 @@
       "texto": "🇲🇽 Deadly fireworks blast kills Mexican churchgoers An explosion during a church festival killed nine people and injured 24 after a structure beside the church collapsed onto people The blast struck Santa María Canchesdá last night after fireworks stored in a room beside the church exploded during preparations for celebrations honoring the town’s patron saint. Rescuers are still digging through th...",
       "url": "https://x.com/MarioNawfal/status/2096521284205039690",
       "criado": "2026-09-06T08:50:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 22960
+      },
       "alertado": false
     },
     "2096520961742835820": {
@@ -836,7 +828,9 @@
       "texto": "The Trump administration is considering letting married families with one stay-at-home parent receive federal child-care subsidies. The benefit would be about $9,000 per child per year and would come from a $12 billion federal fund currently used mainly to help low-income parents work or attend school. Source: NYT",
       "url": "https://x.com/clashreport/status/2096520961742835820",
       "criado": "2026-09-06T08:48:43+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 7923
+      },
       "alertado": false
     },
     "2096520052765827422": {
@@ -844,7 +838,9 @@
       "texto": "Germany's Chancellor Merz on AfD: We will not let these people — who trash the Federal Republic of Germany and everything we have achieved in recent years and decades, despite all the mistakes that exist, despite all the problems we have... We will not let these people talk our country into ruin!",
       "url": "https://x.com/clashreport/status/2096520052765827422",
       "criado": "2026-09-06T08:45:06+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 14261
+      },
       "alertado": false
     },
     "2096519446512767214": {
@@ -852,7 +848,9 @@
       "texto": "Russian Deputy FM Sergei Ryabkov says a three-way meeting between Trump, Putin, and Xi Jinping is not ruled out.",
       "url": "https://x.com/clashreport/status/2096519446512767214",
       "criado": "2026-09-06T08:42:42+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 8081
+      },
       "alertado": false
     },
     "2096533867322634560": {
@@ -924,6 +922,70 @@
       "texto": "Germany’s Chancellor Merz: Thank God our universities have largely abandoned their so-called civil clauses. They are now conducting research and development on technology together with the Bundeswehr. https://t.co/cbQ3CunbPp",
       "url": "https://x.com/clashreport/status/2096526586325373292",
       "criado": "2026-09-06T09:11:04+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096541417036447976": {
+      "autor": "MarioNawfal",
+      "texto": "🇦🇺 Get stopped in Australia, have your phone seized, and police could potentially seek an order compelling you to unlock it, with up to seven years in prison for refusing. Currently, NSW Police need a search or crime-scene warrant before seeking a Digital Evidence Access Order, but a new government bill would sever that link for certain offences. And unlocking the phone isn't necessarily where it...",
+      "url": "https://x.com/MarioNawfal/status/2096541417036447976",
+      "criado": "2026-09-06T10:10:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096539281657352603": {
+      "autor": "nexta_tv",
+      "texto": "⚠️ Thousands of people in Germany are being evacuated because of a World War II bomb The unexploded ordnance was discovered in the Dietrichsdorf district of Kiel at a depth of around four meters. It is an American aerial bomb weighing about 250 kg and fitted with an impact fuse. A total of 5,235 people from 2,580 households must leave the evacuation zone. Residents were told to leave their homes b...",
+      "url": "https://x.com/nexta_tv/status/2096539281657352603",
+      "criado": "2026-09-06T10:01:31+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096538907676402154": {
+      "autor": "MarioNawfal",
+      "texto": "🇩🇪 German Chancellor Merz on AfD: \"We will not let these people, who trash the Federal Republic of Germany and everything we have achieved in recent years and decades, despite all the mistakes that exist, despite all the problems we have. We will not let these people talk our country into ruin.\" It would be a cute speech if what was \"achieved\" in the last few decades wasn't the decline of Germany...",
+      "url": "https://x.com/MarioNawfal/status/2096538907676402154",
+      "criado": "2026-09-06T10:00:02+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096538835547029567": {
+      "autor": "clashreport",
+      "texto": "NYC Mayor Zohran Mamdani signed an executive order declaring Sept. 11 an official citywide Day of Remembrance and Service. https://t.co/fFNT0pCPu2",
+      "url": "https://x.com/clashreport/status/2096538835547029567",
+      "criado": "2026-09-06T09:59:44+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096537642100027800": {
+      "autor": "MarioNawfal",
+      "texto": "🇩🇪 Merz: Germany's doing Great \"Today, we look back on an almost 80-year success story of the Federal Republic of Germany. We are still one of the most prosperous countries in the world. We are still one of the safest countries in the world, and we are still a stable and firmly established democracy.\" This is days after VW announced 50,000 job cuts as Germany is still in the grip of a financial cr...",
+      "url": "https://x.com/MarioNawfal/status/2096537642100027800",
+      "criado": "2026-09-06T09:55:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096537297529270288": {
+      "autor": "clashreport",
+      "texto": "Trump’s approval rating has hit a record-low 33%, with voters increasingly blaming him for the worsening economy and cost-of-living crisis. 46% say his involvement is making it harder for Republican candidates to win, suggesting his political brand could become a liability for the GOP. Democrats now lead Republicans by 7.5 points ahead of the November midterms. Source: FT",
+      "url": "https://x.com/clashreport/status/2096537297529270288",
+      "criado": "2026-09-06T09:53:38+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096536383800365431": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸🇮🇱🇵🇸 U.S Ambassador to Israel watches on as settlers roll through Turmus Ayya Mike Huckabee seemed reluctant to fully condemn Israeli settler violence after footage shows him filming a vehicle driving into Turmus Ayya, a Palestinian town that has been TERRORIZED for months. One Israeli report says the vehicle was a security patrol and that the scene was staged to look like trespassing. Unsurpris...",
+      "url": "https://x.com/MarioNawfal/status/2096536383800365431",
+      "criado": "2026-09-06T09:50:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096535096492712396": {
+      "autor": "MarioNawfal",
+      "texto": "🇩🇪 Merz just said Germany has “left nationalism behind” and that he will “never again allow ethnic nationalism in Germany.” Of course, he didn't say a single thing to suggest he also will \"never again\" allow mass illegal migration into the nation from every corner of the world. 🤣 Writer: Mhedi https://t.co/zf1eOhjZh1",
+      "url": "https://x.com/MarioNawfal/status/2096535096492712396",
+      "criado": "2026-09-06T09:44:53+00:00",
       "medicoes": {},
       "alertado": false
     }
@@ -1143,9 +1205,6 @@
     },
     "MarioNawfal": {
       "60": [
-        26411,
-        48760,
-        42185,
         38745,
         47789,
         24801,
@@ -1182,12 +1241,12 @@
         40647,
         41062,
         21855,
-        22599
+        22599,
+        22210,
+        28092,
+        28088
       ],
       "120": [
-        33432,
-        63269,
-        48264,
         50481,
         55684,
         29294,
@@ -1224,12 +1283,12 @@
         49972,
         48306,
         25099,
-        26561
+        26561,
+        27047,
+        33034,
+        36190
       ],
       "180": [
-        39055,
-        73804,
-        51801,
         59228,
         60812,
         31964,
@@ -1266,12 +1325,12 @@
         56829,
         52898,
         30615,
-        33562
+        33562,
+        30720,
+        36646,
+        41704
       ],
       "240": [
-        44005,
-        80130,
-        54001,
         67622,
         64566,
         35806,
@@ -1308,12 +1367,12 @@
         61690,
         56413,
         35119,
-        41173
+        41173,
+        35682,
+        39931,
+        46191
       ],
       "360": [
-        55073,
-        88394,
-        57270,
         77184,
         69146,
         42736,
@@ -1350,7 +1409,10 @@
         67307,
         60584,
         40567,
-        50744
+        50744,
+        42140,
+        46359,
+        58646
       ]
     },
     "MachadoDarlon": {
@@ -1779,7 +1841,6 @@
     },
     "Osint613": {
       "60": [
-        40347,
         26239,
         55613,
         34545,
@@ -1818,10 +1879,10 @@
         38060,
         31008,
         42122,
-        36282
+        36282,
+        36094
       ],
       "120": [
-        37571,
         50596,
         31528,
         70889,
@@ -1860,10 +1921,10 @@
         46733,
         40486,
         65267,
-        47872
+        47872,
+        47874
       ],
       "180": [
-        43163,
         56333,
         35047,
         78903,
@@ -1902,10 +1963,10 @@
         52742,
         47790,
         83690,
-        55327
+        55327,
+        56112
       ],
       "240": [
-        47227,
         59979,
         37608,
         84448,
@@ -1944,10 +2005,10 @@
         57106,
         53150,
         99093,
-        61040
+        61040,
+        62989
       ],
       "360": [
-        57455,
         64783,
         41255,
         91956,
@@ -1986,7 +2047,8 @@
         63423,
         61305,
         121041,
-        69488
+        69488,
+        72943
       ]
     },
     "nexta_tv": {
@@ -2202,6 +2264,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-09-06T09:40:17+00:00",
-  "alertas_enviados": 331
+  "ultima_busca": "2026-09-06T10:10:17+00:00",
+  "alertas_enviados": 332
 }
