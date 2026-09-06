@@ -1,33 +1,5 @@
 {
   "posts": {
-    "2096455854585418200": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸⚾ You can feel his adrenaline pumping through the screen! Bro is a precision-catching MACHINE! I wonder if he can still feel his hand after raw dogging a 112-mph fastball! Writer: Jamie https://t.co/4PJxGzv8Qg",
-      "url": "https://x.com/MarioNawfal/status/2096455854585418200",
-      "criado": "2026-09-06T04:30:00+00:00",
-      "medicoes": {
-        "60": 22555,
-        "120": 27201,
-        "180": 30483,
-        "240": 37543,
-        "360": 48556
-      },
-      "alertado": false
-    },
-    "2096452077958660473": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸 Destiny Valderrama was 18. She’d just left a quinceañera and walked into a Hollywood 7-Eleven for snacks, then 2 people followed her in, grabbed her from behind, and went for the gold around her neck. She said she begged them: \"I’ll give you the chain. Just don’t hurt me.\" But they kept going. She was head slammed into the floor, blacked out, and when she woke up, her friends were beaten too. T...",
-      "url": "https://x.com/MarioNawfal/status/2096452077958660473",
-      "criado": "2026-09-06T04:15:00+00:00",
-      "medicoes": {
-        "60": 30343,
-        "120": 36758,
-        "180": 41413,
-        "240": 44919,
-        "360": 57764
-      },
-      "alertado": false
-    },
     "2096465919140921519": {
       "autor": "MarioNawfal",
       "texto": "🇺🇸 The University of Tennessee marching band paid tribute to a QUEEN! We will always love you, Dolly, and we will forever remember you through music! Writer: Jamie https://t.co/ClaIWNGL8d",
@@ -45,7 +17,8 @@
         "60": 7738,
         "120": 10980,
         "180": 13851,
-        "240": 15623
+        "240": 15623,
+        "360": 19450
       },
       "alertado": false
     },
@@ -58,7 +31,8 @@
         "60": 35598,
         "120": 65271,
         "180": 89289,
-        "240": 111697
+        "240": 111697,
+        "360": 148848
       },
       "alertado": false
     },
@@ -71,7 +45,8 @@
         "60": 7711,
         "120": 10557,
         "180": 13418,
-        "240": 16343
+        "240": 16343,
+        "360": 18888
       },
       "alertado": false
     },
@@ -84,7 +59,8 @@
         "60": 6126,
         "120": 8312,
         "180": 10084,
-        "240": 11699
+        "240": 11699,
+        "360": 13464
       },
       "alertado": false
     },
@@ -97,7 +73,8 @@
         "60": 6949,
         "120": 9110,
         "180": 11234,
-        "240": 12775
+        "240": 12775,
+        "360": 14302
       },
       "alertado": false
     },
@@ -110,7 +87,8 @@
         "60": 23439,
         "120": 27675,
         "180": 33360,
-        "240": 40390
+        "240": 40390,
+        "360": 50376
       },
       "alertado": false
     },
@@ -460,7 +438,8 @@
       "medicoes": {
         "60": 19684,
         "120": 23755,
-        "180": 27375
+        "180": 27375,
+        "240": 31436
       },
       "alertado": false
     },
@@ -472,7 +451,8 @@
       "medicoes": {
         "60": 20919,
         "120": 27116,
-        "180": 31476
+        "180": 31476,
+        "240": 39850
       },
       "alertado": false
     },
@@ -484,7 +464,8 @@
       "medicoes": {
         "60": 14739,
         "120": 18855,
-        "180": 21771
+        "180": 21771,
+        "240": 24307
       },
       "alertado": false
     },
@@ -496,7 +477,8 @@
       "medicoes": {
         "60": 7190,
         "120": 9348,
-        "180": 10334
+        "180": 10334,
+        "240": 10947
       },
       "alertado": false
     },
@@ -508,7 +490,8 @@
       "medicoes": {
         "60": 24571,
         "120": 29565,
-        "180": 33781
+        "180": 33781,
+        "240": 45926
       },
       "alertado": false
     },
@@ -520,7 +503,8 @@
       "medicoes": {
         "60": 23238,
         "120": 28690,
-        "180": 33096
+        "180": 33096,
+        "240": 42332
       },
       "alertado": false
     },
@@ -579,7 +563,8 @@
       "criado": "2026-09-06T08:10:00+00:00",
       "medicoes": {
         "60": 20750,
-        "120": 26951
+        "120": 26951,
+        "180": 31328
       },
       "alertado": false
     },
@@ -590,7 +575,8 @@
       "criado": "2026-09-06T08:08:45+00:00",
       "medicoes": {
         "60": 7093,
-        "120": 8633
+        "120": 8633,
+        "180": 9549
       },
       "alertado": false
     },
@@ -601,7 +587,8 @@
       "criado": "2026-09-06T08:03:22+00:00",
       "medicoes": {
         "60": 27754,
-        "120": 47021
+        "120": 47021,
+        "180": 60439
       },
       "alertado": false
     },
@@ -612,7 +599,8 @@
       "criado": "2026-09-06T08:01:20+00:00",
       "medicoes": {
         "60": 8059,
-        "120": 9948
+        "120": 9948,
+        "180": 11172
       },
       "alertado": false
     },
@@ -623,7 +611,8 @@
       "criado": "2026-09-06T08:00:00+00:00",
       "medicoes": {
         "60": 25588,
-        "120": 39630
+        "120": 39630,
+        "180": 50312
       },
       "alertado": false
     },
@@ -634,7 +623,8 @@
       "criado": "2026-09-06T07:50:00+00:00",
       "medicoes": {
         "60": 26297,
-        "120": 33266
+        "120": 33266,
+        "180": 40187
       },
       "alertado": false
     },
@@ -688,7 +678,8 @@
       "url": "https://x.com/MarioNawfal/status/2096526317365658096",
       "criado": "2026-09-06T09:10:00+00:00",
       "medicoes": {
-        "60": 43035
+        "60": 43035,
+        "120": 92566
       },
       "alertado": false
     },
@@ -698,7 +689,8 @@
       "url": "https://x.com/clashreport/status/2096526316388458978",
       "criado": "2026-09-06T09:10:00+00:00",
       "medicoes": {
-        "60": 5881
+        "60": 5881,
+        "120": 8263
       },
       "alertado": false
     },
@@ -708,7 +700,8 @@
       "url": "https://x.com/clashreport/status/2096525777059631421",
       "criado": "2026-09-06T09:07:51+00:00",
       "medicoes": {
-        "60": 8774
+        "60": 8774,
+        "120": 16574
       },
       "alertado": false
     },
@@ -718,7 +711,8 @@
       "url": "https://x.com/clashreport/status/2096525680544473547",
       "criado": "2026-09-06T09:07:28+00:00",
       "medicoes": {
-        "60": 6965
+        "60": 6965,
+        "120": 10145
       },
       "alertado": false
     },
@@ -728,7 +722,8 @@
       "url": "https://x.com/clashreport/status/2096525326163599746",
       "criado": "2026-09-06T09:06:03+00:00",
       "medicoes": {
-        "60": 11234
+        "60": 11234,
+        "120": 15842
       },
       "alertado": false
     },
@@ -738,7 +733,8 @@
       "url": "https://x.com/clashreport/status/2096525077034467763",
       "criado": "2026-09-06T09:05:04+00:00",
       "medicoes": {
-        "60": 9241
+        "60": 9241,
+        "120": 17968
       },
       "alertado": false
     },
@@ -748,7 +744,8 @@
       "url": "https://x.com/nexta_tv/status/2096524776328011781",
       "criado": "2026-09-06T09:03:52+00:00",
       "medicoes": {
-        "60": 21162
+        "60": 21162,
+        "120": 52247
       },
       "alertado": false
     },
@@ -758,7 +755,8 @@
       "url": "https://x.com/clashreport/status/2096523839408681002",
       "criado": "2026-09-06T09:00:09+00:00",
       "medicoes": {
-        "60": 6764
+        "60": 6764,
+        "120": 9093
       },
       "alertado": false
     },
@@ -768,7 +766,8 @@
       "url": "https://x.com/MarioNawfal/status/2096523801395712366",
       "criado": "2026-09-06T09:00:00+00:00",
       "medicoes": {
-        "60": 23996
+        "60": 23996,
+        "120": 33069
       },
       "alertado": false
     },
@@ -778,7 +777,8 @@
       "url": "https://x.com/clashreport/status/2096523247139332599",
       "criado": "2026-09-06T08:57:48+00:00",
       "medicoes": {
-        "60": 10060
+        "60": 10060,
+        "120": 16483
       },
       "alertado": false
     },
@@ -788,7 +788,8 @@
       "url": "https://x.com/clashreport/status/2096523230672523706",
       "criado": "2026-09-06T08:57:44+00:00",
       "medicoes": {
-        "60": 7308
+        "60": 7308,
+        "120": 11540
       },
       "alertado": false
     },
@@ -798,7 +799,8 @@
       "url": "https://x.com/clashreport/status/2096522732330533240",
       "criado": "2026-09-06T08:55:45+00:00",
       "medicoes": {
-        "60": 9844
+        "60": 9844,
+        "120": 15144
       },
       "alertado": false
     },
@@ -808,7 +810,8 @@
       "url": "https://x.com/MarioNawfal/status/2096521284205039690",
       "criado": "2026-09-06T08:50:00+00:00",
       "medicoes": {
-        "60": 22960
+        "60": 22960,
+        "120": 26899
       },
       "alertado": false
     },
@@ -818,7 +821,8 @@
       "url": "https://x.com/clashreport/status/2096520961742835820",
       "criado": "2026-09-06T08:48:43+00:00",
       "medicoes": {
-        "60": 7923
+        "60": 7923,
+        "120": 9855
       },
       "alertado": false
     },
@@ -828,7 +832,8 @@
       "url": "https://x.com/clashreport/status/2096520052765827422",
       "criado": "2026-09-06T08:45:06+00:00",
       "medicoes": {
-        "60": 14261
+        "60": 14261,
+        "120": 27796
       },
       "alertado": false
     },
@@ -838,7 +843,8 @@
       "url": "https://x.com/clashreport/status/2096519446512767214",
       "criado": "2026-09-06T08:42:42+00:00",
       "medicoes": {
-        "60": 8081
+        "60": 8081,
+        "120": 9723
       },
       "alertado": false
     },
@@ -937,7 +943,9 @@
       "texto": "🇦🇺 Get stopped in Australia, have your phone seized, and police could potentially seek an order compelling you to unlock it, with up to seven years in prison for refusing. Currently, NSW Police need a search or crime-scene warrant before seeking a Digital Evidence Access Order, but a new government bill would sever that link for certain offences. And unlocking the phone isn't necessarily where it...",
       "url": "https://x.com/MarioNawfal/status/2096541417036447976",
       "criado": "2026-09-06T10:10:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 23107
+      },
       "alertado": false
     },
     "2096539281657352603": {
@@ -945,7 +953,9 @@
       "texto": "⚠️ Thousands of people in Germany are being evacuated because of a World War II bomb The unexploded ordnance was discovered in the Dietrichsdorf district of Kiel at a depth of around four meters. It is an American aerial bomb weighing about 250 kg and fitted with an impact fuse. A total of 5,235 people from 2,580 households must leave the evacuation zone. Residents were told to leave their homes b...",
       "url": "https://x.com/nexta_tv/status/2096539281657352603",
       "criado": "2026-09-06T10:01:31+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 11876
+      },
       "alertado": false
     },
     "2096538907676402154": {
@@ -953,7 +963,9 @@
       "texto": "🇩🇪 German Chancellor Merz on AfD: \"We will not let these people, who trash the Federal Republic of Germany and everything we have achieved in recent years and decades, despite all the mistakes that exist, despite all the problems we have. We will not let these people talk our country into ruin.\" It would be a cute speech if what was \"achieved\" in the last few decades wasn't the decline of Germany...",
       "url": "https://x.com/MarioNawfal/status/2096538907676402154",
       "criado": "2026-09-06T10:00:02+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 25775
+      },
       "alertado": false
     },
     "2096538835547029567": {
@@ -961,7 +973,9 @@
       "texto": "NYC Mayor Zohran Mamdani signed an executive order declaring Sept. 11 an official citywide Day of Remembrance and Service. https://t.co/fFNT0pCPu2",
       "url": "https://x.com/clashreport/status/2096538835547029567",
       "criado": "2026-09-06T09:59:44+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 7891
+      },
       "alertado": false
     },
     "2096537642100027800": {
@@ -969,7 +983,9 @@
       "texto": "🇩🇪 Merz: Germany's doing Great \"Today, we look back on an almost 80-year success story of the Federal Republic of Germany. We are still one of the most prosperous countries in the world. We are still one of the safest countries in the world, and we are still a stable and firmly established democracy.\" This is days after VW announced 50,000 job cuts as Germany is still in the grip of a financial cr...",
       "url": "https://x.com/MarioNawfal/status/2096537642100027800",
       "criado": "2026-09-06T09:55:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 39039
+      },
       "alertado": false
     },
     "2096537297529270288": {
@@ -977,7 +993,9 @@
       "texto": "Trump’s approval rating has hit a record-low 33%, with voters increasingly blaming him for the worsening economy and cost-of-living crisis. 46% say his involvement is making it harder for Republican candidates to win, suggesting his political brand could become a liability for the GOP. Democrats now lead Republicans by 7.5 points ahead of the November midterms. Source: FT",
       "url": "https://x.com/clashreport/status/2096537297529270288",
       "criado": "2026-09-06T09:53:38+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 9495
+      },
       "alertado": false
     },
     "2096536383800365431": {
@@ -985,7 +1003,9 @@
       "texto": "🇺🇸🇮🇱🇵🇸 U.S Ambassador to Israel watches on as settlers roll through Turmus Ayya Mike Huckabee seemed reluctant to fully condemn Israeli settler violence after footage shows him filming a vehicle driving into Turmus Ayya, a Palestinian town that has been TERRORIZED for months. One Israeli report says the vehicle was a security patrol and that the scene was staged to look like trespassing. Unsurpris...",
       "url": "https://x.com/MarioNawfal/status/2096536383800365431",
       "criado": "2026-09-06T09:50:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 24297
+      },
       "alertado": false
     },
     "2096535096492712396": {
@@ -993,7 +1013,9 @@
       "texto": "🇩🇪 Merz just said Germany has “left nationalism behind” and that he will “never again allow ethnic nationalism in Germany.” Of course, he didn't say a single thing to suggest he also will \"never again\" allow mass illegal migration into the nation from every corner of the world. 🤣 Writer: Mhedi https://t.co/zf1eOhjZh1",
       "url": "https://x.com/MarioNawfal/status/2096535096492712396",
       "criado": "2026-09-06T09:44:53+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 41872
+      },
       "alertado": false
     },
     "2096548966548808078": {
@@ -1089,6 +1111,62 @@
       "texto": "NOW: U.S. envoys Jared Kushner and Steve Witkoff have arrived in Kyiv for the first time. https://t.co/qOlynlYk6F",
       "url": "https://x.com/clashreport/status/2096542279733305624",
       "criado": "2026-09-06T10:13:26+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096556516694179982": {
+      "autor": "MarioNawfal",
+      "texto": "🇰🇵🇰🇷🇺🇸 A smuggled North Korean phone looks ordinary until you start typing. The Hyang 701 handles calls, apps, taxis, QR payments, even a soccer game starring Messi. It will not touch the open internet. Wi-Fi stays locked. The only network is the regime’s intranet. Search Kim Jong Un and the letters turn bold. Type the word for South and a ban warning flashes. South Korean slang for boyfriend gets...",
+      "url": "https://x.com/MarioNawfal/status/2096556516694179982",
+      "criado": "2026-09-06T11:10:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096556483487953165": {
+      "autor": "MachadoDarlon",
+      "texto": "🇧🇷🇵🇹🔥 A influenciadora portuguesa Rute Souza fez um desabafo que certamente vai incomodar muita gente. Ela criticou brasileiros que vivem em Portugal, mas usam as redes sociais para fazer campanha para Lula e defender a esquerda brasileira. E o questionamento é simples: se vocês escolheram Portugal para viver, um país com uma realidade política e econômica diferente da brasileira, por que fazer ca...",
+      "url": "https://x.com/MachadoDarlon/status/2096556483487953165",
+      "criado": "2026-09-06T11:09:52+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096555556655841520": {
+      "autor": "MachadoDarlon",
+      "texto": "🇧🇷🔥🕊✨️ Olhando para esta foto e ouvindo essa canção, que marcou a sua vida, passa um filme pela minha cabeça… Lembro-me daquele dia, do meu rosto inchado depois de ter chorado por três dias, durante um retiro espiritual, clamando por sua vida. Quando cheguei ao Palácio da Alvorada, você estava lá. Eu o abracei e lhe disse, ao ouvido, aquilo que Deus havia confirmado em nossos corações. Quando Deus...",
+      "url": "https://x.com/MachadoDarlon/status/2096555556655841520",
+      "criado": "2026-09-06T11:06:11+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096554012438917191": {
+      "autor": "MarioNawfal",
+      "texto": "🇩🇪🇷🇺 A failed Russian drone strike on Germany's Leipzig/Halle Airport has triggered a nationwide plan to counter hybrid attacks. Of course, Russia rejects allegations it is carrying out operations in Europe… but Germany isn’t leaving itself exposed any longer. Interior Minister Dobrindt presented measures to strengthen defences against Russian sabotage. They include rapid-response counter-drones,...",
+      "url": "https://x.com/MarioNawfal/status/2096554012438917191",
+      "criado": "2026-09-06T11:00:03+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096553845811761634": {
+      "autor": "nexta_tv",
+      "texto": "🙅‍♂️ Ukraine did not support the UN’s new world map over “Russian” Crimea The UN General Assembly approved a resolution recommending wider use of the Equal Earth projection instead of the traditional Mercator map. It more accurately reflects the true size of continents — especially Africa, which appears significantly smaller on older maps than it actually is. But Kyiv abstained from the vote. The...",
+      "url": "https://x.com/nexta_tv/status/2096553845811761634",
+      "criado": "2026-09-06T10:59:23+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096551508024107386": {
+      "autor": "Osint613",
+      "texto": "Ukrainian President Zelensky: \"The Russians didn't allow the American delegation to arrive by plane, even though our airports were ready.\" https://t.co/ZCDiKcfCuG",
+      "url": "https://x.com/Osint613/status/2096551508024107386",
+      "criado": "2026-09-06T10:50:06+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096551483235799406": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸 RECORD LOW ratings for Trump A new FT poll shows ONLY 33% of voters approve of his performance, and with the midterms nearly two months away, the clock is ticking. Even his own base is cracking. Republican approval has dropped to an ALL TIME LOW of 72%. It seems many Americans have finally had enough of Trump’s promises not matching the reality they are living in with endless wars driving up TH...",
+      "url": "https://x.com/MarioNawfal/status/2096551483235799406",
+      "criado": "2026-09-06T10:50:00+00:00",
       "medicoes": {},
       "alertado": false
     }
@@ -1308,8 +1386,6 @@
     },
     "MarioNawfal": {
       "60": [
-        24801,
-        38812,
         27106,
         43226,
         26005,
@@ -1347,11 +1423,11 @@
         28092,
         28088,
         21517,
-        22827
+        22827,
+        22555,
+        30343
       ],
       "120": [
-        29294,
-        45997,
         34383,
         50053,
         29469,
@@ -1389,11 +1465,11 @@
         33034,
         36190,
         25686,
-        26398
+        26398,
+        27201,
+        36758
       ],
       "180": [
-        31964,
-        50099,
         39074,
         54020,
         33209,
@@ -1431,11 +1507,11 @@
         36646,
         41704,
         30874,
-        30167
+        30167,
+        30483,
+        41413
       ],
       "240": [
-        35806,
-        55144,
         42898,
         57589,
         37821,
@@ -1473,11 +1549,11 @@
         39931,
         46191,
         36710,
-        33158
+        33158,
+        37543,
+        44919
       ],
       "360": [
-        42736,
-        64430,
         55479,
         63238,
         42687,
@@ -1515,7 +1591,9 @@
         46359,
         58646,
         42783,
-        37380
+        37380,
+        48556,
+        57764
       ]
     },
     "MachadoDarlon": {
@@ -2367,6 +2445,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-09-06T10:40:20+00:00",
+  "ultima_busca": "2026-09-06T11:10:17+00:00",
   "alertas_enviados": 332
 }

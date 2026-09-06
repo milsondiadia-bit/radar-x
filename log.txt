@@ -1,9 +1,9 @@
-  consulta: (from:MarioNawfal OR from:Osint613 OR from:clashreport OR from:nexta_tv OR from:NewsLiberdade OR from:MachadoDarlon) since_time:1788689297 -filter:replies
-  busca: 13 posts cobrados (~195 creditos)
-Posts novos guardados: 12
-Posts para medir: 27
+  consulta: (from:MarioNawfal OR from:Osint613 OR from:clashreport OR from:nexta_tv OR from:NewsLiberdade OR from:MachadoDarlon) since_time:1788691100 -filter:replies
+  busca: 9 posts cobrados (~135 creditos)
+Posts novos guardados: 7
+Posts para medir: 43
   1 nao responderam - tentando de novo em 15s
-  medidos de graca: 26 | sobraram para a API paga: 1
+  medidos de graca: 42 | sobraram para a API paga: 1
 Alertas enviados: 0
 Posts aposentados: 2
 Amostras por perfil: MarioNawfal:40 | Osint613:40 | clashreport:40 | nexta_tv:40 | NewsLiberdade:40 | MachadoDarlon:40
