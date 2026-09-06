@@ -1,75 +1,5 @@
 {
   "posts": {
-    "2096420295917670666": {
-      "autor": "Osint613",
-      "texto": "Egyptian TV presenter Sarah Khalifa, 39, has been sentenced to death by hanging in a drug trafficking case. Prosecutors accused Khalifa of financing a 28 person network that operated drug labs in Cairo. Authorities reported seizing more than 750 kg of narcotics and raw materials.",
-      "url": "https://x.com/Osint613/status/2096420295917670666",
-      "criado": "2026-09-06T02:08:42+00:00",
-      "medicoes": {
-        "60": 42122,
-        "120": 65267,
-        "180": 83690,
-        "240": 99093,
-        "360": 121041
-      },
-      "alertado": false
-    },
-    "2096418605936071139": {
-      "autor": "Osint613",
-      "texto": "SUNK: “Thanks to the precision and professionalism of American service members, the M/T Kylo sank in the Gulf of Oman today and joined Iran’s navy at the bottom of the sea.” - CENTCOM https://t.co/oRzzH31Xah",
-      "url": "https://x.com/Osint613/status/2096418605936071139",
-      "criado": "2026-09-06T02:01:59+00:00",
-      "medicoes": {
-        "60": 36282,
-        "120": 47872,
-        "180": 55327,
-        "240": 61040,
-        "360": 69488
-      },
-      "alertado": false
-    },
-    "2096418109431140827": {
-      "autor": "MarioNawfal",
-      "texto": "🇨🇳 Wait a minute… isn’t this where Wolverine and that weird flesh-suit version of Deadpool had that epic fight in X-Men Origins: Wolverine?! Writer: Jamie https://t.co/cNOcVh1TYA",
-      "url": "https://x.com/MarioNawfal/status/2096418109431140827",
-      "criado": "2026-09-06T02:00:01+00:00",
-      "medicoes": {
-        "60": 22651,
-        "120": 27925,
-        "180": 32379,
-        "240": 41402,
-        "360": 56498
-      },
-      "alertado": false
-    },
-    "2096417863821082668": {
-      "autor": "NewsLiberdade",
-      "texto": "🚨URGENTE - Jornal Nacional vai para cima de Gonet e expõe que delegados da PF pediram que ele se declarasse impedido de atuar em apuração sobre mensagens de Daniel Vorcaro https://t.co/Ey5c35lmwU",
-      "url": "https://x.com/NewsLiberdade/status/2096417863821082668",
-      "criado": "2026-09-06T01:59:02+00:00",
-      "medicoes": {
-        "60": 17847,
-        "120": 23409,
-        "180": 26463,
-        "240": 28211,
-        "360": 30541
-      },
-      "alertado": false
-    },
-    "2096414329377902817": {
-      "autor": "MarioNawfal",
-      "texto": "🇺🇸🍕🏳️‍🌈 This is straight-up political prowess at its finest! @PenPizzaReport knows something must be up when the influx of patronage at Domino's is in direct correlation with the slow happy hour at the Pentagon’s gay-friendly neighbor, Freddie's Beach Bar. I’m dying! Writer: Jamie https://t.co/qbmIK3wTBl",
-      "url": "https://x.com/MarioNawfal/status/2096414329377902817",
-      "criado": "2026-09-06T01:45:00+00:00",
-      "medicoes": {
-        "60": 28768,
-        "120": 32739,
-        "180": 35511,
-        "240": 39747,
-        "360": 47789
-      },
-      "alertado": false
-    },
     "2096428106932163021": {
       "autor": "NewsLiberdade",
       "texto": "🚨URGENTE - Presidente da OAB-RS vai para cima, pede a investigação de Alexandre de Moraes e afastamento de Paulo Gonet https://t.co/YD0wI6GzN2",
@@ -79,7 +9,8 @@
         "60": 13934,
         "120": 19138,
         "180": 21776,
-        "240": 23259
+        "240": 23259,
+        "360": 25504
       },
       "alertado": false
     },
@@ -92,7 +23,8 @@
         "60": 38039,
         "120": 47036,
         "180": 52540,
-        "240": 56424
+        "240": 56424,
+        "360": 62217
       },
       "alertado": false
     },
@@ -105,7 +37,8 @@
         "60": 22904,
         "120": 29071,
         "180": 33628,
-        "240": 39704
+        "240": 39704,
+        "360": 54810
       },
       "alertado": false
     },
@@ -118,7 +51,8 @@
         "60": 46747,
         "120": 87623,
         "180": 126461,
-        "240": 165970
+        "240": 165970,
+        "360": 226153
       },
       "alertado": false
     },
@@ -131,7 +65,8 @@
         "60": 21372,
         "120": 25663,
         "180": 31458,
-        "240": 40614
+        "240": 40614,
+        "360": 54927
       },
       "alertado": false
     },
@@ -144,7 +79,8 @@
         "60": 20635,
         "120": 24711,
         "180": 30456,
-        "240": 36744
+        "240": 36744,
+        "360": 47387
       },
       "alertado": false
     },
@@ -157,7 +93,8 @@
         "60": 26062,
         "120": 31449,
         "180": 35510,
-        "240": 42751
+        "240": 42751,
+        "360": 56702
       },
       "alertado": false
     },
@@ -170,7 +107,8 @@
         "60": 8515,
         "120": 10066,
         "180": 11055,
-        "240": 11637
+        "240": 11637,
+        "360": 12480
       },
       "alertado": false
     },
@@ -338,7 +276,8 @@
       "medicoes": {
         "60": 22555,
         "120": 27201,
-        "180": 30483
+        "180": 30483,
+        "240": 37543
       },
       "alertado": false
     },
@@ -350,7 +289,8 @@
       "medicoes": {
         "60": 30343,
         "120": 36758,
-        "180": 41413
+        "180": 41413,
+        "240": 44919
       },
       "alertado": false
     },
@@ -441,7 +381,8 @@
       "criado": "2026-09-06T05:40:00+00:00",
       "medicoes": {
         "60": 23653,
-        "120": 42708
+        "120": 42708,
+        "180": 62925
       },
       "alertado": false
     },
@@ -452,7 +393,8 @@
       "criado": "2026-09-06T05:37:48+00:00",
       "medicoes": {
         "60": 6425,
-        "120": 9418
+        "120": 9418,
+        "180": 11615
       },
       "alertado": false
     },
@@ -463,7 +405,8 @@
       "criado": "2026-09-06T05:35:41+00:00",
       "medicoes": {
         "60": 25984,
-        "120": 33648
+        "120": 33648,
+        "180": 39080
       },
       "alertado": false
     },
@@ -474,7 +417,8 @@
       "criado": "2026-09-06T05:34:13+00:00",
       "medicoes": {
         "60": 7809,
-        "120": 11599
+        "120": 11599,
+        "180": 14072
       },
       "alertado": false
     },
@@ -485,7 +429,8 @@
       "criado": "2026-09-06T05:30:00+00:00",
       "medicoes": {
         "60": 20241,
-        "120": 23739
+        "120": 23739,
+        "180": 28570
       },
       "alertado": false
     },
@@ -496,7 +441,8 @@
       "criado": "2026-09-06T05:29:56+00:00",
       "medicoes": {
         "60": 5572,
-        "120": 7644
+        "120": 7644,
+        "180": 9052
       },
       "alertado": false
     },
@@ -507,7 +453,8 @@
       "criado": "2026-09-06T05:26:03+00:00",
       "medicoes": {
         "60": 7718,
-        "120": 10573
+        "120": 10573,
+        "180": 12352
       },
       "alertado": false
     },
@@ -518,7 +465,8 @@
       "criado": "2026-09-06T05:22:27+00:00",
       "medicoes": {
         "60": 8569,
-        "120": 20375
+        "120": 20375,
+        "180": 30938
       },
       "alertado": false
     },
@@ -529,7 +477,8 @@
       "criado": "2026-09-06T05:20:00+00:00",
       "medicoes": {
         "60": 22697,
-        "120": 26542
+        "120": 26542,
+        "180": 30992
       },
       "alertado": false
     },
@@ -540,7 +489,8 @@
       "criado": "2026-09-06T05:15:21+00:00",
       "medicoes": {
         "60": 8509,
-        "120": 11187
+        "120": 11187,
+        "180": 12870
       },
       "alertado": false
     },
@@ -551,7 +501,8 @@
       "criado": "2026-09-06T05:12:12+00:00",
       "medicoes": {
         "60": 16626,
-        "120": 31008
+        "120": 31008,
+        "180": 42429
       },
       "alertado": false
     },
@@ -649,7 +600,8 @@
       "url": "https://x.com/MarioNawfal/status/2096488568168284207",
       "criado": "2026-09-06T06:40:00+00:00",
       "medicoes": {
-        "60": 20223
+        "60": 20223,
+        "120": 25318
       },
       "alertado": false
     },
@@ -659,7 +611,8 @@
       "url": "https://x.com/MarioNawfal/status/2096487310179045505",
       "criado": "2026-09-06T06:35:00+00:00",
       "medicoes": {
-        "60": 22030
+        "60": 22030,
+        "120": 27431
       },
       "alertado": false
     },
@@ -669,7 +622,8 @@
       "url": "https://x.com/Osint613/status/2096486168602775615",
       "criado": "2026-09-06T06:30:28+00:00",
       "medicoes": {
-        "60": 23927
+        "60": 23927,
+        "120": 31006
       },
       "alertado": false
     },
@@ -679,7 +633,8 @@
       "url": "https://x.com/MarioNawfal/status/2096486053255290933",
       "criado": "2026-09-06T06:30:00+00:00",
       "medicoes": {
-        "60": 34506
+        "60": 34506,
+        "120": 53766
       },
       "alertado": false
     },
@@ -689,7 +644,8 @@
       "url": "https://x.com/nexta_tv/status/2096485774199832771",
       "criado": "2026-09-06T06:28:54+00:00",
       "medicoes": {
-        "60": 12931
+        "60": 12931,
+        "120": 16993
       },
       "alertado": false
     },
@@ -699,7 +655,8 @@
       "url": "https://x.com/MarioNawfal/status/2096483535167127658",
       "criado": "2026-09-06T06:20:00+00:00",
       "medicoes": {
-        "60": 21777
+        "60": 21777,
+        "120": 24994
       },
       "alertado": false
     },
@@ -709,7 +666,8 @@
       "url": "https://x.com/nexta_tv/status/2096483091229352276",
       "criado": "2026-09-06T06:18:14+00:00",
       "medicoes": {
-        "60": 17129
+        "60": 17129,
+        "120": 22452
       },
       "alertado": false
     },
@@ -778,7 +736,9 @@
       "texto": "🇺🇸 West Arvada just got a midnight visitor. A bear was filmed going through the bins like it had a shift. Secure the trash, because this one already knows where dinner is 😆😆😆 Writer: Samuel https://t.co/tMthLHVzgn",
       "url": "https://x.com/MarioNawfal/status/2096503667880771796",
       "criado": "2026-09-06T07:40:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 19873
+      },
       "alertado": false
     },
     "2096501151520760040": {
@@ -786,7 +746,9 @@
       "texto": "🇺🇸🇨🇳 Scott Bessent says China already bought nearly every Iranian barrel it could reach. What’s left is a puddle, and when that runs out Beijing is done, and the blockade has done what sanctions never quite could. “It’s working like nothing we have ever seen.” Thirty million barrels sounds big until you remember the world burns a hundred million a day. Forget a stockpile, this is basically a count...",
       "url": "https://x.com/MarioNawfal/status/2096501151520760040",
       "criado": "2026-09-06T07:30:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 25036
+      },
       "alertado": false
     },
     "2096499090271944860": {
@@ -794,7 +756,9 @@
       "texto": "⚡️ Putin is once again telling the Americans that everything is going “according to plan” After more than three hours of talks in the Kremlin, Putin aide Yuri Ushakov said the Russian president gave Steve Witkoff and Jared Kushner a detailed account of the Russian army’s supposed “successes” and once again demanded that the so-called “root causes of the conflict” be addressed. “Real successes by t...",
       "url": "https://x.com/nexta_tv/status/2096499090271944860",
       "criado": "2026-09-06T07:21:48+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 26454
+      },
       "alertado": false
     },
     "2096498634670100783": {
@@ -802,7 +766,9 @@
       "texto": "🇦🇲 Armenia's PM with the Beatles song \"Black\" playing in the background on his speaker... It's a video he uploaded to his own TikTok account. Who told him that was a good idea? 😆😆😆 Writer: Samuel https://t.co/8PYCa9qWpu",
       "url": "https://x.com/MarioNawfal/status/2096498634670100783",
       "criado": "2026-09-06T07:20:00+00:00",
-      "medicoes": {},
+      "medicoes": {
+        "60": 25265
+      },
       "alertado": false
     },
     "2096511217611497678": {
@@ -852,12 +818,43 @@
       "criado": "2026-09-06T07:50:00+00:00",
       "medicoes": {},
       "alertado": false
+    },
+    "2096518767367061868": {
+      "autor": "MarioNawfal",
+      "texto": "🇺🇸 WATCH THIS WILD DASHCAM CRASH VIDEO!! Ohio police say a Miami Township homicide suspect stole a Dayton POLICE CRUISER after multiple carjacking attempts, then slammed it through an occupied Greenway Street house. 2 residents were hospitalized, and 7 officers were hurt. 1 of the officers was bitten while the suspect tried to grab a gun. The unidentified black male suspect was also treated. Inves...",
+      "url": "https://x.com/MarioNawfal/status/2096518767367061868",
+      "criado": "2026-09-06T08:40:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096516348025176252": {
+      "autor": "nexta_tv",
+      "texto": "🇦🇲 I’m actually the prime minister. I just drive a taxi for fun Nikol Pashinyan posted a video from his car with Black Beatles playing in the background — and the clip has already racked up millions of views and likes. The funniest part: the music isn’t even playing through the car’s sound system, but from a portable speaker swinging around inside the vehicle.",
+      "url": "https://x.com/nexta_tv/status/2096516348025176252",
+      "criado": "2026-09-06T08:30:23+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096516251828761031": {
+      "autor": "MarioNawfal",
+      "texto": "That's not a tackle; it's like they're trying to put him in a wheelchair Writer: Ian https://t.co/CVaKDDw4SY",
+      "url": "https://x.com/MarioNawfal/status/2096516251828761031",
+      "criado": "2026-09-06T08:30:00+00:00",
+      "medicoes": {},
+      "alertado": false
+    },
+    "2096514872414449695": {
+      "autor": "clashreport",
+      "texto": "Germany’s Isar Aerospace successfully launched its Spectrum rocket into orbit from Norway, marking the first commercial orbital launch from continental Europe. The launch was Isar’s second attempt after its first rocket exploded in 2025, marking a major step toward Europe developing its own launch capabilities and reducing reliance on U.S. providers.",
+      "url": "https://x.com/clashreport/status/2096514872414449695",
+      "criado": "2026-09-06T08:24:31+00:00",
+      "medicoes": {},
+      "alertado": false
     }
   },
   "baseline": {
     "NewsLiberdade": {
       "60": [
-        26825,
         30797,
         38767,
         16262,
@@ -896,10 +893,10 @@
         12747,
         17464,
         7988,
-        19246
+        19246,
+        17847
       ],
       "120": [
-        41222,
         39406,
         54170,
         21161,
@@ -938,10 +935,10 @@
         17444,
         29065,
         9688,
-        24490
+        24490,
+        23409
       ],
       "180": [
-        53655,
         47294,
         66274,
         25034,
@@ -980,10 +977,10 @@
         20419,
         34759,
         10533,
-        28594
+        28594,
+        26463
       ],
       "240": [
-        66564,
         55185,
         74981,
         31949,
@@ -1022,10 +1019,10 @@
         22046,
         38108,
         11046,
-        31448
+        31448,
+        28211
       ],
       "360": [
-        86783,
         65772,
         88846,
         54346,
@@ -1064,13 +1061,12 @@
         23645,
         41768,
         11577,
-        34163
+        34163,
+        30541
       ]
     },
     "MarioNawfal": {
       "60": [
-        22884,
-        28040,
         45781,
         22512,
         30068,
@@ -1108,11 +1104,11 @@
         31570,
         42053,
         23334,
-        41236
+        41236,
+        22651,
+        28768
       ],
       "120": [
-        26456,
-        33518,
         76949,
         25956,
         40391,
@@ -1150,11 +1146,11 @@
         44789,
         49309,
         27078,
-        47592
+        47592,
+        27925,
+        32739
       ],
       "180": [
-        30137,
-        36688,
         96540,
         30698,
         47551,
@@ -1192,11 +1188,11 @@
         55061,
         53786,
         33330,
-        51676
+        51676,
+        32379,
+        35511
       ],
       "240": [
-        34444,
-        42382,
         111575,
         41412,
         53515,
@@ -1234,11 +1230,11 @@
         63529,
         57563,
         41310,
-        54866
+        54866,
+        41402,
+        39747
       ],
       "360": [
-        38621,
-        53092,
         127625,
         47989,
         58536,
@@ -1276,7 +1272,9 @@
         75496,
         64950,
         54603,
-        59976
+        59976,
+        56498,
+        47789
       ]
     },
     "MachadoDarlon": {
@@ -1705,8 +1703,6 @@
     },
     "Osint613": {
       "60": [
-        34784,
-        30249,
         40347,
         26239,
         55613,
@@ -1744,11 +1740,11 @@
         44392,
         42261,
         38060,
-        31008
+        31008,
+        42122,
+        36282
       ],
       "120": [
-        32582,
-        42426,
         37571,
         50596,
         31528,
@@ -1786,11 +1782,11 @@
         54343,
         51896,
         46733,
-        40486
+        40486,
+        65267,
+        47872
       ],
       "180": [
-        35934,
-        47379,
         43163,
         56333,
         35047,
@@ -1828,11 +1824,11 @@
         60815,
         57766,
         52742,
-        47790
+        47790,
+        83690,
+        55327
       ],
       "240": [
-        38313,
-        50806,
         47227,
         59979,
         37608,
@@ -1870,11 +1866,11 @@
         65745,
         62522,
         57106,
-        53150
+        53150,
+        99093,
+        61040
       ],
       "360": [
-        41668,
-        56839,
         57455,
         64783,
         41255,
@@ -1912,7 +1908,9 @@
         73707,
         69494,
         63423,
-        61305
+        61305,
+        121041,
+        69488
       ]
     },
     "nexta_tv": {
@@ -2128,6 +2126,6 @@
       ]
     }
   },
-  "ultima_busca": "2026-09-06T08:10:20+00:00",
+  "ultima_busca": "2026-09-06T08:40:16+00:00",
   "alertas_enviados": 330
 }
